@@ -137,7 +137,7 @@ async function drawChart(file) {
     // append title
     body
       .append("text")
-      .text(`${primary} vs. ${secondary}: Word Frequency`)
+      .text(`${primary} vs. ${secondary}`)
       .attr("class", "title")
       .attr("y", -10);
 
