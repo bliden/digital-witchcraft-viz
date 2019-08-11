@@ -2,7 +2,6 @@ word,Snow White and the Seven Dwarves,Suspiria,total
 ah,80,3,83
 oh,47,26,73
 dont,35,34,69
-do,36,28,64
 go,39,19,58
 yes,28,29,57
 im,25,27,52
@@ -10,16 +9,12 @@ know,17,34,51
 uh,38,10,48
 queen,39,3,42
 good,18,24,42
-get,24,17,41
 come,18,20,38
 happy,32,3,35
 like,16,18,34
 thats,10,22,32
-just,11,21,32
 away,16,13,29
 see,13,15,28
-let,19,8,27
-got,7,20,27
 right,10,16,26
 ill,13,13,26
 shes,13,12,25
@@ -36,7 +31,6 @@ night,5,14,19
 didnt,2,17,19
 tell,6,12,18
 make,12,6,18
-did,5,12,17
 day,13,4,17
 three,1,15,16
 room,5,11,16
@@ -52,7 +46,6 @@ mean,6,7,13
 ive,4,9,13
 hey,8,5,13
 hear,2,11,13
-dear,5,8,13
 youll,8,4,12
 understand,1,11,12
 think,2,10,12
@@ -77,7 +70,6 @@ things,3,7,10
 thanks,4,6,10
 snoring,7,3,10
 sleepy,9,1,10
-said,2,8,10
 mine,5,5,10
 hes,2,8,10
 year,2,7,9
@@ -93,7 +85,6 @@ sorry,2,6,8
 sleeping,6,2,8
 shell,7,1,8
 seven,7,1,8
-say,4,4,8
 run,7,1,8
 put,1,7,8
 place,4,4,8
@@ -224,7 +215,6 @@ chance,2,1,3
 cause,1,2,3
 called,1,2,3
 asleep,1,2,3
-am,2,1,3
 worse,1,1,2
 witchcraft,1,1,2
 windows,1,1,2
@@ -238,7 +228,6 @@ speak,1,1,2
 sort,1,1,2
 sick,1,1,2
 show,1,1,2
-says,1,1,2
 rose,1,1,2
 ready,1,1,2
 pieces,1,1,2
@@ -538,7 +527,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 touch,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1153,7 +1141,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 touch,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

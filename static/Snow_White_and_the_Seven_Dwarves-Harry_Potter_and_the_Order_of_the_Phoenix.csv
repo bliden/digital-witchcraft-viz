@@ -1,13 +1,10 @@
 word,Snow White and the Seven Dwarves,Harry Potter and the Order of the Phoenix,total
-do,36,46,82
 ho,78,3,81
 im,25,55,80
 dont,35,41,76
 oh,47,14,61
-just,11,50,61
 go,39,20,59
 know,17,40,57
-get,24,30,54
 come,18,30,48
 yes,28,17,45
 like,16,29,45
@@ -15,11 +12,9 @@ youre,12,32,44
 right,10,34,44
 see,13,27,40
 good,18,22,40
-got,7,30,37
 happy,32,4,36
 thats,10,25,35
 hes,2,32,34
-let,19,11,30
 look,18,10,28
 away,16,12,28
 ive,4,23,27
@@ -27,7 +22,6 @@ ill,13,14,27
 going,3,24,27
 tell,6,20,26
 make,12,14,26
-did,5,20,25
 back,2,23,25
 whats,5,19,24
 really,2,21,23
@@ -43,7 +37,6 @@ theres,9,11,20
 youve,1,18,19
 sure,6,13,19
 shes,13,4,17
-say,4,13,17
 please,7,10,17
 old,12,5,17
 magic,6,11,17
@@ -65,7 +58,6 @@ isnt,2,12,14
 didnt,2,12,14
 wont,6,7,13
 wait,7,6,13
-said,2,11,13
 help,2,11,13
 bye,10,3,13
 bad,6,7,13
@@ -75,7 +67,6 @@ home,10,2,12
 hey,8,4,12
 gone,3,9,12
 death,5,7,12
-dear,5,7,12
 children,4,8,12
 way,3,8,11
 use,2,9,11
@@ -94,7 +85,6 @@ house,6,4,10
 hold,7,3,10
 give,2,8,10
 full,4,6,10
-am,2,8,10
 year,2,7,9
 wish,7,2,9
 watch,7,2,9
@@ -122,7 +112,6 @@ afraid,2,6,8
 whos,2,5,7
 talk,3,4,7
 soon,4,3,7
-says,1,6,7
 mine,5,2,7
 matter,2,5,7
 mad,3,4,7
@@ -555,7 +544,6 @@ tumbling,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1137,7 +1125,6 @@ tumbling,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

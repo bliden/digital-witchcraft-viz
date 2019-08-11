@@ -1,17 +1,13 @@
 word,Halloweentown,Harry Potter and the Prisoner of Azkaban,total
 come,51,69,120
-do,56,62,118
 oh,83,28,111
 know,66,44,110
-just,67,38,105
 dont,54,49,103
 like,64,30,94
 im,60,30,90
 go,47,37,84
-get,53,26,79
 see,39,37,76
 thats,32,42,74
-did,25,39,64
 right,33,28,61
 good,23,35,58
 youre,32,23,55
@@ -20,7 +16,6 @@ yes,23,27,50
 time,23,27,50
 look,27,20,47
 back,22,25,47
-got,26,19,45
 yeah,23,19,42
 want,25,16,41
 thing,30,10,40
@@ -31,9 +26,7 @@ cant,23,13,36
 really,17,18,35
 mother,30,5,35
 lets,21,14,35
-let,17,18,35
 mean,23,11,34
-dear,24,10,34
 little,17,16,33
 hey,25,8,33
 way,13,19,32
@@ -41,7 +34,6 @@ going,19,12,31
 ill,15,15,30
 take,11,17,28
 sorry,10,17,27
-say,10,16,26
 youve,14,11,25
 ive,12,13,25
 help,21,4,25
@@ -53,10 +45,8 @@ turn,12,12,24
 please,12,12,24
 man,11,13,24
 keep,10,14,24
-am,15,9,24
 two,13,10,23
 tell,10,13,23
-said,14,9,23
 magic,16,7,23
 done,3,20,23
 coming,12,10,22
@@ -65,7 +55,6 @@ put,14,7,21
 make,13,8,21
 theyre,6,14,20
 doesnt,16,4,20
-does,11,9,20
 whats,8,11,19
 shes,17,2,19
 need,10,9,19
@@ -186,7 +175,6 @@ book,7,1,8
 best,2,6,8
 year,2,5,7
 work,5,2,7
-wants,3,4,7
 wanted,3,4,7
 used,5,2,7
 supposed,3,4,7
@@ -259,7 +247,6 @@ sleep,2,3,5
 sit,2,3,5
 sister,4,1,5
 screaming,2,3,5
-says,3,2,5
 probably,3,2,5
 pretend,4,1,5
 power,2,3,5
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2214,4 +2200,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

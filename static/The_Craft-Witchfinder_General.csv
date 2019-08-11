@@ -1,15 +1,12 @@
 word,The Craft,Witchfinder General,total
-do,55,36,91
 know,57,24,81
 im,56,19,75
 dont,63,11,74
 go,44,16,60
 oh,31,26,57
 come,30,26,56
-just,44,10,54
 yeah,42,11,53
 youre,31,17,48
-get,22,25,47
 good,23,22,45
 want,34,9,43
 like,36,6,42
@@ -21,7 +18,6 @@ look,27,9,36
 thats,26,9,35
 think,30,4,34
 yes,8,25,33
-did,22,11,33
 see,17,15,32
 god,20,12,32
 stop,23,8,31
@@ -40,7 +36,6 @@ find,3,20,23
 tell,9,13,22
 way,11,10,21
 need,14,7,21
-got,8,13,21
 away,8,13,21
 little,14,6,20
 witch,8,10,18
@@ -68,18 +63,14 @@ kill,6,7,13
 coming,4,9,13
 time,5,7,12
 thee,9,3,12
-say,5,7,12
 nice,9,3,12
-let,8,4,12
 keep,5,7,12
 harm,10,2,12
 doing,8,4,12
 thought,9,2,11
-said,6,5,11
 powers,10,1,11
 looking,7,4,11
 call,6,5,11
-am,4,7,11
 youll,2,8,10
 things,6,4,10
 saying,8,2,10
@@ -122,7 +113,6 @@ weve,2,5,7
 watch,6,1,7
 trying,6,1,7
 thinking,4,3,7
-says,4,3,7
 night,3,4,7
 killed,6,1,7
 getting,4,3,7
@@ -148,8 +138,6 @@ mark,1,5,6
 full,1,5,6
 food,1,5,6
 fire,4,2,6
-does,4,2,6
-dear,3,3,6
 dead,5,1,6
 cause,5,1,6
 bitch,5,1,6

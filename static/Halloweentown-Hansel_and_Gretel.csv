@@ -3,10 +3,7 @@ oh,83,20,103
 im,60,34,94
 know,66,23,89
 dont,54,28,82
-just,67,14,81
-do,56,24,80
 like,64,15,79
-get,53,21,74
 go,47,24,71
 witch,19,49,68
 come,51,17,68
@@ -16,12 +13,10 @@ see,39,13,52
 youre,32,17,49
 thats,32,13,45
 good,23,20,43
-did,25,17,42
 hey,25,14,39
 gonna,30,9,39
 help,21,17,38
 want,25,12,37
-got,26,11,37
 back,22,15,37
 witches,15,21,36
 thing,30,6,36
@@ -41,7 +36,6 @@ take,11,14,25
 lets,21,4,25
 shes,17,7,24
 need,10,14,24
-let,17,7,24
 world,20,2,22
 way,13,9,22
 ill,15,7,22
@@ -56,15 +50,11 @@ home,16,3,19
 place,8,10,18
 make,13,5,18
 town,4,13,17
-said,14,3,17
 put,14,3,17
-does,11,6,17
 big,15,2,17
-am,15,2,17
 youve,14,2,16
 wait,8,8,16
 stuff,14,2,16
-say,10,6,16
 ive,12,4,16
 house,10,6,16
 coming,12,4,16
@@ -227,7 +217,6 @@ smart,3,1,4
 shot,1,3,4
 serious,3,1,4
 seeing,2,2,4
-says,3,1,4
 missing,2,2,4
 mine,3,1,4
 mind,1,3,4
@@ -374,12 +363,10 @@ apologize,1,1,2
 animal,1,1,2
 amazing,1,1,2
 acid,1,1,2
-able,1,1,2
 grandma,56,0,56
 marnie,36,0,36
 mom,31,0,31
 ooh,25,0,25
-dear,24,0,24
 sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
@@ -468,7 +455,6 @@ whispering,3,0,3
 whered,3,0,3
 watch,3,0,3
 warlock,3,0,3
-wants,3,0,3
 wanted,3,0,3
 trust,3,0,3
 train,3,0,3
@@ -1364,7 +1350,6 @@ grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
 ooh,0,25,25
-dear,0,24,24
 sophie,0,20,20
 ok,0,20,20
 bus,0,20,20
@@ -1453,7 +1438,6 @@ whispering,0,3,3
 whered,0,3,3
 watch,0,3,3
 warlock,0,3,3
-wants,0,3,3
 wanted,0,3,3
 trust,0,3,3
 train,0,3,3

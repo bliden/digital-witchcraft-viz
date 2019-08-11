@@ -2,12 +2,9 @@ word,The Blair Witch Project,The Last WItch Hunter,total
 im,109,29,138
 know,71,45,116
 cuts,113,1,114
-just,85,21,106
-get,78,28,106
 dont,68,21,89
 okay,77,10,87
 like,66,15,81
-do,52,28,80
 going,71,7,78
 back,59,16,75
 man,64,5,69
@@ -28,12 +25,10 @@ want,24,10,34
 look,23,11,34
 see,20,13,33
 ive,15,18,33
-got,26,6,32
 really,27,4,31
 night,24,7,31
 help,15,13,28
 good,17,10,27
-did,16,11,27
 away,18,9,27
 cant,15,11,26
 theres,18,7,25
@@ -42,7 +37,6 @@ old,14,10,24
 need,10,14,24
 god,22,2,24
 didnt,14,10,24
-say,19,4,23
 car,21,2,23
 gonna,15,7,22
 time,10,11,21
@@ -66,7 +60,6 @@ lost,16,1,17
 inside,15,2,17
 ill,8,9,17
 hear,16,1,17
-am,12,5,17
 yes,11,5,16
 remember,5,11,16
 people,11,5,16
@@ -114,7 +107,6 @@ wasnt,7,3,10
 uh,6,4,10
 tree,7,3,10
 story,8,2,10
-said,8,2,10
 morning,9,1,10
 hurt,3,7,10
 hello,6,4,10
@@ -125,7 +117,6 @@ went,8,1,9
 wake,1,8,9
 took,3,6,9
 theyre,2,7,9
-says,8,1,9
 men,7,2,9
 love,3,6,9
 leave,7,2,9
@@ -153,7 +144,6 @@ hell,6,2,8
 hair,7,1,8
 guess,7,1,8
 girl,7,1,8
-does,4,4,8
 days,6,2,8
 darkness,7,1,8
 dark,4,4,8
@@ -164,7 +154,6 @@ set,5,2,7
 name,2,5,7
 minutes,6,1,7
 max,1,6,7
-let,4,3,7
 knows,4,3,7
 kill,2,5,7
 isnt,2,5,7
@@ -647,7 +636,6 @@ whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
 welcome,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 wall,2,0,2
@@ -827,7 +815,6 @@ appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yelled,1,0,1
@@ -1723,7 +1710,6 @@ whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
 welcome,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 wall,0,2,2
@@ -1903,7 +1889,6 @@ appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yelled,0,1,1

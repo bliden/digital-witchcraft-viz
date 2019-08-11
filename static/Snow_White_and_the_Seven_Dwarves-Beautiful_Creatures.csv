@@ -3,13 +3,10 @@ dont,35,88,123
 oh,47,64,111
 know,17,87,104
 im,25,74,99
-do,36,59,95
 snow,87,3,90
 go,39,51,90
 white,86,1,87
-get,24,57,81
 ah,80,1,81
-just,11,66,77
 like,16,47,63
 uh,38,23,61
 youre,12,48,60
@@ -22,7 +19,6 @@ come,18,26,44
 yeah,4,39,43
 away,16,27,43
 yes,28,11,39
-let,19,20,39
 look,18,20,38
 cant,11,26,37
 ill,13,23,36
@@ -33,10 +29,8 @@ theres,9,18,27
 sorry,2,25,27
 shes,13,14,27
 laughing,21,6,27
-got,7,20,27
 gonna,1,26,27
 true,12,14,26
-did,5,21,26
 ya,21,4,25
 little,13,11,24
 dark,1,23,24
@@ -60,7 +54,6 @@ hes,2,18,20
 door,12,8,20
 continues,14,6,20
 wait,7,12,19
-say,4,15,19
 home,10,9,19
 find,10,9,19
 didnt,2,17,19
@@ -73,7 +66,6 @@ feel,3,15,18
 whats,5,12,17
 time,3,14,17
 sure,6,11,17
-said,2,15,17
 going,3,14,17
 please,7,9,16
 house,6,10,16
@@ -87,7 +79,6 @@ run,7,7,14
 place,4,10,14
 ooh,1,13,14
 need,1,13,14
-dear,5,9,14
 creaking,9,5,14
 call,2,12,14
 theyre,4,9,13
@@ -99,7 +90,6 @@ hear,2,11,13
 wrong,2,10,12
 watch,7,5,12
 thanks,4,8,12
-says,1,11,12
 maybe,5,7,12
 echoing,11,1,12
 bye,10,2,12
@@ -136,7 +126,6 @@ death,5,5,10
 chirping,6,4,10
 cause,1,9,10
 bad,6,4,10
-am,2,8,10
 thought,4,5,9
 talk,3,6,9
 soul,1,8,9
@@ -580,7 +569,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1108,7 +1096,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

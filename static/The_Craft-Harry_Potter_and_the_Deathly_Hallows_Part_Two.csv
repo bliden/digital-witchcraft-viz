@@ -1,9 +1,7 @@
 word,The Craft,Harry Potter and the Deathly Hallows Part Two,total
-do,55,43,98
 know,57,35,92
 dont,63,23,86
 im,56,23,79
-just,44,14,58
 go,44,13,57
 come,30,25,55
 like,36,17,53
@@ -13,11 +11,9 @@ think,30,16,46
 thats,26,18,44
 want,34,5,39
 oh,31,7,38
-did,22,14,36
 look,27,8,35
 right,23,11,34
 hes,17,16,33
-get,22,11,33
 really,26,5,31
 need,14,17,31
 sorry,25,5,30
@@ -42,10 +38,8 @@ yes,8,12,20
 wait,16,4,20
 mean,16,4,20
 way,11,7,18
-say,5,13,18
 boy,1,17,18
 help,5,12,17
-got,8,9,17
 doesnt,6,11,17
 time,5,11,16
 thought,9,7,16
@@ -64,12 +58,9 @@ give,6,8,14
 theyre,11,2,13
 power,12,1,13
 make,10,3,13
-does,4,9,13
-said,6,6,12
 mr,2,10,12
 magic,8,4,12
 love,11,1,12
-let,8,4,12
 hi,9,3,12
 hell,4,8,12
 ask,4,8,12
@@ -89,7 +80,6 @@ nice,9,1,10
 home,9,1,10
 happened,7,3,10
 feel,8,2,10
-am,4,6,10
 three,8,1,9
 thinking,4,5,9
 things,6,3,9
@@ -171,7 +161,6 @@ work,3,2,5
 weak,4,1,5
 thank,3,2,5
 scared,4,1,5
-says,4,1,5
 room,3,2,5
 remember,3,2,5
 powerful,2,3,5
@@ -416,7 +405,6 @@ flying,3,0,3
 east,3,0,3
 downs,3,0,3
 deep,3,0,3
-dear,3,0,3
 cry,3,0,3
 crazy,3,0,3
 corners,3,0,3
@@ -1067,7 +1055,6 @@ flying,0,3,3
 east,0,3,3
 downs,0,3,3
 deep,0,3,3
-dear,0,3,3
 cry,0,3,3
 crazy,0,3,3
 corners,0,3,3

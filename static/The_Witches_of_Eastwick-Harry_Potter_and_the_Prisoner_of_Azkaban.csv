@@ -1,17 +1,12 @@
 word,The Witches of Eastwick,Harry Potter and the Prisoner of Azkaban,total
-do,76,62,138
 come,29,69,98
 know,50,44,94
-just,54,38,92
 see,29,37,66
 think,28,35,63
 go,26,37,63
 like,32,30,62
 yes,29,27,56
 good,21,35,56
-let,33,18,51
-get,25,26,51
-did,12,39,51
 right,22,28,50
 want,31,16,47
 oh,19,28,47
@@ -28,8 +23,6 @@ really,11,18,29
 make,21,8,29
 sorry,10,17,27
 way,7,19,26
-say,10,16,26
-got,5,19,24
 done,4,20,24
 man,10,13,23
 doing,13,9,22
@@ -37,7 +30,6 @@ away,8,14,22
 wait,5,16,21
 feel,14,7,21
 keep,6,14,20
-does,11,9,20
 thank,10,9,19
 nice,9,10,19
 day,9,10,19
@@ -62,7 +54,6 @@ boy,1,15,16
 better,6,10,16
 god,12,3,15
 three,7,7,14
-said,5,9,14
 night,2,12,14
 need,5,9,14
 great,5,9,14
@@ -76,7 +67,6 @@ looking,7,6,13
 life,8,5,13
 coming,3,10,13
 call,10,3,13
-am,4,9,13
 wrong,7,5,12
 understand,7,5,12
 thought,4,8,12
@@ -98,7 +88,6 @@ eat,5,5,10
 course,5,5,10
 told,5,4,9
 terrible,7,2,9
-says,7,2,9
 room,1,8,9
 people,6,3,9
 pain,8,1,9
@@ -129,7 +118,6 @@ family,6,2,8
 easy,7,1,8
 dark,2,6,8
 best,2,6,8
-wants,3,4,7
 stay,1,6,7
 seen,2,5,7
 remember,3,4,7

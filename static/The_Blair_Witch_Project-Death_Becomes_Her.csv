@@ -1,11 +1,8 @@
 word,The Blair Witch Project,Death Becomes Her,total
 im,109,58,167
-just,85,42,127
 oh,41,82,123
 know,71,47,118
 dont,68,48,116
-get,78,24,102
-do,52,45,97
 okay,77,14,91
 like,66,20,86
 going,71,13,84
@@ -24,16 +21,12 @@ see,20,29,49
 please,33,15,48
 lets,40,6,46
 way,32,8,40
-got,26,14,40
-did,16,24,40
 really,27,12,39
 shes,7,31,38
 god,22,16,38
-say,19,15,34
 want,24,9,33
 gonna,15,18,33
 yes,11,21,32
-am,12,19,31
 good,17,13,30
 cant,15,15,30
 woman,20,8,28
@@ -102,7 +95,6 @@ wasnt,7,6,13
 stairs,7,6,13
 sounds,12,1,13
 shot,12,1,13
-said,8,5,13
 knew,8,5,13
 jesus,11,2,13
 house,10,3,13
@@ -125,7 +117,6 @@ hey,4,7,11
 hands,7,4,11
 gave,6,5,11
 found,10,1,11
-does,4,7,11
 ah,5,6,11
 pack,9,1,10
 looks,7,3,10
@@ -179,7 +170,6 @@ open,5,3,8
 mind,3,5,8
 men,7,1,8
 matter,3,5,8
-let,4,4,8
 important,4,4,8
 hours,7,1,8
 havent,4,4,8
@@ -239,12 +229,10 @@ door,1,5,6
 bitch,3,3,6
 bit,5,1,6
 absolutely,2,4,6
-able,2,4,6
 yelling,2,3,5
 wrong,1,4,5
 wouldnt,2,3,5
 water,4,1,5
-wants,2,3,5
 use,2,3,5
 true,2,3,5
 touch,2,3,5
@@ -502,7 +490,6 @@ cemetery,10,0,10
 shooting,9,0,9
 camp,9,0,9
 seriously,8,0,8
-says,8,0,8
 points,8,0,8
 mikes,8,0,8
 fucked,8,0,8
@@ -1515,7 +1502,6 @@ cemetery,0,10,10
 shooting,0,9,9
 camp,0,9,9
 seriously,0,8,8
-says,0,8,8
 points,0,8,8
 mikes,0,8,8
 fucked,0,8,8

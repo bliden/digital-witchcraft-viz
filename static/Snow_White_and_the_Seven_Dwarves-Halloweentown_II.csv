@@ -1,8 +1,6 @@
 word,Snow White and the Seven Dwarves,Halloweentown II,total
 oh,47,99,146
 spell,1,94,95
-do,36,57,93
-just,11,73,84
 dont,35,42,77
 im,25,49,74
 go,39,35,74
@@ -10,7 +8,6 @@ like,16,46,62
 right,10,47,57
 know,17,40,57
 uh,38,18,56
-get,24,31,55
 thats,10,42,52
 yes,28,22,50
 come,18,26,44
@@ -25,7 +22,6 @@ think,2,31,33
 see,13,18,31
 yeah,4,26,30
 little,13,16,29
-let,19,9,28
 ill,13,15,28
 time,3,24,27
 mean,6,21,27
@@ -33,8 +29,6 @@ hes,2,25,27
 world,2,24,26
 work,17,7,24
 sure,6,18,24
-did,5,19,24
-dear,5,19,24
 ya,21,2,23
 magic,6,17,23
 find,10,13,23
@@ -42,10 +36,8 @@ theres,9,13,22
 take,11,11,22
 make,12,10,22
 house,6,16,22
-say,4,17,21
 maybe,5,16,21
 hey,8,13,21
-got,7,14,21
 shes,13,7,20
 love,18,2,20
 lets,5,15,20
@@ -70,7 +62,6 @@ bye,10,5,15
 wont,6,8,14
 thing,3,11,14
 tell,6,8,14
-said,2,12,14
 lost,2,12,14
 gotta,6,8,14
 big,3,11,14
@@ -227,7 +218,6 @@ started,1,2,3
 sound,1,2,3
 sort,1,2,3
 shall,2,1,3
-says,1,2,3
 running,1,2,3
 rose,1,2,3
 rest,1,2,3
@@ -268,7 +258,6 @@ bedtime,1,2,3
 beautiful,1,2,3
 ask,1,2,3
 arent,1,2,3
-am,2,1,3
 windows,1,1,2
 trouble,1,1,2
 tricked,1,1,2
@@ -560,7 +549,6 @@ understand,1,0,1
 ugliness,1,0,1
 tyin,1,0,1
 tumbling,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1130,7 +1118,6 @@ understand,0,1,1
 ugliness,0,1,1
 tyin,0,1,1
 tumbling,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

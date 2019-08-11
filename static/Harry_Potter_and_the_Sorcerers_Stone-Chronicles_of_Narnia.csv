@@ -8,12 +8,9 @@ white,3,76,79
 im,27,44,71
 come,29,42,71
 go,36,34,70
-do,31,36,67
 oh,39,27,66
-just,30,34,64
 see,31,31,62
 mrs,10,47,57
-get,25,32,57
 dont,21,36,57
 youre,19,35,54
 know,22,32,54
@@ -22,7 +19,6 @@ look,17,33,50
 like,18,27,45
 scene,3,41,44
 think,15,27,42
-got,26,14,40
 thats,21,17,38
 wand,30,7,37
 walks,13,24,37
@@ -79,7 +75,6 @@ need,7,12,19
 name,15,4,19
 long,5,14,19
 hat,16,3,19
-did,7,12,19
 ball,14,5,19
 walking,12,6,18
 theres,9,9,18
@@ -102,12 +97,10 @@ alright,1,16,17
 window,8,8,16
 wall,14,2,16
 start,6,10,16
-said,7,9,16
 looking,9,7,16
 isnt,6,10,16
 fire,6,10,16
 done,6,10,16
-dear,5,11,16
 appears,12,4,16
 whats,9,6,15
 wait,5,10,15
@@ -148,7 +141,6 @@ wont,5,7,12
 train,8,4,12
 told,4,8,12
 theyre,6,6,12
-say,5,7,12
 opens,6,6,12
 night,6,6,12
 magic,7,5,12
@@ -190,7 +182,6 @@ face,8,2,10
 eyes,7,3,10
 cat,9,1,10
 bad,7,3,10
-am,7,3,10
 year,8,1,9
 wouldnt,1,8,9
 stares,5,4,9
@@ -213,7 +204,6 @@ gasps,6,3,9
 flies,7,2,9
 finally,4,5,9
 draws,2,7,9
-does,5,4,9
 dark,8,1,9
 dad,4,5,9
 bring,2,7,9
@@ -308,7 +298,6 @@ mouth,3,3,6
 mother,4,2,6
 moment,4,2,6
 listen,2,4,6
-let,3,3,6
 leading,5,1,6
 lead,2,4,6
 knows,4,2,6
@@ -340,7 +329,6 @@ wrong,4,1,5
 worse,1,4,5
 week,4,1,5
 water,3,2,5
-wants,1,4,5
 umbrella,4,1,5
 turned,1,4,5
 true,3,2,5
@@ -431,7 +419,6 @@ shall,1,3,4
 seeing,3,1,4
 secret,2,2,4
 screams,3,1,4
-says,2,2,4
 saw,1,3,4
 safe,1,3,4
 rush,1,3,4

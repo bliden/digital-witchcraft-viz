@@ -1,8 +1,6 @@
 word,Harry Potter and the Sorcerers Stone,Twitches Too,total
 oh,39,93,132
-do,31,89,120
 know,22,84,106
-just,30,73,103
 dont,21,76,97
 im,27,63,90
 right,23,63,86
@@ -13,7 +11,6 @@ youre,19,42,61
 think,15,44,59
 yeah,1,56,57
 thats,21,36,57
-get,25,30,55
 uh,5,49,54
 come,29,23,52
 like,18,33,51
@@ -21,11 +18,9 @@ see,31,18,49
 looks,43,6,49
 look,17,31,48
 good,22,26,48
-got,26,20,46
 hes,13,32,45
 really,8,36,44
 sorry,8,35,43
-did,7,30,37
 yes,12,24,36
 two,18,18,36
 time,9,25,34
@@ -36,7 +31,6 @@ going,17,15,32
 door,23,9,32
 cant,10,22,32
 way,16,15,31
-say,5,26,31
 help,10,21,31
 please,13,17,30
 sure,5,24,29
@@ -75,11 +69,9 @@ whats,9,10,19
 um,1,18,19
 thought,3,16,19
 mean,7,12,19
-let,3,16,19
 ill,3,16,19
 father,5,14,19
 dad,4,15,19
-said,7,11,18
 need,7,11,18
 isnt,6,12,18
 house,15,3,18
@@ -90,7 +82,6 @@ marcus,1,16,17
 leave,10,7,17
 hat,16,1,17
 bad,7,10,17
-am,7,10,17
 years,9,7,16
 find,9,7,16
 family,13,3,16
@@ -120,7 +111,6 @@ mother,4,10,14
 love,1,13,14
 late,3,11,14
 doesnt,4,10,14
-does,5,9,14
 youll,6,7,13
 wouldnt,1,12,13
 work,6,7,13
@@ -288,7 +278,6 @@ spells,2,3,5
 soon,3,2,5
 sky,4,1,5
 scared,3,2,5
-says,2,3,5
 save,2,3,5
 rumbling,1,4,5
 reason,1,4,5
@@ -324,7 +313,6 @@ ya,2,2,4
 wow,3,1,4
 working,2,2,4
 white,3,1,4
-wants,1,3,4
 uncle,3,1,4
 times,3,1,4
 strange,1,3,4
@@ -699,7 +687,6 @@ dursleys,5,0,5
 doorway,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 box,5,0,5
 blows,5,0,5
@@ -2262,7 +2249,6 @@ dursleys,0,5,5
 doorway,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 box,0,5,5
 blows,0,5,5

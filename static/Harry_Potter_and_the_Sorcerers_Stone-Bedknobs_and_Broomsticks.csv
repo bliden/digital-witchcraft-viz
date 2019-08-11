@@ -1,23 +1,19 @@
 word,Harry Potter and the Sorcerers Stone,Bedknobs and Broomsticks,total
-do,31,82,113
 dont,21,66,87
 go,36,30,66
 see,31,32,63
 back,41,21,62
 im,27,34,61
-get,25,35,60
 come,29,29,58
 oh,39,18,57
 thats,21,33,54
 mr,21,31,52
 right,23,28,51
 like,18,32,50
-just,30,20,50
 know,22,27,49
 good,22,27,49
 think,15,33,48
 looks,43,1,44
-got,26,17,43
 miss,2,40,42
 professor,23,16,39
 bit,18,20,38
@@ -31,7 +27,6 @@ cant,10,22,32
 take,12,19,31
 look,17,12,29
 going,17,12,29
-dear,5,24,29
 broom,22,6,28
 make,15,12,27
 whats,9,17,26
@@ -41,7 +36,6 @@ house,15,11,26
 hes,13,13,26
 door,23,3,26
 two,18,7,25
-say,5,19,24
 course,8,16,24
 comes,22,2,24
 boy,23,1,24
@@ -73,10 +67,8 @@ place,4,14,18
 lovely,2,16,18
 hands,16,2,18
 great,16,2,18
-am,7,11,18
 theres,9,8,17
 sorry,8,9,17
-let,3,14,17
 hand,15,2,17
 find,9,8,17
 didnt,10,7,17
@@ -91,8 +83,6 @@ people,11,4,15
 mean,7,8,15
 leave,10,5,15
 glass,10,5,15
-does,5,10,15
-did,7,8,15
 called,13,2,15
 ball,14,1,15
 turn,8,6,14
@@ -105,7 +95,6 @@ isnt,6,8,14
 id,5,9,14
 game,11,3,14
 family,13,1,14
-said,7,6,13
 room,11,2,13
 put,9,4,13
 left,6,7,13
@@ -200,7 +189,6 @@ cup,5,3,8
 yeah,1,6,7
 wrong,4,3,7
 true,3,4,7
-says,2,5,7
 quiet,3,4,7
 probably,3,4,7
 morning,3,4,7
@@ -384,7 +372,6 @@ works,1,2,3
 wonderful,1,2,3
 witches,1,2,3
 win,2,1,3
-wants,1,2,3
 turned,1,2,3
 theyve,2,1,3
 talk,1,2,3

@@ -1,10 +1,7 @@
 word,The Witches of Eastwick,The Last WItch Hunter,total
-do,76,28,104
 know,50,45,95
 dont,69,21,90
-just,54,21,75
 im,40,29,69
-get,25,28,53
 youre,23,26,49
 thats,36,11,47
 like,32,15,47
@@ -26,7 +23,6 @@ back,11,16,27
 okay,16,10,26
 going,18,7,25
 ive,5,18,23
-did,12,11,23
 stop,14,7,21
 love,15,6,21
 life,8,13,21
@@ -35,7 +31,6 @@ lets,17,3,20
 women,17,2,19
 theyre,12,7,19
 need,5,14,19
-let,16,3,19
 hes,11,7,18
 death,1,17,18
 world,6,11,17
@@ -53,10 +48,8 @@ man,10,5,15
 isnt,10,5,15
 feel,14,1,15
 doing,13,2,15
-does,11,4,15
 didnt,5,10,15
 yeah,10,4,14
-say,10,4,14
 remember,3,11,14
 mind,6,8,14
 ill,5,9,14
@@ -79,7 +72,6 @@ nice,9,2,11
 men,9,2,11
 long,2,9,11
 hurt,4,7,11
-got,5,6,11
 five,4,7,11
 afraid,5,6,11
 understand,7,3,10
@@ -107,14 +99,12 @@ kid,3,6,9
 huh,5,4,9
 house,8,1,9
 care,5,4,9
-am,4,5,9
 ah,2,7,9
 word,2,6,8
 trying,6,2,8
 told,5,3,8
 th,1,7,8
 terrible,7,1,8
-says,7,1,8
 put,3,5,8
 play,7,1,8
 made,5,3,8
@@ -131,7 +121,6 @@ today,6,1,7
 thought,4,3,7
 stay,1,6,7
 seen,2,5,7
-said,5,2,7
 promise,1,6,7
 power,2,5,7
 maybe,6,1,7
@@ -430,7 +419,6 @@ appreciate,4,0,4
 answer,4,0,4
 win,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 stupid,3,0,3
@@ -1294,7 +1282,6 @@ appreciate,0,4,4
 answer,0,4,4
 win,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 stupid,0,3,3

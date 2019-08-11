@@ -1,13 +1,10 @@
 word,Halloweentown,Witches of Eastwick,total
-do,56,76,132
 dont,54,69,123
-just,67,54,121
 know,66,50,116
 oh,83,19,102
 im,60,40,100
 like,64,32,96
 come,51,29,80
-get,53,25,78
 go,47,26,73
 thats,32,36,68
 see,39,29,68
@@ -23,15 +20,12 @@ good,23,21,44
 time,23,16,39
 lets,21,17,38
 going,19,18,37
-did,25,12,37
 thing,30,6,36
 make,13,21,34
 yeah,23,10,33
-let,17,16,33
 back,22,11,33
 mom,31,1,32
 mother,30,1,31
-got,26,5,31
 stop,15,14,29
 shes,17,12,29
 really,17,11,28
@@ -44,7 +38,6 @@ whats,8,15,23
 doesnt,16,7,23
 kids,17,5,22
 doing,9,13,22
-does,11,11,22
 didnt,17,5,22
 two,13,8,21
 man,11,10,21
@@ -53,12 +46,9 @@ big,15,6,21
 way,13,7,20
 things,8,12,20
 sorry,10,10,20
-say,10,10,20
 ill,15,5,20
 home,16,4,20
 thank,9,10,19
-said,14,5,19
-am,15,4,19
 youve,14,4,18
 theyre,6,12,18
 maybe,12,6,18
@@ -124,7 +114,6 @@ whoo,9,1,10
 use,5,5,10
 try,5,5,10
 three,3,7,10
-says,3,7,10
 people,4,6,10
 men,1,9,10
 made,5,5,10
@@ -184,7 +173,6 @@ cream,1,6,7
 bed,3,4,7
 arent,1,6,7
 appreciate,3,4,7
-wants,3,3,6
 trust,3,3,6
 times,3,3,6
 stay,5,1,6
@@ -456,7 +444,6 @@ grandma,56,0,56
 marnie,36,0,36
 gonna,30,0,30
 hey,25,0,25
-dear,24,0,24
 sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
@@ -1359,12 +1346,10 @@ ages,1,0,1
 afterlife,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 gonna,0,30,30
 hey,0,25,25
-dear,0,24,24
 sophie,0,20,20
 ok,0,20,20
 bus,0,20,20
@@ -2267,4 +2252,3 @@ ages,0,1,1
 afterlife,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

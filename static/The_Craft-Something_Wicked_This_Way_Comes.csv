@@ -1,12 +1,10 @@
 word,The Craft,Something Wicked This Way Comes,total
 dont,63,29,92
-do,55,28,83
 know,57,22,79
 im,56,12,68
 go,44,20,64
 come,30,33,63
 like,36,23,59
-just,44,14,58
 oh,31,25,56
 yeah,42,10,52
 want,34,15,49
@@ -19,8 +17,6 @@ right,23,15,38
 good,23,12,35
 mr,2,31,33
 back,17,16,33
-did,22,9,31
-get,22,8,30
 cant,18,12,30
 stop,23,5,28
 really,26,2,28
@@ -42,7 +38,6 @@ shes,20,1,21
 mean,16,5,21
 way,11,9,20
 make,10,10,20
-got,8,12,20
 wait,16,3,19
 two,1,18,19
 theyre,11,8,19
@@ -65,7 +60,6 @@ lets,9,4,13
 thought,9,3,12
 run,4,8,12
 looking,7,5,12
-let,8,4,12
 help,5,7,12
 fine,8,4,12
 feel,8,4,12
@@ -74,14 +68,12 @@ believe,6,6,12
 beautiful,6,6,12
 away,8,4,12
 uh,1,10,11
-say,5,6,11
 hi,9,2,11
 guess,3,8,11
 coming,4,7,11
 thing,7,3,10
 sure,7,3,10
 stay,6,4,10
-said,6,4,10
 nice,9,1,10
 light,9,1,10
 late,3,7,10
@@ -106,7 +98,6 @@ hey,1,8,9
 hell,4,5,9
 doesnt,6,3,9
 big,6,3,9
-am,4,5,9
 work,3,5,8
 told,5,3,8
 things,6,2,8
@@ -119,7 +110,6 @@ give,6,2,8
 girl,6,2,8
 fathers,1,7,8
 earth,6,2,8
-does,4,4,8
 dead,5,3,8
 better,6,2,8
 bad,6,2,8
@@ -151,7 +141,6 @@ tonight,2,4,6
 sweet,2,4,6
 special,2,4,6
 shut,5,1,6
-says,4,2,6
 saw,2,4,6
 pretty,5,1,6
 place,4,2,6
@@ -433,7 +422,6 @@ exist,3,0,3
 everybody,3,0,3
 east,3,0,3
 downs,3,0,3
-dear,3,0,3
 cry,3,0,3
 crazy,3,0,3
 completely,3,0,3
@@ -1076,7 +1064,6 @@ exist,0,3,3
 everybody,0,3,3
 east,0,3,3
 downs,0,3,3
-dear,0,3,3
 cry,0,3,3
 crazy,0,3,3
 completely,0,3,3

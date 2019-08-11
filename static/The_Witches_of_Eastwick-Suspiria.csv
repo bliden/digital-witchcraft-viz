@@ -1,8 +1,6 @@
 word,The Witches of Eastwick,Suspiria,total
-do,76,28,104
 dont,69,34,103
 know,50,34,84
-just,54,21,75
 im,40,27,67
 yes,29,29,58
 thats,36,22,58
@@ -12,7 +10,6 @@ oh,19,26,45
 good,21,24,45
 go,26,19,45
 see,29,15,44
-get,25,17,42
 cant,29,13,42
 want,31,8,39
 think,28,10,38
@@ -26,11 +23,8 @@ make,21,6,27
 two,8,18,26
 morning,5,21,26
 look,19,6,25
-got,5,20,25
 shes,12,12,24
 lets,17,7,24
-let,16,8,24
-did,12,12,24
 hello,4,19,23
 three,7,15,22
 didnt,5,17,22
@@ -63,17 +57,14 @@ help,3,12,15
 hear,4,11,15
 god,12,3,15
 four,5,10,15
-say,10,4,14
 please,5,9,14
 ive,5,9,14
 heard,1,13,14
 doing,13,1,14
-does,11,3,14
 call,10,4,14
 better,6,8,14
 told,5,8,13
 sure,8,5,13
-said,5,8,13
 nice,9,4,13
 maybe,6,7,13
 day,9,4,13
@@ -120,7 +111,6 @@ youve,4,4,8
 world,6,2,8
 wanted,2,6,8
 thing,6,2,8
-says,7,1,8
 remember,3,5,8
 place,4,4,8
 pay,3,5,8
@@ -199,7 +189,6 @@ bed,4,1,5
 bad,3,2,5
 attention,2,3,5
 answer,4,1,5
-am,4,1,5
 ah,2,3,5
 wrote,1,3,4
 wouldnt,3,1,4
@@ -443,7 +432,6 @@ work,3,0,3
 win,3,0,3
 wife,3,0,3
 wash,3,0,3
-wants,3,0,3
 uhn,3,0,3
 stupid,3,0,3
 spofford,3,0,3
@@ -1283,7 +1271,6 @@ work,0,3,3
 win,0,3,3
 wife,0,3,3
 wash,0,3,3
-wants,0,3,3
 uhn,0,3,3
 stupid,0,3,3
 spofford,0,3,3

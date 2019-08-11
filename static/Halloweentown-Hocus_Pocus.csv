@@ -1,14 +1,11 @@
 word,Halloweentown,Hocus Pocus,total
 oh,83,73,156
 come,51,83,134
-just,67,40,107
 im,60,44,104
 dont,54,50,104
-get,53,49,102
 go,47,47,94
 know,66,25,91
 like,64,18,82
-do,56,26,82
 right,33,29,62
 hey,25,37,62
 yeah,23,36,59
@@ -19,7 +16,6 @@ little,17,34,51
 look,27,23,50
 bye,14,35,49
 good,23,24,47
-got,26,19,45
 mom,31,13,44
 book,7,37,44
 lets,21,21,42
@@ -29,7 +25,6 @@ children,12,28,40
 time,23,16,39
 thing,30,8,38
 mother,30,7,37
-let,17,20,37
 sisters,1,35,36
 ooh,25,11,36
 cant,23,13,36
@@ -39,10 +34,8 @@ back,22,13,35
 witches,15,18,33
 uh,13,20,33
 halloween,19,14,33
-did,25,8,33
 way,13,19,32
 take,11,21,32
-say,10,22,32
 think,19,12,31
 help,21,10,31
 really,17,12,29
@@ -55,7 +48,6 @@ home,16,12,28
 going,19,9,28
 witch,19,7,26
 life,10,16,26
-dear,24,2,26
 ah,9,17,26
 ha,9,16,25
 trick,6,18,24
@@ -76,9 +68,7 @@ maybe,12,9,21
 kids,17,4,21
 hes,10,11,21
 give,13,8,21
-am,15,6,21
 wait,8,12,20
-said,14,6,20
 old,8,12,20
 house,10,10,20
 didnt,17,3,20
@@ -129,7 +119,6 @@ keep,10,2,12
 havent,6,6,12
 guess,8,4,12
 evil,9,3,12
-does,11,1,12
 candle,1,11,12
 broom,6,6,12
 better,8,4,12
@@ -266,7 +255,6 @@ wasnt,4,1,5
 wanted,3,2,5
 sounds,1,4,5
 serious,3,2,5
-says,3,2,5
 round,2,3,5
 return,4,1,5
 quite,4,1,5
@@ -546,7 +534,6 @@ witchs,3,0,3
 whispering,3,0,3
 whered,3,0,3
 warlock,3,0,3
-wants,3,0,3
 trust,3,0,3
 train,3,0,3
 thinking,3,0,3
@@ -1359,7 +1346,6 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 sophie,0,20,20
@@ -1426,7 +1412,6 @@ witchs,0,3,3
 whispering,0,3,3
 whered,0,3,3
 warlock,0,3,3
-wants,0,3,3
 trust,0,3,3
 train,0,3,3
 thinking,0,3,3
@@ -2239,4 +2224,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

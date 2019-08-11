@@ -1,22 +1,17 @@
 word,Halloweentown,Sleeping Beauty,total
 oh,83,63,146
 know,66,27,93
-just,67,16,83
 come,51,28,79
 like,64,12,76
-do,56,20,76
 im,60,14,74
 dont,54,17,71
-get,53,12,65
 see,39,19,58
 go,47,10,57
-dear,24,31,55
 yes,23,21,44
 youre,32,11,43
 thats,32,11,43
 right,33,10,43
 cant,23,16,39
-did,25,12,37
 back,22,15,37
 good,23,13,36
 think,19,15,34
@@ -30,7 +25,6 @@ look,27,3,30
 yeah,23,6,29
 way,13,16,29
 mean,23,6,29
-got,26,3,29
 shes,17,10,27
 magic,16,11,27
 stop,15,10,25
@@ -41,7 +35,6 @@ prince,1,22,23
 lets,21,2,23
 help,21,2,23
 little,17,5,22
-let,17,5,22
 dress,1,21,22
 dream,3,19,22
 course,7,15,22
@@ -57,7 +50,6 @@ door,4,15,19
 didnt,17,2,19
 years,3,15,18
 take,11,7,18
-said,14,4,18
 blue,1,17,18
 tell,10,7,17
 youve,14,2,16
@@ -65,12 +57,10 @@ witches,15,1,16
 turns,1,15,16
 turn,12,4,16
 starts,1,15,16
-say,10,6,16
 powers,14,2,16
 house,10,6,16
 hes,10,6,16
 give,13,3,16
-am,15,1,16
 true,5,10,15
 theres,11,4,15
 maybe,12,3,15
@@ -91,7 +81,6 @@ sorry,10,3,13
 need,10,3,13
 man,11,2,13
 hear,6,7,13
-does,11,2,13
 coming,12,1,13
 bad,11,2,13
 wont,6,6,12
@@ -154,7 +143,6 @@ understand,5,2,7
 trick,6,1,7
 story,4,3,7
 shh,2,5,7
-says,3,4,7
 quite,4,3,7
 party,5,2,7
 night,6,1,7
@@ -524,7 +512,6 @@ witchs,3,0,3
 whispering,3,0,3
 whered,3,0,3
 warlock,3,0,3
-wants,3,0,3
 trust,3,0,3
 train,3,0,3
 tired,3,0,3
@@ -1359,7 +1346,6 @@ afterlife,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -1479,7 +1465,6 @@ witchs,0,3,3
 whispering,0,3,3
 whered,0,3,3
 warlock,0,3,3
-wants,0,3,3
 trust,0,3,3
 train,0,3,3
 tired,0,3,3
@@ -2314,4 +2299,3 @@ afterlife,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

@@ -1,14 +1,11 @@
 word,The Blair Witch Project,Pumpkinhead II,total
 im,109,15,124
-just,85,38,123
-get,78,34,112
 know,71,40,111
 dont,68,42,110
 fucking,95,5,100
 like,66,33,99
 okay,77,18,95
 go,45,50,95
-do,52,38,90
 man,64,19,83
 come,33,49,82
 going,71,6,77
@@ -17,7 +14,6 @@ right,30,45,75
 oh,41,28,69
 shit,52,15,67
 lets,40,27,67
-got,26,39,65
 yeah,33,26,59
 fuck,39,18,57
 thats,35,18,53
@@ -35,13 +31,11 @@ want,24,12,36
 god,22,14,36
 really,27,8,35
 woman,20,12,32
-say,19,12,31
 help,15,16,31
 hes,14,16,30
 night,24,5,29
 witch,19,9,28
 didnt,14,14,28
-did,16,12,28
 car,21,7,28
 cant,15,13,28
 theres,18,9,27
@@ -85,7 +79,6 @@ jesus,11,6,17
 ive,15,2,17
 today,14,2,16
 scared,13,3,16
-said,8,8,16
 keep,12,4,16
 inside,15,1,16
 happened,12,4,16
@@ -114,12 +107,10 @@ kill,2,11,13
 doing,7,6,13
 dad,2,11,13
 ass,12,1,13
-am,12,1,13
 three,10,2,12
 thank,6,6,12
 stuff,7,5,12
 long,9,3,12
-let,4,8,12
 house,10,2,12
 guess,7,5,12
 getting,9,3,12
@@ -130,7 +121,6 @@ check,8,4,12
 cemetery,10,2,12
 cause,9,3,12
 sound,10,1,11
-says,8,3,11
 saw,2,9,11
 pretty,7,4,11
 morning,9,2,11
@@ -158,7 +148,6 @@ story,8,1,9
 left,4,5,9
 head,8,1,9
 doesnt,4,5,9
-does,4,5,9
 coming,6,3,9
 close,7,2,9
 walk,7,1,8
@@ -236,7 +225,6 @@ ah,5,1,6
 wrong,1,4,5
 worry,1,4,5
 werent,4,1,5
-wants,2,3,5
 walked,3,2,5
 six,1,4,5
 silence,3,2,5
@@ -827,7 +815,6 @@ arms,2,0,2
 appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1866,7 +1853,6 @@ arms,0,2,2
 appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

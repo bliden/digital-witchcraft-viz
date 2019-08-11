@@ -1,6 +1,4 @@
 word,Harry Potter and the Sorcerers Stone,Antichrist,total
-do,31,27,58
-just,30,26,56
 im,27,27,54
 youre,19,26,45
 go,36,9,45
@@ -9,12 +7,10 @@ see,31,9,40
 oh,39,1,40
 dont,21,19,40
 know,22,15,37
-get,25,9,34
 good,22,10,32
 come,29,3,32
 thats,21,9,30
 like,18,12,30
-got,26,3,29
 yes,12,13,25
 right,23,2,25
 cant,10,14,24
@@ -31,7 +27,6 @@ nick,8,10,18
 great,16,2,18
 going,17,1,18
 goes,17,1,18
-did,7,11,18
 day,17,1,18
 walk,11,5,16
 outside,13,3,16
@@ -64,10 +59,8 @@ keep,7,4,11
 ground,9,2,11
 give,8,3,11
 find,9,2,11
-am,7,4,11
 stay,3,7,10
 sorry,8,2,10
-said,7,3,10
 hair,9,1,10
 fear,2,8,10
 yeah,1,8,9
@@ -106,13 +99,11 @@ top,3,4,7
 told,4,3,7
 sure,5,2,7
 school,6,1,7
-say,5,2,7
 place,4,3,7
 old,6,1,7
 new,6,1,7
 green,2,5,7
 five,1,6,7
-does,5,2,7
 believe,3,4,7
 arent,3,4,7
 wrong,4,2,6
@@ -140,8 +131,6 @@ store,4,1,5
 step,2,3,5
 shouldnt,1,4,5
 screaming,4,1,5
-says,2,3,5
-let,3,2,5
 knows,4,1,5
 ill,3,2,5
 hurts,1,4,5
@@ -231,7 +220,6 @@ worst,1,1,2
 worse,1,1,2
 works,1,1,2
 woke,1,1,2
-wants,1,1,2
 usual,1,1,2
 underneath,1,1,2
 touching,1,1,2
@@ -505,7 +493,6 @@ doorway,5,0,5
 doors,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -2322,7 +2309,6 @@ doorway,0,5,5
 doors,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5

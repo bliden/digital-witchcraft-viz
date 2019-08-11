@@ -1,9 +1,7 @@
 word,The Craft,Sleepy Hollow,total
 dont,63,10,73
-do,55,13,68
 know,57,10,67
 im,56,9,65
-just,44,8,52
 go,44,7,51
 like,36,6,42
 come,30,12,42
@@ -11,13 +9,11 @@ youre,31,9,40
 think,30,7,37
 oh,31,5,36
 look,27,7,34
-did,22,12,34
 sarah,29,3,32
 thats,26,2,28
 sorry,25,3,28
 right,23,5,28
 good,23,5,28
-get,22,6,28
 really,26,1,27
 yes,8,18,26
 stop,23,3,26
@@ -44,7 +40,6 @@ killed,6,9,15
 power,12,2,14
 man,6,8,14
 make,10,4,14
-am,4,10,14
 witch,8,5,13
 thought,9,4,13
 love,11,2,13
@@ -61,7 +56,6 @@ stay,6,5,11
 powers,10,1,11
 new,3,8,11
 magic,8,3,11
-let,8,3,11
 kill,6,5,11
 keep,5,6,11
 home,9,2,11
@@ -80,7 +74,6 @@ thing,7,2,9
 saying,8,1,9
 put,6,3,9
 leave,5,4,9
-got,8,1,9
 found,2,7,9
 feel,8,1,9
 doing,8,1,9
@@ -91,7 +84,6 @@ believe,6,3,9
 youd,2,6,8
 watch,6,2,8
 sure,7,1,8
-said,6,2,8
 read,5,3,8
 night,3,5,8
 mr,2,6,8
@@ -108,7 +100,6 @@ bad,6,2,8
 ask,4,4,8
 whos,4,3,7
 things,6,1,7
-say,5,2,7
 remember,3,4,7
 reason,3,4,7
 north,6,1,7
@@ -123,7 +114,6 @@ give,6,1,7
 enter,4,3,7
 earth,6,1,7
 doesnt,6,1,7
-dear,3,4,7
 course,3,4,7
 cause,5,2,7
 big,6,1,7
@@ -166,7 +156,6 @@ fear,2,3,5
 fathers,1,4,5
 far,2,3,5
 end,4,1,5
-does,4,1,5
 devil,3,2,5
 board,4,1,5
 black,3,2,5
@@ -356,7 +345,6 @@ stuff,4,0,4
 sisters,4,0,4
 scars,4,0,4
 scared,4,0,4
-says,4,0,4
 san,4,0,4
 practice,4,0,4
 perfect,4,0,4
@@ -1040,7 +1028,6 @@ stuff,0,4,4
 sisters,0,4,4
 scars,0,4,4
 scared,0,4,4
-says,0,4,4
 san,0,4,4
 practice,0,4,4
 perfect,0,4,4

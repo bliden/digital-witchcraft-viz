@@ -1,9 +1,6 @@
 word,Harry Potter and the Sorcerers Stone,Stardust,total
 im,27,71,98
 oh,39,52,91
-do,31,60,91
-just,30,47,77
-get,25,44,69
 know,22,44,66
 go,36,29,65
 back,41,24,65
@@ -20,12 +17,10 @@ boy,23,20,43
 thats,21,21,42
 look,17,25,42
 think,15,25,40
-got,26,14,40
 yes,12,25,37
 way,16,19,35
 head,30,5,35
 going,17,17,34
-did,7,26,33
 really,8,24,32
 time,9,22,31
 sorry,8,23,31
@@ -51,7 +46,6 @@ lets,6,17,23
 ill,3,20,23
 better,7,16,23
 away,15,8,23
-said,7,15,22
 cant,10,12,22
 stone,5,16,21
 people,11,10,21
@@ -59,7 +53,6 @@ give,8,13,21
 bit,18,3,21
 youll,6,14,20
 whats,9,11,20
-say,5,15,20
 little,7,13,20
 later,19,1,20
 great,16,4,20
@@ -97,7 +90,6 @@ hey,10,4,14
 family,13,1,14
 done,6,8,14
 course,8,6,14
-am,7,7,14
 woman,7,6,13
 thing,5,8,13
 shes,1,12,13
@@ -126,13 +118,11 @@ side,7,4,11
 nice,5,6,11
 mind,7,4,11
 luck,5,6,11
-let,3,8,11
 gone,6,5,11
 front,7,4,11
 fine,3,8,11
 eyes,7,4,11
 excuse,8,3,11
-does,5,6,11
 youve,6,4,10
 world,3,7,10
 watch,5,5,10
@@ -166,7 +156,6 @@ happened,4,5,9
 funny,4,5,9
 follow,8,1,9
 fallen,1,8,9
-dear,5,4,9
 dark,8,1,9
 cross,1,8,9
 youd,3,5,8
@@ -312,7 +301,6 @@ sign,3,1,4
 short,3,1,4
 shining,1,3,4
 sent,2,2,4
-says,2,2,4
 round,2,2,4
 rock,1,3,4
 return,1,3,4
@@ -433,7 +421,6 @@ witches,1,1,2
 wheres,1,1,2
 wed,1,1,2
 wear,1,1,2
-wants,1,1,2
 wakes,1,1,2
 touches,1,1,2
 torn,1,1,2

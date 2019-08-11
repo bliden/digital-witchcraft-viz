@@ -2,12 +2,9 @@ word,The Blair Witch Project,Snow White and the Seven Dwarfs,total
 im,109,25,134
 cuts,113,1,114
 dont,68,35,103
-get,78,24,102
-just,85,11,96
 white,2,86,88
 oh,41,47,88
 know,71,17,88
-do,52,36,88
 ah,5,80,85
 go,45,39,84
 like,66,16,82
@@ -29,7 +26,6 @@ laughing,13,21,34
 away,18,16,34
 think,31,2,33
 see,20,13,33
-got,26,7,33
 day,17,13,30
 really,27,2,29
 night,24,5,29
@@ -39,8 +35,6 @@ want,24,2,26
 old,14,12,26
 cant,15,11,26
 stop,17,6,23
-say,19,4,23
-let,4,19,23
 find,13,10,23
 youre,10,12,22
 work,5,17,22
@@ -50,7 +44,6 @@ woods,19,2,21
 men,7,14,21
 love,3,18,21
 ill,8,13,21
-did,16,5,21
 cackling,2,19,21
 witch,19,1,20
 shes,7,13,20
@@ -84,7 +77,6 @@ true,2,12,14
 put,13,1,14
 keep,12,2,14
 give,12,2,14
-am,12,2,14
 time,10,3,13
 sure,7,6,13
 mean,7,6,13
@@ -109,7 +101,6 @@ water,4,6,10
 various,2,8,10
 tree,7,3,10
 seven,3,7,10
-said,8,2,10
 run,3,7,10
 maybe,5,5,10
 long,9,1,10
@@ -120,7 +111,6 @@ youll,1,8,9
 stay,6,3,9
 sing,2,7,9
 screaming,1,8,9
-says,8,1,9
 ready,8,1,9
 mirror,2,7,9
 knew,8,1,9
@@ -497,7 +487,6 @@ gate,4,0,4
 filming,4,0,4
 fault,4,0,4
 equipment,4,0,4
-does,4,0,4
 damn,4,0,4
 cries,4,0,4
 cracking,4,0,4
@@ -600,7 +589,6 @@ whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
 welcome,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 using,2,0,2
@@ -792,7 +780,6 @@ arms,2,0,2
 appears,2,0,2
 ago,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1650,7 +1637,6 @@ gate,0,4,4
 filming,0,4,4
 fault,0,4,4
 equipment,0,4,4
-does,0,4,4
 damn,0,4,4
 cries,0,4,4
 cracking,0,4,4
@@ -1753,7 +1739,6 @@ whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
 welcome,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 using,0,2,2
@@ -1945,7 +1930,6 @@ arms,0,2,2
 appears,0,2,2
 ago,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

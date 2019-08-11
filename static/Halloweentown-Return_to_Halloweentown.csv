@@ -1,13 +1,10 @@
 word,Halloweentown,Return to Halloweentown,total
-just,67,81,148
 im,60,63,123
 oh,83,37,120
-do,56,55,111
 know,66,42,108
 marnie,36,69,105
 like,64,34,98
 dont,54,40,94
-get,53,31,84
 magic,16,61,77
 come,51,20,71
 grandma,56,11,67
@@ -26,7 +23,6 @@ ok,20,29,49
 halloweentown,17,31,48
 cromwell,14,34,48
 witch,19,28,47
-did,25,22,47
 good,23,19,42
 gonna,30,12,42
 use,5,36,41
@@ -38,7 +34,6 @@ think,19,19,38
 help,21,17,38
 going,19,19,38
 mother,30,7,37
-got,26,11,37
 really,17,19,36
 mean,23,13,36
 power,2,30,32
@@ -46,7 +41,6 @@ back,22,10,32
 world,20,11,31
 shes,17,14,31
 halloween,19,12,31
-dear,24,7,31
 make,13,17,30
 need,10,19,29
 man,11,18,29
@@ -55,15 +49,12 @@ witches,15,13,28
 ooh,25,3,28
 didnt,17,11,28
 sorry,10,17,27
-said,14,13,27
 ill,15,12,27
 whats,8,17,25
 uh,13,12,25
 stop,15,10,25
-say,10,15,25
 powers,14,10,24
 lets,21,3,24
-let,17,7,24
 two,13,10,23
 kids,17,6,23
 home,16,7,23
@@ -72,7 +63,6 @@ box,1,22,23
 sophie,20,2,22
 maybe,12,10,22
 ive,12,10,22
-am,15,7,22
 way,13,8,21
 tell,10,11,21
 open,7,14,21
@@ -93,7 +83,6 @@ doing,9,9,18
 bye,14,4,18
 thanks,13,4,17
 mortal,10,7,17
-does,11,6,17
 wait,8,8,16
 um,10,6,16
 three,3,13,16
@@ -201,7 +190,6 @@ days,6,3,9
 dark,5,4,9
 bring,4,5,9
 better,8,1,9
-wants,3,5,8
 tolling,1,7,8
 talking,5,3,8
 sisters,1,7,8
@@ -251,7 +239,6 @@ supposed,3,3,6
 somebodys,5,1,6
 simple,3,3,6
 shell,5,1,6
-says,3,3,6
 run,3,3,6
 quite,4,2,6
 promise,1,5,6
@@ -573,7 +560,6 @@ bend,1,1,2
 applause,1,1,2
 apologize,1,1,2
 amazing,1,1,2
-able,1,1,2
 bus,20,0,20
 talisman,14,0,14
 sighs,12,0,12

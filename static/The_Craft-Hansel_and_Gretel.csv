@@ -2,10 +2,8 @@ word,The Craft,Hansel and Gretel,total
 dont,63,28,91
 im,56,34,90
 know,57,23,80
-do,55,24,79
 yeah,42,33,75
 go,44,24,68
-just,44,14,58
 witch,8,49,57
 oh,31,20,51
 like,36,15,51
@@ -16,9 +14,7 @@ think,30,14,44
 right,23,20,43
 okay,21,22,43
 good,23,20,43
-get,22,21,43
 thats,26,13,39
-did,22,17,39
 really,26,11,37
 please,20,17,37
 look,27,7,34
@@ -45,14 +41,12 @@ way,11,9,20
 mean,16,4,20
 shit,13,6,19
 hes,17,2,19
-got,8,11,19
 yes,8,10,18
 maybe,15,2,17
 time,5,11,16
 people,8,8,16
 three,8,7,15
 make,10,5,15
-let,8,7,15
 hey,1,14,15
 theres,4,10,14
 place,4,10,14
@@ -77,7 +71,6 @@ find,3,9,12
 white,3,8,11
 thought,9,2,11
 stay,6,5,11
-say,5,6,11
 powers,10,1,11
 night,3,8,11
 magic,8,3,11
@@ -95,7 +88,6 @@ light,9,1,10
 hate,6,4,10
 fire,4,6,10
 doesnt,6,4,10
-does,4,6,10
 better,6,4,10
 beautiful,6,4,10
 working,7,2,9
@@ -106,7 +98,6 @@ things,6,3,9
 thank,3,6,9
 talking,7,2,9
 shut,5,4,9
-said,6,3,9
 put,6,3,9
 mother,5,4,9
 made,5,4,9
@@ -171,7 +162,6 @@ course,3,3,6
 close,3,3,6
 cause,5,1,6
 arent,4,2,6
-am,4,2,6
 wow,1,4,5
 wont,1,4,5
 whos,4,1,5
@@ -182,7 +172,6 @@ supposed,4,1,5
 strange,1,4,5
 story,1,4,5
 spells,3,2,5
-says,4,1,5
 save,1,4,5
 safe,1,4,5
 remember,3,2,5
@@ -414,7 +403,6 @@ exist,3,0,3
 everybody,3,0,3
 east,3,0,3
 downs,3,0,3
-dear,3,0,3
 day,3,0,3
 cry,3,0,3
 crazy,3,0,3
@@ -1050,7 +1038,6 @@ exist,0,3,3
 everybody,0,3,3
 east,0,3,3
 downs,0,3,3
-dear,0,3,3
 day,0,3,3
 cry,0,3,3
 crazy,0,3,3

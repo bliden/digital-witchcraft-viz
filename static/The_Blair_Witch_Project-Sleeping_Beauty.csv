@@ -2,14 +2,11 @@ word,The Blair Witch Project,Sleeping Beauty,total
 im,109,14,123
 cuts,113,1,114
 oh,41,63,104
-just,85,16,101
 know,71,27,98
-get,78,12,90
 dont,68,17,85
 going,71,13,84
 like,66,12,78
 back,59,15,74
-do,52,20,72
 camera,62,7,69
 man,64,2,66
 come,33,28,61
@@ -27,12 +24,9 @@ cant,15,16,31
 good,17,13,30
 want,24,5,29
 inside,15,14,29
-got,26,3,29
-did,16,12,28
 stop,17,10,27
 day,17,10,27
 look,23,3,26
-say,19,6,25
 night,24,1,25
 away,18,6,24
 hear,16,7,23
@@ -99,11 +93,8 @@ point,12,1,13
 need,10,3,13
 mean,7,6,13
 child,1,12,13
-am,12,1,13
 walking,8,4,12
 true,2,10,12
-says,8,4,12
-said,8,4,12
 people,11,1,12
 open,5,7,12
 log,11,1,12
@@ -133,7 +124,6 @@ walk,7,2,9
 wait,7,2,9
 sleep,2,7,9
 ready,8,1,9
-let,4,5,9
 id,4,5,9
 horse,3,6,9
 hands,7,2,9
@@ -204,7 +194,6 @@ holds,1,5,6
 hand,4,2,6
 forest,1,5,6
 feet,5,1,6
-does,4,2,6
 continues,4,2,6
 called,3,3,6
 bit,5,1,6
@@ -692,7 +681,6 @@ white,2,0,2
 whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
-wants,2,0,2
 wandered,2,0,2
 various,2,0,2
 unintelligible,2,0,2
@@ -858,7 +846,6 @@ awe,2,0,2
 asked,2,0,2
 ahh,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1728,7 +1715,6 @@ white,0,2,2
 whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
-wants,0,2,2
 wandered,0,2,2
 various,0,2,2
 unintelligible,0,2,2
@@ -1894,7 +1880,6 @@ awe,0,2,2
 asked,0,2,2
 ahh,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

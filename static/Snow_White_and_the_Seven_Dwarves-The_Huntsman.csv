@@ -1,7 +1,6 @@
 word,Snow White and the Seven Dwarves,The Huntsman,total
 snow,87,13,100
 white,86,9,95
-do,36,51,87
 ah,80,4,84
 queen,39,30,69
 oh,47,19,66
@@ -17,15 +16,11 @@ come,18,23,41
 uh,38,2,40
 mirror,7,33,40
 like,16,24,40
-get,24,14,38
 thats,10,27,37
 see,13,24,37
 right,10,24,34
 look,18,14,32
 laughing,21,10,31
-let,19,10,29
-just,11,18,29
-did,5,24,29
 kill,7,20,27
 yeah,4,22,26
 ill,13,13,26
@@ -40,7 +35,6 @@ shes,13,8,21
 true,12,8,20
 away,16,4,20
 work,17,2,19
-got,7,12,19
 whistling,16,2,18
 make,12,6,18
 tell,6,11,17
@@ -50,7 +44,6 @@ children,4,13,17
 cant,11,6,17
 think,2,14,16
 theres,9,7,16
-say,4,12,16
 huntsman,6,10,16
 time,3,12,15
 home,10,5,15
@@ -107,14 +100,11 @@ magic,6,2,8
 life,2,6,8
 fall,1,7,8
 fairest,6,2,8
-dear,5,3,8
 breathing,1,7,8
-am,2,6,8
 wind,5,2,7
 sure,6,1,7
 shut,2,5,7
 shouting,4,3,7
-said,2,5,7
 rumbling,1,6,7
 put,1,6,7
 hard,4,3,7
@@ -547,7 +537,6 @@ tried,1,0,1
 tricked,1,0,1
 transform,1,0,1
 touch,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -631,7 +620,6 @@ screeching,1,0,1
 scream,1,0,1
 score,1,0,1
 scoop,1,0,1
-says,1,0,1
 sayin,1,0,1
 rug,1,0,1
 rubies,1,0,1
@@ -1129,7 +1117,6 @@ tried,0,1,1
 tricked,0,1,1
 transform,0,1,1
 touch,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1
@@ -1213,7 +1200,6 @@ screeching,0,1,1
 scream,0,1,1
 score,0,1,1
 scoop,0,1,1
-says,0,1,1
 sayin,0,1,1
 rug,0,1,1
 rubies,0,1,1

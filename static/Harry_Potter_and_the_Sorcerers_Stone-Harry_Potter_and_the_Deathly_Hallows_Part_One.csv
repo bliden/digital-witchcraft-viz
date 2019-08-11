@@ -3,7 +3,6 @@ harry,376,55,431
 ron,111,17,128
 hermione,84,31,115
 hagrid,103,5,108
-do,31,52,83
 potter,34,33,67
 know,22,39,61
 dont,21,37,58
@@ -11,18 +10,15 @@ wand,30,27,57
 go,36,21,57
 vernon,53,2,55
 back,41,13,54
-just,30,21,51
 dudley,46,4,50
 come,29,20,49
 dumbledore,28,20,48
 oh,39,7,46
 see,31,14,45
 think,15,28,43
-get,25,18,43
 im,27,15,42
 right,23,16,39
 gryffindor,29,7,36
-got,26,10,36
 head,30,5,35
 tell,12,21,33
 mr,21,12,33
@@ -40,7 +36,6 @@ youre,19,7,26
 way,16,10,26
 troll,24,1,25
 look,17,8,25
-did,7,18,25
 comes,22,1,23
 broom,22,1,23
 bit,18,5,23
@@ -68,7 +63,6 @@ hands,16,1,17
 gets,14,3,17
 cant,10,7,17
 ball,14,3,17
-am,7,10,17
 took,3,13,16
 time,9,7,16
 takes,12,4,16
@@ -81,10 +75,8 @@ fred,13,3,16
 whats,9,6,15
 turns,13,2,15
 snitch,13,2,15
-say,5,10,15
 hey,10,5,15
 dark,8,7,15
-said,7,7,14
 outside,13,1,14
 girl,10,4,14
 called,13,1,14
@@ -107,7 +99,6 @@ lets,6,6,12
 hello,7,5,12
 give,8,4,12
 eye,5,7,12
-does,5,7,12
 course,8,4,12
 ah,10,2,12
 vault,8,3,11
@@ -117,7 +108,6 @@ night,6,5,11
 need,7,4,11
 mrs,10,1,11
 mean,7,4,11
-let,3,8,11
 left,6,5,11
 kill,3,8,11
 ill,3,8,11
@@ -348,7 +338,6 @@ bank,3,1,4
 wouldnt,1,2,3
 worry,2,1,3
 witchcraft,2,1,3
-wants,1,2,3
 voice,1,2,3
 unless,1,2,3
 travelling,1,2,3
@@ -358,7 +347,6 @@ speaking,2,1,3
 soul,1,2,3
 shiny,2,1,3
 seat,2,1,3
-says,2,1,3
 save,2,1,3
 ronald,1,2,3
 revealed,2,1,3
@@ -664,7 +652,6 @@ dursleys,5,0,5
 doorway,5,0,5
 doors,5,0,5
 dog,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -2251,7 +2238,6 @@ dursleys,0,5,5
 doorway,0,5,5
 doors,0,5,5
 dog,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5

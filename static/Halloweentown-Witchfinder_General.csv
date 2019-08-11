@@ -1,10 +1,7 @@
 word,Halloweentown,Witchfinder General,total
 oh,83,26,109
-do,56,36,92
 know,66,24,90
 im,60,19,79
-get,53,25,78
-just,67,10,77
 come,51,26,77
 like,64,6,70
 dont,54,11,65
@@ -17,10 +14,8 @@ yes,23,25,48
 good,23,22,45
 thats,32,9,41
 man,11,30,41
-got,26,13,39
 going,19,18,37
 look,27,9,36
-did,25,11,36
 yeah,23,11,34
 want,25,9,34
 back,22,12,34
@@ -36,7 +31,6 @@ take,11,18,29
 ill,15,14,29
 cant,23,6,29
 hey,25,2,27
-dear,24,3,27
 find,5,20,25
 way,13,10,23
 think,19,4,23
@@ -48,15 +42,12 @@ didnt,17,6,23
 shes,17,5,22
 lets,21,1,22
 give,13,9,22
-am,15,7,22
-let,17,4,21
 ive,12,9,21
 coming,12,9,21
 youve,14,6,20
 witches,15,5,20
 make,13,7,20
 thank,9,10,19
-said,14,5,19
 old,8,11,19
 bet,18,1,19
 really,17,1,18
@@ -64,7 +55,6 @@ put,14,4,18
 leave,5,13,18
 away,5,13,18
 work,5,12,17
-say,10,7,17
 need,10,7,17
 keep,10,7,17
 home,16,1,17
@@ -80,7 +70,6 @@ sorry,10,3,13
 maybe,12,1,13
 long,12,1,13
 doing,9,4,13
-does,11,2,13
 days,6,7,13
 things,8,4,12
 soon,5,7,12
@@ -159,7 +148,6 @@ totally,5,1,6
 told,2,4,6
 thinking,3,3,6
 special,5,1,6
-says,3,3,6
 save,5,1,6
 quite,4,2,6
 mark,1,5,6
@@ -362,7 +350,6 @@ arent,1,1,2
 apologize,1,1,2
 animal,1,1,2
 alive,1,1,2
-able,1,1,2
 grandma,56,0,56
 marnie,36,0,36
 mom,31,0,31
@@ -482,7 +469,6 @@ witchs,3,0,3
 whispering,3,0,3
 whered,3,0,3
 warlock,3,0,3
-wants,3,0,3
 train,3,0,3
 tired,3,0,3
 times,3,0,3
@@ -1479,7 +1465,6 @@ witchs,0,3,3
 whispering,0,3,3
 whered,0,3,3
 warlock,0,3,3
-wants,0,3,3
 train,0,3,3
 tired,0,3,3
 times,0,3,3

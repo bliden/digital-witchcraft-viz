@@ -1,10 +1,8 @@
 word,The Craft,Harry Potter and the Sorcerer s Stone,total
-do,55,31,86
 dont,63,21,84
 im,56,27,83
 go,44,36,80
 know,57,22,79
-just,44,30,74
 oh,31,39,70
 come,30,29,59
 back,17,41,58
@@ -12,7 +10,6 @@ like,36,18,54
 youre,31,19,50
 see,17,31,48
 thats,26,21,47
-get,22,25,47
 right,23,23,46
 looks,3,43,46
 think,30,15,45
@@ -24,13 +21,11 @@ head,12,30,42
 going,22,17,39
 stop,23,11,34
 really,26,8,34
-got,8,26,34
 whats,24,9,33
 sorry,25,8,33
 please,20,13,33
 hes,17,13,30
 didnt,19,10,29
-did,22,7,29
 cant,18,10,28
 way,11,16,27
 man,6,19,25
@@ -89,7 +84,6 @@ hair,5,9,14
 give,6,8,14
 walk,2,11,13
 theres,4,9,13
-said,6,7,13
 ive,5,8,13
 better,6,7,13
 bad,6,7,13
@@ -108,7 +102,6 @@ watch,6,5,11
 saying,8,3,11
 mrs,1,10,11
 mind,4,7,11
-let,8,3,11
 inside,5,6,11
 hey,1,10,11
 hello,4,7,11
@@ -116,14 +109,12 @@ happened,7,4,11
 fine,8,3,11
 eyes,4,7,11
 course,3,8,11
-am,4,7,11
 turn,2,8,10
 try,4,6,10
 times,7,3,10
 things,6,4,10
 spell,5,5,10
 school,4,6,10
-say,5,5,10
 pay,7,3,10
 move,4,6,10
 leaves,1,9,10
@@ -156,7 +147,6 @@ gave,3,6,9
 follow,1,8,9
 face,1,8,9
 excuse,1,8,9
-does,4,5,9
 dark,1,8,9
 believe,6,3,9
 attention,1,8,9
@@ -176,7 +166,6 @@ isnt,2,6,8
 heard,2,6,8
 fly,2,6,8
 end,4,4,8
-dear,3,5,8
 dead,5,3,8
 car,3,5,8
 call,6,2,8
@@ -213,7 +202,6 @@ surprised,3,3,6
 supposed,4,2,6
 sleeping,1,5,6
 second,5,1,6
-says,4,2,6
 perfect,4,2,6
 made,5,1,6
 luck,1,5,6

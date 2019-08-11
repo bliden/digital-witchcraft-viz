@@ -1,13 +1,10 @@
 word,The Witches of Eastwick,I Married a Witch,total
-do,76,49,125
 dont,69,44,113
-just,54,34,88
 im,40,48,88
 know,50,33,83
 like,32,45,77
 want,31,44,75
 see,29,44,73
-get,25,46,71
 oh,19,51,70
 thats,36,31,67
 yes,29,37,66
@@ -24,25 +21,20 @@ think,28,19,47
 little,28,17,45
 make,21,22,43
 look,19,20,39
-did,12,24,36
 whats,15,20,35
 man,10,23,33
 take,15,17,32
 ive,5,27,32
-let,16,14,30
 time,16,13,29
 people,6,23,29
 woman,15,12,27
 lets,17,10,27
 back,11,16,27
 way,7,18,25
-am,4,21,25
 better,6,18,24
-say,10,13,23
 hes,11,12,23
 shes,12,10,22
 tell,4,17,21
-got,5,16,21
 didnt,5,16,21
 thought,4,16,20
 stop,14,6,20
@@ -68,7 +60,6 @@ thy,1,15,16
 house,8,8,16
 happen,10,6,16
 doing,13,3,16
-does,11,5,16
 youll,2,13,15
 yeah,10,5,15
 sure,8,7,15
@@ -85,7 +76,6 @@ doesnt,7,7,14
 course,5,9,14
 wrong,7,6,13
 talking,7,6,13
-said,5,8,13
 men,9,4,13
 matter,5,8,13
 hmm,5,8,13
@@ -215,7 +205,6 @@ witches,2,3,5
 win,3,2,5
 wed,1,4,5
 war,2,3,5
-wants,3,2,5
 wanted,2,3,5
 used,2,3,5
 times,3,2,5
@@ -450,7 +439,6 @@ sukie,13,0,13
 pain,8,0,8
 bought,8,0,8
 van,7,0,7
-says,7,0,7
 walter,6,0,6
 open,6,0,6
 husband,6,0,6
@@ -1225,7 +1213,6 @@ sukie,0,13,13
 pain,0,8,8
 bought,0,8,8
 van,0,7,7
-says,0,7,7
 walter,0,6,6
 open,0,6,6
 husband,0,6,6

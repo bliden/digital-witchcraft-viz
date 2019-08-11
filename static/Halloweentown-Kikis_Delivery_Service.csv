@@ -2,13 +2,10 @@ word,Halloweentown,Kikis Delivery Service,total
 im,60,62,122
 oh,83,31,114
 like,64,47,111
-do,56,53,109
-just,67,28,95
 go,47,42,89
 dont,54,35,89
 know,66,19,85
 right,33,48,81
-get,53,23,76
 come,51,25,76
 thats,32,36,68
 youre,32,27,59
@@ -24,7 +21,6 @@ want,25,18,43
 ill,15,27,42
 hey,25,17,42
 cant,23,18,41
-did,25,15,40
 town,4,34,38
 little,17,20,37
 really,17,19,36
@@ -33,7 +29,6 @@ ok,20,13,33
 thing,30,2,32
 didnt,17,15,32
 thank,9,22,31
-got,26,4,30
 think,19,10,29
 shes,17,12,29
 help,21,8,29
@@ -42,7 +37,6 @@ ah,9,20,29
 please,12,16,28
 make,13,15,28
 stop,15,12,27
-dear,24,3,27
 take,11,15,26
 sorry,10,16,26
 home,16,10,26
@@ -50,15 +44,12 @@ big,15,11,26
 wont,6,19,25
 witches,15,10,25
 mean,23,2,25
-let,17,8,25
 yeah,23,1,24
 house,10,14,24
 way,13,10,23
 magic,16,7,23
-say,10,11,21
 bus,20,1,21
 thought,8,12,20
-said,14,6,20
 nice,6,14,20
 ive,12,8,20
 broom,6,14,20
@@ -73,7 +64,6 @@ whats,8,10,18
 turn,12,6,18
 theres,11,7,18
 girl,2,16,18
-am,15,3,18
 put,14,3,17
 give,13,4,17
 flying,1,16,17
@@ -102,7 +92,6 @@ excuse,9,5,14
 arent,1,13,14
 soon,5,8,13
 maybe,12,1,13
-does,11,2,13
 better,8,5,13
 work,5,7,12
 use,5,7,12
@@ -139,7 +128,6 @@ doing,9,1,10
 decided,3,7,10
 course,7,3,10
 young,3,6,9
-wants,3,6,9
 used,5,4,9
 tv,2,7,9
 trying,8,1,9
@@ -240,7 +228,6 @@ sister,4,1,5
 sick,2,3,5
 shopping,2,3,5
 sea,1,4,5
-says,3,2,5
 running,2,3,5
 problem,1,4,5
 neat,3,2,5
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2285,4 +2271,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

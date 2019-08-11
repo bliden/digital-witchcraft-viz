@@ -2,13 +2,10 @@ word,Halloweentown,Chronicles of Narnia,total
 witch,19,118,137
 oh,83,27,110
 im,60,44,104
-just,67,34,101
 know,66,32,98
 come,51,42,93
-do,56,36,92
 like,64,27,91
 dont,54,36,90
-get,53,32,85
 mr,1,82,83
 go,47,34,81
 see,39,31,70
@@ -20,14 +17,11 @@ looks,3,46,49
 right,33,14,47
 think,19,27,46
 time,23,18,41
-got,26,14,40
 going,19,20,39
 yes,23,15,38
 cant,23,15,38
-did,25,12,37
 little,17,19,36
 want,25,10,35
-dear,24,11,35
 gonna,30,4,34
 help,21,12,33
 good,23,10,33
@@ -48,7 +42,6 @@ way,13,11,24
 take,11,13,24
 sorry,10,14,24
 lets,21,3,24
-said,14,9,23
 home,16,7,23
 father,4,19,23
 two,13,9,22
@@ -63,7 +56,6 @@ ive,12,9,21
 theres,11,9,20
 thank,9,11,20
 make,13,7,20
-let,17,3,20
 ill,15,5,20
 doesnt,16,4,20
 away,5,15,20
@@ -76,10 +68,8 @@ king,2,16,18
 kids,17,1,18
 hear,6,12,18
 door,4,14,18
-am,15,3,18
 turns,1,16,17
 turn,12,5,17
-say,10,7,17
 give,13,4,17
 thanks,13,3,16
 queen,1,15,16
@@ -92,7 +82,6 @@ start,5,10,15
 man,11,4,15
 isnt,5,10,15
 human,10,5,15
-does,11,4,15
 believe,7,8,15
 whats,8,6,14
 uh,13,1,14
@@ -196,7 +185,6 @@ break,2,6,8
 book,7,1,8
 work,5,2,7
 wasnt,4,3,7
-wants,3,4,7
 understand,5,2,7
 true,5,2,7
 trees,1,6,7
@@ -255,7 +243,6 @@ step,1,4,5
 smart,3,2,5
 sit,2,3,5
 seen,1,4,5
-says,3,2,5
 saying,1,4,5
 running,2,3,5
 reveal,4,1,5
@@ -1359,7 +1346,6 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2200,4 +2186,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

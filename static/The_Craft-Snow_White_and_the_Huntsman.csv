@@ -1,10 +1,8 @@
 word,The Craft,Snow White and the Huntsman,total
 dont,63,18,81
-do,55,26,81
 im,56,24,80
 know,57,18,75
 go,44,16,60
-just,44,10,54
 like,36,12,48
 youre,31,13,44
 yeah,42,1,43
@@ -12,7 +10,6 @@ come,30,13,43
 want,34,8,42
 thats,26,8,34
 sorry,25,8,33
-get,22,11,33
 oh,31,1,32
 look,27,5,32
 think,30,1,31
@@ -26,7 +23,6 @@ shes,20,8,28
 see,17,10,27
 whats,24,2,26
 stop,23,3,26
-did,22,4,26
 didnt,19,5,24
 ill,16,7,23
 cant,18,4,22
@@ -47,7 +43,6 @@ heart,3,13,16
 feel,8,8,16
 powers,10,5,15
 power,12,3,15
-let,8,7,15
 away,8,7,15
 yes,8,6,14
 people,8,5,13
@@ -63,7 +58,6 @@ leave,5,7,12
 kill,6,6,12
 harm,10,2,12
 give,6,6,12
-said,6,5,11
 man,6,5,11
 make,10,1,11
 lets,9,2,11
@@ -82,16 +76,13 @@ home,9,1,10
 help,5,5,10
 gone,3,7,10
 find,3,7,10
-does,4,6,10
 bring,1,9,10
 beauty,1,9,10
-am,4,6,10
 watch,6,3,9
 three,8,1,9
 stay,6,3,9
 spell,5,4,9
 magic,8,1,9
-got,8,1,9
 doing,8,1,9
 better,6,3,9
 beautiful,6,3,9
@@ -130,7 +121,6 @@ sit,4,2,6
 sister,1,5,6
 seen,2,4,6
 second,5,1,6
-say,5,1,6
 red,4,2,6
 real,5,1,6
 pretty,5,1,6
@@ -155,7 +145,6 @@ spirit,3,2,5
 show,3,2,5
 shall,2,3,5
 scars,4,1,5
-says,4,1,5
 place,4,1,5
 old,2,3,5
 move,4,1,5
@@ -387,7 +376,6 @@ exist,3,0,3
 everybody,3,0,3
 east,3,0,3
 downs,3,0,3
-dear,3,0,3
 cry,3,0,3
 crazy,3,0,3
 corners,3,0,3
@@ -1076,7 +1064,6 @@ exist,0,3,3
 everybody,0,3,3
 east,0,3,3
 downs,0,3,3
-dear,0,3,3
 cry,0,3,3
 crazy,0,3,3
 corners,0,3,3

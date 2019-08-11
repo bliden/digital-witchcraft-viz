@@ -2,8 +2,6 @@ word,The Craft,Twitches,total
 dont,63,74,137
 im,56,76,132
 know,57,67,124
-do,55,64,119
-just,44,71,115
 oh,31,61,92
 like,36,49,85
 go,44,33,77
@@ -13,10 +11,8 @@ youre,31,36,67
 really,26,36,62
 want,34,24,58
 thats,26,28,54
-get,22,32,54
 sorry,25,26,51
 right,23,27,50
-did,22,27,49
 come,30,19,49
 look,27,18,45
 whats,24,18,42
@@ -24,7 +20,6 @@ going,22,19,41
 cant,18,23,41
 love,11,29,40
 good,23,17,40
-got,8,31,39
 shes,20,18,38
 please,20,18,38
 mom,4,33,37
@@ -76,13 +71,10 @@ sure,7,10,17
 sisters,4,13,17
 party,2,15,17
 nice,9,8,17
-am,4,13,17
 magical,1,15,16
 girls,9,7,16
 fine,8,8,16
 stay,6,9,15
-say,5,10,15
-said,6,9,15
 home,9,6,15
 give,6,9,15
 better,6,9,15
@@ -116,7 +108,6 @@ true,3,8,11
 told,5,6,11
 three,8,3,11
 long,1,10,11
-let,8,3,11
 kind,2,9,11
 help,5,6,11
 guess,3,8,11
@@ -136,14 +127,12 @@ leave,5,5,10
 killed,6,4,10
 hair,5,5,10
 doesnt,6,4,10
-does,4,6,10
 call,6,4,10
 arent,4,6,10
 weve,2,7,9
 things,6,3,9
 thank,3,6,9
 special,2,7,9
-says,4,5,9
 place,4,5,9
 man,6,3,9
 made,5,4,9
@@ -243,7 +232,6 @@ makes,4,1,5
 hurt,2,3,5
 feeling,2,3,5
 everybody,3,2,5
-dear,3,2,5
 couch,4,1,5
 color,1,4,5
 car,3,2,5

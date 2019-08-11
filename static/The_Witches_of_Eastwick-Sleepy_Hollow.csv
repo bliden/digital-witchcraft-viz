@@ -1,7 +1,5 @@
 word,The Witches of Eastwick,Sleepy Hollow,total
-do,76,13,89
 dont,69,10,79
-just,54,8,62
 know,50,10,60
 im,40,9,49
 yes,29,18,47
@@ -13,19 +11,16 @@ think,28,7,35
 see,29,6,35
 go,26,7,33
 youre,23,9,32
-get,25,6,31
 little,28,1,29
 right,22,5,27
 look,19,7,26
 good,21,5,26
 make,21,4,25
 oh,19,5,24
-did,12,12,24
 time,16,6,22
 take,15,7,22
 going,18,3,21
 dead,5,15,20
-let,16,3,19
 woman,15,3,18
 thank,10,8,18
 man,10,8,18
@@ -42,7 +37,6 @@ shes,12,2,14
 men,9,5,14
 head,3,11,14
 doing,13,1,14
-am,4,10,14
 things,12,1,13
 theyre,12,1,13
 sorry,10,3,13
@@ -51,12 +45,10 @@ need,5,8,13
 hes,11,2,13
 away,8,5,13
 theres,4,8,12
-say,10,2,12
 really,11,1,12
 keep,6,6,12
 house,8,4,12
 four,5,7,12
-does,11,1,12
 call,10,2,12
 way,7,4,11
 two,8,3,11
@@ -108,7 +100,6 @@ use,5,2,7
 today,6,1,7
 taken,1,6,7
 son,2,5,7
-said,5,2,7
 remember,3,4,7
 pregnant,5,2,7
 night,2,5,7
@@ -136,7 +127,6 @@ mean,5,1,6
 kiss,2,4,6
 kill,1,5,6
 home,4,2,6
-got,5,1,6
 give,5,1,6
 friends,4,2,6
 done,4,2,6
@@ -170,7 +160,6 @@ bad,3,2,5
 wouldnt,3,1,4
 wont,3,1,4
 win,3,1,4
-wants,3,1,4
 strong,2,2,4
 stand,2,2,4
 sleep,1,3,4
@@ -325,7 +314,6 @@ wrong,7,0,7
 understand,7,0,7
 terrible,7,0,7
 talking,7,0,7
-says,7,0,7
 walter,6,0,6
 trying,6,0,6
 people,6,0,6
@@ -1240,7 +1228,6 @@ wrong,0,7,7
 understand,0,7,7
 terrible,0,7,7
 talking,0,7,7
-says,0,7,7
 walter,0,6,6
 trying,0,6,6
 people,0,6,6

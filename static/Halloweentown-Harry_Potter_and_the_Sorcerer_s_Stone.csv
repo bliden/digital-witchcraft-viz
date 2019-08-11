@@ -1,19 +1,15 @@
 word,Halloweentown,Harry Potter and the Sorcerer s Stone,total
 oh,83,39,122
-just,67,30,97
 know,66,22,88
 im,60,27,87
-do,56,31,87
 go,47,36,83
 like,64,18,82
 come,51,29,80
-get,53,25,78
 dont,54,21,75
 see,39,31,70
 back,22,41,63
 right,33,23,56
 thats,32,21,53
-got,26,26,52
 youre,32,19,51
 looks,3,43,46
 good,23,22,45
@@ -29,13 +25,11 @@ head,4,30,34
 gonna,30,4,34
 cant,23,10,33
 time,23,9,32
-did,25,7,32
 two,13,18,31
 help,21,10,31
 mean,23,7,30
 man,11,19,30
 way,13,16,29
-dear,24,5,29
 make,13,15,28
 broom,6,22,28
 ooh,25,2,27
@@ -61,13 +55,10 @@ tell,10,12,22
 mr,1,21,22
 great,6,16,22
 day,5,17,22
-am,15,7,22
-said,14,7,21
 give,13,8,21
 youve,14,6,20
 turn,12,8,20
 theres,11,9,20
-let,17,3,20
 ive,12,8,20
 halloween,19,1,20
 goes,3,17,20
@@ -96,12 +87,10 @@ witches,15,1,16
 wall,2,14,16
 name,1,15,16
 doing,9,7,16
-does,11,5,16
 class,2,14,16
 bye,14,2,16
 big,15,1,16
 sighs,12,3,15
-say,10,5,15
 people,4,11,15
 leave,5,10,15
 gets,1,14,15
@@ -284,7 +273,6 @@ sky,1,4,5
 sister,4,1,5
 shut,2,3,5
 seeing,2,3,5
-says,3,2,5
 return,4,1,5
 reading,1,4,5
 read,2,3,5
@@ -323,7 +311,6 @@ brooms,2,3,5
 bell,4,1,5
 ask,3,2,5
 yay,2,2,4
-wants,3,1,4
 waiting,2,2,4
 top,1,3,4
 tired,3,1,4
@@ -1359,7 +1346,6 @@ afterlife,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2153,4 +2139,3 @@ afterlife,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

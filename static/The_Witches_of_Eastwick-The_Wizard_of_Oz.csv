@@ -1,13 +1,10 @@
 word,The Witches of Eastwick,The Wizard of Oz,total
-do,76,62,138
 dont,69,54,123
 im,40,64,104
-just,54,46,100
 man,10,89,99
 come,29,63,92
 thats,36,54,90
 go,26,50,76
-get,25,51,76
 know,50,23,73
 see,29,43,72
 back,11,55,66
@@ -21,7 +18,6 @@ little,28,25,53
 think,28,22,50
 oh,19,31,50
 ha,3,42,45
-got,5,37,42
 ill,5,36,41
 look,19,21,40
 home,4,36,40
@@ -29,13 +25,11 @@ good,21,19,40
 take,15,24,39
 away,8,31,39
 going,18,19,37
-let,16,17,33
 place,4,28,32
 time,16,15,31
 theres,4,27,31
 shes,12,19,31
 scene,1,30,31
-did,12,19,31
 way,7,23,30
 make,21,9,30
 help,3,26,29
@@ -50,13 +44,11 @@ id,3,22,25
 give,5,20,25
 dead,5,20,25
 really,11,13,24
-does,11,13,24
 ive,5,18,23
 didnt,5,18,23
 great,5,17,22
 wonderful,1,20,21
 stop,14,7,21
-say,10,11,21
 hes,11,10,21
 day,9,12,21
 woman,15,5,20
@@ -67,7 +59,6 @@ feel,14,5,19
 brain,2,17,19
 afraid,5,14,19
 thank,10,8,18
-says,7,11,18
 isnt,10,8,18
 ho,1,17,18
 three,7,10,17
@@ -94,8 +85,6 @@ sure,8,6,14
 open,6,8,14
 keep,6,8,14
 bad,3,11,14
-am,4,10,14
-said,5,8,13
 put,3,10,13
 nice,9,4,13
 mean,5,8,13
@@ -483,7 +472,6 @@ children,4,0,4
 answer,4,0,4
 york,3,0,3
 win,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 trust,3,0,3
@@ -1270,7 +1258,6 @@ children,0,4,4
 answer,0,4,4
 york,0,3,3
 win,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 trust,0,3,3

@@ -1,12 +1,9 @@
 word,The Craft,Kill List,total
 dont,63,55,118
-do,55,60,115
 yeah,42,69,111
 know,57,46,103
 im,56,40,96
-just,44,35,79
 go,44,26,70
-get,22,46,68
 right,23,40,63
 like,36,26,62
 oh,31,27,58
@@ -27,10 +24,8 @@ hes,17,15,32
 back,17,15,32
 whats,24,7,31
 please,20,11,31
-did,22,8,30
 shes,20,8,28
 see,17,11,28
-got,8,20,28
 mean,16,11,27
 man,6,21,27
 stop,23,3,26
@@ -47,7 +42,6 @@ lets,9,10,19
 wait,16,2,18
 theyre,11,7,18
 tell,9,9,18
-say,5,13,18
 listen,6,12,18
 thank,3,13,16
 take,9,7,16
@@ -58,7 +52,6 @@ three,8,7,15
 thought,9,6,15
 doing,8,7,15
 way,11,3,14
-does,4,10,14
 time,5,8,13
 theres,4,9,13
 sure,7,6,13
@@ -68,7 +61,6 @@ hi,9,4,13
 talking,7,5,12
 night,3,9,12
 make,10,2,12
-let,8,4,12
 home,9,3,12
 fine,8,4,12
 yes,8,3,11
@@ -89,11 +81,9 @@ girls,9,1,10
 getting,4,6,10
 feel,8,2,10
 better,6,4,10
-am,4,6,10
 things,6,3,9
 talk,4,5,9
 stay,6,3,9
-said,6,3,9
 pay,7,2,9
 life,6,3,9
 happened,7,2,9
@@ -119,7 +109,6 @@ wasnt,1,6,7
 wanted,4,3,7
 two,1,6,7
 sit,4,3,7
-says,4,3,7
 old,2,5,7
 new,3,4,7
 isnt,2,5,7
@@ -217,7 +206,6 @@ guy,3,1,4
 fall,2,2,4
 face,1,3,4
 dinner,2,2,4
-dear,3,1,4
 deal,2,2,4
 darling,2,2,4
 crazy,3,1,4

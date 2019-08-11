@@ -1,18 +1,14 @@
 word,Harry Potter and the Sorcerers Stone,The Conjuring,total
-do,31,55,86
 go,36,47,83
-get,25,58,83
 oh,39,41,80
 im,27,39,66
 come,29,37,66
-just,30,33,63
 see,31,27,58
 dont,21,36,57
 back,41,16,57
 know,22,31,53
 right,23,27,50
 thats,21,28,49
-got,26,22,48
 okay,3,42,45
 looks,43,1,44
 look,17,25,42
@@ -39,13 +35,11 @@ man,19,6,25
 mr,21,3,24
 name,15,8,23
 family,13,10,23
-did,7,16,23
 comes,22,1,23
 stop,11,11,22
 later,19,3,22
 gonna,4,18,22
 theres,9,12,21
-said,7,14,21
 didnt,10,11,21
 bit,18,3,21
 uh,5,15,20
@@ -88,12 +82,10 @@ nice,5,9,14
 lot,2,12,14
 ive,8,6,14
 give,8,6,14
-am,7,7,14
 takes,12,1,13
 sir,12,1,13
 open,7,6,13
 little,7,6,13
-let,3,10,13
 keep,7,6,13
 girl,10,3,13
 doing,7,6,13
@@ -135,7 +127,6 @@ coming,2,8,10
 window,8,1,9
 try,6,3,9
 stay,3,6,9
-say,5,4,9
 place,4,5,9
 mind,7,2,9
 locked,5,4,9
@@ -146,7 +137,6 @@ heard,6,3,9
 follow,8,1,9
 eyes,7,2,9
 excuse,8,1,9
-does,5,4,9
 bad,7,2,9
 youll,6,2,8
 wrong,4,4,8
@@ -218,7 +208,6 @@ baby,4,2,6
 ahead,2,4,6
 world,3,2,5
 week,4,1,5
-wants,1,4,5
 touch,1,4,5
 top,3,2,5
 told,4,1,5
@@ -641,7 +630,6 @@ dursleys,5,0,5
 doorway,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -913,7 +901,6 @@ seat,2,0,2
 screen,2,0,2
 screeches,2,0,2
 scatter,2,0,2
-says,2,0,2
 save,2,0,2
 rushing,2,0,2
 rushes,2,0,2
@@ -2275,7 +2262,6 @@ dursleys,0,5,5
 doorway,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5
@@ -2547,7 +2533,6 @@ seat,0,2,2
 screen,0,2,2
 screeches,0,2,2
 scatter,0,2,2
-says,0,2,2
 save,0,2,2
 rushing,0,2,2
 rushes,0,2,2

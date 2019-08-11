@@ -1,9 +1,7 @@
 word,The Craft,Harry Potter and the Goblet of Fire,total
 dont,63,33,96
 know,57,31,88
-do,55,31,86
 im,56,11,67
-just,44,21,65
 go,44,17,61
 yeah,42,16,58
 youre,31,18,49
@@ -14,8 +12,6 @@ right,23,20,43
 want,34,8,42
 think,30,10,40
 thats,26,12,38
-get,22,15,37
-did,22,15,37
 look,27,9,36
 yes,8,24,32
 see,17,15,32
@@ -43,7 +39,6 @@ mean,16,3,19
 gonna,15,4,19
 thought,9,9,18
 put,6,12,18
-let,8,10,18
 theyre,11,6,17
 maybe,15,1,16
 told,5,10,15
@@ -66,10 +61,8 @@ take,9,2,11
 saying,8,3,11
 old,2,9,11
 hi,9,2,11
-got,8,3,11
 feel,8,3,11
 thank,3,7,10
-say,5,5,10
 mr,2,8,10
 man,6,4,10
 lets,9,1,10
@@ -81,7 +74,6 @@ believe,6,4,10
 away,8,2,10
 thing,7,2,9
 talking,7,2,9
-said,6,3,9
 ready,3,6,9
 hell,4,5,9
 happened,7,2,9
@@ -109,7 +101,6 @@ wanted,4,3,7
 use,3,4,7
 thanks,2,5,7
 sit,4,3,7
-says,4,3,7
 room,3,4,7
 read,5,2,7
 north,6,1,7
@@ -127,7 +118,6 @@ circle,6,1,7
 boy,1,6,7
 big,6,1,7
 bad,6,1,7
-am,4,3,7
 youve,1,5,6
 wrong,5,1,6
 weve,2,4,6
@@ -156,7 +146,6 @@ hello,4,2,6
 happen,5,1,6
 gotta,5,1,6
 enter,4,2,6
-does,4,2,6
 completely,3,3,6
 brilliant,1,5,6
 arent,4,2,6
@@ -183,7 +172,6 @@ five,4,1,5
 find,3,2,5
 face,1,4,5
 drink,4,1,5
-dear,3,2,5
 came,3,2,5
 attention,1,4,5
 youd,2,2,4

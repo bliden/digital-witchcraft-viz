@@ -1,9 +1,7 @@
 word,The Witches of Eastwick,The Huntsman,total
-do,76,51,127
 dont,69,30,99
 know,50,31,81
 im,40,39,79
-just,54,18,72
 thats,36,27,63
 youre,23,33,56
 like,32,24,56
@@ -14,12 +12,10 @@ love,15,29,44
 yes,29,13,42
 think,28,14,42
 go,26,16,42
-get,25,14,39
 want,31,7,38
 oh,19,19,38
 little,28,10,38
 mirror,3,33,36
-did,12,24,36
 cant,29,6,35
 look,19,14,33
 yeah,10,22,32
@@ -27,10 +23,8 @@ good,21,8,29
 time,16,12,28
 take,15,12,27
 make,21,6,27
-let,16,10,26
 man,10,14,24
 stop,14,8,22
-say,10,12,22
 going,18,4,22
 things,12,9,21
 kill,1,20,21
@@ -46,7 +40,6 @@ ill,5,13,18
 hes,11,7,18
 sorry,10,7,17
 okay,16,1,17
-got,5,12,17
 find,1,16,17
 doing,13,4,17
 children,4,13,17
@@ -58,7 +51,6 @@ tell,4,11,15
 god,12,3,15
 feel,14,1,15
 eyes,9,6,15
-does,11,4,15
 dead,5,10,15
 three,7,7,14
 thing,6,8,14
@@ -86,7 +78,6 @@ theres,4,7,11
 fine,6,5,11
 call,10,1,11
 talking,7,3,10
-said,5,5,10
 people,6,4,10
 pain,8,2,10
 mean,5,5,10
@@ -96,7 +87,6 @@ id,3,7,10
 ice,5,5,10
 heart,1,9,10
 face,1,9,10
-am,4,6,10
 wrong,7,2,9
 town,8,1,9
 talk,8,1,9
@@ -384,7 +374,6 @@ house,8,0,8
 bought,8,0,8
 van,7,0,7
 understand,7,0,7
-says,7,0,7
 play,7,0,7
 walter,6,0,6
 today,6,0,6
@@ -435,7 +424,6 @@ appreciate,4,0,4
 answer,4,0,4
 york,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 spofford,3,0,3
@@ -1230,7 +1218,6 @@ house,0,8,8
 bought,0,8,8
 van,0,7,7
 understand,0,7,7
-says,0,7,7
 play,0,7,7
 walter,0,6,6
 today,0,6,6
@@ -1281,7 +1268,6 @@ appreciate,0,4,4
 answer,0,4,4
 york,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 spofford,0,3,3

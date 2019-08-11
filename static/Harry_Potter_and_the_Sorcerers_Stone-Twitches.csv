@@ -1,15 +1,11 @@
 word,Harry Potter and the Sorcerers Stone,Twitches,total
 im,27,76,103
-just,30,71,101
 oh,39,61,100
 dont,21,74,95
-do,31,64,95
 know,22,67,89
 go,36,33,69
 like,18,49,67
 think,15,42,57
-got,26,31,57
-get,25,32,57
 back,41,15,56
 youre,19,36,55
 right,23,27,50
@@ -26,7 +22,6 @@ look,17,18,35
 want,10,24,34
 two,18,16,34
 sorry,8,26,34
-did,7,27,34
 day,17,16,33
 cant,10,23,33
 yes,12,20,32
@@ -65,7 +60,6 @@ bit,18,3,21
 name,15,5,20
 light,5,15,20
 lets,6,14,20
-am,7,13,20
 wait,5,14,19
 shes,1,18,19
 life,3,16,19
@@ -82,7 +76,6 @@ isnt,6,11,17
 give,8,9,17
 family,13,4,17
 believe,3,14,17
-said,7,9,16
 knew,6,10,16
 help,10,6,16
 hand,15,1,16
@@ -93,7 +86,6 @@ better,7,9,16
 bad,7,9,16
 wall,14,1,15
 sure,5,10,15
-say,5,10,15
 need,7,8,15
 maybe,6,9,15
 long,5,10,15
@@ -148,7 +140,6 @@ mind,7,4,11
 fine,3,8,11
 eyes,7,4,11
 doing,7,4,11
-does,5,6,11
 cool,1,10,11
 coming,2,9,11
 wouldnt,1,9,10
@@ -211,7 +202,6 @@ talk,1,6,7
 stand,3,4,7
 seen,5,2,7
 scar,6,1,7
-says,2,5,7
 saying,3,4,7
 safe,1,6,7
 past,6,1,7
@@ -222,7 +212,6 @@ inside,6,1,7
 heard,6,1,7
 having,3,4,7
 finally,4,3,7
-dear,5,2,7
 castle,5,2,7
 car,5,2,7
 born,1,6,7
@@ -240,7 +229,6 @@ problem,1,5,6
 near,5,1,6
 minutes,2,4,6
 lived,3,3,6
-let,3,3,6
 late,3,3,6
 itll,3,3,6
 idea,1,5,6
@@ -436,7 +424,6 @@ wishes,1,1,2
 windows,1,1,2
 wed,1,1,2
 wear,1,1,2
-wants,1,1,2
 voice,1,1,2
 upstairs,1,1,2
 tries,1,1,2

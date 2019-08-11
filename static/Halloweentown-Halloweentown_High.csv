@@ -1,13 +1,10 @@
 word,Halloweentown,Halloweentown High,total
 oh,83,111,194
 know,66,79,145
-just,67,77,144
 im,60,82,142
 dont,54,56,110
-do,56,49,105
 like,64,40,104
 go,47,45,92
-get,53,34,87
 come,51,33,84
 grandma,56,17,73
 see,39,31,70
@@ -24,12 +21,10 @@ think,19,31,50
 really,17,33,50
 good,23,26,49
 magic,16,31,47
-did,25,22,47
 cant,23,24,47
 lets,21,25,46
 little,17,28,45
 hey,25,20,45
-got,26,17,43
 going,19,24,43
 want,25,16,41
 time,23,18,41
@@ -45,17 +40,12 @@ halloweentown,17,19,36
 sorry,10,25,35
 halloween,19,14,33
 world,20,11,31
-said,14,17,31
 shes,17,13,30
-dear,24,6,30
-let,17,11,28
 didnt,17,11,28
 way,13,14,27
 theres,11,15,26
 ill,15,11,26
 um,10,15,25
-say,10,15,25
-am,15,10,25
 witch,19,5,24
 wait,8,16,24
 two,13,11,24
@@ -127,7 +117,6 @@ open,7,7,14
 long,12,2,14
 idea,4,10,14
 huh,10,4,14
-does,11,3,14
 day,5,9,14
 coming,12,2,14
 came,10,4,14
@@ -242,7 +231,6 @@ afraid,3,4,7
 years,3,3,6
 working,5,1,6
 watch,3,3,6
-wants,3,3,6
 trust,3,3,6
 tonight,4,2,6
 suppose,4,2,6
@@ -252,7 +240,6 @@ somebodys,5,1,6
 shell,5,1,6
 set,1,5,6
 seen,1,5,6
-says,3,3,6
 saw,1,5,6
 running,2,4,6
 reason,3,3,6
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 talisman,0,14,14
 sighs,0,12,12
 calabar,0,11,11
@@ -2192,4 +2178,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

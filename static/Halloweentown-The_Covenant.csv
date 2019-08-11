@@ -1,13 +1,10 @@
 word,Halloweentown,The Covenant,total
-just,67,49,116
 know,66,37,103
 im,60,33,93
 oh,83,9,92
 like,64,28,92
 dont,54,38,92
 go,47,36,83
-do,56,26,82
-get,53,16,69
 come,51,11,62
 see,39,17,56
 yeah,23,31,54
@@ -17,14 +14,12 @@ right,33,18,51
 thats,32,18,50
 good,23,20,43
 gonna,30,10,40
-did,25,15,40
 lets,21,18,39
 ill,15,24,39
 want,25,12,37
 mother,30,6,36
 thing,30,5,35
 look,27,8,35
-got,26,9,35
 back,22,13,35
 mom,31,2,33
 think,19,13,32
@@ -35,9 +30,6 @@ hes,10,20,30
 going,19,10,29
 yes,23,4,27
 man,11,16,27
-let,17,10,27
-say,10,16,26
-dear,24,1,25
 stop,15,9,24
 little,17,7,24
 shes,17,6,23
@@ -53,7 +45,6 @@ take,11,10,21
 night,6,15,21
 make,13,8,21
 whats,8,12,20
-said,14,6,20
 guys,8,12,20
 call,4,16,20
 thanks,13,6,19
@@ -72,7 +63,6 @@ life,10,7,17
 kind,7,10,17
 stuff,14,2,16
 big,15,1,16
-am,15,1,16
 thank,9,6,15
 put,14,1,15
 power,2,13,15
@@ -82,7 +72,6 @@ ive,12,3,15
 huh,10,5,15
 dylan,14,1,15
 doing,9,6,15
-does,11,4,15
 two,13,1,14
 theyre,6,8,14
 please,12,2,14
@@ -149,7 +138,6 @@ boys,1,7,8
 actually,7,1,8
 weve,6,1,7
 wasnt,4,3,7
-wants,3,4,7
 wanted,3,4,7
 using,1,6,7
 try,5,2,7
@@ -236,7 +224,6 @@ sick,2,2,4
 shot,1,3,4
 seen,1,3,4
 seeing,2,2,4
-says,3,1,4
 running,2,2,4
 run,3,1,4
 rest,1,3,4
@@ -1359,7 +1346,6 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 ooh,0,25,25
@@ -2338,4 +2324,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

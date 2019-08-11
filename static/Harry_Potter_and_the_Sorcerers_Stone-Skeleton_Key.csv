@@ -1,24 +1,18 @@
 word,Harry Potter and the Sorcerers Stone,Skeleton Key,total
-do,31,28,59
 dont,21,36,57
 know,22,34,56
 go,36,18,54
 house,15,34,49
 oh,39,9,48
-did,7,38,45
 looks,43,1,44
 back,41,3,44
 see,31,10,41
 come,29,8,37
 good,22,14,36
-am,7,29,36
-get,25,10,35
 right,23,10,33
-just,30,3,33
 head,30,2,32
 door,23,9,32
 want,10,21,31
-got,26,5,31
 like,18,12,30
 think,15,13,28
 room,11,16,27
@@ -36,13 +30,10 @@ time,9,12,21
 stop,11,10,21
 two,18,2,20
 take,12,8,20
-say,5,15,20
-said,7,13,20
 mrs,10,10,20
 left,6,14,20
 leave,10,10,20
 later,19,1,20
-does,5,15,20
 way,16,3,19
 tell,12,7,19
 night,6,13,19
@@ -67,7 +58,6 @@ give,8,6,14
 find,9,5,14
 called,13,1,14
 years,9,4,13
-wants,1,12,13
 walk,11,2,13
 thought,3,10,13
 takes,12,1,13
@@ -133,7 +123,6 @@ mean,7,1,8
 making,4,4,8
 long,5,3,8
 little,7,1,8
-let,3,5,8
 kill,3,5,8
 key,3,5,8
 keep,7,1,8
@@ -203,7 +192,6 @@ taken,4,1,5
 small,4,1,5
 slowly,4,1,5
 sky,4,1,5
-says,2,3,5
 saying,3,2,5
 saw,1,4,5
 ready,2,3,5
@@ -585,7 +573,6 @@ dursleys,5,0,5
 doorway,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -2297,7 +2284,6 @@ dursleys,0,5,5
 doorway,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5

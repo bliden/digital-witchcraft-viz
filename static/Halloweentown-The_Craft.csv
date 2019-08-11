@@ -3,12 +3,9 @@ know,66,57,123
 dont,54,63,117
 im,60,56,116
 oh,83,31,114
-just,67,44,111
-do,56,55,111
 like,64,36,100
 go,47,44,91
 come,51,30,81
-get,53,22,75
 yeah,23,42,65
 youre,32,31,63
 want,25,34,59
@@ -17,7 +14,6 @@ see,39,17,56
 right,33,23,56
 look,27,27,54
 think,19,30,49
-did,25,22,47
 good,23,23,46
 gonna,30,15,45
 really,17,26,43
@@ -32,7 +28,6 @@ didnt,17,19,36
 sorry,10,25,35
 mother,30,5,35
 mom,31,4,35
-got,26,8,34
 whats,8,24,32
 please,12,20,32
 yes,23,8,31
@@ -43,12 +38,10 @@ time,23,5,28
 witch,19,8,27
 maybe,12,15,27
 hes,10,17,27
-dear,24,3,27
 ooh,25,1,26
 hey,25,1,26
 help,21,5,26
 guys,8,18,26
-let,17,8,25
 home,16,9,25
 way,13,11,24
 wait,8,16,24
@@ -60,12 +53,10 @@ doesnt,16,6,22
 world,20,1,21
 big,15,6,21
 take,11,9,20
-said,14,6,20
 put,14,6,20
 tell,10,9,19
 give,13,6,19
 bet,18,1,19
-am,15,4,19
 stuff,14,4,18
 kids,17,1,18
 bye,14,4,18
@@ -82,11 +73,9 @@ coming,12,4,16
 youve,14,1,15
 theres,11,4,15
 thanks,13,2,15
-say,10,5,15
 nice,6,9,15
 keep,10,5,15
 hi,6,9,15
-does,11,4,15
 uh,13,1,14
 two,13,1,14
 turn,12,2,14
@@ -173,7 +162,6 @@ supposed,3,4,7
 spells,4,3,7
 special,5,2,7
 shut,2,5,7
-says,3,4,7
 run,3,4,7
 read,2,5,7
 party,5,2,7
@@ -508,7 +496,6 @@ years,3,0,3
 witchs,3,0,3
 whispering,3,0,3
 warlock,3,0,3
-wants,3,0,3
 train,3,0,3
 tired,3,0,3
 statues,3,0,3
@@ -1359,7 +1346,6 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 sophie,0,20,20
@@ -1446,7 +1432,6 @@ years,0,3,3
 witchs,0,3,3
 whispering,0,3,3
 warlock,0,3,3
-wants,0,3,3
 train,0,3,3
 tired,0,3,3
 statues,0,3,3
@@ -2297,4 +2282,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

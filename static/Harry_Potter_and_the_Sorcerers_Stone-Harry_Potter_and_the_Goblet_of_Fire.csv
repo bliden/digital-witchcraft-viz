@@ -3,18 +3,15 @@ harry,376,43,419
 ron,111,12,123
 hagrid,103,8,111
 hermione,84,3,87
-do,31,31,62
 potter,34,23,57
 dont,21,33,54
 know,22,31,53
 go,36,17,53
 oh,39,13,52
-just,30,21,51
 back,41,10,51
 come,29,18,47
 see,31,15,46
 right,23,20,43
-get,25,15,40
 im,27,11,38
 youre,19,18,37
 yes,12,24,36
@@ -26,7 +23,6 @@ neville,28,2,30
 gryffindor,29,1,30
 mr,21,8,29
 like,18,11,29
-got,26,3,29
 boy,23,6,29
 professor,23,5,28
 hogwarts,24,4,28
@@ -47,7 +43,6 @@ bit,18,5,23
 please,13,9,22
 later,19,3,22
 going,17,5,22
-did,7,15,22
 two,18,3,21
 three,10,11,21
 put,9,12,21
@@ -85,7 +80,6 @@ dark,8,6,14
 cup,5,9,14
 called,13,1,14
 stops,12,1,13
-let,3,10,13
 course,8,5,13
 welcome,10,2,12
 thought,3,9,12
@@ -120,8 +114,6 @@ year,8,2,10
 world,3,7,10
 thanks,5,5,10
 sure,5,5,10
-say,5,5,10
-said,7,3,10
 owls,9,1,10
 mean,7,3,10
 leaves,9,1,10
@@ -129,7 +121,6 @@ hell,5,5,10
 goblet,1,9,10
 eye,5,5,10
 cloak,6,4,10
-am,7,3,10
 youll,6,3,9
 wizard,8,1,9
 window,8,1,9
@@ -198,8 +189,6 @@ fly,6,1,7
 feet,4,3,7
 dragon,4,3,7
 doesnt,4,3,7
-does,5,2,7
-dear,5,2,7
 clear,4,3,7
 believe,3,4,7
 young,3,3,6
@@ -251,7 +240,6 @@ shall,1,4,5
 sent,2,3,5
 seeing,3,2,5
 seats,2,3,5
-says,2,3,5
 real,4,1,5
 read,3,2,5
 named,4,1,5
@@ -398,7 +386,6 @@ witches,1,1,2
 wishing,1,1,2
 wed,1,1,2
 wear,1,1,2
-wants,1,1,2
 walls,1,1,2
 usual,1,1,2
 turning,1,1,2

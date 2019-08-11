@@ -1,13 +1,10 @@
 word,The Witches of Eastwick,Hansel and Gretel,total
-do,76,24,100
 dont,69,28,97
 im,40,34,74
 know,50,23,73
-just,54,14,68
 go,26,24,50
 thats,36,13,49
 like,32,15,47
-get,25,21,46
 come,29,17,46
 yeah,10,33,43
 want,31,12,43
@@ -22,14 +19,12 @@ oh,19,20,39
 okay,16,22,38
 cant,29,9,38
 take,15,14,29
-did,12,17,29
 time,16,11,27
 going,18,9,27
 make,21,5,26
 look,19,7,26
 back,11,15,26
 witches,2,21,23
-let,16,7,23
 woman,15,7,22
 whats,15,7,22
 really,11,11,22
@@ -44,12 +39,9 @@ need,5,14,19
 love,15,3,18
 doing,13,5,18
 god,12,5,17
-does,11,6,17
 way,7,9,16
 two,8,8,16
 thank,10,6,16
-say,10,6,16
-got,5,11,16
 things,12,3,15
 name,10,5,15
 three,7,7,14
@@ -104,8 +96,6 @@ world,6,2,8
 trying,6,2,8
 tell,4,4,8
 strange,4,4,8
-says,7,1,8
-said,5,3,8
 morning,5,3,8
 maybe,6,2,8
 looking,7,1,8
@@ -162,7 +152,6 @@ evil,4,2,6
 end,1,5,6
 drink,2,4,6
 beautiful,2,4,6
-am,4,2,6
 weird,1,4,5
 sugar,4,1,5
 six,3,2,5
@@ -418,7 +407,6 @@ york,3,0,3
 wouldnt,3,0,3
 wife,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 trust,3,0,3
@@ -1284,7 +1272,6 @@ york,0,3,3
 wouldnt,0,3,3
 wife,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 trust,0,3,3

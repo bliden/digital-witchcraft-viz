@@ -1,15 +1,12 @@
 word,Snow White and the Seven Dwarves,Witches of Eastwick,total
-do,36,76,112
 dont,35,69,104
 ah,80,2,82
 ho,78,1,79
 know,17,50,67
 oh,47,19,66
-just,11,54,65
 im,25,40,65
 go,39,26,65
 yes,28,29,57
-get,24,25,49
 like,16,32,48
 come,18,29,47
 thats,10,36,46
@@ -20,7 +17,6 @@ uh,38,1,39
 good,18,21,39
 look,18,19,37
 youre,12,23,35
-let,19,16,35
 happy,32,3,35
 want,2,31,33
 make,12,21,33
@@ -43,13 +39,11 @@ time,3,16,19
 ill,13,5,18
 woman,2,15,17
 feel,3,14,17
-did,5,12,17
 theyre,4,12,16
 things,3,12,15
 heart,14,1,15
 yeah,4,10,14
 sure,6,8,14
-say,4,10,14
 house,6,8,14
 home,10,4,14
 end,13,1,14
@@ -64,7 +58,6 @@ sorry,2,10,12
 shh,9,3,12
 please,7,5,12
 isnt,2,10,12
-got,7,5,12
 call,2,10,12
 today,5,6,11
 talk,3,8,11
@@ -100,7 +93,6 @@ watch,7,1,8
 understand,1,7,8
 three,1,7,8
 thought,4,4,8
-says,1,7,8
 poor,3,5,8
 place,4,4,8
 kill,7,1,8
@@ -114,7 +106,6 @@ birds,4,4,8
 use,2,5,7
 try,2,5,7
 smile,5,2,7
-said,2,5,7
 open,1,6,7
 night,5,2,7
 mm,1,6,7
@@ -146,7 +137,6 @@ forever,4,2,6
 eat,1,5,6
 death,5,1,6
 believe,1,5,6
-am,2,4,6
 youve,1,4,5
 words,3,2,5
 week,1,4,5
@@ -364,7 +354,6 @@ mine,5,0,5
 mighty,5,0,5
 hide,5,0,5
 em,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -556,7 +545,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -958,7 +946,6 @@ mine,0,5,5
 mighty,0,5,5
 hide,0,5,5
 em,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1150,7 +1137,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

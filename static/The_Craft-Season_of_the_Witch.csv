@@ -1,22 +1,18 @@
 word,The Craft,Season of the Witch,total
-do,55,26,81
 know,57,23,80
 dont,63,15,78
 im,56,14,70
 go,44,16,60
 like,36,15,51
-just,44,7,51
 youre,31,17,48
 god,20,25,45
 come,30,13,43
 want,34,7,41
-did,22,15,37
 oh,31,5,36
 please,20,15,35
 think,30,4,34
 witch,8,25,33
 thats,26,5,31
-get,22,9,31
 look,27,3,30
 see,17,12,29
 sorry,25,3,28
@@ -39,18 +35,15 @@ back,17,4,21
 hes,17,3,20
 take,9,10,19
 need,14,5,19
-let,8,11,19
 mean,16,2,18
 yes,8,9,17
 maybe,15,2,17
 little,14,3,17
 gonna,15,2,17
-say,5,10,15
 shit,13,1,14
 head,12,2,14
 three,8,5,13
 theyre,11,2,13
-said,6,7,13
 harm,10,3,13
 book,4,9,13
 believe,6,7,13
@@ -67,7 +60,6 @@ home,9,2,11
 hold,6,5,11
 doing,8,3,11
 better,6,5,11
-am,4,7,11
 told,5,5,10
 thee,9,1,10
 light,9,1,10
@@ -111,7 +103,6 @@ use,3,4,7
 two,1,6,7
 trying,6,1,7
 thank,3,4,7
-says,4,3,7
 mind,4,3,7
 jesus,3,4,7
 holy,2,5,7
@@ -161,7 +152,6 @@ gave,3,2,5
 find,3,2,5
 eyes,4,1,5
 drink,4,1,5
-does,4,1,5
 devil,3,2,5
 daughter,1,4,5
 christ,1,4,5
@@ -191,7 +181,6 @@ hang,3,1,4
 four,1,3,4
 food,1,3,4
 far,2,2,4
-dear,3,1,4
 days,2,2,4
 course,3,1,4
 corners,3,1,4
@@ -310,7 +299,6 @@ laura,8,0,8
 honey,8,0,8
 hail,8,0,8
 guardians,8,0,8
-got,8,0,8
 pay,7,0,7
 looking,7,0,7
 bonnie,7,0,7
@@ -991,7 +979,6 @@ laura,0,8,8
 honey,0,8,8
 hail,0,8,8
 guardians,0,8,8
-got,0,8,8
 pay,0,7,7
 looking,0,7,7
 bonnie,0,7,7

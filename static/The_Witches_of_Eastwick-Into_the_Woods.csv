@@ -1,10 +1,7 @@
 word,The Witches of Eastwick,Into the Woods,total
-do,76,67,143
 dont,69,55,124
-just,54,64,118
 im,40,67,107
 know,50,50,100
-get,25,61,86
 go,26,58,84
 yes,29,52,81
 youre,23,55,78
@@ -19,7 +16,6 @@ good,21,30,51
 wish,2,48,50
 back,11,39,50
 look,19,29,48
-did,12,36,48
 thats,36,11,47
 going,18,29,47
 think,28,17,45
@@ -27,7 +23,6 @@ cant,29,16,45
 prince,3,41,44
 take,15,27,42
 make,21,20,41
-let,16,25,41
 time,16,21,37
 wait,5,31,36
 mother,1,35,36
@@ -42,7 +37,6 @@ okay,16,14,30
 nice,9,18,27
 need,5,22,27
 doing,13,14,27
-said,5,21,26
 hes,11,15,26
 yeah,10,15,25
 theres,4,21,25
@@ -54,7 +48,6 @@ thank,10,13,23
 shes,12,11,23
 love,15,8,23
 home,4,19,23
-got,5,18,23
 give,5,18,23
 feel,14,9,23
 three,7,15,22
@@ -62,7 +55,6 @@ lets,17,5,22
 ill,5,17,22
 woman,15,6,21
 wife,3,18,21
-say,10,11,21
 youve,4,16,20
 youll,2,18,20
 really,11,9,20
@@ -78,7 +70,6 @@ ive,5,14,19
 day,9,10,19
 course,5,14,19
 big,6,13,19
-am,4,15,19
 true,8,10,18
 theyre,12,6,18
 sure,8,10,18
@@ -88,7 +79,6 @@ hello,4,14,18
 hair,1,17,18
 boy,1,17,18
 help,3,14,17
-does,11,6,17
 wrong,7,9,16
 weve,1,15,16
 place,4,12,16
@@ -162,8 +152,6 @@ found,1,8,9
 family,6,3,9
 easy,7,2,9
 dark,2,7,9
-wants,3,5,8
-says,7,1,8
 remember,3,5,8
 play,7,1,8
 open,6,2,8

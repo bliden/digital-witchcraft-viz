@@ -1,23 +1,19 @@
 word,The Craft,Harry Potter and the Prisoner of Azkaban,total
-do,55,62,117
 dont,63,49,112
 know,57,44,101
 come,30,69,99
 im,56,30,86
-just,44,38,82
 go,44,37,81
 thats,26,42,68
 like,36,30,66
 think,30,35,65
 yeah,42,19,61
-did,22,39,61
 oh,31,28,59
 good,23,35,58
 youre,31,23,54
 see,17,37,54
 right,23,28,51
 want,34,16,50
-get,22,26,48
 look,27,20,47
 really,26,18,44
 hes,17,27,44
@@ -37,10 +33,8 @@ cant,18,13,31
 way,11,19,30
 little,14,16,30
 mean,16,11,27
-got,8,19,27
 take,9,17,26
 stop,23,3,26
-let,8,18,26
 theyre,11,14,25
 gonna,15,9,24
 need,14,9,23
@@ -51,7 +45,6 @@ tell,9,13,22
 shes,20,2,22
 kill,6,16,22
 away,8,14,22
-say,5,16,21
 nice,9,10,19
 man,6,13,19
 keep,5,14,19
@@ -69,7 +62,6 @@ head,12,4,16
 boy,1,15,16
 better,6,10,16
 three,8,7,15
-said,6,9,15
 power,12,3,15
 night,3,12,15
 magic,8,7,15
@@ -96,10 +88,7 @@ looking,7,6,13
 listen,6,7,13
 harm,10,3,13
 happened,7,6,13
-does,4,9,13
-dear,3,10,13
 day,3,10,13
-am,4,9,13
 youve,1,11,12
 wont,1,11,12
 thank,3,9,12
@@ -204,7 +193,6 @@ shape,1,5,6
 set,1,5,6
 second,5,1,6
 scared,4,2,6
-says,4,2,6
 red,4,2,6
 new,3,3,6
 nature,3,3,6

@@ -1,11 +1,8 @@
 word,Harry Potter and the Sorcerers Stone,Into the Woods,total
-do,31,67,98
-just,30,64,94
 im,27,67,94
 go,36,58,94
 woods,1,91,92
 oh,39,49,88
-get,25,61,86
 back,41,39,80
 dont,21,55,76
 youre,19,55,74
@@ -20,8 +17,6 @@ giant,1,46,47
 look,17,29,46
 going,17,29,46
 way,16,28,44
-got,26,18,44
-did,7,36,43
 jack,1,41,42
 two,18,22,40
 house,15,25,40
@@ -45,8 +40,6 @@ theres,9,21,30
 need,7,22,29
 girl,10,19,29
 stop,11,17,28
-said,7,21,28
-let,3,25,28
 hes,13,15,28
 tell,12,15,27
 door,23,4,27
@@ -73,7 +66,6 @@ ive,8,14,22
 father,5,17,22
 course,8,14,22
 ball,14,8,22
-am,7,15,22
 man,19,2,21
 hello,7,14,21
 five,1,20,21
@@ -104,7 +96,6 @@ world,3,13,16
 whoa,13,3,16
 weve,1,15,16
 stay,3,13,16
-say,5,11,16
 place,4,12,16
 people,11,5,16
 isnt,6,10,16
@@ -170,8 +161,6 @@ feel,2,9,11
 face,8,3,11
 eyes,7,4,11
 doesnt,4,7,11
-does,5,6,11
-dear,5,6,11
 darling,1,10,11
 care,1,10,11
 bad,7,4,11
@@ -275,7 +264,6 @@ doors,5,2,7
 died,3,4,7
 cut,3,4,7
 cloak,6,1,7
-wants,1,5,6
 um,1,5,6
 terrible,1,5,6
 sweets,2,4,6
@@ -427,7 +415,6 @@ sit,1,2,3
 sick,1,2,3
 seven,2,1,3
 set,1,2,3
-says,2,1,3
 save,2,1,3
 proud,1,2,3
 prefer,1,2,3

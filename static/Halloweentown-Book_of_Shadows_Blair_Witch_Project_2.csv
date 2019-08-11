@@ -1,12 +1,9 @@
 word,Halloweentown,Book of Shadows Blair Witch Project 2,total
-just,67,54,121
 know,66,51,117
 im,60,49,109
-do,56,50,106
 dont,54,50,104
 like,64,39,103
 oh,83,18,101
-get,53,34,87
 yeah,23,59,82
 come,51,26,77
 see,39,30,69
@@ -14,9 +11,7 @@ witch,19,45,64
 youre,32,31,63
 go,47,15,62
 thats,32,26,58
-got,26,30,56
 right,33,21,54
-did,25,28,53
 gonna,30,22,52
 want,25,26,51
 back,22,26,48
@@ -38,11 +33,8 @@ take,11,18,29
 cant,23,6,29
 mean,23,5,28
 stop,15,11,26
-say,10,16,26
 need,10,16,26
-let,17,9,26
 help,21,5,26
-am,15,11,26
 yes,23,2,25
 ill,15,10,25
 big,15,10,25
@@ -75,11 +67,9 @@ wait,8,10,18
 hell,1,17,18
 give,13,5,18
 evil,9,9,18
-does,11,7,18
 witches,15,2,17
 turn,12,5,17
 sorry,10,7,17
-said,14,3,17
 maybe,12,5,17
 keep,10,7,17
 baby,3,14,17
@@ -194,7 +184,6 @@ boy,3,4,7
 arent,1,6,7
 anyway,5,2,7
 wasnt,4,2,6
-wants,3,3,6
 truth,2,4,6
 totally,5,1,6
 times,3,3,6
@@ -383,7 +372,6 @@ books,1,2,3
 body,1,2,3
 aw,1,2,3
 ancient,1,2,3
-able,1,2,3
 worried,1,1,2
 went,1,1,2
 weeks,1,1,2
@@ -470,7 +458,6 @@ grandma,56,0,56
 marnie,36,0,36
 mother,30,0,30
 ooh,25,0,25
-dear,24,0,24
 sophie,20,0,20
 halloween,19,0,19
 halloweentown,17,0,17
@@ -565,7 +552,6 @@ smart,3,0,3
 simple,3,0,3
 shadow,3,0,3
 screeching,3,0,3
-says,3,0,3
 roots,3,0,3
 ringing,3,0,3
 probably,3,0,3
@@ -1364,7 +1350,6 @@ grandma,0,56,56
 marnie,0,36,36
 mother,0,30,30
 ooh,0,25,25
-dear,0,24,24
 sophie,0,20,20
 halloween,0,19,19
 halloweentown,0,17,17
@@ -1459,7 +1444,6 @@ smart,0,3,3
 simple,0,3,3
 shadow,0,3,3
 screeching,0,3,3
-says,0,3,3
 roots,0,3,3
 ringing,0,3,3
 probably,0,3,3

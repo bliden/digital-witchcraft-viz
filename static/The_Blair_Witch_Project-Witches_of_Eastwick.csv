@@ -1,10 +1,7 @@
 word,The Blair Witch Project,Witches of Eastwick,total
 im,109,40,149
-just,85,54,139
 dont,68,69,137
-do,52,76,128
 know,71,50,121
-get,78,25,103
 like,66,32,98
 fucking,95,1,96
 okay,77,16,93
@@ -36,9 +33,6 @@ woman,20,15,35
 god,22,12,34
 youre,10,23,33
 stop,17,14,31
-got,26,5,31
-say,19,10,29
-did,16,12,28
 make,6,21,27
 time,10,16,26
 night,24,2,26
@@ -54,7 +48,6 @@ car,21,1,22
 two,13,8,21
 thing,15,6,21
 today,14,6,20
-let,4,16,20
 ive,15,5,20
 hear,16,4,20
 doing,7,13,20
@@ -78,14 +71,11 @@ tell,12,4,16
 somebody,3,13,16
 put,13,3,16
 men,7,9,16
-am,12,4,16
 things,3,12,15
 sure,7,8,15
-says,8,7,15
 old,14,1,15
 need,10,5,15
 guys,14,1,15
-does,4,11,15
 call,5,10,15
 theyre,2,12,14
 morning,9,5,14
@@ -93,7 +83,6 @@ home,10,4,14
 find,13,1,14
 ass,12,2,14
 sounds,12,1,13
-said,8,5,13
 point,12,1,13
 jesus,11,2,13
 ill,8,5,13
@@ -234,7 +223,6 @@ america,4,2,6
 wouldnt,2,3,5
 werent,4,1,5
 watch,4,1,5
-wants,2,3,5
 used,3,2,5
 trust,2,3,5
 times,2,3,5
@@ -852,7 +840,6 @@ arms,2,0,2
 appears,2,0,2
 ahh,2,0,2
 ago,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1871,7 +1858,6 @@ arms,0,2,2
 appears,0,2,2
 ahh,0,2,2
 ago,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

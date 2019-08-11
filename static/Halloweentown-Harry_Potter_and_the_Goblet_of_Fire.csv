@@ -1,20 +1,16 @@
 word,Halloweentown,Harry Potter and the Goblet of Fire,total
 know,66,31,97
 oh,83,13,96
-just,67,21,88
 dont,54,33,87
-do,56,31,87
 like,64,11,75
 im,60,11,71
 come,51,18,69
-get,53,15,68
 go,47,17,64
 see,39,15,54
 right,33,20,53
 youre,32,18,50
 yes,23,24,47
 thats,32,12,44
-did,25,15,40
 yeah,23,16,39
 look,27,9,36
 gonna,30,4,34
@@ -25,15 +21,12 @@ mother,30,1,31
 time,23,6,29
 think,19,10,29
 hey,25,4,29
-got,26,3,29
 good,23,6,29
 cant,23,5,28
 world,20,7,27
-let,17,10,27
 put,14,12,26
 mean,23,3,26
 didnt,17,9,26
-dear,24,2,26
 going,19,5,24
 tell,10,13,23
 way,13,9,22
@@ -56,9 +49,7 @@ thanks,13,5,18
 need,10,8,18
 little,17,1,18
 keep,10,8,18
-am,15,3,18
 thought,8,9,17
-said,14,3,17
 old,8,9,17
 give,13,4,17
 witches,15,1,16
@@ -66,7 +57,6 @@ two,13,3,16
 thank,9,7,16
 make,13,3,16
 big,15,1,16
-say,10,5,15
 man,11,4,15
 coming,12,3,15
 whats,8,6,14
@@ -78,7 +68,6 @@ take,11,2,13
 maybe,12,1,13
 ive,12,1,13
 doing,9,4,13
-does,11,2,13
 worry,8,4,12
 told,2,10,12
 theyre,6,6,12
@@ -159,7 +148,6 @@ suppose,4,2,6
 special,5,1,6
 soon,5,1,6
 school,4,2,6
-says,3,3,6
 pretty,5,1,6
 moment,2,4,6
 magical,1,5,6
@@ -199,7 +187,6 @@ youll,1,3,4
 year,2,2,4
 wish,2,2,4
 watch,3,1,4
-wants,3,1,4
 waiting,2,2,4
 times,3,1,4
 thinks,2,2,4
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2349,4 +2335,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

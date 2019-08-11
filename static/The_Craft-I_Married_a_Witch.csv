@@ -1,16 +1,13 @@
 word,The Craft,I Married a Witch,total
 dont,63,44,107
 im,56,48,104
-do,55,49,104
 know,57,33,90
 oh,31,51,82
 like,36,45,81
 want,34,44,78
-just,44,34,78
 go,44,30,74
 ill,16,56,72
 youre,31,37,68
-get,22,46,68
 good,23,42,65
 see,17,44,61
 thats,26,31,57
@@ -21,7 +18,6 @@ right,23,26,49
 yeah,42,5,47
 love,11,36,47
 look,27,20,47
-did,22,24,46
 yes,8,37,45
 whats,24,20,44
 father,2,39,41
@@ -45,17 +41,13 @@ fire,4,23,27
 tell,9,17,26
 take,9,17,26
 thought,9,16,25
-am,4,21,25
-got,8,16,24
 better,6,18,24
 nancy,21,2,23
 wait,16,6,22
 okay,21,1,22
-let,8,14,22
 girl,6,16,22
 mean,16,5,21
 god,20,1,21
-dear,3,18,21
 night,3,17,20
 maybe,15,5,20
 theres,4,15,19
@@ -65,7 +57,6 @@ lets,9,10,19
 time,5,13,18
 theyre,11,7,18
 thee,9,9,18
-say,5,13,18
 head,12,6,18
 gonna,15,3,18
 away,8,10,18
@@ -81,7 +72,6 @@ nice,9,6,15
 hear,8,7,15
 told,5,9,14
 sure,7,7,14
-said,6,8,14
 home,9,5,14
 fine,8,6,14
 youve,1,12,13
@@ -151,7 +141,6 @@ room,3,6,9
 magic,8,1,9
 looking,7,2,9
 hmm,1,8,9
-does,4,5,9
 close,3,6,9
 beautiful,6,3,9
 working,7,1,8
@@ -438,7 +427,6 @@ sisters,4,0,4
 school,4,0,4
 scars,4,0,4
 scared,4,0,4
-says,4,0,4
 san,4,0,4
 red,4,0,4
 practice,4,0,4
@@ -1008,7 +996,6 @@ sisters,0,4,4
 school,0,4,4
 scars,0,4,4
 scared,0,4,4
-says,0,4,4
 san,0,4,4
 red,0,4,4
 practice,0,4,4

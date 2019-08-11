@@ -1,13 +1,10 @@
 word,The Blair Witch Project,Suspiria,total
 im,109,27,136
-just,85,21,106
 know,71,34,105
 dont,68,34,102
-get,78,17,95
 going,71,18,89
 okay,77,11,88
 like,66,18,84
-do,52,28,80
 back,59,9,68
 oh,41,26,67
 go,45,19,64
@@ -15,7 +12,6 @@ thats,35,22,57
 come,33,20,53
 lets,40,7,47
 right,30,16,46
-got,26,20,46
 really,27,17,44
 ahead,41,2,43
 please,33,9,42
@@ -32,7 +28,6 @@ didnt,14,17,31
 away,18,13,31
 morning,9,21,30
 look,23,6,29
-did,16,12,28
 cant,15,13,28
 help,15,12,27
 hear,16,11,27
@@ -46,7 +41,6 @@ tell,12,12,24
 ive,15,9,24
 theres,18,5,23
 stop,17,6,23
-say,19,4,23
 youre,10,12,22
 hes,14,8,22
 car,21,1,22
@@ -70,7 +64,6 @@ inside,15,2,17
 whats,10,6,16
 understand,5,11,16
 uh,6,10,16
-said,8,8,16
 happened,12,4,16
 voice,14,1,15
 thank,6,9,15
@@ -85,12 +78,10 @@ mean,7,7,14
 room,2,11,13
 long,9,4,13
 left,4,9,13
-am,12,1,13
 sure,7,5,12
 need,10,2,12
 maybe,5,7,12
 make,6,6,12
-let,4,8,12
 leave,7,5,12
 jesus,11,1,12
 home,10,2,12
@@ -128,7 +119,6 @@ tomorrow,6,3,9
 thought,3,6,9
 theyre,2,7,9
 story,8,1,9
-says,8,1,9
 ready,8,1,9
 lot,5,4,9
 hey,4,5,9
@@ -190,7 +180,6 @@ five,6,1,7
 fire,6,1,7
 drink,2,5,7
 done,5,2,7
-does,4,3,7
 town,4,2,6
 top,4,2,6
 supposed,5,1,6
@@ -642,7 +631,6 @@ white,2,0,2
 whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 wall,2,0,2
@@ -828,7 +816,6 @@ arms,2,0,2
 appears,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1726,7 +1713,6 @@ white,0,2,2
 whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 wall,0,2,2
@@ -1912,7 +1898,6 @@ arms,0,2,2
 appears,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

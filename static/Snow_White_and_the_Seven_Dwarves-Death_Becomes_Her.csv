@@ -3,14 +3,11 @@ oh,47,82,129
 ah,80,6,86
 im,25,58,83
 dont,35,48,83
-do,36,45,81
 know,17,47,64
 go,39,17,56
 youre,12,43,55
 uh,38,16,54
-just,11,42,53
 yes,28,21,49
-get,24,24,48
 look,18,29,47
 shes,13,31,44
 see,13,29,42
@@ -21,7 +18,6 @@ like,16,20,36
 right,10,25,35
 thats,10,22,32
 good,18,13,31
-did,5,24,29
 little,13,14,27
 cant,11,15,26
 work,17,8,25
@@ -30,17 +26,13 @@ ill,13,12,25
 drink,2,22,24
 away,16,8,24
 ya,21,2,23
-let,19,4,23
 please,7,15,22
 make,12,9,21
 love,18,3,21
-got,7,14,21
 dead,3,18,21
-am,2,19,21
 yeah,4,16,20
 old,12,8,20
 day,13,7,20
-say,4,15,19
 gonna,1,18,19
 tell,6,11,17
 forever,4,13,17
@@ -93,7 +85,6 @@ shell,7,3,10
 put,1,9,10
 hes,2,8,10
 hell,3,7,10
-dear,5,5,10
 youve,1,8,9
 princess,8,1,9
 listen,1,8,9
@@ -122,7 +113,6 @@ stairs,1,6,7
 spring,4,3,7
 soon,4,3,7
 skin,2,5,7
-said,2,5,7
 quite,3,4,7
 mine,5,2,7
 maybe,5,2,7
@@ -560,7 +550,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -636,7 +625,6 @@ secluded,1,0,1
 screeching,1,0,1
 score,1,0,1
 scoop,1,0,1
-says,1,0,1
 sayin,1,0,1
 rustling,1,0,1
 running,1,0,1
@@ -1127,7 +1115,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1
@@ -1203,7 +1190,6 @@ secluded,0,1,1
 screeching,0,1,1
 score,0,1,1
 scoop,0,1,1
-says,0,1,1
 sayin,0,1,1
 rustling,0,1,1
 running,0,1,1

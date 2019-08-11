@@ -1,12 +1,9 @@
 word,The Blair Witch Project,Halloweentown High,total
 im,109,82,191
-just,85,77,162
 oh,41,111,152
 know,71,79,150
 dont,68,56,124
-get,78,34,112
 like,66,40,106
-do,52,49,101
 going,71,24,95
 go,45,45,90
 back,59,16,75
@@ -21,7 +18,6 @@ really,27,33,60
 see,20,31,51
 youre,10,36,46
 way,32,14,46
-got,26,17,43
 good,17,26,43
 little,14,28,42
 ahead,41,1,42
@@ -32,8 +28,6 @@ mean,7,32,39
 cant,15,24,39
 yes,11,27,38
 gonna,15,23,38
-did,16,22,38
-say,19,15,34
 look,23,11,34
 theres,18,15,33
 help,15,16,31
@@ -47,7 +41,6 @@ thing,15,11,26
 stop,17,9,26
 day,17,9,26
 whats,10,15,25
-said,8,17,25
 didnt,14,11,25
 car,21,4,25
 witch,19,5,24
@@ -61,7 +54,6 @@ keep,12,10,22
 ive,15,7,22
 house,10,12,22
 fine,6,16,22
-am,12,10,22
 woman,20,1,21
 weve,15,6,21
 sure,7,13,20
@@ -95,7 +87,6 @@ doing,7,9,16
 things,3,12,15
 make,6,9,15
 light,14,1,15
-let,4,11,15
 human,2,13,15
 haunted,4,11,15
 halloween,1,14,15
@@ -127,7 +118,6 @@ talking,1,10,11
 stay,6,5,11
 sound,10,1,11
 show,2,9,11
-says,8,3,11
 long,9,2,11
 later,5,6,11
 important,4,7,11
@@ -211,7 +201,6 @@ isnt,2,5,7
 gave,6,1,7
 fool,2,5,7
 end,4,3,7
-does,4,3,7
 dad,2,5,7
 crazy,5,2,7
 care,3,4,7
@@ -247,7 +236,6 @@ bag,5,1,6
 anymore,5,1,6
 wow,2,3,5
 worth,3,2,5
-wants,2,3,5
 using,2,3,5
 used,3,2,5
 trust,2,3,5
@@ -853,7 +841,6 @@ arms,2,0,2
 appears,2,0,2
 ago,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yelled,1,0,1
@@ -1864,7 +1851,6 @@ arms,0,2,2
 appears,0,2,2
 ago,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yelled,0,1,1

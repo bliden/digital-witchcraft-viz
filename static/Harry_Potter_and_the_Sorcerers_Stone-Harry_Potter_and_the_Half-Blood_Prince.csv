@@ -5,9 +5,7 @@ hagrid,103,2,105
 know,22,76,98
 hermione,84,11,95
 im,27,61,88
-do,31,53,84
 dont,21,62,83
-just,30,50,80
 oh,39,35,74
 sir,12,57,69
 go,36,30,66
@@ -16,9 +14,7 @@ professor,23,35,58
 see,31,26,57
 back,41,16,57
 like,18,37,55
-get,25,30,55
 potter,34,20,54
-got,26,25,51
 draco,26,23,49
 come,29,19,48
 youre,19,28,47
@@ -32,7 +28,6 @@ thats,21,19,40
 right,23,15,38
 boy,23,15,38
 hogwarts,24,13,37
-did,7,29,36
 make,15,20,35
 going,17,17,34
 wand,30,3,33
@@ -42,7 +37,6 @@ head,30,1,31
 cant,10,21,31
 gryffindor,29,1,30
 way,16,13,29
-say,5,24,29
 really,8,21,29
 neville,28,1,29
 bit,18,11,29
@@ -108,14 +102,12 @@ quidditch,13,2,15
 okay,3,12,15
 harrys,13,2,15
 fred,13,2,15
-does,5,10,15
 blood,3,12,15
 alright,1,14,15
 youve,6,8,14
 theres,9,5,14
 sure,5,9,14
 sorting,13,1,14
-said,7,7,14
 remember,5,9,14
 potion,2,12,14
 place,4,10,14
@@ -124,10 +116,8 @@ malfoy,6,8,14
 luck,5,9,14
 love,1,13,14
 little,7,7,14
-let,3,11,14
 game,11,3,14
 eyes,7,7,14
-am,7,7,14
 youll,6,7,13
 year,8,5,13
 walking,12,1,13
@@ -170,7 +160,6 @@ half,3,8,11
 face,8,3,11
 excuse,8,3,11
 exactly,3,8,11
-dear,5,6,11
 came,1,10,11
 bad,7,4,11
 air,10,1,11
@@ -297,7 +286,6 @@ teacher,3,3,6
 taken,4,2,6
 skin,1,5,6
 sister,1,5,6
-says,2,4,6
 reading,4,2,6
 person,1,5,6
 normal,5,1,6
@@ -386,7 +374,6 @@ bell,1,4,5
 wizards,3,1,4
 wing,3,1,4
 wheres,1,3,4
-wants,1,3,4
 wands,2,2,4
 waiting,2,2,4
 vanishing,1,3,4

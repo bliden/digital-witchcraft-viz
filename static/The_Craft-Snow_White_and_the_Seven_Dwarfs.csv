@@ -1,16 +1,13 @@
 word,The Craft,Snow White and the Seven Dwarfs,total
 dont,63,35,98
-do,55,36,91
 white,3,86,89
 go,44,39,83
 im,56,25,81
 oh,31,47,78
 know,57,17,74
-just,44,11,55
 like,36,16,52
 come,30,18,48
 yeah,42,4,46
-get,22,24,46
 look,27,18,45
 youre,31,12,43
 good,23,18,41
@@ -32,8 +29,6 @@ really,26,2,28
 sorry,25,2,27
 please,20,7,27
 little,14,13,27
-let,8,19,27
-did,22,5,27
 going,22,3,25
 away,8,16,24
 wait,16,7,23
@@ -56,7 +51,6 @@ theyre,11,4,15
 tell,9,6,15
 need,14,1,15
 la,1,14,15
-got,8,7,15
 way,11,3,14
 old,2,12,14
 magic,8,6,14
@@ -89,7 +83,6 @@ understand,8,1,9
 three,8,1,9
 things,6,3,9
 stay,6,3,9
-say,5,4,9
 ive,5,4,9
 house,3,6,9
 hey,1,8,9
@@ -99,7 +92,6 @@ wish,1,7,8
 today,3,5,8
 time,5,3,8
 shell,1,7,8
-said,6,2,8
 room,3,5,8
 place,4,4,8
 pay,7,1,8
@@ -109,7 +101,6 @@ life,6,2,8
 happened,7,1,8
 give,6,2,8
 doesnt,6,2,8
-dear,3,5,8
 dead,5,3,8
 call,6,2,8
 aint,2,6,8
@@ -152,12 +143,10 @@ gone,3,3,6
 drink,4,2,6
 cause,5,1,6
 black,3,3,6
-am,4,2,6
 use,3,2,5
 stuff,4,1,5
 story,1,4,5
 soon,1,4,5
-says,4,1,5
 remember,3,2,5
 perfect,4,1,5
 makes,4,1,5
@@ -367,7 +356,6 @@ football,4,0,4
 five,4,0,4
 feather,4,0,4
 enter,4,0,4
-does,4,0,4
 couch,4,0,4
 coming,4,0,4
 book,4,0,4
@@ -1044,7 +1032,6 @@ football,0,4,4
 five,0,4,4
 feather,0,4,4
 enter,0,4,4
-does,0,4,4
 couch,0,4,4
 coming,0,4,4
 book,0,4,4

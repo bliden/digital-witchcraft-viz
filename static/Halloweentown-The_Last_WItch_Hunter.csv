@@ -2,9 +2,6 @@ word,Halloweentown,The Last WItch Hunter,total
 know,66,45,111
 oh,83,16,99
 im,60,29,89
-just,67,21,88
-do,56,28,84
-get,53,28,81
 like,64,15,79
 dont,54,21,75
 come,51,11,62
@@ -18,7 +15,6 @@ look,27,11,38
 back,22,16,38
 magic,16,21,37
 gonna,30,7,37
-did,25,11,36
 want,25,10,35
 time,23,11,34
 help,21,13,34
@@ -27,7 +23,6 @@ thing,30,3,33
 good,23,10,33
 mother,30,2,32
 hey,25,7,32
-got,26,6,32
 world,20,11,31
 think,19,12,31
 witches,15,15,30
@@ -48,8 +43,6 @@ shes,17,4,21
 really,17,4,21
 long,12,9,21
 queen,1,19,20
-let,17,3,20
-am,15,5,20
 way,13,6,19
 put,14,5,19
 make,13,6,19
@@ -65,7 +58,6 @@ hes,10,7,17
 used,5,11,16
 take,11,5,16
 sorry,10,6,16
-said,14,2,16
 remember,5,11,16
 man,11,5,16
 keep,10,6,16
@@ -74,12 +66,10 @@ two,13,2,15
 thank,9,6,15
 tell,10,5,15
 stuff,14,1,15
-does,11,4,15
 coming,12,3,15
 turn,12,2,14
 thanks,13,1,14
 spell,8,6,14
-say,10,4,14
 huh,10,4,14
 bad,11,3,14
 away,5,9,14
@@ -236,7 +226,6 @@ tomorrow,2,2,4
 times,3,1,4
 thinking,3,1,4
 simple,3,1,4
-says,3,1,4
 reason,3,1,4
 ready,1,3,4
 ran,2,2,4
@@ -404,7 +393,6 @@ grandma,56,0,56
 marnie,36,0,36
 mom,31,0,31
 ooh,25,0,25
-dear,24,0,24
 sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
@@ -494,7 +482,6 @@ awesome,4,0,4
 anoeth,4,0,4
 young,3,0,3
 whispering,3,0,3
-wants,3,0,3
 train,3,0,3
 tired,3,0,3
 supposed,3,0,3
@@ -1359,12 +1346,10 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
 ooh,0,25,25
-dear,0,24,24
 sophie,0,20,20
 ok,0,20,20
 bus,0,20,20
@@ -1454,7 +1439,6 @@ awesome,0,4,4
 anoeth,0,4,4
 young,0,3,3
 whispering,0,3,3
-wants,0,3,3
 train,0,3,3
 tired,0,3,3
 supposed,0,3,3
@@ -2319,4 +2303,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

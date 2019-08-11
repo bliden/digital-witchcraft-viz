@@ -1,18 +1,14 @@
 word,Harry Potter and the Sorcerers Stone,Kill List,total
-do,31,60,91
 dont,21,55,76
-get,25,46,71
 yeah,1,69,70
 know,22,46,68
 im,27,40,67
 oh,39,27,66
-just,30,35,65
 right,23,40,63
 go,36,26,62
 back,41,15,56
 come,29,22,51
 thats,21,27,48
-got,26,20,46
 looks,43,2,45
 like,18,26,44
 good,22,22,44
@@ -48,7 +44,6 @@ day,17,2,19
 cat,9,10,19
 ahh,18,1,19
 theres,9,9,18
-say,5,13,18
 notices,17,1,18
 mean,7,11,18
 hands,16,2,18
@@ -79,8 +74,6 @@ love,1,14,15
 help,10,5,15
 glass,10,5,15
 gets,14,1,15
-does,5,10,15
-did,7,8,15
 turns,13,1,14
 stops,12,2,14
 stop,11,3,14
@@ -95,7 +88,6 @@ girl,10,3,13
 game,11,2,13
 front,7,6,13
 em,3,10,13
-am,7,6,13
 nice,5,7,12
 need,7,5,12
 looking,9,3,12
@@ -117,7 +109,6 @@ years,9,1,10
 turn,8,2,10
 talking,5,5,10
 street,7,3,10
-said,7,3,10
 new,6,4,10
 maybe,6,4,10
 keep,7,3,10
@@ -172,7 +163,6 @@ screams,3,4,7
 school,6,1,7
 past,6,1,7
 move,6,1,7
-let,3,4,7
 laugh,6,1,7
 kill,3,4,7
 havent,2,5,7
@@ -209,7 +199,6 @@ funny,4,2,6
 friends,3,3,6
 floor,5,1,6
 doors,5,1,6
-dear,5,1,6
 dad,4,2,6
 cup,5,1,6
 big,1,5,6
@@ -227,7 +216,6 @@ straight,2,3,5
 standing,4,1,5
 smile,3,2,5
 sign,3,2,5
-says,2,3,5
 real,4,1,5
 pay,3,2,5
 pass,3,2,5
@@ -376,7 +364,6 @@ worked,1,1,2
 whod,1,1,2
 wheres,1,1,2
 watching,1,1,2
-wants,1,1,2
 voice,1,1,2
 thumping,1,1,2
 steady,1,1,2

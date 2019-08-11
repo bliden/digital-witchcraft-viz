@@ -1,10 +1,8 @@
 word,Harry Potter and the Sorcerers Stone,The Craft,total
-do,31,55,86
 dont,21,63,84
 im,27,56,83
 go,36,44,80
 know,22,57,79
-just,30,44,74
 oh,39,31,70
 come,29,30,59
 back,41,17,58
@@ -12,7 +10,6 @@ like,18,36,54
 youre,19,31,50
 see,31,17,48
 thats,21,26,47
-get,25,22,47
 right,23,23,46
 looks,43,3,46
 think,15,30,45
@@ -24,13 +21,11 @@ head,30,12,42
 going,17,22,39
 stop,11,23,34
 really,8,26,34
-got,26,8,34
 whats,9,24,33
 sorry,8,25,33
 please,13,20,33
 hes,13,17,30
 didnt,10,19,29
-did,7,22,29
 cant,10,18,28
 way,16,11,27
 man,19,6,25
@@ -89,7 +84,6 @@ hair,9,5,14
 give,8,6,14
 walk,11,2,13
 theres,9,4,13
-said,7,6,13
 ive,8,5,13
 better,7,6,13
 bad,7,6,13
@@ -108,7 +102,6 @@ watch,5,6,11
 saying,3,8,11
 mrs,10,1,11
 mind,7,4,11
-let,3,8,11
 inside,6,5,11
 hey,10,1,11
 hello,7,4,11
@@ -116,14 +109,12 @@ happened,4,7,11
 fine,3,8,11
 eyes,7,4,11
 course,8,3,11
-am,7,4,11
 turn,8,2,10
 try,6,4,10
 times,3,7,10
 things,4,6,10
 spell,5,5,10
 school,6,4,10
-say,5,5,10
 pay,3,7,10
 move,6,4,10
 leaves,9,1,10
@@ -156,7 +147,6 @@ gave,6,3,9
 follow,8,1,9
 face,8,1,9
 excuse,8,1,9
-does,5,4,9
 dark,8,1,9
 believe,3,6,9
 attention,8,1,9
@@ -176,7 +166,6 @@ isnt,6,2,8
 heard,6,2,8
 fly,6,2,8
 end,4,4,8
-dear,5,3,8
 dead,3,5,8
 car,5,3,8
 call,2,6,8
@@ -213,7 +202,6 @@ surprised,3,3,6
 supposed,2,4,6
 sleeping,5,1,6
 second,1,5,6
-says,2,4,6
 perfect,2,4,6
 made,1,5,6
 luck,5,1,6
@@ -1144,7 +1132,6 @@ weaves,1,0,1
 waving,1,0,1
 wave,1,0,1
 warning,1,0,1
-wants,1,0,1
 walnut,1,0,1
 walls,1,0,1
 wakes,1,0,1
@@ -2802,7 +2789,6 @@ weaves,0,1,1
 waving,0,1,1
 wave,0,1,1
 warning,0,1,1
-wants,0,1,1
 walnut,0,1,1
 walls,0,1,1
 wakes,0,1,1

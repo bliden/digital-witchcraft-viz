@@ -2,11 +2,8 @@ word,Halloweentown,Harry Potter and the Half-Blood Prince,total
 know,66,76,142
 im,60,61,121
 oh,83,35,118
-just,67,50,117
 dont,54,62,116
-do,56,53,109
 like,64,37,101
-get,53,30,83
 go,47,30,77
 come,51,19,70
 see,39,26,65
@@ -14,9 +11,7 @@ think,19,43,62
 youre,32,28,60
 sir,1,57,58
 yes,23,33,56
-did,25,29,54
 thats,32,19,51
-got,26,25,51
 right,33,15,48
 cant,23,21,44
 hes,10,33,43
@@ -31,18 +26,15 @@ back,22,16,38
 mother,30,7,37
 gonna,30,6,36
 going,19,17,36
-say,10,24,34
 didnt,17,17,34
 thing,30,3,33
 make,13,20,33
 mom,31,1,32
 magic,16,15,31
-dear,24,6,30
 ive,12,17,29
 ill,15,14,29
 help,21,8,29
 shes,17,11,28
-let,17,11,28
 lets,21,6,27
 hey,25,2,27
 way,13,13,26
@@ -58,10 +50,7 @@ whats,8,14,22
 two,13,9,22
 stop,15,7,22
 give,13,9,22
-am,15,7,22
-said,14,7,21
 put,14,7,21
-does,11,10,21
 thought,8,12,20
 please,12,8,20
 old,8,12,20
@@ -194,7 +183,6 @@ trouble,6,1,7
 today,2,5,7
 speak,1,6,7
 soon,5,2,7
-says,3,4,7
 saw,1,6,7
 prince,1,6,7
 pretty,5,2,7
@@ -210,7 +198,6 @@ bring,4,3,7
 young,3,3,6
 working,5,1,6
 wish,2,4,6
-wants,3,3,6
 start,5,1,6
 sleep,2,4,6
 saying,1,5,6
@@ -506,7 +493,6 @@ awake,1,1,2
 attention,1,1,2
 assume,1,1,2
 alive,1,1,2
-able,1,1,2
 grandma,56,0,56
 marnie,36,0,36
 ooh,25,0,25

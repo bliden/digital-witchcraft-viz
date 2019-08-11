@@ -1,12 +1,9 @@
 word,Halloweentown,Oz The Great and Powerful,total
 girl,2,168,170
 oh,83,59,142
-do,56,79,135
 im,60,65,125
-just,67,52,119
 like,64,37,101
 know,66,33,99
-get,53,43,96
 see,39,52,91
 dont,54,37,91
 youre,32,55,87
@@ -22,7 +19,6 @@ yes,23,34,57
 thats,32,21,53
 witch,19,32,51
 right,33,16,49
-got,26,22,48
 hand,2,44,46
 think,19,26,45
 thing,30,13,43
@@ -30,7 +26,6 @@ want,25,17,42
 time,23,18,41
 starts,1,40,41
 going,19,22,41
-did,25,16,41
 make,13,27,40
 cant,23,14,37
 yeah,23,13,36
@@ -58,14 +53,10 @@ please,12,16,28
 way,13,14,27
 thank,9,18,27
 show,7,20,27
-said,14,13,27
-let,17,10,27
 give,13,14,27
-dear,24,3,27
 put,14,12,26
 long,12,14,26
 head,4,22,26
-am,15,11,26
 tell,10,15,25
 take,11,14,25
 sister,4,21,25
@@ -83,9 +74,7 @@ audience,1,20,21
 powerful,7,13,20
 big,15,5,20
 witches,15,4,19
-say,10,9,19
 home,16,3,19
-does,11,8,19
 crowd,3,16,19
 coming,12,7,19
 watch,3,15,18
@@ -308,7 +297,6 @@ suppose,4,1,5
 step,1,4,5
 set,1,4,5
 seeing,2,3,5
-says,3,2,5
 ride,2,3,5
 reveal,4,1,5
 pain,1,4,5
@@ -339,7 +327,6 @@ ask,3,2,5
 apple,1,4,5
 years,3,1,4
 whispering,3,1,4
-wants,3,1,4
 upset,1,3,4
 unless,1,3,4
 top,1,3,4
@@ -464,7 +451,6 @@ belong,1,2,3
 believing,1,2,3
 asleep,2,1,3
 admit,2,1,3
-able,1,2,3
 write,1,1,2
 worried,1,1,2
 word,1,1,2

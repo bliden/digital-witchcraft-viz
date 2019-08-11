@@ -1,14 +1,11 @@
 word,Halloweentown,Halloweentown II,total
 oh,83,99,182
-just,67,73,140
-do,56,57,113
 like,64,46,110
 im,60,49,109
 grandma,56,52,108
 know,66,40,106
 spell,8,94,102
 dont,54,42,96
-get,53,31,84
 go,47,35,82
 right,33,47,80
 come,51,26,77
@@ -29,13 +26,10 @@ yes,23,22,45
 world,20,24,44
 mean,23,21,44
 halloweentown,17,27,44
-did,25,19,44
 sophie,20,23,43
-dear,24,19,43
 good,23,19,42
 thing,30,11,41
 want,25,15,40
-got,26,14,40
 mother,30,9,39
 hey,25,13,38
 lets,21,15,36
@@ -55,11 +49,8 @@ halloween,19,11,30
 didnt,17,13,30
 maybe,12,16,28
 way,13,14,27
-say,10,17,27
 witch,19,7,26
 stop,15,11,26
-said,14,12,26
-let,17,9,26
 house,10,16,26
 big,15,11,26
 doesnt,16,9,25
@@ -88,7 +79,6 @@ powers,14,5,19
 luke,8,11,19
 ive,12,7,19
 ha,9,10,19
-does,11,8,19
 bye,14,5,19
 bet,18,1,19
 thanks,13,5,18
@@ -110,7 +100,6 @@ doing,9,7,16
 dad,3,13,16
 creatures,6,10,16
 children,12,4,16
-am,15,1,16
 wow,8,7,15
 weve,6,9,15
 turn,12,3,15
@@ -244,7 +233,6 @@ bed,3,4,7
 anyway,5,2,7
 witchs,3,3,6
 wasnt,4,2,6
-wants,3,3,6
 wanna,1,5,6
 tonight,4,2,6
 thinking,3,3,6
@@ -281,7 +269,6 @@ stronger,2,3,5
 story,4,1,5
 sister,4,1,5
 simple,3,2,5
-says,3,2,5
 run,3,2,5
 ready,1,4,5
 quite,4,1,5
@@ -557,7 +544,6 @@ assume,1,1,2
 arrived,1,1,2
 applause,1,1,2
 ahh,1,1,2
-able,1,1,2
 talisman,14,0,14
 calabar,11,0,11
 ah,9,0,9

@@ -1,24 +1,20 @@
 word,The Craft,The Huntsman,total
-do,55,51,106
 im,56,39,95
 dont,63,30,93
 know,57,31,88
 youre,31,33,64
 yeah,42,22,64
-just,44,18,62
 like,36,24,60
 go,44,16,60
 thats,26,27,53
 come,30,23,53
 oh,31,19,50
 right,23,24,47
-did,22,24,46
 think,30,14,44
 want,34,7,41
 see,17,24,41
 look,27,14,41
 love,11,29,40
-get,22,14,36
 mirror,1,33,34
 sorry,25,7,32
 stop,23,8,31
@@ -46,12 +42,9 @@ maybe,15,6,21
 gonna,15,6,21
 tell,9,11,20
 man,6,14,20
-got,8,12,20
 find,3,16,19
 power,12,6,18
-let,8,10,18
 time,5,12,17
-say,5,12,17
 way,11,5,16
 make,10,6,16
 three,8,7,15
@@ -82,7 +75,6 @@ doing,8,4,12
 away,8,4,12
 true,3,8,11
 theres,4,7,11
-said,6,5,11
 mind,4,7,11
 light,9,2,11
 hear,8,3,11
@@ -101,7 +93,6 @@ hit,6,4,10
 far,2,8,10
 face,1,9,10
 eyes,4,6,10
-am,4,6,10
 weak,4,5,9
 real,5,4,9
 long,1,8,9
@@ -126,7 +117,6 @@ hold,6,2,8
 happened,7,1,8
 girl,6,2,8
 doesnt,6,2,8
-does,4,4,8
 breathing,1,7,8
 youll,2,5,7
 wrong,5,2,7
@@ -162,7 +152,6 @@ inside,5,1,6
 hell,4,2,6
 hair,5,1,6
 end,4,2,6
-dear,3,3,6
 child,1,5,6
 bring,1,5,6
 boy,1,5,6
@@ -393,7 +382,6 @@ try,4,0,4
 sit,4,0,4
 school,4,0,4
 scars,4,0,4
-says,4,0,4
 san,4,0,4
 red,4,0,4
 practice,4,0,4
@@ -1017,7 +1005,6 @@ try,0,4,4
 sit,0,4,4
 school,0,4,4
 scars,0,4,4
-says,0,4,4
 san,0,4,4
 red,0,4,4
 practice,0,4,4

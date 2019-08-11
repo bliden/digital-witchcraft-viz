@@ -1,12 +1,9 @@
 word,The Craft,Skeleton Key,total
 dont,63,36,99
 know,57,34,91
-do,55,28,83
 go,44,18,62
-did,22,38,60
 want,34,21,55
 like,36,12,48
-just,44,3,47
 think,30,13,43
 oh,31,9,40
 come,30,8,38
@@ -15,8 +12,6 @@ good,23,14,37
 look,27,8,35
 stop,23,10,33
 right,23,10,33
-am,4,29,33
-get,22,10,32
 really,26,4,30
 believe,6,23,29
 see,17,10,27
@@ -32,13 +27,10 @@ help,5,17,22
 wait,16,5,21
 make,10,11,21
 doesnt,6,15,21
-say,5,15,20
 back,17,3,20
 understand,8,11,19
 thought,9,10,19
-said,6,13,19
 room,3,16,19
-does,4,15,19
 shit,13,5,18
 time,5,12,17
 take,9,8,17
@@ -61,9 +53,7 @@ sure,7,6,13
 man,6,7,13
 made,5,8,13
 love,11,2,13
-let,8,5,13
 hi,9,4,13
-got,8,5,13
 somebody,3,9,12
 magic,8,4,12
 home,9,3,12
@@ -115,7 +105,6 @@ try,4,3,7
 touch,5,2,7
 told,5,2,7
 thank,3,4,7
-says,4,3,7
 put,6,1,7
 place,4,3,7
 open,2,5,7
@@ -416,7 +405,6 @@ everybody,3,0,3
 east,3,0,3
 downs,3,0,3
 deep,3,0,3
-dear,3,0,3
 cry,3,0,3
 course,3,0,3
 corners,3,0,3
@@ -1091,7 +1079,6 @@ everybody,0,3,3
 east,0,3,3
 downs,0,3,3
 deep,0,3,3
-dear,0,3,3
 cry,0,3,3
 course,0,3,3
 corners,0,3,3

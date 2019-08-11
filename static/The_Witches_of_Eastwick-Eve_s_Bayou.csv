@@ -1,14 +1,11 @@
 word,The Witches of Eastwick,Eve s Bayou,total
 dont,69,53,122
-do,76,30,106
 know,50,44,94
-just,54,37,91
 im,40,36,76
 go,26,35,61
 like,32,27,59
 want,31,25,56
 thats,36,19,55
-get,25,29,54
 come,29,25,54
 daddy,2,50,52
 youre,23,28,51
@@ -20,15 +17,12 @@ yes,29,14,43
 right,22,18,40
 oh,19,19,38
 night,2,35,37
-let,16,20,36
-did,12,23,35
 look,19,15,34
 woman,15,18,33
 love,15,18,33
 little,28,5,33
 going,18,14,32
 time,16,15,31
-say,10,20,30
 make,21,8,29
 ill,5,24,29
 tell,4,24,28
@@ -38,7 +32,6 @@ take,15,10,25
 lets,17,8,25
 back,11,14,25
 shes,12,11,23
-said,5,18,23
 man,10,13,23
 house,8,15,23
 hes,11,12,23
@@ -50,7 +43,6 @@ dead,5,16,21
 baby,1,19,20
 women,17,2,19
 things,12,7,19
-got,5,14,19
 away,8,11,19
 wrong,7,11,18
 thank,10,8,18
@@ -77,7 +69,6 @@ kill,1,13,14
 ive,5,9,14
 hell,5,9,14
 fine,6,8,14
-does,11,3,14
 better,6,8,14
 way,7,6,13
 three,7,6,13
@@ -118,7 +109,6 @@ made,5,5,10
 hurt,4,6,10
 hear,4,6,10
 eat,5,5,10
-am,4,6,10
 world,6,3,9
 theres,4,5,9
 terrible,7,2,9
@@ -131,7 +121,6 @@ hard,5,4,9
 course,5,4,9
 afraid,5,4,9
 talking,7,1,8
-says,7,1,8
 open,6,2,8
 leave,1,7,8
 knows,4,4,8
@@ -464,7 +453,6 @@ answer,4,0,4
 york,3,0,3
 win,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 times,3,0,3
@@ -1264,7 +1252,6 @@ answer,0,4,4
 york,0,3,3
 win,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 times,0,3,3

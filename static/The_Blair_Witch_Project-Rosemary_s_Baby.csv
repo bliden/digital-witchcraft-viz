@@ -3,9 +3,6 @@ im,109,77,186
 dont,68,84,152
 oh,41,105,146
 know,71,56,127
-do,52,72,124
-just,85,36,121
-get,78,43,121
 like,66,35,101
 going,71,30,101
 thats,35,51,86
@@ -17,7 +14,6 @@ yeah,33,38,71
 man,64,3,67
 see,20,46,66
 please,33,26,59
-got,26,31,57
 yes,11,45,56
 youre,10,45,55
 want,24,31,55
@@ -32,7 +28,6 @@ ive,15,31,46
 way,32,13,45
 ill,8,37,45
 ahead,41,3,44
-did,16,25,41
 thank,6,31,37
 didnt,14,23,37
 night,24,12,36
@@ -42,7 +37,6 @@ god,22,12,34
 theres,18,15,33
 guy,1,32,33
 day,17,16,33
-say,19,13,32
 mean,7,25,32
 two,13,18,31
 hear,16,14,30
@@ -62,10 +56,8 @@ sure,7,17,24
 help,15,9,24
 woman,20,3,23
 stop,17,6,23
-said,8,15,23
 name,2,21,23
 little,14,9,23
-let,4,19,23
 fine,6,17,23
 hill,2,20,22
 make,6,15,21
@@ -77,7 +69,6 @@ long,9,11,20
 inside,15,5,20
 happy,9,11,20
 give,12,8,20
-am,12,8,20
 turn,16,3,19
 three,10,9,19
 nice,3,16,19
@@ -131,7 +122,6 @@ gave,6,7,13
 found,10,3,13
 things,3,9,12
 thanks,1,11,12
-says,8,4,12
 open,5,7,12
 made,3,9,12
 lot,5,7,12
@@ -191,7 +181,6 @@ having,3,6,9
 hands,7,2,9
 end,4,5,9
 doing,7,2,9
-does,4,5,9
 crazy,5,4,9
 blood,2,7,9
 youve,5,3,8
@@ -319,7 +308,6 @@ worry,1,3,4
 witchcraft,2,2,4
 wine,1,3,4
 weight,1,3,4
-wants,2,2,4
 true,2,2,4
 till,1,3,4
 thinking,1,3,4
@@ -867,7 +855,6 @@ awe,2,0,2
 arrives,2,0,2
 appears,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1846,7 +1833,6 @@ awe,0,2,2
 arrives,0,2,2
 appears,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

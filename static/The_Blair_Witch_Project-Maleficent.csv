@@ -1,13 +1,10 @@
 word,The Blair Witch Project,Maleficent,total
 im,109,29,138
-just,85,9,94
 dont,68,19,87
-get,78,7,85
 know,71,13,84
 going,71,7,78
 like,66,9,75
 back,59,16,75
-do,52,21,73
 man,64,2,66
 go,45,19,64
 come,33,19,52
@@ -23,9 +20,7 @@ think,31,3,34
 want,24,6,30
 see,20,10,30
 really,27,2,29
-got,26,3,29
 away,18,10,28
-say,19,8,27
 night,24,2,26
 good,17,9,26
 stop,17,8,25
@@ -40,7 +35,6 @@ woods,19,2,21
 looking,18,3,21
 little,14,7,21
 ive,15,6,21
-did,16,5,21
 yes,11,9,20
 lost,16,3,19
 king,2,17,19
@@ -61,14 +55,12 @@ help,15,1,16
 girl,7,9,16
 didnt,14,2,16
 baby,11,5,16
-am,12,4,16
 people,11,4,15
 light,14,1,15
 heard,12,3,15
 give,12,3,15
 whats,10,4,14
 three,10,4,14
-said,8,6,14
 keep,12,2,14
 hello,6,8,14
 long,9,4,13
@@ -83,7 +75,6 @@ true,2,9,11
 sleeping,5,6,11
 men,7,4,11
 love,3,8,11
-let,4,7,11
 done,5,6,11
 work,5,5,10
 went,8,2,10
@@ -133,7 +124,6 @@ feet,5,2,7
 far,4,3,7
 fall,3,4,7
 end,4,3,7
-does,4,3,7
 child,1,6,7
 bring,1,6,7
 birthday,1,6,7
@@ -343,7 +333,6 @@ face,9,0,9
 camp,9,0,9
 walking,8,0,8
 seriously,8,0,8
-says,8,0,8
 points,8,0,8
 mikes,8,0,8
 kinda,8,0,8
@@ -571,7 +560,6 @@ white,2,0,2
 whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
-wants,2,0,2
 various,2,0,2
 using,2,0,2
 use,2,0,2
@@ -772,7 +760,6 @@ appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1538,7 +1525,6 @@ face,0,9,9
 camp,0,9,9
 walking,0,8,8
 seriously,0,8,8
-says,0,8,8
 points,0,8,8
 mikes,0,8,8
 kinda,0,8,8
@@ -1766,7 +1752,6 @@ white,0,2,2
 whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
-wants,0,2,2
 various,0,2,2
 using,0,2,2
 use,0,2,2
@@ -1967,7 +1952,6 @@ appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

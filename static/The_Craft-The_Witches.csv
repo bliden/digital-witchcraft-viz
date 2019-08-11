@@ -1,14 +1,11 @@
 word,The Craft,The Witches,total
 dont,63,39,102
 im,56,38,94
-do,55,34,89
 come,30,49,79
 know,57,19,76
 go,44,30,74
-just,44,23,67
 like,36,26,62
 good,23,39,62
-get,22,39,61
 look,27,22,49
 right,23,25,48
 youre,31,15,46
@@ -21,11 +18,9 @@ see,17,21,38
 witch,8,28,36
 sorry,25,11,36
 oh,31,5,36
-did,22,14,36
 really,26,8,34
 whats,24,9,33
 yes,8,24,32
-got,8,24,32
 cant,18,14,32
 stop,23,8,31
 going,22,9,31
@@ -68,7 +63,6 @@ youll,2,11,13
 saw,2,11,13
 nice,9,4,13
 love,11,2,13
-let,8,5,13
 ive,5,8,13
 high,1,12,13
 hi,9,4,13
@@ -83,7 +77,6 @@ better,6,6,12
 bad,6,6,12
 thought,9,2,11
 sure,7,4,11
-say,5,6,11
 put,6,5,11
 kill,6,5,11
 help,5,6,11
@@ -91,7 +84,6 @@ happened,7,4,11
 course,3,8,11
 two,1,9,10
 sit,4,6,10
-said,6,4,10
 people,8,2,10
 old,2,8,10
 looking,7,3,10
@@ -113,7 +105,6 @@ man,6,3,9
 life,6,3,9
 hear,8,1,9
 great,5,4,9
-am,4,5,9
 work,3,5,8
 wanted,4,4,8
 shall,2,6,8
@@ -124,7 +115,6 @@ hell,4,4,8
 hate,6,2,8
 getting,4,4,8
 find,3,5,8
-dear,3,5,8
 big,6,2,8
 wrong,5,2,7
 weird,6,1,7
@@ -151,7 +141,6 @@ gotta,5,2,7
 gone,3,4,7
 girl,6,1,7
 everybody,3,4,7
-does,4,3,7
 call,6,1,7
 boy,1,6,7
 youve,1,5,6
@@ -191,7 +180,6 @@ try,4,1,5
 tomorrow,2,3,5
 today,3,2,5
 stupid,1,4,5
-says,4,1,5
 run,4,1,5
 play,2,3,5
 mrs,1,4,5

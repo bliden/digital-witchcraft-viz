@@ -3,10 +3,7 @@ know,66,87,153
 oh,83,64,147
 dont,54,88,142
 im,60,74,134
-just,67,66,133
-do,56,59,115
 like,64,47,111
-get,53,57,110
 go,47,51,98
 youre,32,48,80
 come,51,26,77
@@ -21,8 +18,6 @@ think,19,30,49
 mother,30,19,49
 cant,23,26,49
 look,27,20,47
-got,26,20,46
-did,25,21,46
 thing,30,15,45
 late,3,37,40
 hey,25,15,40
@@ -32,7 +27,6 @@ really,17,21,38
 ooh,25,13,38
 ill,15,23,38
 time,23,14,37
-let,17,20,37
 uh,13,23,36
 back,22,14,36
 sorry,10,25,35
@@ -40,7 +34,6 @@ yes,23,11,34
 didnt,17,17,34
 love,1,32,33
 going,19,14,33
-dear,24,9,33
 way,13,19,32
 help,21,11,32
 away,5,27,32
@@ -49,7 +42,6 @@ shes,17,14,31
 make,13,17,30
 world,20,9,29
 theres,11,18,29
-said,14,15,29
 ive,12,17,29
 little,17,11,28
 hes,10,18,28
@@ -60,7 +52,6 @@ lets,21,6,27
 tell,10,16,26
 two,13,12,25
 sighs,12,13,25
-say,10,15,25
 laughs,3,22,25
 home,16,9,25
 doesnt,16,9,25
@@ -70,7 +61,6 @@ witch,19,4,23
 take,11,12,23
 powers,14,9,23
 need,10,13,23
-am,15,8,23
 turn,12,10,22
 people,4,18,22
 mortal,10,12,22
@@ -124,10 +114,8 @@ normal,9,6,15
 mm,6,9,15
 mind,1,14,15
 great,6,9,15
-does,11,4,15
 bad,11,4,15
 woman,2,12,14
-says,3,11,14
 remember,5,9,14
 real,6,8,14
 id,5,9,14
@@ -355,7 +343,6 @@ worked,1,3,4
 word,1,3,4
 whistles,2,2,4
 whered,3,1,4
-wants,3,1,4
 wanna,1,3,4
 turning,1,3,4
 train,3,1,4
@@ -476,7 +463,6 @@ bit,2,1,3
 attention,1,2,3
 arent,1,2,3
 age,2,1,3
-able,1,2,3
 worried,1,1,2
 upset,1,1,2
 twice,1,1,2

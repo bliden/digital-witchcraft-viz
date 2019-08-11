@@ -1,11 +1,8 @@
 word,The Witches of Eastwick,Practical Magic,total
-do,76,36,112
 dont,69,35,104
-just,54,43,97
 know,50,29,79
 im,40,29,69
 want,31,27,58
-get,25,28,53
 come,29,22,51
 thats,36,9,45
 see,29,15,44
@@ -30,7 +27,6 @@ make,21,4,25
 look,19,6,25
 really,11,13,24
 lets,17,7,24
-did,12,12,24
 take,15,8,23
 house,8,14,22
 whats,15,6,21
@@ -40,7 +36,6 @@ god,12,8,20
 stop,14,5,19
 man,10,9,19
 life,8,11,19
-let,16,3,19
 feel,14,4,18
 doing,13,5,18
 day,9,8,17
@@ -52,18 +47,15 @@ young,1,13,14
 yeah,10,4,14
 two,8,6,14
 sorry,10,4,14
-say,10,4,14
 please,5,9,14
 name,10,3,13
 doesnt,7,6,13
-does,11,2,13
 didnt,5,8,13
 thank,10,2,12
 stay,1,11,12
 people,6,6,12
 ive,5,7,12
 isnt,10,2,12
-got,5,7,12
 girls,5,7,12
 came,3,9,12
 call,10,2,12
@@ -91,7 +83,6 @@ understand,7,2,9
 true,8,1,9
 today,6,3,9
 theres,4,5,9
-says,7,2,9
 ladies,5,4,9
 kind,6,3,9
 husband,6,3,9
@@ -153,7 +144,6 @@ sick,5,1,6
 shut,3,3,6
 short,5,1,6
 shop,2,4,6
-said,5,1,6
 remember,3,3,6
 put,3,3,6
 power,2,4,6
@@ -176,7 +166,6 @@ youve,4,1,5
 youll,2,3,5
 work,3,2,5
 wish,2,3,5
-wants,3,2,5
 thought,4,1,5
 sweetheart,4,1,5
 starts,4,1,5
@@ -423,7 +412,6 @@ disintegrating,4,0,4
 birds,4,0,4
 appreciate,4,0,4
 answer,4,0,4
-am,4,0,4
 york,3,0,3
 win,3,0,3
 wash,3,0,3
@@ -1281,7 +1269,6 @@ disintegrating,0,4,4
 birds,0,4,4
 appreciate,0,4,4
 answer,0,4,4
-am,0,4,4
 york,0,3,3
 win,0,3,3
 wash,0,3,3

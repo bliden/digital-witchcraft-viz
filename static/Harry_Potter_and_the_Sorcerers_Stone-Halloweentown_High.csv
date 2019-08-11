@@ -1,14 +1,11 @@
 word,Harry Potter and the Sorcerers Stone,Halloweentown High,total
 oh,39,111,150
 im,27,82,109
-just,30,77,107
 know,22,79,101
 go,36,45,81
-do,31,49,80
 dont,21,56,77
 see,31,31,62
 come,29,33,62
-get,25,34,59
 like,18,40,58
 right,23,34,57
 back,41,16,57
@@ -17,7 +14,6 @@ thats,21,27,48
 good,22,26,48
 think,15,31,46
 looks,43,2,45
-got,26,17,43
 yeah,1,41,42
 really,8,33,41
 going,17,24,41
@@ -35,7 +31,6 @@ hey,10,20,30
 uh,5,24,29
 two,18,11,29
 people,11,18,29
-did,7,22,29
 look,17,11,28
 troll,24,3,27
 time,9,18,27
@@ -52,7 +47,6 @@ later,19,6,25
 door,23,2,25
 whats,9,15,24
 theres,9,15,24
-said,7,17,24
 make,15,9,24
 comes,22,2,24
 take,12,11,23
@@ -62,7 +56,6 @@ wait,5,16,21
 great,16,5,21
 didnt,10,11,21
 stop,11,9,20
-say,5,15,20
 away,15,5,20
 please,13,6,19
 fine,3,16,19
@@ -80,7 +73,6 @@ keep,7,10,17
 hat,16,1,17
 class,14,3,17
 called,13,4,17
-am,7,10,17
 um,1,15,16
 try,6,10,16
 things,4,12,16
@@ -103,7 +95,6 @@ wont,5,9,14
 shes,1,13,14
 open,7,7,14
 maybe,6,8,14
-let,3,11,14
 ill,3,11,14
 glass,10,4,14
 worry,2,11,13
@@ -143,7 +134,6 @@ idea,1,10,11
 id,5,6,11
 heard,6,5,11
 forward,8,3,11
-dear,5,6,11
 best,6,5,11
 wouldnt,1,9,10
 wood,9,1,10
@@ -199,7 +189,6 @@ knock,2,6,8
 group,5,3,8
 fool,3,5,8
 flying,4,4,8
-does,5,3,8
 club,5,3,8
 big,1,7,8
 afternoon,6,2,8
@@ -282,7 +271,6 @@ small,4,1,5
 sky,4,1,5
 shut,3,2,5
 science,1,4,5
-says,2,3,5
 saying,3,2,5
 save,2,3,5
 real,4,1,5
@@ -320,7 +308,6 @@ ya,2,2,4
 wonder,3,1,4
 wed,1,3,4
 warning,1,3,4
-wants,1,3,4
 uncle,3,1,4
 trouble,2,2,4
 times,3,1,4

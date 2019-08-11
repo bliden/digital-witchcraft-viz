@@ -2,13 +2,10 @@ word,Halloweentown,Maleficent,total
 im,60,29,89
 oh,83,1,84
 know,66,13,79
-do,56,21,77
-just,67,9,76
 like,64,9,73
 dont,54,19,73
 come,51,19,70
 go,47,19,66
-get,53,7,60
 see,39,10,49
 youre,32,12,44
 thats,32,10,42
@@ -21,17 +18,13 @@ thing,30,2,32
 good,23,9,32
 want,25,6,31
 mother,30,1,31
-did,25,5,30
-got,26,3,29
 cant,23,4,27
 shes,17,9,26
 mean,23,3,26
 going,19,7,26
 world,20,5,25
-dear,24,1,25
 yeah,23,1,24
 little,17,7,24
-let,17,7,24
 ill,15,9,24
 stop,15,8,23
 think,19,3,22
@@ -39,15 +32,12 @@ tell,10,12,22
 need,10,12,22
 help,21,1,22
 take,11,9,20
-said,14,6,20
 magic,16,4,20
 really,17,2,19
 king,2,17,19
 didnt,17,2,19
 big,15,4,19
 aurora,1,18,19
-am,15,4,19
-say,10,8,18
 ive,12,6,18
 home,16,2,18
 youve,14,3,17
@@ -69,7 +59,6 @@ away,5,10,15
 turn,12,2,14
 true,5,9,14
 make,13,1,14
-does,11,3,14
 children,12,2,14
 man,11,2,13
 day,5,8,13
@@ -447,7 +436,6 @@ whispering,3,0,3
 whered,3,0,3
 watch,3,0,3
 warlock,3,0,3
-wants,3,0,3
 train,3,0,3
 tired,3,0,3
 times,3,0,3
@@ -460,7 +448,6 @@ simple,3,0,3
 serious,3,0,3
 screeching,3,0,3
 screams,3,0,3
-says,3,0,3
 roots,3,0,3
 ringing,3,0,3
 reason,3,0,3
@@ -1359,7 +1346,6 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -1500,7 +1486,6 @@ whispering,0,3,3
 whered,0,3,3
 watch,0,3,3
 warlock,0,3,3
-wants,0,3,3
 train,0,3,3
 tired,0,3,3
 times,0,3,3
@@ -1513,7 +1498,6 @@ simple,0,3,3
 serious,0,3,3
 screeching,0,3,3
 screams,0,3,3
-says,0,3,3
 roots,0,3,3
 ringing,0,3,3
 reason,0,3,3
@@ -2412,4 +2396,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

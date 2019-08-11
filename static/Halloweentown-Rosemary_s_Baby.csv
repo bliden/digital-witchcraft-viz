@@ -2,11 +2,8 @@ word,Halloweentown,Rosemary s Baby,total
 oh,83,105,188
 dont,54,84,138
 im,60,77,137
-do,56,72,128
 know,66,56,122
-just,67,36,103
 like,64,35,99
-get,53,43,96
 come,51,42,93
 see,39,46,85
 thats,32,51,83
@@ -16,11 +13,9 @@ youre,32,45,77
 yes,23,45,68
 yeah,23,38,61
 good,23,36,59
-got,26,31,57
 want,25,31,56
 look,27,25,52
 ill,15,37,52
-did,25,25,50
 going,19,30,49
 mean,23,25,48
 hes,10,35,45
@@ -35,9 +30,7 @@ time,23,16,39
 thing,30,9,39
 please,12,26,38
 think,19,17,36
-let,17,19,36
 guy,4,32,36
-dear,24,12,36
 cant,23,12,35
 ok,20,14,34
 lets,21,13,34
@@ -47,7 +40,6 @@ tell,10,22,32
 two,13,18,31
 hey,25,6,31
 help,21,9,30
-said,14,15,29
 make,13,15,28
 whats,8,19,27
 shes,17,10,27
@@ -61,10 +53,8 @@ home,16,9,25
 bye,14,11,25
 world,20,4,24
 thanks,13,11,24
-say,10,13,23
 long,12,11,23
 fine,6,17,23
-am,15,8,23
 witches,15,7,22
 sure,5,17,22
 sorry,10,12,22
@@ -101,7 +91,6 @@ big,15,2,17
 better,8,9,17
 new,2,14,16
 minute,5,11,16
-does,11,5,16
 coming,12,4,16
 wouldnt,2,13,15
 turn,12,3,15
@@ -215,7 +204,6 @@ true,5,2,7
 th,2,5,7
 supposed,3,4,7
 special,5,2,7
-says,3,4,7
 quite,4,3,7
 poor,2,5,7
 plenty,2,5,7
@@ -269,7 +257,6 @@ best,2,4,6
 ask,3,3,6
 worst,2,3,5
 woman,2,3,5
-wants,3,2,5
 waiting,2,3,5
 visit,1,4,5
 tired,3,2,5
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2213,4 +2199,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

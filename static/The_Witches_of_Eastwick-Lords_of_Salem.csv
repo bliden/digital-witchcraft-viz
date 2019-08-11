@@ -1,12 +1,9 @@
 word,The Witches of Eastwick,Lords of Salem,total
-do,76,25,101
 dont,69,30,99
 know,50,41,91
-just,54,31,85
 im,40,40,80
 come,29,39,68
 like,32,19,51
-get,25,26,51
 think,28,22,50
 oh,19,30,49
 thats,36,10,46
@@ -25,11 +22,9 @@ youre,23,9,32
 cant,29,3,32
 lets,17,11,28
 going,18,10,28
-did,12,14,26
 man,10,13,23
 back,11,12,23
 take,15,7,22
-let,16,6,22
 time,16,5,21
 love,15,6,21
 god,12,9,21
@@ -42,7 +37,6 @@ shes,12,5,17
 music,4,13,17
 mean,5,12,17
 ill,5,12,17
-got,5,12,17
 feel,14,3,17
 sorry,10,6,16
 name,10,6,16
@@ -52,9 +46,7 @@ day,9,7,16
 wait,5,10,15
 things,12,3,15
 sure,8,7,15
-say,10,5,15
 hi,6,9,15
-does,11,4,15
 way,7,7,14
 theyre,12,2,14
 somebody,13,1,14
@@ -110,7 +102,6 @@ believe,5,4,9
 witches,2,6,8
 weve,1,7,8
 trying,6,2,8
-says,7,1,8
 people,6,2,8
 morning,5,3,8
 mistakes,5,3,8
@@ -153,7 +144,6 @@ tomorrow,3,3,6
 theres,4,2,6
 stand,2,4,6
 shit,3,3,6
-said,5,1,6
 poor,5,1,6
 place,4,2,6
 left,3,3,6
@@ -167,7 +157,6 @@ curse,2,4,6
 coming,3,3,6
 christ,3,3,6
 brain,2,4,6
-am,4,2,6
 words,2,3,5
 wont,3,2,5
 wish,2,3,5
@@ -199,7 +188,6 @@ change,2,3,5
 bit,3,2,5
 baby,1,4,5
 work,3,1,4
-wants,3,1,4
 walk,1,3,4
 truth,2,2,4
 thanks,1,3,4

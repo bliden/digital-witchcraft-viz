@@ -1,12 +1,9 @@
 word,Halloweentown,The Black Cauldron,total
 oh,83,88,171
-get,53,44,97
-just,67,27,94
 im,60,29,89
 dont,54,31,85
 like,64,20,84
 know,66,14,80
-do,56,24,80
 see,39,39,78
 come,51,25,76
 cauldron,1,73,74
@@ -25,16 +22,13 @@ going,19,20,39
 thing,30,8,38
 good,23,15,38
 little,17,19,36
-did,25,11,36
 want,25,10,35
 mean,23,11,34
 hes,10,24,34
-got,26,8,34
 uh,13,20,33
 magic,16,15,31
 hey,25,6,31
 cant,23,8,31
-dear,24,6,30
 way,13,16,29
 time,23,5,28
 help,21,7,28
@@ -45,7 +39,6 @@ make,13,13,26
 lets,21,5,26
 give,13,13,26
 boy,3,23,26
-let,17,8,25
 apple,1,24,25
 didnt,17,6,23
 world,20,2,22
@@ -57,7 +50,6 @@ evil,9,12,21
 youve,14,6,20
 witch,19,1,20
 shes,17,3,20
-said,14,6,20
 really,17,3,20
 please,12,8,20
 hand,2,18,20
@@ -80,11 +72,9 @@ wait,8,8,16
 thank,9,7,16
 old,8,8,16
 better,8,8,16
-am,15,1,16
 two,13,2,15
 turns,1,14,15
 theres,11,4,15
-say,10,5,15
 runs,1,14,15
 maybe,12,3,15
 doing,9,6,15
@@ -94,7 +84,6 @@ trouble,6,8,14
 thought,8,6,14
 sorry,10,4,14
 long,12,2,14
-does,11,3,14
 worry,8,5,13
 sure,5,8,13
 show,7,6,13
@@ -264,7 +253,6 @@ wouldnt,2,2,4
 word,1,3,4
 whispering,3,1,4
 whered,3,1,4
-wants,3,1,4
 trust,3,1,4
 touch,1,3,4
 today,2,2,4
@@ -274,7 +262,6 @@ sit,2,2,4
 simple,3,1,4
 shows,1,3,4
 shadow,3,1,4
-says,3,1,4
 pushed,1,3,4
 making,1,3,4
 late,3,1,4
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2255,4 +2241,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

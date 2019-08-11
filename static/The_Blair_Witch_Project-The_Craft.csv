@@ -1,11 +1,8 @@
 word,The Blair Witch Project,The Craft,total
 im,109,56,165
 dont,68,63,131
-just,85,44,129
 know,71,57,128
-do,52,55,107
 like,66,36,102
-get,78,22,100
 okay,77,21,98
 going,71,22,93
 go,45,44,89
@@ -31,10 +28,8 @@ stop,17,23,40
 sorry,15,25,40
 good,17,23,40
 fuck,39,1,40
-did,16,22,38
 see,20,17,37
 whats,10,24,34
-got,26,8,34
 didnt,14,19,33
 cant,15,18,33
 guys,14,18,32
@@ -46,7 +41,6 @@ shes,7,20,27
 night,24,3,27
 away,18,8,26
 looking,18,7,25
-say,19,5,24
 need,10,14,24
 ill,8,16,24
 hear,16,8,24
@@ -83,13 +77,11 @@ old,14,2,16
 make,6,10,16
 find,13,3,16
 ass,12,4,16
-am,12,4,16
 voice,14,1,15
 time,10,5,15
 doing,7,8,15
 two,13,1,14
 sure,7,7,14
-said,8,6,14
 rock,13,1,14
 love,3,11,14
 jesus,11,3,14
@@ -108,11 +100,9 @@ feel,5,8,13
 baby,11,2,13
 thought,3,9,12
 stay,6,6,12
-says,8,4,12
 rocks,11,1,12
 pretty,7,5,12
 nice,3,9,12
-let,4,8,12
 leave,7,5,12
 hair,7,5,12
 found,10,2,12
@@ -180,7 +170,6 @@ kids,7,1,8
 hate,2,6,8
 end,4,4,8
 east,5,3,8
-does,4,4,8
 days,6,2,8
 dad,2,6,8
 crazy,5,3,8
@@ -654,7 +643,6 @@ witchcraft,2,0,2
 winter,2,0,2
 whisper,2,0,2
 welcome,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 wall,2,0,2
@@ -834,7 +822,6 @@ appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1693,7 +1680,6 @@ witchcraft,0,2,2
 winter,0,2,2
 whisper,0,2,2
 welcome,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 wall,0,2,2
@@ -1873,7 +1859,6 @@ appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

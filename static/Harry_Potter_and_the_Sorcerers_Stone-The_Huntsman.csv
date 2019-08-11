@@ -1,5 +1,4 @@
 word,Harry Potter and the Sorcerers Stone,The Huntsman,total
-do,31,51,82
 im,27,39,66
 oh,39,19,58
 see,31,24,55
@@ -9,17 +8,13 @@ go,36,16,52
 come,29,23,52
 dont,21,30,51
 thats,21,27,48
-just,30,18,48
 right,23,24,47
 back,41,5,46
 looks,43,1,44
 like,18,24,42
-get,25,14,39
-got,26,12,38
 man,19,14,33
 head,30,3,33
 look,17,14,31
-did,7,24,31
 love,1,29,30
 good,22,8,30
 two,18,11,29
@@ -53,7 +48,6 @@ goes,17,1,18
 want,10,7,17
 wall,14,3,17
 three,10,7,17
-say,5,12,17
 name,15,2,17
 little,7,10,17
 keep,7,10,17
@@ -87,15 +81,12 @@ stand,3,10,13
 sir,12,1,13
 screaming,4,9,13
 long,5,8,13
-let,3,10,13
 hey,10,3,13
 eyes,7,6,13
 didnt,10,3,13
 dead,3,10,13
-am,7,6,13
 white,3,9,12
 wait,5,7,12
-said,7,5,12
 run,10,2,12
 mean,7,5,12
 maybe,6,6,12
@@ -141,7 +132,6 @@ life,3,6,9
 follow,8,1,9
 fire,6,3,9
 done,6,3,9
-does,5,4,9
 course,8,1,9
 work,6,2,8
 whispers,1,7,8
@@ -163,7 +153,6 @@ fine,3,5,8
 fall,1,7,8
 eye,5,3,8
 death,3,5,8
-dear,5,3,8
 catch,3,5,8
 bad,7,1,8
 youd,3,4,7
@@ -912,7 +901,6 @@ seat,2,0,2
 screen,2,0,2
 screeches,2,0,2
 scatter,2,0,2
-says,2,0,2
 rushing,2,0,2
 rushes,2,0,2
 rum,2,0,2
@@ -1162,7 +1150,6 @@ weaves,1,0,1
 waving,1,0,1
 wave,1,0,1
 watching,1,0,1
-wants,1,0,1
 walnut,1,0,1
 wakes,1,0,1
 waistcoat,1,0,1
@@ -2531,7 +2518,6 @@ seat,0,2,2
 screen,0,2,2
 screeches,0,2,2
 scatter,0,2,2
-says,0,2,2
 rushing,0,2,2
 rushes,0,2,2
 rum,0,2,2
@@ -2781,7 +2767,6 @@ weaves,0,1,1
 waving,0,1,1
 wave,0,1,1
 watching,0,1,1
-wants,0,1,1
 walnut,0,1,1
 wakes,0,1,1
 waistcoat,0,1,1

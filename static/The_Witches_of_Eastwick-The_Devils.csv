@@ -1,8 +1,6 @@
 word,The Witches of Eastwick,The Devils,total
-do,76,37,113
 dont,69,22,91
 know,50,18,68
-just,54,4,58
 yes,29,28,57
 god,12,45,57
 see,29,25,54
@@ -21,21 +19,17 @@ little,28,7,35
 take,15,18,33
 cant,29,4,33
 youre,23,8,31
-get,25,6,31
 make,21,8,29
 right,22,6,28
 look,19,9,28
 women,17,10,27
 time,16,10,26
-let,16,9,25
 christ,3,22,25
 going,18,6,24
 name,10,13,23
 devil,4,19,23
 dead,5,18,23
 stop,14,8,22
-did,12,10,22
-am,4,18,22
 woman,15,6,21
 thee,1,20,21
 way,7,13,20
@@ -54,7 +48,6 @@ mother,1,16,17
 back,11,6,17
 theyre,12,4,16
 shes,12,4,16
-say,10,6,16
 life,8,8,16
 kiss,2,14,16
 feel,14,2,16
@@ -65,7 +58,6 @@ men,9,6,15
 lord,2,13,15
 house,8,7,15
 done,4,11,15
-does,11,4,15
 course,5,10,15
 two,8,6,14
 true,8,6,14
@@ -103,7 +95,6 @@ thy,1,8,9
 three,7,2,9
 thought,4,5,9
 soul,2,7,9
-says,7,2,9
 poor,5,4,9
 place,4,5,9
 husband,6,3,9
@@ -143,7 +134,6 @@ long,2,5,7
 ladies,5,2,7
 inside,4,3,7
 hope,1,6,7
-got,5,2,7
 end,1,6,7
 die,3,4,7
 didnt,5,2,7
@@ -160,7 +150,6 @@ stand,2,4,6
 small,4,2,6
 short,5,1,6
 sense,3,3,6
-said,5,1,6
 ready,1,5,6
 purpose,1,5,6
 power,2,4,6
@@ -210,7 +199,6 @@ wouldnt,3,1,4
 words,2,2,4
 witches,2,2,4
 went,2,2,4
-wants,3,1,4
 trick,1,3,4
 times,3,1,4
 superior,2,2,4

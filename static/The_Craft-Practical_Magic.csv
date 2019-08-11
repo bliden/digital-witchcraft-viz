@@ -1,13 +1,10 @@
 word,The Craft,Practical Magic,total
 dont,63,35,98
-do,55,36,91
-just,44,43,87
 know,57,29,86
 im,56,29,85
 want,34,27,61
 go,44,15,59
 come,30,22,52
-get,22,28,50
 oh,31,16,47
 like,36,11,47
 yeah,42,4,46
@@ -20,7 +17,6 @@ thats,26,9,35
 love,11,24,35
 going,22,13,35
 okay,21,13,34
-did,22,12,34
 back,17,17,34
 look,27,6,33
 hes,17,16,33
@@ -54,7 +50,6 @@ girls,9,7,16
 tell,9,6,15
 shit,13,2,15
 man,6,9,15
-got,8,7,15
 way,11,3,14
 theyre,11,3,14
 spells,3,11,14
@@ -76,11 +71,9 @@ doesnt,6,6,12
 came,3,9,12
 away,8,4,12
 times,7,4,11
-let,8,3,11
 inside,5,6,11
 honey,8,3,11
 give,6,5,11
-dear,3,8,11
 day,3,8,11
 comes,3,8,11
 believe,6,5,11
@@ -98,7 +91,6 @@ thing,7,2,9
 theres,4,5,9
 sure,7,2,9
 saying,8,1,9
-say,5,4,9
 put,6,3,9
 kill,6,3,9
 keep,5,4,9
@@ -132,7 +124,6 @@ two,1,6,7
 trying,6,1,7
 stuff,4,3,7
 spirit,3,4,7
-said,6,1,7
 real,5,2,7
 old,2,5,7
 killed,6,1,7
@@ -156,7 +147,6 @@ talk,4,2,6
 supposed,4,2,6
 sisters,4,2,6
 scared,4,2,6
-says,4,2,6
 remember,3,3,6
 perfect,4,2,6
 morning,1,5,6
@@ -166,7 +156,6 @@ hair,5,1,6
 friends,4,2,6
 finger,5,1,6
 feeling,2,4,6
-does,4,2,6
 darling,2,4,6
 couldnt,2,4,6
 cause,5,1,6
@@ -408,7 +397,6 @@ bye,4,0,4
 board,4,0,4
 ass,4,0,4
 ask,4,0,4
-am,4,0,4
 actually,4,0,4
 west,3,0,3
 tv,3,0,3
@@ -1034,7 +1022,6 @@ bye,0,4,4
 board,0,4,4
 ass,0,4,4
 ask,0,4,4
-am,0,4,4
 actually,0,4,4
 west,0,3,3
 tv,0,3,3

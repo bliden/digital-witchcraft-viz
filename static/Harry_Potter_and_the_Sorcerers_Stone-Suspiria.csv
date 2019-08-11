@@ -1,19 +1,15 @@
 word,Harry Potter and the Sorcerers Stone,Suspiria,total
 oh,39,26,65
-do,31,28,59
 know,22,34,56
 go,36,19,55
 dont,21,34,55
 im,27,27,54
-just,30,21,51
 back,41,9,50
 come,29,20,49
 see,31,15,46
-got,26,20,46
 good,22,24,46
 looks,43,1,44
 thats,21,22,43
-get,25,17,42
 yes,12,29,41
 right,23,16,39
 two,18,18,36
@@ -48,7 +44,6 @@ name,15,5,20
 letter,16,3,19
 heard,6,13,19
 great,16,3,19
-did,7,12,19
 ahh,18,1,19
 way,16,2,18
 want,10,8,18
@@ -70,7 +65,6 @@ understand,4,11,15
 uh,5,10,15
 suddenly,14,1,15
 snake,14,1,15
-said,7,8,15
 people,11,4,15
 miss,2,13,15
 left,6,9,15
@@ -98,7 +92,6 @@ magic,7,6,13
 lets,6,7,13
 hall,11,2,13
 four,3,10,13
-dear,5,8,13
 begin,10,3,13
 ah,10,3,13
 witch,6,6,12
@@ -116,7 +109,6 @@ things,4,7,11
 thanks,5,6,11
 run,10,1,11
 mind,7,4,11
-let,3,8,11
 isnt,6,5,11
 id,5,6,11
 glass,10,1,11
@@ -135,7 +127,6 @@ today,4,5,9
 thought,3,6,9
 stairs,8,1,9
 secret,2,7,9
-say,5,4,9
 quickly,8,1,9
 nice,5,4,9
 need,7,2,9
@@ -164,10 +155,8 @@ floor,5,3,8
 done,6,2,8
 doing,7,1,8
 doesnt,4,4,8
-does,5,3,8
 coming,2,6,8
 amazed,7,1,8
-am,7,1,8
 youd,3,4,7
 whistle,6,1,7
 week,4,3,7
@@ -312,7 +301,6 @@ six,2,1,3
 seven,2,1,3
 sent,2,1,3
 second,1,2,3
-says,2,1,3
 relief,2,1,3
 ready,2,1,3
 quite,2,1,3
@@ -1139,7 +1127,6 @@ waving,1,0,1
 wave,1,0,1
 watching,1,0,1
 warning,1,0,1
-wants,1,0,1
 walnut,1,0,1
 walls,1,0,1
 wakes,1,0,1
@@ -2795,7 +2782,6 @@ waving,0,1,1
 wave,0,1,1
 watching,0,1,1
 warning,0,1,1
-wants,0,1,1
 walnut,0,1,1
 walls,0,1,1
 wakes,0,1,1

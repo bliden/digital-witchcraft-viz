@@ -1,12 +1,9 @@
 word,Halloweentown,Teen Witch,total
-do,56,90,146
 know,66,47,113
 oh,83,23,106
 im,60,40,100
 like,64,31,95
-just,67,18,85
 go,47,24,71
-get,53,17,70
 come,51,18,69
 see,39,29,68
 youre,32,24,56
@@ -16,9 +13,7 @@ think,19,27,46
 yes,23,22,45
 look,27,18,45
 mom,31,11,42
-did,25,17,42
 thats,32,9,41
-got,26,13,39
 thing,30,7,37
 really,17,18,35
 mother,30,5,35
@@ -29,8 +24,6 @@ gonna,30,3,33
 lets,21,10,31
 hey,25,6,31
 mean,23,7,30
-dear,24,6,30
-let,17,11,28
 going,19,9,28
 ok,20,7,27
 help,21,5,26
@@ -38,13 +31,10 @@ little,17,8,25
 bye,14,11,25
 back,22,3,25
 world,20,4,24
-does,11,12,23
 thank,9,13,22
 need,10,12,22
 believe,7,15,22
-am,15,7,22
 witch,19,2,21
-say,10,11,21
 magic,16,5,21
 love,1,20,21
 give,13,8,21
@@ -65,7 +55,6 @@ things,8,9,17
 take,11,6,17
 put,14,3,17
 way,13,3,16
-said,14,2,16
 hes,10,6,16
 coming,12,4,16
 powers,14,1,15
@@ -131,7 +120,6 @@ dog,3,5,8
 call,4,4,8
 book,7,1,8
 actually,7,1,8
-able,1,7,8
 wonderful,2,5,7
 totally,5,2,7
 sweet,2,5,7
@@ -182,7 +170,6 @@ story,4,1,5
 started,2,3,5
 spells,4,1,5
 seen,1,4,5
-says,3,2,5
 return,4,1,5
 number,4,1,5
 mr,1,4,5
@@ -204,7 +191,6 @@ bring,4,1,5
 youd,3,1,4
 worst,2,2,4
 wheres,2,2,4
-wants,3,1,4
 today,2,2,4
 tired,3,1,4
 thinking,3,1,4

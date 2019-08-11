@@ -1,5 +1,4 @@
 word,Snow White and the Seven Dwarves,Teen Witch,total
-do,36,90,126
 oh,47,23,70
 im,25,40,65
 know,17,47,64
@@ -8,26 +7,21 @@ yes,28,22,50
 like,16,31,47
 happy,32,11,43
 see,13,29,42
-get,24,17,41
 queen,39,1,40
 love,18,20,38
 youre,12,24,36
 look,18,18,36
 come,18,18,36
-let,19,11,30
 think,2,27,29
-just,11,18,29
 want,2,26,28
 good,18,10,28
 singing,26,1,27
 right,10,15,25
 work,17,6,23
 song,21,2,23
-did,5,17,22
 little,13,8,21
 bye,10,11,21
 really,2,18,20
-got,7,13,20
 day,13,7,20
 thats,10,9,19
 take,11,6,17
@@ -37,7 +31,6 @@ away,16,1,17
 tell,6,10,16
 men,14,2,16
 believe,1,15,16
-say,4,11,15
 lets,5,10,15
 yeah,4,10,14
 shes,13,1,14
@@ -60,7 +53,6 @@ princess,8,3,11
 night,5,6,11
 magic,6,5,11
 ive,4,7,11
-dear,5,6,11
 dance,1,10,11
 wish,7,3,10
 wash,9,1,10
@@ -75,7 +67,6 @@ girl,1,8,9
 forever,4,5,9
 crazy,2,7,9
 bad,6,3,9
-am,2,7,9
 water,6,2,8
 thought,4,4,8
 new,1,7,8
@@ -143,7 +134,6 @@ started,1,3,4
 slave,1,3,4
 show,1,3,4
 share,3,1,4
-said,2,2,4
 remember,2,2,4
 put,1,3,4
 promise,1,3,4
@@ -181,7 +171,6 @@ stand,1,2,3
 special,1,2,3
 shut,2,1,3
 secret,2,1,3
-says,1,2,3
 red,2,1,3
 ready,1,2,3
 poison,2,1,3
@@ -535,7 +524,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1173,7 +1161,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

@@ -1,14 +1,11 @@
 word,Halloweentown,Twitches Too,total
 oh,83,93,176
 know,66,84,150
-do,56,89,145
-just,67,73,140
 dont,54,76,130
 im,60,63,123
 like,64,33,97
 right,33,63,96
 go,47,47,94
-get,53,30,83
 yeah,23,56,79
 youre,32,42,74
 come,51,23,74
@@ -18,12 +15,10 @@ uh,13,49,62
 gonna,30,30,60
 look,27,31,58
 see,39,18,57
-did,25,30,55
 really,17,36,53
 good,23,26,49
 time,23,25,48
 yes,23,24,47
-got,26,20,46
 sorry,10,35,45
 cant,23,22,45
 back,22,21,43
@@ -36,12 +31,10 @@ hey,25,14,39
 little,17,21,38
 thing,30,7,37
 spell,8,29,37
-say,10,26,36
 ooh,25,11,36
 mean,23,12,35
 didnt,17,18,35
 going,19,15,34
-let,17,16,33
 two,13,18,31
 shes,17,14,31
 magic,16,15,31
@@ -57,10 +50,8 @@ um,10,18,28
 give,13,13,26
 doesnt,16,10,26
 theres,11,14,25
-said,14,11,25
 ive,12,13,25
 home,16,9,25
-am,15,10,25
 thought,8,16,24
 make,13,11,24
 doing,9,15,24
@@ -77,7 +68,6 @@ bad,11,10,21
 actually,7,14,21
 talk,6,14,20
 screaming,2,18,20
-does,11,9,20
 big,15,5,20
 huh,10,9,19
 guys,8,11,19
@@ -235,9 +225,7 @@ youd,3,3,6
 works,4,2,6
 whoa,4,2,6
 wheres,2,4,6
-wants,3,3,6
 town,4,2,6
-says,3,3,6
 rumbling,2,4,6
 return,4,2,6
 problem,1,5,6
@@ -424,7 +412,6 @@ books,1,2,3
 battle,1,2,3
 aw,1,2,3
 absolutely,1,2,3
-able,1,2,3
 yells,1,1,2
 worked,1,1,2
 wished,1,1,2
@@ -522,7 +509,6 @@ aware,1,1,2
 audience,1,1,2
 grandma,56,0,56
 marnie,36,0,36
-dear,24,0,24
 sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
@@ -1362,7 +1348,6 @@ abracadabra,1,0,1
 abominable,1,0,1
 grandma,0,56,56
 marnie,0,36,36
-dear,0,24,24
 sophie,0,20,20
 ok,0,20,20
 bus,0,20,20

@@ -1,6 +1,5 @@
 word,Snow White and the Seven Dwarves,Season of the Witch,total
 ah,80,1,81
-do,36,26,62
 go,39,16,55
 oh,47,5,52
 dont,35,15,50
@@ -8,10 +7,8 @@ know,17,23,40
 im,25,14,39
 yes,28,9,37
 happy,32,2,34
-get,24,9,33
 like,16,15,31
 come,18,13,31
-let,19,11,30
 youre,12,17,29
 witch,1,25,26
 see,13,12,25
@@ -20,11 +17,9 @@ please,7,15,22
 take,11,10,21
 look,18,3,21
 shes,13,7,20
-did,5,15,20
 tell,6,13,19
 heart,14,5,19
 good,18,1,19
-just,11,7,18
 ill,13,5,18
 way,3,14,17
 day,13,4,17
@@ -36,7 +31,6 @@ wait,7,8,15
 thats,10,5,15
 continues,14,1,15
 cant,11,4,15
-say,4,10,14
 true,12,1,13
 old,12,1,13
 make,12,1,13
@@ -57,11 +51,9 @@ wont,6,3,9
 water,6,3,9
 watch,7,2,9
 want,2,7,9
-said,2,7,9
 run,7,2,9
 lost,2,7,9
 amen,1,8,9
-am,2,7,9
 woman,2,6,8
 today,5,3,8
 things,3,5,8
@@ -110,7 +102,6 @@ give,2,4,6
 forest,3,3,6
 fair,2,4,6
 didnt,2,4,6
-dear,5,1,6
 children,4,2,6
 brought,1,5,6
 blood,2,4,6
@@ -145,7 +136,6 @@ talk,3,1,4
 stand,1,3,4
 soul,1,3,4
 sign,1,3,4
-says,1,3,4
 remember,2,2,4
 recently,3,1,4
 poor,3,1,4
@@ -306,7 +296,6 @@ sing,7,0,7
 seven,7,0,7
 prince,7,0,7
 mirror,7,0,7
-got,7,0,7
 gosh,7,0,7
 dreams,7,0,7
 bite,7,0,7
@@ -526,7 +515,6 @@ tumbling,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
 thunder,1,0,1
@@ -945,7 +933,6 @@ sing,0,7,7
 seven,0,7,7
 prince,0,7,7
 mirror,0,7,7
-got,0,7,7
 gosh,0,7,7
 dreams,0,7,7
 bite,0,7,7
@@ -1165,7 +1152,6 @@ tumbling,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1
 thunder,0,1,1

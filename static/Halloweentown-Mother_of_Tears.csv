@@ -2,22 +2,18 @@ word,Halloweentown,Mother of Tears,total
 know,66,40,106
 im,60,45,105
 oh,83,15,98
-do,56,42,98
 dont,54,39,93
 come,51,38,89
-just,67,19,86
 like,64,10,74
 go,47,24,71
 see,39,30,69
 mother,30,38,68
-get,53,11,64
 right,33,20,53
 look,27,25,52
 youre,32,15,47
 yes,23,21,44
 thats,32,12,44
 help,21,23,44
-did,25,17,42
 yeah,23,17,40
 cant,23,17,40
 want,25,12,37
@@ -34,11 +30,8 @@ really,17,13,30
 time,23,6,29
 lets,21,8,29
 going,19,10,29
-got,26,2,28
 mean,23,4,27
-dear,24,3,27
 magic,16,9,25
-let,17,8,25
 world,20,4,24
 take,11,13,24
 didnt,17,7,24
@@ -60,7 +53,6 @@ uh,13,5,18
 give,13,5,18
 three,3,14,17
 thank,9,8,17
-said,14,3,17
 hes,10,7,17
 hello,7,10,17
 doesnt,16,1,17
@@ -73,7 +65,6 @@ powers,14,2,16
 keep,10,6,16
 huh,10,6,16
 bye,14,2,16
-am,15,1,16
 wont,6,9,15
 thanks,13,2,15
 put,14,1,15
@@ -85,9 +76,7 @@ came,10,5,15
 stay,5,9,14
 found,3,11,14
 father,4,10,14
-does,11,3,14
 thought,8,5,13
-say,10,3,13
 place,8,5,13
 people,4,9,13
 mommy,4,9,13
@@ -218,7 +207,6 @@ wouldnt,2,2,4
 wonderful,2,2,4
 woman,2,2,4
 whered,3,1,4
-wants,3,1,4
 truth,2,2,4
 trust,3,1,4
 touch,1,3,4
@@ -370,7 +358,6 @@ babysitter,1,1,2
 attention,1,1,2
 arent,1,1,2
 amazing,1,1,2
-able,1,1,2
 grandma,56,0,56
 marnie,36,0,36
 ooh,25,0,25
@@ -482,7 +469,6 @@ shadow,3,0,3
 serious,3,0,3
 screeching,3,0,3
 screams,3,0,3
-says,3,0,3
 roots,3,0,3
 ringing,3,0,3
 probably,3,0,3
@@ -1471,7 +1457,6 @@ shadow,0,3,3
 serious,0,3,3
 screeching,0,3,3
 screams,0,3,3
-says,0,3,3
 roots,0,3,3
 ringing,0,3,3
 probably,0,3,3

@@ -1,9 +1,7 @@
 word,The Craft,Oz The Great and Powerful,total
 girl,6,168,174
-do,55,79,134
 im,56,65,121
 dont,63,37,100
-just,44,52,96
 oh,31,59,90
 know,57,33,90
 youre,31,55,86
@@ -11,7 +9,6 @@ looks,3,78,81
 like,36,37,73
 go,44,27,71
 see,17,52,69
-get,22,43,65
 look,27,36,63
 city,1,62,63
 come,30,31,61
@@ -33,7 +30,6 @@ right,23,16,39
 stop,23,15,38
 shes,20,18,38
 really,26,12,38
-did,22,16,38
 make,10,27,37
 please,20,16,36
 takes,2,33,35
@@ -48,7 +44,6 @@ little,14,17,31
 ill,16,15,31
 hes,17,14,31
 sorry,25,5,30
-got,8,22,30
 great,5,24,29
 didnt,19,8,27
 way,11,14,25
@@ -77,12 +72,10 @@ inside,5,15,20
 give,6,14,20
 face,1,19,20
 theyre,11,8,19
-said,6,13,19
 run,4,15,19
 makes,4,15,19
 box,2,17,19
 put,6,12,18
-let,8,10,18
 hold,6,12,18
 help,5,13,18
 door,1,17,18
@@ -99,9 +92,7 @@ powerful,2,13,15
 looking,7,8,15
 long,1,14,15
 girls,9,6,15
-am,4,11,15
 air,5,10,15
-say,5,9,14
 room,3,11,14
 real,5,9,14
 power,12,2,14
@@ -133,7 +124,6 @@ home,9,3,12
 heart,3,9,12
 hail,8,4,12
 eyes,4,8,12
-does,4,8,12
 dead,5,7,12
 youd,2,9,11
 woman,1,10,11
@@ -232,7 +222,6 @@ sleep,2,4,6
 sit,4,2,6
 shut,5,1,6
 shell,1,5,6
-says,4,2,6
 rock,1,5,6
 place,4,2,6
 pass,1,5,6
@@ -250,7 +239,6 @@ group,1,5,6
 five,4,2,6
 finger,5,1,6
 falling,1,5,6
-dear,3,3,6
 curtains,1,5,6
 curtain,1,5,6
 clear,1,5,6

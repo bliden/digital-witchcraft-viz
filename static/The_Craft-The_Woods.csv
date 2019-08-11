@@ -1,15 +1,12 @@
 word,The Craft,The Woods,total
 dont,63,25,88
-do,55,30,85
 im,56,23,79
 know,57,15,72
-just,44,26,70
 go,44,24,68
 like,36,18,54
 youre,31,22,53
 come,30,17,47
 yeah,42,3,45
-get,22,22,44
 good,23,19,42
 oh,31,10,41
 want,34,5,39
@@ -26,7 +23,6 @@ look,27,4,31
 whats,24,6,30
 cant,18,12,30
 shes,20,8,28
-did,22,6,28
 okay,21,5,26
 didnt,19,7,26
 see,17,8,25
@@ -42,7 +38,6 @@ fire,4,15,19
 school,4,14,18
 need,14,4,18
 maybe,15,3,18
-let,8,10,18
 tell,9,8,17
 little,14,3,17
 girls,9,8,17
@@ -50,12 +45,10 @@ doing,8,9,17
 time,5,11,16
 mom,4,12,16
 listen,6,10,16
-got,8,8,16
 theyre,11,4,15
 take,9,6,15
 mother,5,10,15
 kill,6,9,15
-say,5,9,14
 love,11,3,14
 home,9,5,14
 heard,2,12,14
@@ -81,7 +74,6 @@ lets,9,2,11
 ive,5,6,11
 give,6,5,11
 girl,6,5,11
-am,4,7,11
 witch,8,2,10
 watch,6,4,10
 three,8,2,10
@@ -100,7 +92,6 @@ came,3,6,9
 call,6,3,9
 believe,6,3,9
 try,4,4,8
-said,6,2,8
 put,6,2,8
 hate,6,2,8
 happen,5,3,8
@@ -127,7 +118,6 @@ hit,6,1,7
 hair,5,2,7
 great,5,2,7
 doesnt,6,1,7
-does,4,3,7
 day,3,4,7
 beautiful,6,1,7
 balance,3,4,7
@@ -158,7 +148,6 @@ hello,4,2,6
 hell,4,2,6
 gotta,5,1,6
 enter,4,2,6
-dear,3,3,6
 cause,5,1,6
 car,3,3,6
 called,3,3,6
@@ -172,7 +161,6 @@ special,2,3,5
 somebody,3,2,5
 sleep,2,3,5
 show,3,2,5
-says,4,1,5
 room,3,2,5
 lady,1,4,5
 isnt,2,3,5

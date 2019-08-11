@@ -1,15 +1,12 @@
 word,The Blair Witch Project,Chronicles of Narnia,total
 im,109,44,153
 witch,19,118,137
-just,85,34,119
 cuts,113,2,115
-get,78,32,110
 dont,68,36,104
 back,59,45,104
 know,71,32,103
 like,66,27,93
 going,71,20,91
-do,52,36,88
 go,45,34,79
 white,2,76,78
 come,33,42,75
@@ -29,7 +26,6 @@ right,30,14,44
 way,32,11,43
 lets,40,3,43
 please,33,9,42
-got,26,14,40
 really,27,11,38
 yeah,33,2,35
 want,24,10,34
@@ -44,12 +40,10 @@ walks,5,24,29
 sorry,15,14,29
 time,10,18,28
 hear,16,12,28
-did,16,12,28
 theres,18,9,27
 help,15,12,27
 good,17,10,27
 yes,11,15,26
-say,19,7,26
 inside,15,11,26
 looking,18,7,25
 woods,19,5,24
@@ -81,7 +75,6 @@ keep,12,6,18
 find,13,5,18
 wait,7,10,17
 thank,6,11,17
-said,8,9,17
 home,10,7,17
 happened,12,5,17
 found,10,7,17
@@ -110,7 +103,6 @@ guys,14,1,15
 girl,7,8,15
 door,1,14,15
 done,5,10,15
-am,12,3,15
 whispers,13,1,14
 walking,8,6,14
 shot,12,2,14
@@ -155,7 +147,6 @@ try,6,4,10
 told,2,8,10
 thought,3,7,10
 small,6,4,10
-says,8,2,10
 room,2,8,10
 pack,9,1,10
 head,8,2,10
@@ -211,7 +202,6 @@ fine,6,2,8
 fighting,2,6,8
 far,4,4,8
 doesnt,4,4,8
-does,4,4,8
 die,5,3,8
 dead,4,4,8
 days,6,2,8
@@ -238,7 +228,6 @@ running,4,3,7
 ones,4,3,7
 move,3,4,7
 mouth,4,3,7
-let,4,3,7
 laugh,6,1,7
 hurry,1,6,7
 human,2,5,7
@@ -264,7 +253,6 @@ ah,5,2,7
 worry,1,5,6
 wheres,5,1,6
 water,4,2,6
-wants,2,4,6
 wanted,4,2,6
 view,5,1,6
 um,4,2,6
@@ -894,7 +882,6 @@ arms,2,0,2
 ahh,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1798,7 +1785,6 @@ arms,0,2,2
 ahh,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

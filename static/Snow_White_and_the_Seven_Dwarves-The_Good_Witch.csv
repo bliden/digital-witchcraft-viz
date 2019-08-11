@@ -1,15 +1,12 @@
 word,Snow White and the Seven Dwarves,The Good Witch,total
 oh,47,58,105
-do,36,68,104
 dont,35,68,103
 im,25,66,91
 ah,80,3,83
 go,39,34,73
 know,17,47,64
-just,11,51,62
 like,16,38,54
 come,18,36,54
-get,24,28,52
 good,18,32,50
 youre,12,34,46
 right,10,33,43
@@ -21,14 +18,11 @@ little,13,26,39
 happy,32,6,38
 yeah,4,33,37
 want,2,35,37
-did,5,32,37
 see,13,23,36
 going,3,32,35
 yes,28,6,34
 look,18,13,31
-let,19,12,31
 cant,11,20,31
-got,7,23,30
 love,18,9,27
 take,11,15,26
 need,1,25,26
@@ -96,7 +90,6 @@ watch,7,2,9
 trick,2,7,9
 sorry,2,7,9
 screaming,8,1,9
-say,4,5,9
 run,7,2,9
 put,1,8,9
 lets,5,4,9
@@ -118,14 +111,12 @@ voice,3,4,7
 tonight,1,6,7
 smells,2,5,7
 sleeping,6,1,7
-said,2,5,7
 ready,1,6,7
 live,1,6,7
 gotta,6,1,7
 done,1,6,7
 care,2,5,7
 big,3,4,7
-am,2,5,7
 worry,2,4,6
 woman,2,4,6
 try,2,4,6
@@ -219,7 +210,6 @@ spell,1,2,3
 sound,1,2,3
 somethings,2,1,3
 shall,2,1,3
-says,1,2,3
 remember,2,1,3
 red,2,1,3
 pay,1,2,3
@@ -362,7 +352,6 @@ smile,5,0,5
 room,5,0,5
 mighty,5,0,5
 em,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -551,7 +540,6 @@ tumbling,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -959,7 +947,6 @@ smile,0,5,5
 room,0,5,5
 mighty,0,5,5
 em,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1148,7 +1135,6 @@ tumbling,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

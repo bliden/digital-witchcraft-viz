@@ -2,11 +2,8 @@ word,Halloweentown,Snow White and the Huntsman,total
 oh,83,1,84
 know,66,18,84
 im,60,24,84
-do,56,26,82
-just,67,10,77
 like,64,12,76
 dont,54,18,72
-get,53,11,64
 come,51,13,64
 go,47,16,63
 see,39,10,49
@@ -22,8 +19,6 @@ thing,30,1,31
 queen,1,29,30
 yes,23,6,29
 good,23,6,29
-did,25,4,29
-got,26,1,27
 going,19,8,27
 cant,23,4,27
 mean,23,3,26
@@ -31,19 +26,16 @@ help,21,5,26
 world,20,5,25
 shes,17,8,25
 yeah,23,1,24
-let,17,7,24
 take,11,12,23
 lets,21,2,23
 ill,15,7,22
 didnt,17,5,22
 ok,20,1,21
-am,15,6,21
 think,19,1,20
 really,17,3,20
 little,17,3,20
 way,13,6,19
 theres,11,8,19
-said,14,5,19
 powers,14,5,19
 give,13,6,19
 stop,15,3,18
@@ -51,7 +43,6 @@ sorry,10,8,18
 ive,12,6,18
 magic,16,1,17
 home,16,1,17
-does,11,6,17
 youve,14,2,16
 need,10,6,16
 man,11,5,16
@@ -82,7 +73,6 @@ away,5,7,12
 wait,8,3,11
 thought,8,3,11
 theyre,6,5,11
-say,10,1,11
 old,8,3,11
 feel,3,8,11
 came,10,1,11
@@ -149,7 +139,6 @@ alive,1,6,7
 youd,3,3,6
 work,5,1,6
 watch,3,3,6
-wants,3,3,6
 turned,4,2,6
 truth,2,4,6
 true,5,1,6
@@ -190,7 +179,6 @@ tired,3,1,4
 three,3,1,4
 speak,1,3,4
 sit,2,2,4
-says,3,1,4
 reason,3,1,4
 protect,1,3,4
 ones,2,2,4
@@ -319,7 +307,6 @@ mom,31,0,31
 gonna,30,0,30
 ooh,25,0,25
 hey,25,0,25
-dear,24,0,24
 sophie,20,0,20
 bus,20,0,20
 witch,19,0,19
@@ -1359,14 +1346,12 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
 gonna,0,30,30
 ooh,0,25,25
 hey,0,25,25
-dear,0,24,24
 sophie,0,20,20
 bus,0,20,20
 witch,0,19,19
@@ -2406,4 +2391,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

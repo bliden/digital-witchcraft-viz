@@ -2,11 +2,8 @@ word,Halloweentown,Bell Book and Candle,total
 oh,83,111,194
 im,60,91,151
 dont,54,92,146
-just,67,77,144
-do,56,86,142
 know,66,74,140
 like,64,57,121
-get,53,40,93
 yes,23,57,80
 go,47,33,80
 come,51,26,77
@@ -16,7 +13,6 @@ youre,32,38,70
 see,39,30,69
 want,25,41,66
 good,23,41,64
-did,25,39,64
 think,19,40,59
 ive,12,40,52
 yeah,23,28,51
@@ -26,18 +22,15 @@ cant,23,27,50
 going,19,28,47
 thing,30,15,45
 ill,15,30,45
-got,26,18,44
 tell,10,33,43
 look,27,15,42
 little,17,25,42
-dear,24,18,42
 gonna,30,8,38
 didnt,17,21,38
 really,17,20,37
 time,23,12,35
 back,22,12,34
 shes,17,16,33
-say,10,23,33
 hes,10,23,33
 hey,25,7,32
 course,7,24,31
@@ -52,7 +45,6 @@ huh,10,18,28
 theres,11,16,27
 sorry,10,17,27
 put,14,13,27
-let,17,10,27
 believe,7,20,27
 ooh,25,1,26
 help,21,5,26
@@ -67,9 +59,7 @@ night,6,17,23
 bet,18,5,23
 world,20,2,22
 thought,8,14,22
-said,14,8,22
 man,11,11,22
-am,15,7,22
 youve,14,7,21
 things,8,13,21
 sure,5,16,21
@@ -87,7 +77,6 @@ life,10,9,19
 isnt,5,14,19
 give,13,6,19
 getting,6,13,19
-does,11,8,19
 book,7,12,19
 whats,8,10,18
 suppose,4,14,18
@@ -199,7 +188,6 @@ supposed,3,4,7
 start,5,2,7
 shell,5,2,7
 school,4,3,7
-says,3,4,7
 party,5,2,7
 mine,3,4,7
 looking,2,5,7
@@ -254,7 +242,6 @@ busy,1,5,6
 best,2,4,6
 year,2,3,5
 wheres,2,3,5
-wants,3,2,5
 turned,4,1,5
 today,2,3,5
 th,2,3,5
@@ -1359,7 +1346,6 @@ afterlife,1,0,1
 added,1,0,1
 acid,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2222,4 +2208,3 @@ afterlife,0,1,1
 added,0,1,1
 acid,0,1,1
 abominable,0,1,1
-able,0,1,1

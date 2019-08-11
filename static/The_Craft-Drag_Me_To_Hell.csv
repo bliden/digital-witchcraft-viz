@@ -1,9 +1,7 @@
 word,The Craft,Drag Me To Hell,total
 im,56,51,107
 dont,63,33,96
-do,55,41,96
 know,57,38,95
-just,44,43,87
 okay,21,53,74
 yeah,42,26,68
 go,44,22,66
@@ -12,7 +10,6 @@ oh,31,27,58
 come,30,26,56
 think,30,24,54
 right,23,30,53
-get,22,31,53
 thats,26,25,51
 god,20,30,50
 want,34,15,49
@@ -20,7 +17,6 @@ like,36,13,49
 really,26,21,47
 good,23,23,46
 please,20,23,43
-did,22,21,43
 gonna,15,27,42
 see,17,23,40
 look,27,13,40
@@ -55,12 +51,10 @@ thought,9,11,20
 tell,9,11,20
 man,6,13,19
 guys,18,1,19
-got,8,11,19
 understand,8,10,18
 thing,7,11,18
 lets,9,8,17
 give,6,11,17
-let,8,8,16
 home,9,7,16
 hi,9,7,16
 shit,13,2,15
@@ -69,7 +63,6 @@ house,3,12,15
 things,6,8,14
 theres,4,10,14
 spirit,3,11,14
-said,6,8,14
 people,8,6,14
 nice,9,5,14
 mr,2,12,14
@@ -93,10 +86,8 @@ san,4,7,11
 mind,4,7,11
 leave,5,6,11
 hell,4,7,11
-am,4,7,11
 wrong,5,5,10
 told,5,5,10
-say,5,5,10
 put,6,4,10
 mother,5,5,10
 money,5,5,10
@@ -136,7 +127,6 @@ hold,6,2,8
 hello,4,4,8
 hate,6,2,8
 gift,1,7,8
-does,4,4,8
 car,3,5,8
 bye,4,4,8
 big,6,2,8
@@ -212,7 +202,6 @@ gave,3,2,5
 five,4,1,5
 end,4,1,5
 drink,4,1,5
-dear,3,2,5
 deal,2,3,5
 days,2,3,5
 control,1,4,5
@@ -415,7 +404,6 @@ tricky,4,0,4
 sisters,4,0,4
 school,4,0,4
 scars,4,0,4
-says,4,0,4
 run,4,0,4
 red,4,0,4
 perfect,4,0,4
@@ -1010,7 +998,6 @@ tricky,0,4,4
 sisters,0,4,4
 school,0,4,4
 scars,0,4,4
-says,0,4,4
 run,0,4,4
 red,0,4,4
 perfect,0,4,4

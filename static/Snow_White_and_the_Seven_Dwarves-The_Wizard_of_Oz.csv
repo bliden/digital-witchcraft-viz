@@ -1,5 +1,4 @@
 word,Snow White and the Seven Dwarves,The Wizard of Oz,total
-do,36,62,98
 ho,78,17,95
 witch,1,92,93
 im,25,64,89
@@ -9,10 +8,8 @@ white,86,1,87
 come,18,63,81
 oh,47,31,78
 singing,26,51,77
-get,24,51,75
 thats,10,54,64
 em,5,58,63
-just,11,46,57
 back,2,55,57
 yes,28,28,56
 see,13,43,56
@@ -22,7 +19,6 @@ right,10,37,47
 away,16,31,47
 youre,12,34,46
 home,10,36,46
-got,7,37,44
 queen,39,1,40
 know,17,23,40
 heart,14,26,40
@@ -33,7 +29,6 @@ good,18,19,37
 cant,11,26,37
 theres,9,27,36
 old,12,24,36
-let,19,17,36
 take,11,24,35
 happy,32,3,35
 shes,13,19,32
@@ -45,7 +40,6 @@ want,2,23,25
 day,13,12,25
 think,2,22,24
 id,2,22,24
-did,5,19,24
 love,18,5,23
 dead,3,20,23
 song,21,1,22
@@ -75,7 +69,6 @@ tell,6,10,16
 land,3,13,16
 forest,3,13,16
 afraid,2,14,16
-say,4,11,15
 really,2,13,15
 lets,5,10,15
 continues,14,1,15
@@ -85,7 +78,6 @@ mean,6,8,14
 long,1,13,14
 hah,13,1,14
 end,13,1,14
-dear,5,9,14
 try,2,11,13
 stop,6,7,13
 sing,7,6,13
@@ -99,12 +91,10 @@ youve,1,11,12
 wish,7,5,12
 sure,6,6,12
 spoken,10,2,12
-says,1,11,12
 room,5,7,12
 hes,2,10,12
 guard,3,9,12
 castle,4,8,12
-am,2,10,12
 trouble,1,10,11
 tree,3,8,11
 three,1,10,11
@@ -117,7 +107,6 @@ yeah,4,6,10
 wash,9,1,10
 stay,3,7,10
 sleepy,9,1,10
-said,2,8,10
 makes,1,9,10
 kill,7,3,10
 keep,2,8,10
@@ -590,7 +579,6 @@ tricked,1,0,1
 transform,1,0,1
 touch,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1098,7 +1086,6 @@ tricked,0,1,1
 transform,0,1,1
 touch,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

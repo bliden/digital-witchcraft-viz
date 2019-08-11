@@ -1,4 +1,12 @@
 // in global: d3
+const spinner = document.querySelector("#spinner");
+function removeSpinner() {
+  if (spinner.classList.contains("spinner")) {
+    spinner.classList.remove("spinner");
+  }
+  spinner.style.display = "none";
+}
+
 let chartCounter = 0;
 
 d3.json("manifest.json")
@@ -27,6 +35,9 @@ async function drawChart(file) {
     // iteration counter for color changes
     // multiply to ensure it's even, then modulo by 12
     const iteration = (chartCounter * 2) % 12;
+    if (chartCounter === 1) {
+      removeSpinner();
+    }
     chartCounter += 1;
 
     const width = +svg.attr("width");

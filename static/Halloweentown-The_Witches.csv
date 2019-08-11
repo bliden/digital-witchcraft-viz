@@ -3,23 +3,18 @@ come,51,49,100
 im,60,38,98
 grandma,56,42,98
 dont,54,39,93
-get,53,39,92
 like,64,26,90
-just,67,23,90
-do,56,34,90
 oh,83,5,88
 know,66,19,85
 go,47,30,77
 good,23,39,62
 see,39,21,60
 right,33,25,58
-got,26,24,50
 look,27,22,49
 youre,32,15,47
 yes,23,24,47
 witch,19,28,47
 thats,32,13,45
-did,25,14,39
 ill,15,23,38
 cant,23,14,37
 back,22,14,36
@@ -33,7 +28,6 @@ little,17,14,31
 want,25,4,29
 think,19,10,29
 luke,8,21,29
-dear,24,5,29
 going,19,9,28
 shes,17,10,27
 mean,23,4,27
@@ -50,7 +44,6 @@ world,20,4,24
 give,13,11,24
 stop,15,8,23
 two,13,9,22
-let,17,5,22
 home,16,6,22
 doesnt,16,6,22
 tell,10,11,21
@@ -58,7 +51,6 @@ sorry,10,11,21
 magic,16,4,20
 ive,12,8,20
 children,12,8,20
-am,15,5,20
 youve,14,5,19
 weve,6,13,19
 way,13,6,19
@@ -70,7 +62,6 @@ child,2,17,19
 away,5,14,19
 thanks,13,5,18
 thank,9,9,18
-said,14,4,18
 long,12,6,18
 whats,8,9,17
 turn,12,5,17
@@ -78,7 +69,6 @@ make,13,4,17
 big,15,2,17
 bad,11,6,17
 stuff,14,2,16
-say,10,6,16
 room,1,15,16
 real,6,10,16
 old,8,8,16
@@ -94,7 +84,6 @@ man,11,3,14
 house,10,4,14
 fine,6,8,14
 doing,9,5,14
-does,11,3,14
 better,8,6,14
 woman,2,11,13
 life,10,3,13
@@ -251,7 +240,6 @@ sweet,2,2,4
 starts,1,3,4
 sleep,2,2,4
 sir,1,3,4
-says,3,1,4
 run,3,1,4
 rest,1,3,4
 ready,1,3,4
@@ -344,7 +332,6 @@ buy,1,2,3
 business,1,2,3
 bag,2,1,3
 arrived,1,2,3
-able,1,2,3
 zero,1,1,2
 word,1,1,2
 vacation,1,1,2
@@ -515,7 +502,6 @@ awesome,4,0,4
 anoeth,4,0,4
 whispering,3,0,3
 warlock,3,0,3
-wants,3,0,3
 tired,3,0,3
 thinking,3,0,3
 supposed,3,0,3
@@ -1450,7 +1436,6 @@ awesome,0,4,4
 anoeth,0,4,4
 whispering,0,3,3
 warlock,0,3,3
-wants,0,3,3
 tired,0,3,3
 thinking,0,3,3
 supposed,0,3,3

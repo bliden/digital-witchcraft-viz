@@ -1,21 +1,16 @@
 word,Snow White and the Seven Dwarves,Skeleton Key,total
 ah,80,1,81
 dont,35,36,71
-do,36,28,64
 go,39,18,57
 oh,47,9,56
 know,17,34,51
-did,5,38,43
 yes,28,14,42
 house,6,34,40
 happy,32,2,34
-get,24,10,34
 good,18,14,32
-am,2,29,31
 like,16,12,28
 look,18,8,26
 come,18,8,26
-let,19,5,24
 believe,1,23,24
 want,2,21,23
 see,13,10,23
@@ -26,7 +21,6 @@ door,12,9,21
 right,10,10,20
 love,18,2,20
 take,11,8,19
-say,4,15,19
 help,2,17,19
 old,12,6,18
 night,5,13,18
@@ -37,12 +31,10 @@ stop,6,10,16
 continues,14,2,16
 time,3,12,15
 think,2,13,15
-said,2,13,15
 find,10,5,15
 thought,4,10,14
 soon,4,10,14
 little,13,1,14
-just,11,3,14
 day,13,1,14
 true,12,1,13
 tell,6,7,13
@@ -52,7 +44,6 @@ understand,1,11,12
 sure,6,6,12
 maybe,5,7,12
 kill,7,5,12
-got,7,5,12
 children,4,8,12
 bye,10,2,12
 water,6,5,11
@@ -120,7 +111,6 @@ back,2,3,5
 words,3,1,4
 voice,3,1,4
 talk,3,1,4
-says,1,3,4
 ready,1,3,4
 pay,1,3,4
 name,1,3,4
@@ -305,7 +295,6 @@ lets,5,0,5
 hide,5,0,5
 fine,5,0,5
 em,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 yeah,4,0,4
@@ -525,7 +514,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -977,7 +965,6 @@ lets,0,5,5
 hide,0,5,5
 fine,0,5,5
 em,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 yeah,0,4,4
@@ -1197,7 +1184,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

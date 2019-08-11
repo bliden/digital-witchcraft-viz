@@ -1,15 +1,12 @@
 word,Harry Potter and the Sorcerers Stone,Blair Witch Project,total
 harry,376,2,378
 im,27,109,136
-just,30,85,115
-get,25,78,103
 back,41,59,100
 know,22,71,93
 dont,21,68,89
 going,17,71,88
 like,18,66,84
 man,19,64,83
-do,31,52,83
 go,36,45,81
 okay,3,77,80
 oh,39,41,80
@@ -17,7 +14,6 @@ camera,10,62,72
 come,29,33,62
 thats,21,35,56
 right,23,30,53
-got,26,26,52
 see,31,20,51
 looks,43,7,50
 way,16,32,48
@@ -51,7 +47,6 @@ help,10,15,25
 cant,10,15,25
 turn,8,16,24
 tell,12,12,24
-say,5,19,24
 later,19,5,24
 door,23,1,24
 didnt,10,14,24
@@ -60,7 +55,6 @@ yes,12,11,23
 sorry,8,15,23
 ive,8,15,23
 hands,16,7,23
-did,7,16,23
 comes,22,1,23
 bit,18,5,23
 put,9,13,22
@@ -85,7 +79,6 @@ light,5,14,19
 keep,7,12,19
 hand,15,4,19
 gonna,4,15,19
-am,7,12,19
 walks,13,5,18
 walk,11,7,18
 turns,13,5,18
@@ -113,7 +106,6 @@ voice,1,14,15
 stops,12,3,15
 stairs,8,7,15
 sir,12,3,15
-said,7,8,15
 jumps,14,1,15
 baby,4,11,15
 ah,10,5,15
@@ -176,7 +168,6 @@ thank,4,6,10
 stick,4,6,10
 small,4,6,10
 sleeping,5,5,10
-says,2,8,10
 runs,8,2,10
 remember,5,5,10
 ready,2,8,10
@@ -201,7 +192,6 @@ forward,8,1,9
 follow,8,1,9
 fine,3,6,9
 feet,4,5,9
-does,5,4,9
 course,8,1,9
 close,2,7,9
 cake,8,1,9
@@ -256,7 +246,6 @@ mouth,3,4,7
 middle,1,6,7
 lot,2,5,7
 lifts,6,1,7
-let,3,4,7
 important,3,4,7
 hard,2,5,7
 funny,4,3,7
@@ -446,7 +435,6 @@ wouldnt,1,2,3
 worry,2,1,3
 working,2,1,3
 witches,1,2,3
-wants,1,2,3
 walls,1,2,3
 use,1,2,3
 touched,2,1,3
@@ -760,7 +748,6 @@ dursleys,5,0,5
 doorway,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -2239,7 +2226,6 @@ dursleys,0,5,5
 doorway,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5

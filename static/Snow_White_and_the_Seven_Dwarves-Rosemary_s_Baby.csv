@@ -1,14 +1,12 @@
 word,Snow White and the Seven Dwarves,Rosemary s Baby,total
 oh,47,105,152
 dont,35,84,119
-do,36,72,108
 im,25,77,102
 white,86,1,87
 ah,80,2,82
 yes,28,45,73
 know,17,56,73
 go,39,34,73
-get,24,43,67
 thats,10,51,61
 come,18,42,60
 see,13,46,59
@@ -18,12 +16,9 @@ uh,38,19,57
 good,18,36,54
 like,16,35,51
 ill,13,37,50
-just,11,36,47
 look,18,25,43
 happy,32,11,43
 yeah,4,38,42
-let,19,19,38
-got,7,31,38
 hes,2,35,37
 ive,4,31,35
 want,2,31,33
@@ -31,7 +26,6 @@ take,11,22,33
 please,7,26,33
 going,3,30,33
 mean,6,25,31
-did,5,25,30
 day,13,16,29
 tell,6,22,28
 love,18,10,28
@@ -65,11 +59,8 @@ end,13,5,18
 youll,8,9,17
 thought,4,13,17
 theyre,4,13,17
-say,4,13,17
-said,2,15,17
 night,5,12,17
 drink,2,15,17
-dear,5,12,17
 way,3,13,16
 heart,14,2,16
 hear,2,14,16
@@ -112,7 +103,6 @@ dead,3,7,10
 children,4,6,10
 better,1,9,10
 bad,6,4,10
-am,2,8,10
 wish,7,2,9
 today,5,4,9
 soon,4,5,9
@@ -185,7 +175,6 @@ theyve,3,2,5
 theyll,2,3,5
 speak,1,4,5
 show,1,4,5
-says,1,4,5
 remember,2,3,5
 pay,1,4,5
 makes,1,4,5
@@ -574,7 +563,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1124,7 +1112,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

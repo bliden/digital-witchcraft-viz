@@ -2,13 +2,10 @@ word,The Blair Witch Project,Hansel and Gretel,total
 im,109,34,143
 fucking,95,10,105
 okay,77,22,99
-just,85,14,99
-get,78,21,99
 dont,68,28,96
 know,71,23,94
 like,66,15,81
 going,71,9,80
-do,52,24,76
 back,59,15,74
 go,45,24,69
 witch,19,49,68
@@ -26,11 +23,9 @@ fuck,39,3,42
 ahead,41,1,42
 way,32,9,41
 really,27,11,38
-got,26,11,37
 good,17,20,37
 want,24,12,36
 see,20,13,33
-did,16,17,33
 night,24,8,32
 help,15,17,32
 look,23,7,30
@@ -39,7 +34,6 @@ little,14,14,28
 youre,10,17,27
 woman,20,7,27
 god,22,5,27
-say,19,6,25
 need,10,14,24
 gonna,15,9,24
 cant,15,9,24
@@ -86,7 +80,6 @@ found,10,5,15
 shes,7,7,14
 keep,12,2,14
 girl,7,7,14
-am,12,2,14
 home,10,3,13
 ass,12,1,13
 thank,6,6,12
@@ -100,13 +93,11 @@ doing,7,5,12
 cool,11,1,12
 work,5,6,11
 stay,6,5,11
-said,8,3,11
 near,7,4,11
 mean,7,4,11
 mary,10,1,11
 make,6,5,11
 long,9,2,11
-let,4,7,11
 leave,7,4,11
 blood,2,9,11
 believe,8,3,11
@@ -115,13 +106,11 @@ walk,7,3,10
 sure,7,3,10
 head,8,2,10
 happy,9,1,10
-does,4,6,10
 dark,4,6,10
 coming,6,4,10
 close,7,3,10
 cause,9,1,10
 stuff,7,2,9
-says,8,1,9
 ready,8,1,9
 open,5,4,9
 move,3,6,9
@@ -322,7 +311,6 @@ black,1,2,3
 arrives,2,1,3
 arent,1,2,3
 angry,1,2,3
-able,2,1,3
 yep,1,1,2
 worst,1,1,2
 womans,1,1,2
@@ -634,7 +622,6 @@ winter,2,0,2
 whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 various,2,0,2
@@ -1725,7 +1712,6 @@ winter,0,2,2
 whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 various,0,2,2

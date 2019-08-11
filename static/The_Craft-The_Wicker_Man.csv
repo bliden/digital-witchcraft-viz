@@ -1,9 +1,7 @@
 word,The Craft,The Wicker Man,total
-do,55,44,99
 know,57,28,85
 dont,63,20,83
 im,56,26,82
-just,44,14,58
 oh,31,25,56
 like,36,18,54
 go,44,7,51
@@ -15,9 +13,7 @@ want,34,8,42
 please,20,21,41
 youre,31,9,40
 right,23,15,38
-did,22,14,36
 shes,20,14,34
-get,22,12,34
 see,17,16,33
 whats,24,7,31
 ill,16,14,30
@@ -39,7 +35,6 @@ didnt,19,3,22
 mean,16,5,21
 make,10,11,21
 little,14,7,21
-say,5,13,18
 need,14,4,18
 love,11,6,17
 gonna,15,2,17
@@ -53,9 +48,7 @@ course,3,13,16
 sure,7,8,15
 old,2,13,15
 head,12,3,15
-got,8,7,15
 dead,5,10,15
-am,4,11,15
 time,5,9,14
 thank,3,11,14
 people,8,6,14
@@ -66,7 +59,6 @@ power,12,1,13
 home,9,4,13
 police,1,11,12
 matter,5,7,12
-let,8,4,12
 hail,8,4,12
 daughter,1,11,12
 believe,6,6,12
@@ -75,7 +67,6 @@ thought,9,2,11
 things,6,5,11
 show,3,8,11
 saying,8,3,11
-said,6,5,11
 light,9,2,11
 ive,5,6,11
 inside,5,6,11
@@ -86,7 +77,6 @@ bonnie,7,4,11
 better,6,5,11
 youll,2,8,10
 thing,7,3,10
-says,4,6,10
 put,6,4,10
 nice,9,1,10
 missing,1,9,10
@@ -97,7 +87,6 @@ happened,7,3,10
 give,6,4,10
 fine,8,2,10
 earth,6,4,10
-does,4,6,10
 child,1,9,10
 afraid,3,7,10
 wont,1,8,9
@@ -145,7 +134,6 @@ hold,6,1,7
 friends,4,3,7
 forget,4,3,7
 drink,4,3,7
-dear,3,4,7
 big,6,1,7
 bad,6,1,7
 baby,2,5,7
@@ -1096,10 +1084,10 @@ waiting,0,2,2
 uniform,0,2,2
 undo,0,2,2
 underneath,0,2,2
-twenty,0,2,2
-truth,0,2,2
-t
-sleep,0,2
+twenty,0,
+sleep,0,2,2
+size,0,2,2
+sha
 throwing,0,2,2
 surprise,0,2,2
 sucks,0,2,2
@@ -1196,11 +1184,11 @@ view,0,1,1
 veins,0,1,1
 upstairs,0,1,1
 upright,0,1,1
-unofficially,0,1,1
-unleash,0,1,1
-u
+unofficially,0,1,
 tragedy,0,1,1
-towels,0,
+towels,0,1,1
+todays,0,1,1
+
 turned,0,1,1
 trip,0,1,1
 treys,0,1,1
@@ -1299,9 +1287,8 @@ rushed,0,1,1
 running,0,1,1
 ruler,0,1,1
 rude,0,1,1
-rocks,0,1,1
-rock
-rag,0
+rag,0,1,1
+racist,0,1,1
 risk,0,1,1
 ring,0,1,1
 retrieved,0,1,1
@@ -1398,10 +1385,11 @@ leaves,0,1,1
 lazy,0,1,1
 lays,0,1,1
 lay,0,1,1
-lady,0,1,1
-lab,0,1
+l
 kissing,0,1,1
-judge,0,
+judge,0,1,1
+jock,0,1,1
+je
 known,0,1,1
 knife,0,1,1
 kitchen,0,1,1
@@ -1497,12 +1485,12 @@ disagreed,0,1,1
 dicks,0,1,1
 dick,0,1,1
 diary,0,1,1
-details,0,1,1
-deserved
+detai
 dick,0,1,1
 diary,0,1,1
 deserved,0,1,1
-deserve,0
+deserve,0,1,1
+defenses,0,1
 deaf,0,1,1
 de,0,1,1
 daytime,0,1,1
@@ -1599,8 +1587,7 @@ alert,0,1,1
 aid,0,1,1
 ages,0,1,1
 act,0,1,1
-accidents,0,1,1
-abuse
+acci
 alert,0,1,1
 aid,0,1,1
 ahead,0,1,1

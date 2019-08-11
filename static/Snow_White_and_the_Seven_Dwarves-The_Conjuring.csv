@@ -1,15 +1,12 @@
 word,Snow White and the Seven Dwarves,The Conjuring,total
-do,36,55,91
 oh,47,41,88
 go,39,47,86
 ah,80,3,83
-get,24,58,82
 dont,35,36,71
 im,25,39,64
 come,18,37,55
 uh,38,15,53
 know,17,31,48
-just,11,33,44
 look,18,25,43
 yeah,4,38,42
 yes,28,13,41
@@ -24,8 +21,6 @@ shes,13,18,31
 ill,13,17,30
 hey,8,22,30
 good,18,12,30
-let,19,10,29
-got,7,22,29
 going,3,25,28
 house,6,20,26
 love,18,6,24
@@ -33,7 +28,6 @@ door,12,11,23
 ya,21,1,22
 whats,5,17,22
 theres,9,12,21
-did,5,16,21
 room,5,15,20
 work,17,2,19
 please,7,12,19
@@ -49,7 +43,6 @@ wait,7,10,17
 stop,6,11,17
 lets,5,12,17
 find,10,7,17
-said,2,14,16
 home,10,6,16
 day,13,3,16
 make,12,3,15
@@ -96,11 +89,9 @@ made,2,7,9
 hes,2,7,9
 hear,2,7,9
 doesnt,2,7,9
-am,2,7,9
 wish,7,1,8
 thing,3,5,8
 sleeping,6,2,8
-say,4,4,8
 pretty,1,7,8
 mirror,7,1,8
 keep,2,6,8
@@ -352,7 +343,6 @@ sniffing,5,0,5
 smile,5,0,5
 mighty,5,0,5
 em,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -546,7 +536,6 @@ trouble,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -633,7 +622,6 @@ screeching,1,0,1
 scream,1,0,1
 score,1,0,1
 scoop,1,0,1
-says,1,0,1
 sayin,1,0,1
 rustling,1,0,1
 running,1,0,1
@@ -956,7 +944,6 @@ sniffing,0,5,5
 smile,0,5,5
 mighty,0,5,5
 em,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1150,7 +1137,6 @@ trouble,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1
@@ -1237,7 +1223,6 @@ screeching,0,1,1
 scream,0,1,1
 score,0,1,1
 scoop,0,1,1
-says,0,1,1
 sayin,0,1,1
 rustling,0,1,1
 running,0,1,1

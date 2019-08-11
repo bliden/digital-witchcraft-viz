@@ -5,18 +5,15 @@ snow,87,8,95
 ah,80,2,82
 oh,47,27,74
 go,39,34,73
-do,36,36,72
 dont,35,36,71
 im,25,44,69
 come,18,42,60
 dwarfs,54,3,57
-get,24,32,56
 queen,39,15,54
 look,18,33,51
 know,17,32,49
 youre,12,35,47
 back,2,45,47
-just,11,34,45
 see,13,31,44
 yes,28,15,43
 like,16,27,43
@@ -36,10 +33,8 @@ right,10,14,24
 ya,21,2,23
 song,21,2,23
 going,3,20,23
-let,19,3,22
 laughing,21,1,22
 time,3,18,21
-got,7,14,21
 love,18,2,20
 hes,2,18,20
 work,17,2,19
@@ -52,13 +47,11 @@ theres,9,9,18
 ill,13,5,18
 wait,7,10,17
 home,10,7,17
-did,5,12,17
 youll,8,8,16
 sorry,2,14,16
 please,7,9,16
 kill,7,9,16
 hands,4,12,16
-dear,5,11,16
 continues,14,2,16
 castle,4,12,16
 long,1,14,15
@@ -92,8 +85,6 @@ whats,5,6,11
 tree,3,8,11
 thought,4,7,11
 table,2,9,11
-say,4,7,11
-said,2,9,11
 night,5,6,11
 magic,6,5,11
 hand,2,9,11
@@ -202,7 +193,6 @@ brought,1,4,5
 blood,2,3,5
 bells,3,2,5
 arent,1,4,5
-am,2,3,5
 young,2,2,4
 wall,2,2,4
 wakes,1,3,4
@@ -255,7 +245,6 @@ silence,1,2,3
 shut,2,1,3
 search,2,1,3
 scream,1,2,3
-says,1,2,3
 save,2,1,3
 remember,2,1,3
 red,2,1,3
@@ -580,7 +569,6 @@ tyin,1,0,1
 tumbling,1,0,1
 tricked,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1116,7 +1104,6 @@ tyin,0,1,1
 tumbling,0,1,1
 tricked,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

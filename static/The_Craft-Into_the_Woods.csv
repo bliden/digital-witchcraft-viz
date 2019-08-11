@@ -1,17 +1,13 @@
 word,The Craft,Into the Woods,total
 im,56,67,123
-do,55,67,122
 dont,63,55,118
-just,44,64,108
 know,57,50,107
 go,44,58,102
 youre,31,55,86
-get,22,61,83
 oh,31,49,80
 want,34,27,61
 right,23,38,61
 yes,8,52,60
-did,22,36,58
 come,30,28,58
 yeah,42,15,57
 look,27,29,56
@@ -38,7 +34,6 @@ okay,21,14,35
 didnt,19,15,34
 cant,18,16,34
 please,20,13,33
-let,8,25,33
 ill,16,17,33
 hes,17,15,32
 away,8,24,32
@@ -47,11 +42,9 @@ make,10,20,30
 house,3,25,28
 home,9,19,28
 things,6,21,27
-said,6,21,27
 nice,9,18,27
 find,3,24,27
 time,5,21,26
-got,8,18,26
 theres,4,21,25
 girl,6,19,25
 child,1,24,25
@@ -78,7 +71,6 @@ help,5,14,19
 gonna,15,4,19
 father,2,17,19
 big,6,13,19
-am,4,15,19
 thought,9,9,18
 life,6,12,18
 hello,4,14,18
@@ -95,7 +87,6 @@ feel,8,9,17
 course,3,14,17
 thing,7,9,16
 thank,3,13,16
-say,5,11,16
 place,4,12,16
 light,9,7,16
 head,12,4,16
@@ -140,7 +131,6 @@ killed,6,4,10
 hear,8,2,10
 four,1,9,10
 found,2,8,10
-does,4,6,10
 cause,5,5,10
 came,3,7,10
 bad,6,4,10
@@ -158,7 +148,6 @@ minute,2,7,9
 kill,6,3,9
 gone,3,6,9
 end,4,5,9
-dear,3,6,9
 arent,4,5,9
 watch,6,2,8
 wanted,4,4,8
@@ -242,7 +231,6 @@ steal,2,3,5
 soon,1,4,5
 somebody,3,2,5
 scary,2,3,5
-says,4,1,5
 running,1,4,5
 reach,2,3,5
 pick,1,4,5

@@ -1,13 +1,10 @@
 word,The Blair Witch Project,The Witch,total
 im,109,1,110
-get,78,16,94
-just,85,1,86
 know,71,13,84
 like,66,11,77
 dont,68,5,73
 back,59,13,72
 man,64,5,69
-do,52,12,64
 thee,1,61,62
 go,45,13,58
 come,33,11,44
@@ -26,18 +23,14 @@ hear,16,13,29
 black,1,28,29
 want,24,4,28
 really,27,1,28
-did,16,11,27
-am,12,15,27
 help,15,11,26
 night,24,1,25
 find,13,11,24
 day,17,7,24
-say,19,4,23
 good,17,6,23
 cut,18,5,23
 away,18,5,23
 love,3,17,20
-let,4,16,20
 thing,15,4,19
 leave,7,12,19
 inside,15,4,19
@@ -80,7 +73,6 @@ hell,6,5,11
 tomorrow,6,4,10
 son,1,9,10
 shes,7,3,10
-said,8,2,10
 pretty,7,3,10
 outside,7,3,10
 near,7,3,10
@@ -89,7 +81,6 @@ cause,9,1,10
 believe,8,2,10
 took,3,6,9
 sleep,2,7,9
-says,8,1,9
 place,7,2,9
 matter,3,6,9
 made,3,6,9
@@ -100,7 +91,6 @@ girl,7,2,9
 gave,6,3,9
 done,5,4,9
 doing,7,2,9
-does,4,5,9
 walk,7,1,8
 wait,7,1,8
 truth,1,7,8
@@ -289,7 +279,6 @@ yeah,33,0,33
 tent,33,0,33
 way,32,0,32
 right,30,0,30
-got,26,0,26
 fisherman,23,0,23
 car,21,0,21
 woman,20,0,20
@@ -584,7 +573,6 @@ whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
 welcome,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 wall,2,0,2
@@ -788,7 +776,6 @@ ahh,2,0,2
 ago,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1493,7 +1480,6 @@ yeah,0,33,33
 tent,0,33,33
 way,0,32,32
 right,0,30,30
-got,0,26,26
 fisherman,0,23,23
 car,0,21,21
 woman,0,20,20
@@ -1788,7 +1774,6 @@ whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
 welcome,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 wall,0,2,2
@@ -1992,7 +1977,6 @@ ahh,0,2,2
 ago,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

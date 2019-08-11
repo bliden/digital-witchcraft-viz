@@ -1,24 +1,20 @@
 word,Snow White and the Seven Dwarves,Bell Book and Candle,total
 oh,47,111,158
 dont,35,92,127
-do,36,86,122
 im,25,91,116
 know,17,74,91
 white,86,3,89
 snow,87,2,89
-just,11,77,88
 ah,80,6,86
 yes,28,57,85
 uh,38,38,76
 like,16,57,73
 go,39,33,72
-get,24,40,64
 good,18,41,59
 thats,10,44,54
 youre,12,38,50
 right,10,40,50
 ive,4,40,44
-did,5,39,44
 come,18,26,44
 want,2,41,43
 see,13,30,43
@@ -38,15 +34,11 @@ going,3,28,31
 singing,26,4,30
 shes,13,16,29
 make,12,17,29
-let,19,10,29
 take,11,17,28
-say,4,23,27
 theres,9,16,25
 id,2,23,25
 hes,2,23,25
-got,7,18,25
 didnt,2,21,23
-dear,5,18,23
 away,16,7,23
 work,17,5,22
 sure,6,16,22
@@ -114,7 +106,6 @@ water,6,4,10
 watch,7,3,10
 understand,1,9,10
 thanks,4,6,10
-said,2,8,10
 listen,1,9,10
 kind,1,9,10
 fine,5,5,10
@@ -128,7 +119,6 @@ minute,1,8,9
 mine,5,4,9
 gonna,1,8,9
 chattering,6,3,9
-am,2,7,9
 youve,1,7,8
 voice,3,5,8
 tried,1,7,8
@@ -182,7 +172,6 @@ turn,1,4,5
 thousand,1,4,5
 theyve,3,2,5
 th,2,3,5
-says,1,4,5
 ringing,4,1,5
 ordinary,1,4,5
 note,3,2,5
@@ -581,7 +570,6 @@ tumbling,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1123,7 +1111,6 @@ tumbling,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

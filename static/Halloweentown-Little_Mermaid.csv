@@ -1,15 +1,11 @@
 word,Halloweentown,Little Mermaid,total
 oh,83,47,130
-just,67,38,105
 know,66,35,101
 dont,54,39,93
 im,60,30,90
-do,56,29,85
 like,64,17,81
-get,53,28,81
 come,51,26,77
 go,47,22,69
-got,26,42,68
 see,39,26,65
 look,27,27,54
 right,33,18,51
@@ -28,7 +24,6 @@ yeah,23,9,32
 think,19,13,32
 shes,17,15,32
 sea,1,31,32
-dear,24,8,32
 world,20,11,31
 la,1,30,31
 help,21,10,31
@@ -39,11 +34,9 @@ ive,12,17,29
 hey,25,4,29
 going,19,10,29
 girl,2,27,29
-did,25,3,28
 make,13,14,27
 good,23,4,27
 witch,19,7,26
-say,10,16,26
 youve,14,11,25
 lets,21,4,25
 didnt,17,7,24
@@ -54,9 +47,7 @@ kiss,1,21,22
 home,16,6,22
 day,5,17,22
 tell,10,11,21
-let,17,4,21
 big,15,6,21
-am,15,6,21
 stop,15,5,20
 love,1,19,20
 hes,10,10,20
@@ -81,12 +72,10 @@ poor,2,14,16
 man,11,5,16
 huh,10,6,16
 ha,9,7,16
-does,11,5,16
 ah,9,7,16
 two,13,2,15
 theres,11,4,15
 sighs,12,3,15
-said,14,1,15
 powers,14,1,15
 maybe,12,3,15
 looking,2,13,15
@@ -173,7 +162,6 @@ believe,7,1,8
 aint,2,6,8
 work,5,2,7
 wish,2,5,7
-wants,3,4,7
 wanna,1,6,7
 use,5,2,7
 talking,5,2,7
@@ -266,7 +254,6 @@ starts,1,3,4
 song,1,3,4
 simple,3,1,4
 serious,3,1,4
-says,3,1,4
 runs,1,3,4
 round,2,2,4
 power,2,2,4
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -2255,4 +2241,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

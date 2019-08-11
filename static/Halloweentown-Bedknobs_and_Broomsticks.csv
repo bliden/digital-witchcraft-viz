@@ -1,12 +1,9 @@
 word,Halloweentown,Bedknobs and Broomsticks,total
-do,56,82,138
 dont,54,66,120
 oh,83,18,101
 like,64,32,96
 im,60,34,94
 know,66,27,93
-get,53,35,88
-just,67,20,87
 come,51,29,80
 go,47,30,77
 see,39,32,71
@@ -14,12 +11,10 @@ thats,32,33,65
 right,33,28,61
 think,19,33,52
 good,23,27,50
-dear,24,24,48
 youre,32,15,47
 time,23,23,46
 yes,23,22,45
 cant,23,22,45
-got,26,17,43
 back,22,21,43
 miss,2,40,42
 want,25,16,41
@@ -29,17 +24,14 @@ spell,8,28,36
 please,12,24,36
 gonna,30,4,34
 little,17,16,33
-did,25,8,33
 witch,19,13,32
 mr,1,31,32
 help,21,11,32
 really,17,14,31
 mean,23,8,31
-let,17,14,31
 going,19,12,31
 take,11,19,30
 yeah,23,6,29
-say,10,19,29
 lets,21,8,29
 thank,9,19,28
 book,7,21,28
@@ -48,7 +40,6 @@ give,13,14,27
 children,12,15,27
 hey,25,1,26
 bed,3,23,26
-am,15,11,26
 whats,8,17,25
 shes,17,8,25
 old,8,17,25
@@ -67,11 +58,9 @@ need,10,12,22
 bit,2,20,22
 magic,16,5,21
 house,10,11,21
-does,11,10,21
 youve,14,6,20
 work,5,15,20
 two,13,7,20
-said,14,6,20
 theres,11,8,19
 tell,10,9,19
 sorry,10,9,19
@@ -156,7 +145,6 @@ theyre,6,2,8
 talk,6,2,8
 suppose,4,4,8
 start,5,3,8
-says,3,5,8
 remember,5,3,8
 people,4,4,8
 part,5,3,8
@@ -224,11 +212,9 @@ believing,1,5,6
 attention,1,5,6
 ages,1,5,6
 age,2,4,6
-able,1,5,6
 woman,2,3,5
 wheres,2,3,5
 wasnt,4,1,5
-wants,3,2,5
 trust,3,2,5
 town,4,1,5
 tonight,4,1,5

@@ -1,13 +1,10 @@
 word,Halloweentown,Eve s Bayou,total
 know,66,44,110
 dont,54,53,107
-just,67,37,104
 oh,83,19,102
 im,60,36,96
 like,64,27,91
-do,56,30,86
 go,47,35,82
-get,53,29,82
 come,51,25,76
 youre,32,28,60
 see,39,17,56
@@ -16,17 +13,14 @@ thats,32,19,51
 right,33,18,51
 daddy,1,50,51
 want,25,25,50
-did,25,23,48
 look,27,15,42
 hey,25,17,42
 night,6,35,41
-got,26,14,40
 think,19,20,39
 ill,15,24,39
 cant,23,16,39
 time,23,15,38
 yes,23,14,37
-let,17,20,37
 thing,30,6,36
 back,22,14,36
 tell,10,24,34
@@ -35,8 +29,6 @@ mom,31,3,34
 home,16,17,33
 gonna,30,3,33
 going,19,14,33
-said,14,18,32
-say,10,20,30
 lets,21,8,29
 help,21,8,29
 shes,17,11,28
@@ -44,7 +36,6 @@ didnt,17,11,28
 yeah,23,4,27
 mean,23,4,27
 house,10,15,25
-dear,24,1,25
 man,11,13,24
 give,13,11,24
 world,20,3,23
@@ -61,7 +52,6 @@ make,13,8,21
 ive,12,9,21
 bye,14,7,21
 bus,20,1,21
-am,15,6,21
 woman,2,18,20
 witch,19,1,20
 whats,8,12,20
@@ -97,7 +87,6 @@ turn,12,2,14
 thought,8,6,14
 kind,7,7,14
 fine,6,8,14
-does,11,3,14
 came,10,4,14
 youll,1,12,13
 wont,6,7,13
@@ -282,7 +271,6 @@ shut,2,2,4
 screeching,3,1,4
 screams,3,1,4
 screaming,2,2,4
-says,3,1,4
 ringing,3,1,4
 pushed,1,3,4
 plus,3,1,4
@@ -384,7 +372,6 @@ celebrate,2,1,3
 brought,1,2,3
 boys,1,2,3
 alive,1,2,3
-able,1,2,3
 write,1,1,2
 wondering,1,1,2
 wild,1,1,2
@@ -550,7 +537,6 @@ anoeth,4,0,4
 witchs,3,0,3
 whered,3,0,3
 warlock,3,0,3
-wants,3,0,3
 times,3,0,3
 statues,3,0,3
 soph,3,0,3
@@ -1447,7 +1433,6 @@ anoeth,0,4,4
 witchs,0,3,3
 whered,0,3,3
 warlock,0,3,3
-wants,0,3,3
 times,0,3,3
 statues,0,3,3
 soph,0,3,3

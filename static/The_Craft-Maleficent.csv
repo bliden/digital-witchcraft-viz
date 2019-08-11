@@ -1,10 +1,8 @@
 word,The Craft,Maleficent,total
 im,56,29,85
 dont,63,19,82
-do,55,21,76
 know,57,13,70
 go,44,19,63
-just,44,9,53
 come,30,19,49
 like,36,9,45
 youre,31,12,43
@@ -20,12 +18,10 @@ good,23,9,32
 stop,23,8,31
 shes,20,9,29
 going,22,7,29
-get,22,7,29
 whats,24,4,28
 right,23,5,28
 really,26,2,28
 see,17,10,27
-did,22,5,27
 need,14,12,26
 ill,16,9,25
 please,20,3,23
@@ -44,16 +40,13 @@ yes,8,9,17
 theyre,11,5,16
 power,12,4,16
 way,11,4,15
-let,8,7,15
 girl,6,9,15
 doing,8,6,14
-say,5,8,13
 life,6,7,13
 head,12,1,13
 true,3,9,12
 told,5,7,12
 three,8,4,12
-said,6,6,12
 people,8,4,12
 magic,8,4,12
 kill,6,6,12
@@ -65,7 +58,6 @@ make,10,1,11
 ive,5,6,11
 home,9,2,11
 harm,10,1,11
-got,8,3,11
 girls,9,2,11
 day,3,8,11
 beautiful,6,5,11
@@ -89,7 +81,6 @@ stay,6,2,8
 pay,7,1,8
 man,6,2,8
 great,5,3,8
-am,4,4,8
 things,6,1,7
 sleeping,1,6,7
 pretty,5,2,7
@@ -101,7 +92,6 @@ find,3,4,7
 father,2,5,7
 end,4,3,7
 doesnt,6,1,7
-does,4,3,7
 dead,5,2,7
 coming,4,3,7
 child,1,6,7
@@ -175,7 +165,6 @@ funny,3,1,4
 found,2,2,4
 exist,3,1,4
 east,3,1,4
-dear,3,1,4
 days,2,2,4
 course,3,1,4
 care,1,3,4
@@ -330,7 +319,6 @@ sisters,4,0,4
 school,4,0,4
 scars,4,0,4
 scared,4,0,4
-says,4,0,4
 san,4,0,4
 red,4,0,4
 practice,4,0,4
@@ -1037,7 +1025,6 @@ sisters,0,4,4
 school,0,4,4
 scars,0,4,4
 scared,0,4,4
-says,0,4,4
 san,0,4,4
 red,0,4,4
 practice,0,4,4

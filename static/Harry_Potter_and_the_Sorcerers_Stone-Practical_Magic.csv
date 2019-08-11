@@ -1,12 +1,9 @@
 word,Harry Potter and the Sorcerers Stone,Practical Magic,total
 aunt,2,92,94
-just,30,43,73
-do,31,36,67
 back,41,17,58
 im,27,29,56
 dont,21,35,56
 oh,39,16,55
-get,25,28,53
 know,22,29,51
 go,36,15,51
 come,29,22,51
@@ -15,7 +12,6 @@ looks,43,1,44
 right,23,17,40
 want,10,27,37
 good,22,15,37
-got,26,7,33
 youre,19,12,31
 thats,21,9,30
 going,17,13,30
@@ -47,7 +43,6 @@ way,16,3,19
 make,15,4,19
 little,7,12,19
 great,16,3,19
-did,7,12,19
 away,15,4,19
 tell,12,6,18
 room,11,7,18
@@ -79,7 +74,6 @@ lets,6,7,13
 kitchen,4,9,13
 give,8,5,13
 find,9,4,13
-dear,5,8,13
 blood,3,10,13
 walk,11,1,12
 sorry,8,4,12
@@ -123,7 +117,6 @@ wont,5,4,9
 turn,8,1,9
 theyre,6,3,9
 stairs,8,1,9
-say,5,4,9
 open,7,2,9
 nick,8,1,9
 knew,6,3,9
@@ -143,7 +136,6 @@ try,6,2,8
 things,4,4,8
 starts,7,1,8
 side,7,1,8
-said,7,1,8
 remember,5,3,8
 nose,7,1,8
 morning,3,5,8
@@ -178,7 +170,6 @@ gave,6,1,7
 fly,6,1,7
 fine,3,4,7
 fall,1,6,7
-does,5,2,7
 die,1,6,7
 death,3,4,7
 broken,2,5,7
@@ -198,7 +189,6 @@ read,3,3,6
 near,5,1,6
 moment,4,2,6
 making,4,2,6
-let,3,3,6
 kill,3,3,6
 grab,4,2,6
 full,4,2,6
@@ -255,7 +245,6 @@ shoulder,3,1,4
 short,3,1,4
 shes,1,3,4
 second,1,3,4
-says,2,2,4
 saying,3,1,4
 roof,3,1,4
 potions,3,1,4
@@ -296,7 +285,6 @@ yesterday,2,1,3
 write,1,2,3
 worked,1,2,3
 witchcraft,2,1,3
-wants,1,2,3
 wanting,2,1,3
 vanished,2,1,3
 trouble,2,1,3
@@ -529,7 +517,6 @@ falls,7,0,7
 disappears,7,0,7
 crowd,7,0,7
 amazed,7,0,7
-am,7,0,7
 throws,6,0,6
 start,6,0,6
 smiles,6,0,6
@@ -2208,7 +2195,6 @@ falls,0,7,7
 disappears,0,7,7
 crowd,0,7,7
 amazed,0,7,7
-am,0,7,7
 throws,0,6,6
 start,0,6,6
 smiles,0,6,6

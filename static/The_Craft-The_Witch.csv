@@ -2,21 +2,17 @@ word,The Craft,The Witch,total
 thee,9,61,70
 know,57,13,70
 dont,63,5,68
-do,55,12,67
 thy,1,61,62
 im,56,1,57
 go,44,13,57
 like,36,11,47
-just,44,1,45
 ill,16,26,42
 come,30,11,41
 want,34,4,38
-get,22,16,38
 think,30,7,37
 stop,23,14,37
 look,27,7,34
 god,20,14,34
-did,22,11,33
 tell,9,23,32
 whats,24,7,31
 mother,5,26,31
@@ -30,13 +26,11 @@ love,11,17,28
 really,26,1,27
 please,20,7,27
 see,17,9,26
-let,8,16,24
 shes,20,3,23
 hear,8,13,21
 take,9,10,19
 speak,1,18,19
 hes,17,2,19
-am,4,15,19
 need,14,4,18
 head,12,6,18
 wait,16,1,17
@@ -69,7 +63,6 @@ understand,8,1,9
 truth,2,7,9
 told,5,4,9
 sleep,2,7,9
-say,5,4,9
 peace,2,7,9
 magic,8,1,9
 inside,5,4,9
@@ -77,10 +70,8 @@ hell,4,5,9
 give,6,3,9
 feel,8,1,9
 earth,6,3,9
-does,4,5,9
 christ,1,8,9
 saw,2,6,8
-said,6,2,8
 put,6,2,8
 pretty,5,3,8
 pay,7,1,8
@@ -132,7 +123,6 @@ whos,4,1,5
 water,4,1,5
 wanted,4,1,5
 unto,2,3,5
-says,4,1,5
 quiet,1,4,5
 outside,2,3,5
 old,2,3,5
@@ -276,7 +266,6 @@ laura,8,0,8
 honey,8,0,8
 hail,8,0,8
 guardians,8,0,8
-got,8,0,8
 fine,8,0,8
 working,7,0,7
 times,7,0,7
@@ -386,7 +375,6 @@ everybody,3,0,3
 east,3,0,3
 downs,3,0,3
 deep,3,0,3
-dear,3,0,3
 crazy,3,0,3
 course,3,0,3
 corners,3,0,3
@@ -1006,7 +994,6 @@ laura,0,8,8
 honey,0,8,8
 hail,0,8,8
 guardians,0,8,8
-got,0,8,8
 fine,0,8,8
 working,0,7,7
 times,0,7,7
@@ -1116,7 +1103,6 @@ everybody,0,3,3
 east,0,3,3
 downs,0,3,3
 deep,0,3,3
-dear,0,3,3
 crazy,0,3,3
 course,0,3,3
 corners,0,3,3

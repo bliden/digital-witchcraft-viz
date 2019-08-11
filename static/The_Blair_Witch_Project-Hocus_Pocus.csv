@@ -1,7 +1,5 @@
 word,The Blair Witch Project,Hocus Pocus,total
 im,109,44,153
-get,78,49,127
-just,85,40,125
 dont,68,50,118
 come,33,83,116
 oh,41,73,114
@@ -10,7 +8,6 @@ know,71,25,96
 go,45,47,92
 like,66,18,84
 going,71,9,80
-do,52,26,78
 man,64,12,76
 back,59,13,72
 yeah,33,36,69
@@ -21,13 +18,11 @@ right,30,29,59
 way,32,19,51
 little,14,34,48
 look,23,23,46
-got,26,19,45
 thats,35,9,44
 think,31,12,43
 please,33,9,42
 ahead,41,1,42
 yes,11,30,41
-say,19,22,41
 hey,4,37,41
 good,17,24,41
 book,4,37,41
@@ -55,8 +50,6 @@ away,18,8,26
 hes,14,11,25
 help,15,10,25
 stop,17,7,24
-let,4,20,24
-did,16,8,24
 thing,15,8,23
 lost,16,7,23
 find,13,10,23
@@ -83,7 +76,6 @@ mom,6,13,19
 mary,10,9,19
 life,3,16,19
 light,14,4,18
-am,12,6,18
 whats,10,7,17
 make,6,11,17
 hello,6,11,17
@@ -108,7 +100,6 @@ halloween,1,14,15
 believe,8,7,15
 ahh,2,13,15
 thank,6,8,14
-said,8,6,14
 people,11,3,14
 mm,11,3,14
 maybe,5,9,14
@@ -149,7 +140,6 @@ years,3,7,10
 um,4,6,10
 thee,1,9,10
 sure,7,3,10
-says,8,2,10
 rain,5,5,10
 move,3,7,10
 mouth,4,6,10
@@ -294,7 +284,6 @@ hungry,4,1,5
 hike,4,1,5
 eyes,3,2,5
 drink,2,3,5
-does,4,1,5
 deal,2,3,5
 careful,1,4,5
 ago,2,3,5
@@ -676,7 +665,6 @@ winter,2,0,2
 whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
-wants,2,0,2
 wandered,2,0,2
 wall,2,0,2
 various,2,0,2
@@ -838,7 +826,6 @@ arms,2,0,2
 appears,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1689,7 +1676,6 @@ winter,0,2,2
 whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
-wants,0,2,2
 wandered,0,2,2
 wall,0,2,2
 various,0,2,2
@@ -1851,7 +1837,6 @@ arms,0,2,2
 appears,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

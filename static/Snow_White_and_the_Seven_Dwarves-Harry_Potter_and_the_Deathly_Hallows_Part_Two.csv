@@ -1,5 +1,4 @@
 word,Snow White and the Seven Dwarves,Harry Potter and the Deathly Hallows Part Two,total
-do,36,43,79
 dont,35,23,58
 oh,47,7,54
 know,17,35,52
@@ -7,15 +6,12 @@ go,39,13,52
 im,25,23,48
 come,18,25,43
 yes,28,12,40
-get,24,11,35
 like,16,17,33
 youre,12,20,32
 find,10,19,29
 thats,10,18,28
 look,18,8,26
-just,11,14,25
 good,18,7,25
-let,19,4,23
 kill,7,16,23
 cant,11,11,22
 theres,9,12,21
@@ -26,15 +22,12 @@ right,10,11,21
 work,17,2,19
 true,12,7,19
 love,18,1,19
-did,5,14,19
 away,16,3,19
 think,2,16,18
 need,1,17,18
 ill,13,5,18
 hes,2,16,18
 take,11,6,17
-say,4,13,17
-got,7,9,16
 end,13,3,16
 day,13,3,16
 make,12,3,15
@@ -81,13 +74,11 @@ understand,1,7,8
 stop,6,2,8
 shall,2,6,8
 seven,7,1,8
-said,2,6,8
 mine,5,3,8
 keep,2,6,8
 hide,5,3,8
 gonna,1,7,8
 back,2,6,8
-am,2,6,8
 alive,2,6,8
 year,2,5,7
 want,2,5,7
@@ -220,7 +211,6 @@ silence,1,1,2
 sign,1,1,2
 show,1,1,2
 set,1,1,2
-says,1,1,2
 reveal,1,1,2
 pretty,1,1,2
 outta,1,1,2
@@ -322,7 +312,6 @@ sniffing,5,0,5
 smile,5,0,5
 mighty,5,0,5
 fine,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -532,7 +521,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -966,7 +954,6 @@ sniffing,0,5,5
 smile,0,5,5
 mighty,0,5,5
 fine,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1176,7 +1163,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

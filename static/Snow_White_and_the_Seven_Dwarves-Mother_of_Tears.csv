@@ -1,7 +1,6 @@
 word,Snow White and the Seven Dwarves,Mother of Tears,total
 white,86,1,87
 ah,80,1,81
-do,36,42,78
 dont,35,39,74
 im,25,45,70
 go,39,24,63
@@ -14,22 +13,18 @@ see,13,30,43
 look,18,25,43
 queen,39,1,40
 mother,2,38,40
-get,24,11,35
 happy,32,1,33
 please,7,25,32
 right,10,20,30
-just,11,19,30
 shes,13,16,29
 cant,11,17,28
 youre,12,15,27
-let,19,8,27
 like,16,10,26
 good,18,8,26
 help,2,23,25
 take,11,13,24
 ya,21,1,22
 thats,10,12,22
-did,5,17,22
 yeah,4,17,21
 ill,13,8,21
 think,2,18,20
@@ -86,7 +81,6 @@ open,1,8,9
 huh,3,6,9
 hold,7,2,9
 hes,2,7,9
-got,7,2,9
 didnt,2,7,9
 black,3,6,9
 whats,5,3,8
@@ -97,13 +91,11 @@ gonna,1,7,8
 fine,5,3,8
 feel,3,5,8
 death,5,3,8
-dear,5,3,8
 wind,5,2,7
 understand,1,6,7
 thing,3,4,7
 talk,3,4,7
 story,4,3,7
-say,4,3,7
 house,6,1,7
 hell,3,4,7
 give,2,5,7
@@ -125,7 +117,6 @@ careful,3,3,6
 youve,1,4,5
 try,2,3,5
 tonight,1,4,5
-said,2,3,5
 promise,1,4,5
 pick,3,2,5
 killed,1,4,5
@@ -206,7 +197,6 @@ child,1,2,3
 breath,2,1,3
 bed,1,2,3
 asleep,1,2,3
-am,2,1,3
 age,1,2,3
 afraid,2,1,3
 worse,1,1,2
@@ -526,7 +516,6 @@ trouble,1,0,1
 tried,1,0,1
 tricked,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -611,7 +600,6 @@ screeching,1,0,1
 scream,1,0,1
 score,1,0,1
 scoop,1,0,1
-says,1,0,1
 sayin,1,0,1
 rustling,1,0,1
 running,1,0,1
@@ -1169,7 +1157,6 @@ trouble,0,1,1
 tried,0,1,1
 tricked,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1
@@ -1254,7 +1241,6 @@ screeching,0,1,1
 scream,0,1,1
 score,0,1,1
 scoop,0,1,1
-says,0,1,1
 sayin,0,1,1
 rustling,0,1,1
 running,0,1,1

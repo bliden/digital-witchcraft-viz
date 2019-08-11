@@ -1,5 +1,4 @@
 word,Halloweentown,The Crucible,total
-do,56,71,127
 oh,83,37,120
 know,66,42,108
 come,51,53,104
@@ -9,23 +8,17 @@ like,64,16,80
 im,60,20,80
 see,39,32,71
 good,23,47,70
-just,67,1,68
 dont,54,13,67
 sir,1,61,62
-get,53,8,61
-did,25,34,59
 grandma,56,1,57
 man,11,41,52
 look,27,22,49
 tell,10,36,46
-let,17,29,46
-am,15,29,44
 think,19,24,43
 thats,32,11,43
 youre,32,8,40
 want,25,15,40
 time,23,17,40
-say,10,30,40
 ill,15,24,39
 give,13,25,38
 right,33,3,36
@@ -34,11 +27,9 @@ cant,23,12,35
 mother,30,4,34
 witch,19,14,33
 thing,30,3,33
-dear,24,9,33
 world,20,12,32
 stop,15,16,31
 mean,23,8,31
-got,26,5,31
 name,1,29,30
 back,22,8,30
 children,12,17,29
@@ -50,7 +41,6 @@ life,10,17,27
 night,6,20,26
 house,10,16,26
 going,19,7,26
-said,14,11,25
 put,14,11,25
 make,13,12,25
 child,2,23,25
@@ -82,7 +72,6 @@ theyre,6,10,16
 theres,11,5,16
 made,5,11,16
 knew,5,11,16
-does,11,5,16
 coming,12,4,16
 book,7,9,16
 big,15,1,16
@@ -146,7 +135,6 @@ town,4,5,9
 spell,8,1,9
 sick,2,7,9
 show,7,2,9
-says,3,6,9
 gone,2,7,9
 friends,3,6,9
 father,4,5,9
@@ -203,7 +191,6 @@ discovered,1,5,6
 dark,5,1,6
 whoa,4,1,5
 wasnt,4,1,5
-wants,3,2,5
 wanted,3,2,5
 turned,4,1,5
 tomorrow,2,3,5
@@ -1359,7 +1346,6 @@ added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 marnie,0,36,36
 mom,0,31,31
 gonna,0,30,30
@@ -2305,4 +2291,3 @@ added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

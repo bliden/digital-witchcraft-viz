@@ -2,15 +2,12 @@ word,Harry Potter and the Sorcerers Stone,Sleepy Hollow,total
 back,41,7,48
 looks,43,2,45
 oh,39,5,44
-do,31,13,44
 go,36,7,43
 head,30,11,41
 come,29,12,41
-just,30,8,38
 see,31,6,37
 im,27,9,36
 know,22,10,32
-get,25,6,31
 dont,21,10,31
 yes,12,18,30
 youre,19,9,28
@@ -18,7 +15,6 @@ right,23,5,28
 father,5,23,28
 mr,21,6,27
 man,19,8,27
-got,26,1,27
 good,22,5,27
 comes,22,3,25
 look,17,7,24
@@ -38,13 +34,11 @@ tell,12,7,19
 take,12,7,19
 make,15,4,19
 house,15,4,19
-did,7,12,19
 bit,18,1,19
 hand,15,3,18
 dead,3,15,18
 theres,9,8,17
 find,9,8,17
-am,7,10,17
 run,10,6,16
 help,10,6,16
 time,9,6,15
@@ -102,7 +96,6 @@ youll,6,3,9
 youd,3,6,9
 year,8,1,9
 saw,1,8,9
-said,7,2,9
 remember,5,4,9
 red,8,1,9
 really,8,1,9
@@ -114,7 +107,6 @@ heard,6,3,9
 gone,6,3,9
 give,8,1,9
 follow,8,1,9
-dear,5,4,9
 bad,7,2,9
 work,6,2,8
 stay,3,5,8
@@ -140,7 +132,6 @@ thought,3,4,7
 thing,5,2,7
 theyre,6,1,7
 school,6,1,7
-say,5,2,7
 lived,3,4,7
 lets,6,1,7
 isnt,6,1,7
@@ -169,7 +160,6 @@ moment,4,2,6
 madam,4,2,6
 luck,5,1,6
 long,5,1,6
-let,3,3,6
 lady,4,2,6
 jump,2,4,6
 hurry,4,2,6
@@ -178,7 +168,6 @@ hard,2,4,6
 full,4,2,6
 fine,3,3,6
 far,3,3,6
-does,5,1,6
 books,3,3,6
 believe,3,3,6
 ask,2,4,6
@@ -299,7 +288,6 @@ wise,1,1,2
 whod,1,1,2
 whilst,1,1,2
 wed,1,1,2
-wants,1,1,2
 wakes,1,1,2
 upstairs,1,1,2
 turned,1,1,2
@@ -859,7 +847,6 @@ seat,2,0,2
 screen,2,0,2
 screeches,2,0,2
 scatter,2,0,2
-says,2,0,2
 rushing,2,0,2
 rushes,2,0,2
 rum,2,0,2
@@ -2594,7 +2581,6 @@ seat,0,2,2
 screen,0,2,2
 screeches,0,2,2
 scatter,0,2,2
-says,0,2,2
 rushing,0,2,2
 rushes,0,2,2
 rum,0,2,2

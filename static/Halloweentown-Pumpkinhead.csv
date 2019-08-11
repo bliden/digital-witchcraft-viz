@@ -1,10 +1,7 @@
 word,Halloweentown,Pumpkinhead,total
 oh,83,23,106
-get,53,49,102
 come,51,51,102
 know,66,28,94
-just,67,26,93
-do,56,35,91
 im,60,22,82
 like,64,12,76
 go,47,28,75
@@ -15,14 +12,12 @@ right,33,18,51
 youre,32,11,43
 see,39,4,43
 thing,30,11,41
-got,26,15,41
 hey,25,14,39
 thats,32,6,38
 cant,23,15,38
 man,11,26,37
 look,27,10,37
 yeah,23,13,36
-did,25,10,35
 back,22,11,33
 want,25,7,32
 stop,15,17,32
@@ -37,11 +32,9 @@ time,23,3,26
 think,19,5,24
 little,17,7,24
 lets,21,3,24
-let,17,6,23
 hes,10,13,23
 going,19,4,23
 uh,13,9,22
-said,14,8,22
 give,13,9,22
 didnt,17,5,22
 shes,17,4,21
@@ -57,13 +50,11 @@ doesnt,16,2,18
 big,15,3,18
 away,5,13,18
 tell,10,7,17
-say,10,7,17
 old,8,9,17
 bad,11,6,17
 put,14,2,16
 keep,10,6,16
 house,10,6,16
-am,15,1,16
 youve,14,1,15
 theres,11,4,15
 sorry,10,5,15
@@ -80,7 +71,6 @@ huh,10,3,13
 things,8,4,12
 need,10,2,12
 hear,6,6,12
-does,11,1,12
 um,10,1,11
 thank,9,2,11
 real,6,5,11
@@ -180,7 +170,6 @@ brother,3,2,5
 bed,3,2,5
 wouldnt,2,2,4
 watch,3,1,4
-wants,3,1,4
 wanna,1,3,4
 tired,3,1,4
 till,1,3,4
@@ -283,7 +272,6 @@ grandma,56,0,56
 marnie,36,0,36
 mother,30,0,30
 ooh,25,0,25
-dear,24,0,24
 world,20,0,20
 sophie,20,0,20
 ok,20,0,20
@@ -423,7 +411,6 @@ shadow,3,0,3
 serious,3,0,3
 screeching,3,0,3
 screams,3,0,3
-says,3,0,3
 roots,3,0,3
 ringing,3,0,3
 reason,3,0,3
@@ -1359,12 +1346,10 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mother,0,30,30
 ooh,0,25,25
-dear,0,24,24
 world,0,20,20
 sophie,0,20,20
 ok,0,20,20
@@ -1504,7 +1489,6 @@ shadow,0,3,3
 serious,0,3,3
 screeching,0,3,3
 screams,0,3,3
-says,0,3,3
 roots,0,3,3
 ringing,0,3,3
 reason,0,3,3
@@ -2440,4 +2424,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

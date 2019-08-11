@@ -2,7 +2,6 @@ word,Snow White and the Seven Dwarves,Something Wicked This Way Comes,total
 white,86,1,87
 oh,47,25,72
 dont,35,29,64
-do,36,28,64
 doc,57,6,63
 go,39,20,59
 come,18,33,51
@@ -15,14 +14,11 @@ im,25,12,37
 see,13,23,36
 happy,32,3,35
 old,12,20,32
-get,24,8,32
 good,18,12,30
 thats,10,18,28
 ya,21,5,26
 right,10,15,25
-just,11,14,25
 little,13,10,23
-let,19,4,23
 ill,13,10,23
 cant,11,12,23
 work,17,5,22
@@ -34,7 +30,6 @@ youre,12,8,20
 day,13,7,20
 away,16,4,20
 time,3,16,19
-got,7,12,19
 back,2,16,18
 want,2,15,17
 men,14,3,17
@@ -48,7 +43,6 @@ night,5,10,15
 yeah,4,10,14
 shes,13,1,14
 end,13,1,14
-did,5,9,14
 young,2,11,13
 wish,7,6,13
 theres,9,4,13
@@ -69,7 +63,6 @@ hear,2,9,11
 guess,3,8,11
 wash,9,1,10
 wait,7,3,10
-say,4,6,10
 name,1,9,10
 mirror,7,3,10
 sure,6,3,9
@@ -112,14 +105,12 @@ feel,3,4,7
 didnt,2,5,7
 believe,1,6,7
 beautiful,1,6,7
-am,2,5,7
 wrong,2,4,6
 wicked,3,3,6
 today,5,1,6
 thing,3,3,6
 theyll,2,4,6
 soon,4,2,6
-said,2,4,6
 quick,2,4,6
 poor,3,3,6
 place,4,2,6
@@ -211,7 +202,6 @@ sneak,2,1,3
 skin,2,1,3
 shut,2,1,3
 secret,2,1,3
-says,1,2,3
 save,2,1,3
 red,2,1,3
 ready,1,2,3
@@ -368,7 +358,6 @@ sniffing,5,0,5
 smile,5,0,5
 room,5,0,5
 mighty,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -542,7 +531,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -954,7 +942,6 @@ sniffing,0,5,5
 smile,0,5,5
 room,0,5,5
 mighty,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1128,7 +1115,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

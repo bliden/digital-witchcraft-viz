@@ -2,23 +2,19 @@ word,Harry Potter and the Sorcerers Stone,Something Wicked This Way Comes,total
 harry,376,4,380
 oh,39,25,64
 come,29,33,62
-do,31,28,59
 back,41,16,57
 go,36,20,56
 see,31,23,54
 mr,21,31,52
 dont,21,29,50
 know,22,22,44
-just,30,14,44
 like,18,23,41
 thats,21,18,39
 im,27,12,39
 right,23,15,38
 look,17,21,38
-got,26,12,38
 two,18,18,36
 good,22,12,34
-get,25,8,33
 head,30,2,32
 boys,8,23,31
 man,19,11,30
@@ -63,7 +59,6 @@ stop,11,5,16
 night,6,10,16
 lightning,3,13,16
 find,9,7,16
-did,7,9,16
 uh,5,10,15
 suddenly,14,1,15
 didnt,10,5,15
@@ -84,15 +79,12 @@ leave,10,2,12
 knew,6,6,12
 glass,10,2,12
 girl,10,2,12
-am,7,5,12
 year,8,3,11
 yeah,1,10,11
 work,6,5,11
 whats,9,2,11
 tom,3,8,11
 three,10,1,11
-say,5,6,11
-said,7,4,11
 remember,5,6,11
 hello,7,4,11
 excuse,8,3,11
@@ -132,7 +124,6 @@ gone,6,3,9
 follow,8,1,9
 face,8,1,9
 doing,7,2,9
-does,5,4,9
 coming,2,7,9
 better,7,2,9
 believe,3,6,9
@@ -162,7 +153,6 @@ start,6,1,7
 school,6,1,7
 quite,2,5,7
 past,6,1,7
-let,3,4,7
 kill,3,4,7
 inside,6,1,7
 houses,6,1,7
@@ -269,7 +259,6 @@ short,3,1,4
 shh,1,3,4
 shadow,3,1,4
 seven,2,2,4
-says,2,2,4
 ready,2,2,4
 pitch,2,2,4
 names,1,3,4
@@ -604,7 +593,6 @@ dursleys,5,0,5
 doorway,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -1142,7 +1130,6 @@ waving,1,0,1
 wave,1,0,1
 watching,1,0,1
 warning,1,0,1
-wants,1,0,1
 walnut,1,0,1
 walls,1,0,1
 wakes,1,0,1
@@ -2276,7 +2263,6 @@ dursleys,0,5,5
 doorway,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5
@@ -2814,7 +2800,6 @@ waving,0,1,1
 wave,0,1,1
 watching,0,1,1
 warning,0,1,1
-wants,0,1,1
 walnut,0,1,1
 walls,0,1,1
 wakes,0,1,1

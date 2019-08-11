@@ -1,17 +1,14 @@
 word,Harry Potter and the Sorcerers Stone,Kikis Delivery Service,total
 im,27,62,89
-do,31,53,84
 go,36,42,78
 right,23,48,71
 oh,39,31,70
 like,18,47,65
-just,30,28,58
 thats,21,36,57
 dont,21,35,56
 come,29,25,54
 looks,43,7,50
 going,17,33,50
-get,25,23,48
 back,41,7,48
 youre,19,27,46
 madam,4,42,46
@@ -28,7 +25,6 @@ day,17,14,31
 boy,23,8,31
 make,15,15,30
 ill,3,27,30
-got,26,4,30
 ah,10,20,30
 please,13,16,29
 house,15,14,29
@@ -55,7 +51,6 @@ letter,16,7,23
 later,19,4,23
 comes,22,1,23
 fly,6,16,22
-did,7,15,22
 street,7,14,21
 room,11,10,21
 mother,4,17,21
@@ -80,7 +75,6 @@ wait,5,11,16
 theres,9,7,16
 tell,12,4,16
 suddenly,14,2,16
-say,5,11,16
 mrs,10,6,16
 ive,8,8,16
 hand,15,1,16
@@ -108,7 +102,6 @@ walk,11,2,13
 stops,12,1,13
 shes,1,12,13
 sees,9,4,13
-said,7,6,13
 old,6,7,13
 excuse,8,5,13
 welcome,10,2,12
@@ -130,7 +123,6 @@ soon,3,8,11
 side,7,4,11
 run,10,1,11
 okay,3,8,11
-let,3,8,11
 lady,4,7,11
 id,5,6,11
 delivery,1,10,11
@@ -149,7 +141,6 @@ follow,8,2,10
 clear,4,6,10
 came,1,9,10
 boys,8,2,10
-am,7,3,10
 young,3,6,9
 youll,6,3,9
 told,4,5,9
@@ -189,11 +180,9 @@ eyes,7,1,8
 doing,7,1,8
 disappears,7,1,8
 decided,1,7,8
-dear,5,3,8
 bad,7,1,8
 wrong,4,3,7
 wonderful,1,6,7
-wants,1,6,7
 understand,4,3,7
 try,6,1,7
 times,3,4,7
@@ -219,7 +208,6 @@ finally,4,3,7
 eye,5,2,7
 done,6,1,7
 doesnt,4,3,7
-does,5,2,7
 club,5,2,7
 catches,6,1,7
 captain,1,6,7
@@ -335,7 +323,6 @@ slams,3,1,4
 sit,1,3,4
 sick,1,3,4
 scene,3,1,4
-says,2,2,4
 riding,2,2,4
 quite,2,2,4
 quiet,3,1,4

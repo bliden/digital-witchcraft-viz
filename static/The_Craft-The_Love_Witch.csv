@@ -2,10 +2,8 @@ word,The Craft,The Love Witch,total
 im,56,53,109
 know,57,48,105
 love,11,87,98
-do,55,43,98
 dont,63,31,94
 like,36,54,90
-just,44,40,84
 witch,8,71,79
 oh,31,43,74
 burn,1,59,60
@@ -17,7 +15,6 @@ want,34,14,48
 think,30,17,47
 right,23,22,45
 thats,26,18,44
-get,22,21,43
 come,30,12,42
 going,22,16,38
 sorry,25,9,34
@@ -28,7 +25,6 @@ way,11,21,32
 see,17,15,32
 whats,24,7,31
 didnt,19,12,31
-did,22,9,31
 need,14,15,29
 man,6,23,29
 please,20,8,28
@@ -49,7 +45,6 @@ mean,16,7,23
 make,10,13,23
 life,6,16,22
 hi,9,12,21
-got,8,13,21
 wait,16,4,20
 power,12,8,20
 guys,18,2,20
@@ -60,7 +55,6 @@ give,6,12,18
 girl,6,12,18
 used,2,15,17
 people,8,9,17
-let,8,9,17
 gonna,15,2,17
 sure,7,9,16
 found,2,14,16
@@ -84,7 +78,6 @@ baby,2,11,13
 work,3,9,12
 understand,8,4,12
 thee,9,3,12
-say,5,7,12
 powers,10,2,12
 invoke,10,2,12
 id,2,10,12
@@ -93,14 +86,12 @@ day,3,9,12
 crazy,3,9,12
 women,1,10,11
 wanna,2,9,11
-said,6,5,11
 mind,4,7,11
 happened,7,4,11
 fine,8,3,11
 find,3,8,11
 course,3,8,11
 call,6,5,11
-am,4,7,11
 saying,8,2,10
 nature,3,7,10
 killed,6,4,10
@@ -137,7 +128,6 @@ thinking,4,4,8
 theres,4,4,8
 stay,6,2,8
 spells,3,5,8
-says,4,4,8
 pretty,5,3,8
 place,4,4,8
 old,2,6,8
@@ -148,7 +138,6 @@ isnt,2,6,8
 inside,5,3,8
 house,3,5,8
 hold,6,2,8
-does,4,4,8
 body,3,5,8
 bitch,5,3,8
 believe,6,2,8
@@ -236,7 +225,6 @@ guy,3,2,5
 gone,3,2,5
 feeling,2,3,5
 eyes,4,1,5
-dear,3,2,5
 city,1,4,5
 care,1,4,5
 car,3,2,5

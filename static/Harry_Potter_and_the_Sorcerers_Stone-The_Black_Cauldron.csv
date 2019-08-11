@@ -4,13 +4,10 @@ looks,43,40,83
 cauldron,4,73,77
 back,41,33,74
 see,31,39,70
-get,25,44,69
 go,36,22,58
-just,30,27,57
 look,17,39,56
 im,27,29,56
 yes,12,43,55
-do,31,24,55
 away,15,40,55
 come,29,25,54
 dont,21,31,52
@@ -26,7 +23,6 @@ sees,9,27,36
 know,22,14,36
 door,23,13,36
 head,30,5,35
-got,26,8,34
 thats,21,12,33
 hand,15,18,33
 way,16,16,32
@@ -79,7 +75,6 @@ pulls,10,8,18
 mean,7,11,18
 ive,8,10,18
 goes,17,1,18
-did,7,11,18
 cant,10,8,18
 seen,5,12,17
 help,10,7,17
@@ -128,7 +123,6 @@ thing,5,8,13
 theres,9,4,13
 sure,5,8,13
 starts,7,6,13
-said,7,6,13
 opens,6,7,13
 open,7,6,13
 mind,7,6,13
@@ -161,12 +155,10 @@ stick,4,7,11
 really,8,3,11
 pans,8,3,11
 lets,6,5,11
-let,3,8,11
 holds,3,8,11
 hello,7,4,11
 fly,6,5,11
 fault,1,10,11
-dear,5,6,11
 begin,10,1,11
 backs,3,8,11
 work,6,4,10
@@ -178,7 +170,6 @@ tries,1,9,10
 table,9,1,10
 staircase,8,2,10
 soon,3,7,10
-say,5,5,10
 nice,5,5,10
 move,6,4,10
 left,6,4,10
@@ -238,14 +229,12 @@ fat,6,2,8
 dungeon,3,5,8
 doors,5,3,8
 done,6,2,8
-does,5,3,8
 crowd,7,1,8
 close,2,6,8
 blows,5,3,8
 best,6,2,8
 bad,7,1,8
 arent,3,5,8
-am,7,1,8
 afraid,1,7,8
 young,3,4,7
 worry,2,5,7
@@ -480,7 +469,6 @@ sharp,1,2,3
 secret,2,1,3
 seats,2,1,3
 seat,2,1,3
-says,2,1,3
 save,2,1,3
 rushes,2,1,3
 round,2,1,3
@@ -564,7 +552,6 @@ wear,1,1,2
 weak,1,1,2
 wave,1,1,2
 warning,1,1,2
-wants,1,1,2
 wakes,1,1,2
 unless,1,1,2
 underneath,1,1,2

@@ -1,11 +1,8 @@
 word,The Witches of Eastwick,Return to Halloweentown,total
-just,54,81,135
-do,76,55,131
 know,50,42,92
 like,32,34,66
 want,31,28,59
 oh,19,37,56
-get,25,31,56
 come,29,20,49
 think,28,19,47
 yes,29,15,44
@@ -14,13 +11,11 @@ go,26,18,44
 use,5,36,41
 see,29,11,40
 little,28,12,40
-let,33,7,40
 good,21,19,40
 make,21,17,38
 yeah,10,27,37
 going,18,19,37
 time,16,18,34
-did,12,22,34
 power,2,30,32
 look,19,12,31
 really,11,19,30
@@ -28,7 +23,6 @@ woman,15,13,28
 mom,1,27,28
 man,10,18,28
 sorry,10,17,27
-say,10,15,25
 stop,14,10,24
 need,5,19,24
 love,15,9,24
@@ -48,15 +42,12 @@ away,8,11,19
 world,7,11,18
 women,17,1,18
 two,8,10,18
-said,5,13,18
 mean,5,13,18
 somebody,13,4,17
 keep,6,11,17
-does,11,6,17
 thing,6,10,16
 name,10,6,16
 maybe,6,10,16
-got,5,11,16
 family,6,10,16
 witches,2,13,15
 way,7,8,15
@@ -85,14 +76,12 @@ kids,5,6,11
 home,4,7,11
 happen,10,1,11
 big,6,5,11
-am,4,7,11
 work,3,7,10
 um,4,6,10
 try,5,5,10
 trust,3,7,10
 talking,7,3,10
 school,1,9,10
-says,7,3,10
 night,2,8,10
 miss,2,8,10
 life,8,2,10
@@ -107,7 +96,6 @@ needed,3,6,9
 having,5,4,9
 future,2,7,9
 bought,8,1,9
-wants,3,5,8
 terrible,7,1,8
 stay,1,7,8
 remember,3,5,8

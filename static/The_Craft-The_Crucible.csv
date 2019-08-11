@@ -1,5 +1,4 @@
 word,The Craft,The Crucible,total
-do,55,71,126
 know,57,42,99
 mr,2,81,83
 go,44,39,83
@@ -9,7 +8,6 @@ dont,63,13,76
 good,23,47,70
 oh,31,37,68
 god,20,47,67
-did,22,34,56
 think,30,24,54
 devil,3,50,53
 like,36,16,52
@@ -18,18 +16,13 @@ see,17,32,49
 look,27,22,49
 man,6,41,47
 tell,9,36,45
-just,44,1,45
 sarah,29,13,42
 ill,16,24,40
 youre,31,8,39
 stop,23,16,39
 thats,26,11,37
-let,8,29,37
-say,5,30,35
-am,4,29,33
 give,6,25,31
 shes,20,10,30
-get,22,8,30
 cant,18,12,30
 going,22,7,29
 whats,24,4,28
@@ -62,7 +55,6 @@ need,14,5,19
 lie,1,18,19
 house,3,16,19
 believe,6,12,18
-said,6,11,17
 put,6,11,17
 away,8,9,17
 woman,1,15,16
@@ -87,7 +79,6 @@ world,1,12,13
 judge,1,12,13
 hell,4,9,13
 hang,3,10,13
-got,8,5,13
 book,4,9,13
 yes,8,4,12
 work,3,9,12
@@ -98,7 +89,6 @@ speak,1,11,12
 sit,4,8,12
 kill,6,6,12
 heart,3,9,12
-dear,3,9,12
 dead,5,7,12
 saying,8,3,11
 powers,10,1,11
@@ -111,7 +101,6 @@ youll,2,8,10
 truth,2,8,10
 thing,7,3,10
 talking,7,3,10
-says,4,6,10
 open,2,8,10
 morning,1,9,10
 lets,9,1,10
@@ -131,7 +120,6 @@ hold,6,3,9
 heard,2,7,9
 fine,8,1,9
 end,4,5,9
-does,4,5,9
 comes,3,6,9
 better,6,3,9
 bad,6,3,9

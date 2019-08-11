@@ -1,12 +1,9 @@
 word,The Craft,Pumpkinhead,total
-do,55,35,90
 know,57,28,85
 dont,63,20,83
 come,30,51,81
 im,56,22,78
 go,44,28,72
-get,22,49,71
-just,44,26,70
 yeah,42,13,55
 oh,31,23,54
 okay,21,29,50
@@ -25,7 +22,6 @@ cant,18,15,33
 thats,26,6,32
 man,6,26,32
 god,20,12,32
-did,22,10,32
 sorry,25,5,30
 really,26,4,30
 hes,17,13,30
@@ -37,7 +33,6 @@ going,22,4,26
 chris,17,9,26
 shes,20,4,24
 didnt,19,5,24
-got,8,15,23
 mean,16,6,22
 wait,16,5,21
 stay,6,15,21
@@ -57,8 +52,6 @@ hey,1,14,15
 give,6,9,15
 yes,8,6,14
 shit,13,1,14
-said,6,8,14
-let,8,6,14
 hear,8,6,14
 power,12,1,13
 honey,8,5,13
@@ -66,7 +59,6 @@ head,12,1,13
 fine,8,5,13
 dead,5,8,13
 sure,7,5,12
-say,5,7,12
 love,11,1,12
 lets,9,3,12
 home,9,3,12
@@ -160,12 +152,10 @@ hello,4,1,5
 guess,3,2,5
 fuck,1,4,5
 doin,1,4,5
-does,4,1,5
 damn,1,4,5
 course,3,2,5
 car,3,2,5
 bring,1,4,5
-am,4,1,5
 work,3,1,4
 woman,1,3,4
 window,1,3,4
@@ -316,7 +306,6 @@ stuff,4,0,4
 sisters,4,0,4
 school,4,0,4
 scars,4,0,4
-says,4,0,4
 san,4,0,4
 red,4,0,4
 practice,4,0,4
@@ -377,7 +366,6 @@ exist,3,0,3
 everybody,3,0,3
 east,3,0,3
 downs,3,0,3
-dear,3,0,3
 cry,3,0,3
 corners,3,0,3
 completely,3,0,3
@@ -1030,7 +1018,6 @@ stuff,0,4,4
 sisters,0,4,4
 school,0,4,4
 scars,0,4,4
-says,0,4,4
 san,0,4,4
 red,0,4,4
 practice,0,4,4
@@ -1091,7 +1078,6 @@ exist,0,3,3
 everybody,0,3,3
 east,0,3,3
 downs,0,3,3
-dear,0,3,3
 cry,0,3,3
 corners,0,3,3
 completely,0,3,3

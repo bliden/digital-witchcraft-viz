@@ -1,6 +1,4 @@
 word,The Witches of Eastwick,Oz The Great and Powerful,total
-do,76,79,155
-just,54,52,106
 dont,69,37,106
 im,40,65,105
 know,50,33,83
@@ -9,7 +7,6 @@ looks,2,78,80
 youre,23,55,78
 oh,19,59,78
 like,32,37,69
-get,25,43,68
 yes,29,34,63
 come,29,31,60
 thats,36,21,57
@@ -37,11 +34,8 @@ take,15,14,29
 stop,14,15,29
 great,5,24,29
 thank,10,18,28
-did,12,16,28
 sees,1,26,27
-got,5,22,27
 okay,16,10,26
-let,16,10,26
 woman,15,10,25
 hes,11,14,25
 head,3,22,25
@@ -64,16 +58,13 @@ face,1,19,20
 walk,1,18,19
 thing,6,13,19
 tell,4,15,19
-say,10,9,19
 makes,4,15,19
 isnt,10,9,19
 inside,4,15,19
 hear,4,15,19
 give,5,14,19
 doing,13,6,19
-does,11,8,19
 two,8,10,18
-said,5,13,18
 name,10,8,18
 somebody,13,4,17
 kind,6,11,17
@@ -95,7 +86,6 @@ men,9,6,15
 looking,7,8,15
 life,8,7,15
 dark,2,13,15
-am,4,11,15
 mean,5,9,14
 holding,1,13,14
 hold,2,12,14
@@ -153,7 +143,6 @@ coming,3,7,10
 better,6,4,10
 wrong,7,2,9
 use,5,4,9
-says,7,2,9
 running,1,8,9
 remember,3,6,9
 playing,2,7,9
@@ -290,7 +279,6 @@ wouldnt,3,1,4
 wonder,1,3,4
 waves,2,2,4
 wash,3,1,4
-wants,3,1,4
 used,2,2,4
 tall,2,2,4
 taken,1,3,4

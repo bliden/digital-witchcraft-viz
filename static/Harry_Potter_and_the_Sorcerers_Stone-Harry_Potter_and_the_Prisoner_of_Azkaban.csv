@@ -4,11 +4,9 @@ ron,111,31,142
 hagrid,103,13,116
 hermione,84,14,98
 come,29,69,98
-do,31,62,93
 go,36,37,73
 dont,21,49,70
 see,31,37,68
-just,30,38,68
 oh,39,28,67
 know,22,44,66
 back,41,25,66
@@ -19,13 +17,10 @@ good,22,35,57
 professor,23,33,56
 right,23,28,51
 potter,34,17,51
-get,25,26,51
 think,15,35,50
 looks,43,6,49
 like,18,30,48
 mcgonagall,44,3,47
-did,7,39,46
-got,26,19,45
 youre,19,23,42
 hes,13,27,40
 dumbledore,28,12,40
@@ -69,9 +64,7 @@ comes,22,1,23
 cant,10,13,23
 wait,5,16,21
 sir,12,9,21
-say,5,16,21
 name,15,6,21
-let,3,18,21
 keep,7,14,21
 ive,8,13,21
 yeah,1,19,20
@@ -105,14 +98,12 @@ years,9,7,16
 wont,5,11,16
 theres,9,7,16
 scabbers,4,12,16
-said,7,9,16
 put,9,7,16
 old,6,10,16
 need,7,9,16
 house,15,1,16
 excuse,8,8,16
 doing,7,9,16
-am,7,9,16
 welcome,10,5,15
 weasley,11,4,15
 walk,11,4,15
@@ -128,7 +119,6 @@ looking,9,6,15
 gets,14,1,15
 father,5,10,15
 family,13,2,15
-dear,5,10,15
 called,13,2,15
 talking,5,9,14
 stop,11,3,14
@@ -137,7 +127,6 @@ people,11,3,14
 magic,7,7,14
 help,10,4,14
 harrys,13,1,14
-does,5,9,14
 dark,8,6,14
 year,8,5,13
 tower,10,3,13
@@ -340,7 +329,6 @@ worst,1,4,5
 wonderful,1,4,5
 wicked,4,1,5
 weve,1,4,5
-wants,1,4,5
 uncle,3,2,5
 trouble,2,3,5
 took,3,2,5
@@ -420,7 +408,6 @@ sight,1,3,4
 severus,1,3,4
 seven,2,2,4
 secret,2,2,4
-says,2,2,4
 saying,3,1,4
 save,2,2,4
 ronald,1,3,4

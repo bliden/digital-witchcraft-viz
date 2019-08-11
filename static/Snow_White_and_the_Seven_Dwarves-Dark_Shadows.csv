@@ -1,6 +1,5 @@
 word,Snow White and the Seven Dwarves,Dark Shadows,total
 ah,80,3,83
-do,36,44,80
 im,25,37,62
 oh,47,8,55
 go,39,16,55
@@ -9,13 +8,10 @@ yes,28,24,52
 love,18,28,46
 like,16,28,44
 know,17,27,44
-get,24,16,40
 dig,38,2,40
 youre,12,23,35
 happy,32,2,34
 good,18,15,33
-just,11,20,31
-let,19,11,30
 come,18,12,30
 look,18,9,27
 please,7,18,25
@@ -39,16 +35,13 @@ yeah,4,13,17
 time,3,14,17
 tell,6,11,17
 men,14,3,17
-got,7,10,17
 going,3,14,17
 blood,2,15,17
 home,10,6,16
 right,10,5,15
 name,1,14,15
 kill,7,8,15
-did,5,10,15
 cant,11,4,15
-am,2,13,15
 thing,3,11,14
 theres,9,5,14
 place,4,10,14
@@ -62,7 +55,6 @@ youll,8,4,12
 woman,2,10,12
 want,2,10,12
 sure,6,6,12
-say,4,8,12
 back,2,10,12
 things,3,8,11
 spoken,10,1,11
@@ -70,7 +62,6 @@ run,7,4,11
 really,2,9,11
 new,1,10,11
 hell,3,8,11
-dear,5,6,11
 watch,7,3,10
 life,2,8,10
 hold,7,3,10
@@ -130,7 +121,6 @@ theyre,4,2,6
 sweet,1,5,6
 stay,3,3,6
 speak,1,5,6
-said,2,4,6
 remember,2,4,6
 mine,5,1,6
 mighty,5,1,6
@@ -215,7 +205,6 @@ sort,1,2,3
 smells,2,1,3
 shut,2,1,3
 search,2,1,3
-says,1,2,3
 ready,1,2,3
 quiet,2,1,3
 quick,2,1,3
@@ -565,7 +554,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1144,7 +1132,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

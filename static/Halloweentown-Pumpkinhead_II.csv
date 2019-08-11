@@ -1,16 +1,12 @@
 word,Halloweentown,Pumpkinhead II,total
 oh,83,28,111
 know,66,40,106
-just,67,38,105
 come,51,49,100
 like,64,33,97
 go,47,50,97
 dont,54,42,96
-do,56,38,94
-get,53,34,87
 right,33,45,78
 im,60,15,75
-got,26,39,65
 grandma,56,1,57
 see,39,17,56
 look,27,26,53
@@ -24,7 +20,6 @@ hey,25,20,45
 back,22,18,40
 want,25,12,37
 help,21,16,37
-did,25,12,37
 cant,23,13,36
 thing,30,5,35
 shes,17,18,35
@@ -44,14 +39,11 @@ yes,23,4,27
 ill,15,11,26
 hes,10,16,26
 really,17,8,25
-let,17,8,25
 kids,17,8,25
 going,19,6,25
 tell,10,14,24
 home,16,8,24
 stop,15,8,23
-say,10,12,22
-said,14,8,22
 give,13,9,22
 world,20,1,21
 take,11,10,21
@@ -83,8 +75,6 @@ wait,8,8,16
 thanks,13,3,16
 talk,6,10,16
 gotta,9,7,16
-does,11,5,16
-am,15,1,16
 thank,9,6,15
 powers,14,1,15
 long,12,3,15
@@ -182,7 +172,6 @@ hold,3,4,7
 call,4,3,7
 woods,1,5,6
 watch,3,3,6
-wants,3,3,6
 wanted,3,3,6
 use,5,1,6
 understand,5,1,6
@@ -191,7 +180,6 @@ supposed,3,3,6
 stay,5,1,6
 start,5,1,6
 sister,4,2,6
-says,3,3,6
 save,5,1,6
 ready,1,5,6
 quite,4,2,6
@@ -445,7 +433,6 @@ absolutely,1,1,2
 abominable,1,1,2
 marnie,36,0,36
 ooh,25,0,25
-dear,24,0,24
 sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
@@ -1359,10 +1346,8 @@ afterlife,1,0,1
 added,1,0,1
 acid,1,0,1
 abracadabra,1,0,1
-able,1,0,1
 marnie,0,36,36
 ooh,0,25,25
-dear,0,24,24
 sophie,0,20,20
 ok,0,20,20
 bus,0,20,20
@@ -2276,4 +2261,3 @@ afterlife,0,1,1
 added,0,1,1
 acid,0,1,1
 abracadabra,0,1,1
-able,0,1,1

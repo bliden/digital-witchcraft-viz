@@ -1,12 +1,9 @@
 word,Halloweentown,Blair Witch Project,total
 im,60,109,169
-just,67,85,152
 know,66,71,137
-get,53,78,131
 like,64,66,130
 oh,83,41,124
 dont,54,68,122
-do,56,52,108
 go,47,45,92
 going,19,71,90
 come,51,33,84
@@ -17,7 +14,6 @@ right,33,30,63
 lets,21,40,61
 see,39,20,59
 yeah,23,33,56
-got,26,26,52
 think,19,31,50
 look,27,23,50
 want,25,24,49
@@ -27,7 +23,6 @@ please,12,33,45
 gonna,30,15,45
 really,17,27,44
 youre,32,10,42
-did,25,16,41
 good,23,17,40
 witch,19,19,38
 cant,23,15,38
@@ -41,12 +36,10 @@ didnt,17,14,31
 night,6,24,30
 mean,23,7,30
 theres,11,18,29
-say,10,19,29
 hey,25,4,29
 turn,12,16,28
 put,14,13,27
 ive,12,15,27
-am,15,12,27
 two,13,13,26
 home,16,10,26
 sorry,10,15,25
@@ -59,7 +52,6 @@ gotta,9,14,23
 away,5,18,23
 woman,2,20,22
 tell,10,12,22
-said,14,8,22
 old,8,14,22
 keep,10,12,22
 hear,6,16,22
@@ -68,7 +60,6 @@ day,5,17,22
 weve,6,15,21
 stuff,14,7,21
 long,12,9,21
-let,17,4,21
 woods,1,19,20
 need,10,10,20
 looking,2,18,20
@@ -106,7 +97,6 @@ hours,8,7,15
 hair,8,7,15
 guess,8,7,15
 getting,6,9,15
-does,11,4,15
 believe,7,8,15
 um,10,4,14
 thanks,13,1,14
@@ -141,7 +131,6 @@ thought,8,3,11
 things,8,3,11
 stay,5,6,11
 sound,1,10,11
-says,3,8,11
 huh,10,1,11
 happy,2,9,11
 face,2,9,11
@@ -250,7 +239,6 @@ careful,5,1,6
 care,3,3,6
 anyway,5,1,6
 young,3,2,5
-wants,3,2,5
 trust,3,2,5
 top,1,4,5
 times,3,2,5
@@ -415,7 +403,6 @@ begin,1,2,3
 arms,1,2,3
 ahh,1,2,3
 absolutely,1,2,3
-able,1,2,3
 youll,1,1,2
 write,1,1,2
 twice,1,1,2
@@ -499,7 +486,6 @@ grandma,56,0,56
 marnie,36,0,36
 mother,30,0,30
 ooh,25,0,25
-dear,24,0,24
 world,20,0,20
 sophie,20,0,20
 ok,20,0,20
@@ -1364,7 +1350,6 @@ grandma,0,56,56
 marnie,0,36,36
 mother,0,30,30
 ooh,0,25,25
-dear,0,24,24
 world,0,20,20
 sophie,0,20,20
 ok,0,20,20

@@ -2,21 +2,17 @@ word,Harry Potter and the Sorcerers Stone,Maleficent,total
 back,41,16,57
 im,27,29,56
 go,36,19,55
-do,31,21,52
 come,29,19,48
 looks,43,1,44
 see,31,10,41
 oh,39,1,40
 dont,21,19,40
-just,30,9,39
 know,22,13,35
-get,25,7,32
 youre,19,12,31
 thats,21,10,31
 head,30,1,31
 good,22,9,31
 look,17,12,29
-got,26,3,29
 right,23,5,28
 like,18,9,27
 boy,23,3,26
@@ -55,8 +51,6 @@ cant,10,4,14
 whats,9,4,13
 theres,9,4,13
 sir,12,1,13
-say,5,8,13
-said,7,6,13
 find,9,4,13
 doing,7,6,13
 walk,11,1,12
@@ -67,7 +61,6 @@ looking,9,3,12
 ill,3,9,12
 done,6,6,12
 didnt,10,2,12
-did,7,5,12
 birthday,6,6,12
 work,6,5,11
 welcome,10,1,11
@@ -80,13 +73,11 @@ help,10,1,11
 give,8,3,11
 curse,2,9,11
 castle,5,6,11
-am,7,4,11
 turn,8,2,10
 shes,1,9,10
 really,8,2,10
 mean,7,3,10
 life,3,7,10
-let,3,7,10
 father,5,5,10
 death,3,7,10
 dark,8,2,10
@@ -114,7 +105,6 @@ parents,5,3,8
 night,6,2,8
 mind,7,1,8
 left,6,2,8
-does,5,3,8
 bring,2,6,8
 better,7,1,8
 youll,6,1,7
@@ -151,7 +141,6 @@ flying,4,2,6
 feet,4,2,6
 feel,2,4,6
 far,3,3,6
-dear,5,1,6
 young,3,2,5
 wrong,4,1,5
 wicked,4,1,5
@@ -834,7 +823,6 @@ seat,2,0,2
 screen,2,0,2
 screeches,2,0,2
 scatter,2,0,2
-says,2,0,2
 save,2,0,2
 rushing,2,0,2
 rushes,2,0,2
@@ -1104,7 +1092,6 @@ weak,1,0,1
 waving,1,0,1
 wave,1,0,1
 warning,1,0,1
-wants,1,0,1
 walnut,1,0,1
 wakes,1,0,1
 waistcoat,1,0,1
@@ -2621,7 +2608,6 @@ seat,0,2,2
 screen,0,2,2
 screeches,0,2,2
 scatter,0,2,2
-says,0,2,2
 save,0,2,2
 rushing,0,2,2
 rushes,0,2,2
@@ -2891,7 +2877,6 @@ weak,0,1,1
 waving,0,1,1
 wave,0,1,1
 warning,0,1,1
-wants,0,1,1
 walnut,0,1,1
 wakes,0,1,1
 waistcoat,0,1,1

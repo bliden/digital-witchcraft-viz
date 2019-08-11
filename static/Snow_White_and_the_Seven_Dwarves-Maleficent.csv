@@ -1,6 +1,5 @@
 word,Snow White and the Seven Dwarves,Maleficent,total
 go,39,19,58
-do,36,21,57
 im,25,29,54
 dont,35,19,54
 oh,47,1,48
@@ -8,12 +7,10 @@ queen,39,4,43
 yes,28,9,37
 come,18,19,37
 happy,32,3,35
-get,24,7,31
 look,18,12,30
 know,17,13,30
 good,18,9,27
 love,18,8,26
-let,19,7,26
 away,16,10,26
 like,16,9,25
 youre,12,12,24
@@ -26,7 +23,6 @@ day,13,8,21
 thats,10,10,20
 take,11,9,20
 little,13,7,20
-just,11,9,20
 tell,6,12,18
 men,14,4,18
 back,2,16,18
@@ -46,7 +42,6 @@ kiss,3,10,13
 kill,7,6,13
 wish,7,5,12
 sleeping,6,6,12
-say,4,8,12
 home,10,2,12
 death,5,7,12
 sleep,4,7,11
@@ -58,10 +53,8 @@ please,7,3,10
 majesty,4,6,10
 magic,6,4,10
 ive,4,6,10
-got,7,3,10
 going,3,7,10
 girl,1,9,10
-did,5,5,10
 castle,4,6,10
 youll,8,1,9
 wont,6,3,9
@@ -72,7 +65,6 @@ run,7,2,9
 mean,6,3,9
 life,2,7,9
 want,2,6,8
-said,2,6,8
 prince,7,1,8
 loves,2,6,8
 world,2,5,7
@@ -97,10 +89,8 @@ quite,3,3,6
 mine,5,1,6
 live,1,5,6
 guard,3,3,6
-dear,5,1,6
 children,4,2,6
 beautiful,1,5,6
-am,2,4,6
 afraid,2,4,6
 yeah,4,1,5
 tree,3,2,5
@@ -515,7 +505,6 @@ tried,1,0,1
 tricked,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -604,7 +593,6 @@ screeching,1,0,1
 scream,1,0,1
 score,1,0,1
 scoop,1,0,1
-says,1,0,1
 sayin,1,0,1
 rustling,1,0,1
 rumbling,1,0,1
@@ -1176,7 +1164,6 @@ tried,0,1,1
 tricked,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1
@@ -1265,7 +1252,6 @@ screeching,0,1,1
 scream,0,1,1
 score,0,1,1
 scoop,0,1,1
-says,0,1,1
 sayin,0,1,1
 rustling,0,1,1
 rumbling,0,1,1

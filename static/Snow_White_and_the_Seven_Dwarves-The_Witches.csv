@@ -1,11 +1,9 @@
 word,Snow White and the Seven Dwarves,The Witches,total
 white,86,1,87
 dont,35,39,74
-do,36,34,70
 go,39,30,69
 come,18,49,67
 im,25,38,63
-get,24,39,63
 good,18,39,57
 yes,28,24,52
 oh,47,5,52
@@ -16,8 +14,6 @@ know,17,19,36
 ill,13,23,36
 right,10,25,35
 see,13,21,34
-just,11,23,34
-got,7,24,31
 away,16,14,30
 witch,1,28,29
 youre,12,15,27
@@ -25,7 +21,6 @@ little,13,14,27
 take,11,14,25
 cant,11,14,25
 theres,9,15,24
-let,19,5,24
 day,13,11,24
 thats,10,13,23
 soup,1,22,23
@@ -36,7 +31,6 @@ room,5,15,20
 old,12,8,20
 love,18,2,20
 youll,8,11,19
-did,5,14,19
 wait,7,11,18
 child,1,17,18
 tell,6,11,17
@@ -68,7 +62,6 @@ bad,6,6,12
 wont,6,5,11
 wash,9,1,10
 sure,6,4,10
-say,4,6,10
 really,2,8,10
 mean,6,4,10
 magic,6,4,10
@@ -76,7 +69,6 @@ lets,5,5,10
 house,6,4,10
 hey,8,2,10
 didnt,2,8,10
-dear,5,5,10
 cat,1,9,10
 way,3,6,9
 thanks,4,5,9
@@ -107,7 +99,6 @@ hell,3,4,7
 gone,3,4,7
 eyes,1,6,7
 better,1,6,7
-am,2,5,7
 youve,1,5,6
 worry,2,4,6
 world,2,4,6
@@ -118,7 +109,6 @@ things,3,3,6
 theyll,2,4,6
 talk,3,3,6
 sleep,4,2,6
-said,2,4,6
 remember,2,4,6
 quick,2,4,6
 put,1,5,6
@@ -249,7 +239,6 @@ started,1,1,2
 special,1,1,2
 speak,1,1,2
 sight,1,1,2
-says,1,1,2
 rich,1,1,2
 promise,1,1,2
 possibly,1,1,2
@@ -551,7 +540,6 @@ tumbling,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1148,7 +1136,6 @@ tumbling,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

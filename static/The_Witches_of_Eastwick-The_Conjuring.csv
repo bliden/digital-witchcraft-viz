@@ -1,8 +1,5 @@
 word,The Witches of Eastwick,The Conjuring,total
-do,76,55,131
 dont,69,36,105
-just,54,33,87
-get,25,58,83
 know,50,31,81
 im,40,39,79
 go,26,47,73
@@ -28,11 +25,8 @@ whats,15,17,32
 shes,12,18,30
 lets,17,12,29
 house,8,20,28
-did,12,16,28
-got,5,22,27
 god,12,15,27
 back,11,16,27
-let,16,10,26
 stop,14,11,25
 time,16,8,24
 make,21,3,24
@@ -42,7 +36,6 @@ thank,10,12,22
 ill,5,17,22
 love,15,6,21
 woman,15,4,19
-said,5,14,19
 help,3,16,19
 doing,13,6,19
 women,17,1,18
@@ -63,12 +56,10 @@ didnt,5,11,16
 wait,5,10,15
 somebody,13,2,15
 honey,4,11,15
-does,11,4,15
 call,10,5,15
 theyre,12,2,14
 sure,8,6,14
 sorry,10,4,14
-say,10,4,14
 lot,2,12,14
 girls,5,9,14
 doesnt,7,7,14
@@ -101,7 +92,6 @@ eyes,9,2,11
 coming,3,8,11
 bed,4,7,11
 away,8,3,11
-am,4,7,11
 two,8,2,10
 talking,7,3,10
 talk,8,2,10
@@ -134,7 +124,6 @@ course,5,3,8
 big,6,2,8
 afraid,5,3,8
 wife,3,4,7
-wants,3,4,7
 trying,6,1,7
 stay,1,6,7
 start,1,6,7
@@ -408,7 +397,6 @@ tickle,8,0,8
 pain,8,0,8
 van,7,0,7
 terrible,7,0,7
-says,7,0,7
 walter,6,0,6
 today,6,0,6
 mm,6,0,6
@@ -1229,7 +1217,6 @@ tickle,0,8,8
 pain,0,8,8
 van,0,7,7
 terrible,0,7,7
-says,0,7,7
 walter,0,6,6
 today,0,6,6
 mm,0,6,6

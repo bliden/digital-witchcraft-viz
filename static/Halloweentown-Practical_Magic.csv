@@ -1,11 +1,8 @@
 word,Halloweentown,Practical Magic,total
-just,67,43,110
 oh,83,16,99
 know,66,29,95
-do,56,36,92
 im,60,29,89
 dont,54,35,89
-get,53,28,81
 like,64,11,75
 come,51,22,73
 go,47,15,62
@@ -18,16 +15,13 @@ thats,32,9,41
 back,22,17,39
 good,23,15,38
 mom,31,6,37
-did,25,12,37
 time,23,11,34
 cant,23,11,34
 witch,19,14,33
 mother,30,3,33
 look,27,6,33
-got,26,7,33
 thing,30,2,32
 going,19,13,32
-dear,24,8,32
 hey,25,6,31
 really,17,13,30
 think,19,10,29
@@ -51,7 +45,6 @@ life,10,11,21
 stop,15,5,20
 shes,17,3,20
 man,11,9,20
-let,17,3,20
 halloween,19,1,20
 two,13,6,19
 take,11,8,19
@@ -76,14 +69,12 @@ spell,8,8,16
 youve,14,1,15
 talisman,14,1,15
 spells,4,11,15
-said,14,1,15
 normal,9,6,15
 need,10,5,15
 long,12,3,15
 coming,12,3,15
 whats,8,6,14
 sorry,10,4,14
-say,10,4,14
 maybe,12,2,14
 keep,10,4,14
 doing,9,5,14
@@ -91,7 +82,6 @@ bad,11,3,14
 turn,12,1,13
 old,8,5,13
 huh,10,3,13
-does,11,2,13
 day,5,8,13
 things,8,4,12
 kitchen,3,9,12
@@ -192,7 +182,6 @@ broken,1,5,6
 baby,3,3,6
 years,3,2,5
 wish,2,3,5
-wants,3,2,5
 turned,4,1,5
 tonight,4,1,5
 today,2,3,5
@@ -203,7 +192,6 @@ spirit,1,4,5
 sleep,2,3,5
 shut,2,3,5
 school,4,1,5
-says,3,2,5
 read,2,3,5
 miss,2,3,5
 mind,1,4,5
@@ -394,7 +382,6 @@ sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
 halloweentown,17,0,17
-am,15,0,15
 powers,14,0,14
 dylan,14,0,14
 cromwell,14,0,14
@@ -1359,7 +1346,6 @@ afterlife,1,0,1
 added,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 marnie,0,36,36
 gonna,0,30,30
 ooh,0,25,25
@@ -1368,7 +1354,6 @@ sophie,0,20,20
 ok,0,20,20
 bus,0,20,20
 halloweentown,0,17,17
-am,0,15,15
 powers,0,14,14
 dylan,0,14,14
 cromwell,0,14,14
@@ -2333,4 +2318,3 @@ afterlife,0,1,1
 added,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

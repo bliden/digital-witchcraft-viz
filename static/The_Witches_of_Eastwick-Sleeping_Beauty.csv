@@ -1,9 +1,7 @@
 word,The Witches of Eastwick,Sleeping Beauty,total
-do,76,20,96
 dont,69,17,86
 oh,19,63,82
 know,50,27,77
-just,54,16,70
 come,29,28,57
 im,40,14,54
 yes,29,21,50
@@ -12,7 +10,6 @@ thats,36,11,47
 cant,29,16,45
 like,32,12,44
 think,28,15,43
-get,25,12,37
 want,31,5,36
 go,26,10,36
 youre,23,11,34
@@ -26,13 +23,11 @@ back,11,15,26
 prince,3,22,25
 time,16,8,24
 stop,14,10,24
-did,12,12,24
 way,7,16,23
 take,15,7,22
 shes,12,10,22
 look,19,3,22
 whats,15,6,21
-let,16,5,21
 dream,1,19,20
 course,5,15,20
 starts,4,15,19
@@ -44,7 +39,6 @@ inside,4,14,18
 really,11,6,17
 hes,11,6,17
 yeah,10,6,16
-say,10,6,16
 two,8,7,15
 theyre,12,3,15
 isnt,10,5,15
@@ -58,7 +52,6 @@ sorry,10,3,13
 open,6,7,13
 ha,3,10,13
 eyes,9,4,13
-does,11,2,13
 child,1,12,13
 youll,2,10,12
 room,1,11,12
@@ -69,7 +62,6 @@ man,10,2,12
 life,8,4,12
 doesnt,7,5,12
 tell,4,7,11
-says,7,4,11
 mean,5,6,11
 makes,4,7,11
 looking,7,4,11
@@ -85,7 +77,6 @@ thing,6,3,9
 sweet,5,4,9
 start,1,8,9
 sees,1,8,9
-said,5,4,9
 maybe,6,3,9
 head,3,6,9
 happy,3,6,9
@@ -109,7 +100,6 @@ horse,2,6,8
 home,4,4,8
 hmm,5,3,8
 great,5,3,8
-got,5,3,8
 give,5,3,8
 find,1,7,8
 birthday,2,6,8
@@ -181,7 +171,6 @@ die,3,2,5
 couldnt,4,1,5
 beautiful,2,3,5
 bad,3,2,5
-am,4,1,5
 ah,2,3,5
 war,2,2,4
 truth,2,2,4
@@ -437,7 +426,6 @@ york,3,0,3
 wouldnt,3,0,3
 win,3,0,3
 wife,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 trust,3,0,3
@@ -1303,7 +1291,6 @@ york,0,3,3
 wouldnt,0,3,3
 win,0,3,3
 wife,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 trust,0,3,3

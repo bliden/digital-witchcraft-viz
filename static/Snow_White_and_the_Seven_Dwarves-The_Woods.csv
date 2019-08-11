@@ -1,18 +1,14 @@
 word,Snow White and the Seven Dwarves,The Woods,total
-do,36,30,66
 go,39,24,63
 dont,35,25,60
 oh,47,10,57
 im,25,23,48
-get,24,22,46
-just,11,26,37
 good,18,19,37
 come,18,17,35
 youre,12,22,34
 like,16,18,34
 yes,28,5,33
 know,17,15,32
-let,19,10,29
 night,5,20,25
 song,21,3,24
 cant,11,12,23
@@ -34,7 +30,6 @@ little,13,3,16
 kill,7,9,16
 fire,1,15,16
 home,10,5,15
-got,7,8,15
 find,10,5,15
 way,3,11,14
 time,3,11,14
@@ -42,7 +37,6 @@ tell,6,8,14
 make,12,2,14
 end,13,1,14
 sorry,2,11,13
-say,4,9,13
 old,12,1,13
 going,3,10,13
 door,12,1,13
@@ -55,7 +49,6 @@ whats,5,6,11
 watch,7,4,11
 think,2,9,11
 listen,1,10,11
-did,5,6,11
 youll,8,2,10
 wont,6,4,10
 wait,7,3,10
@@ -70,7 +63,6 @@ house,6,3,9
 help,2,7,9
 girls,1,8,9
 didnt,2,7,9
-am,2,7,9
 young,2,6,8
 wish,7,1,8
 theyre,4,4,8
@@ -78,7 +70,6 @@ really,2,6,8
 maybe,5,3,8
 hear,2,6,8
 drink,2,6,8
-dear,5,3,8
 bring,1,7,8
 better,1,7,8
 yeah,4,3,7
@@ -133,7 +124,6 @@ stuff,1,3,4
 started,1,3,4
 special,1,3,4
 silly,3,1,4
-said,2,2,4
 red,2,2,4
 ready,1,3,4
 quite,3,1,4
@@ -210,7 +200,6 @@ sight,1,1,2
 sick,1,1,2
 set,1,1,2
 scream,1,1,2
-says,1,1,2
 rest,1,1,2
 promise,1,1,2
 pretty,1,1,2
@@ -526,7 +515,6 @@ tricked,1,0,1
 transform,1,0,1
 touch,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1177,7 +1165,6 @@ tricked,0,1,1
 transform,0,1,1
 touch,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

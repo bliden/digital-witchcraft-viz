@@ -1,12 +1,9 @@
 word,Harry Potter and the Sorcerers Stone,Drag Me To Hell,total
 im,27,51,78
-just,30,43,73
-do,31,41,72
 oh,39,27,66
 know,22,38,60
 go,36,22,58
 okay,3,53,56
-get,25,31,56
 come,29,26,55
 see,31,23,54
 dont,21,33,54
@@ -18,7 +15,6 @@ thats,21,25,46
 good,22,23,45
 think,15,24,39
 hey,10,29,39
-got,26,11,37
 please,13,23,36
 yes,12,23,35
 mr,21,12,33
@@ -33,7 +29,6 @@ really,8,21,29
 make,15,14,29
 door,23,6,29
 take,12,16,28
-did,7,21,28
 yeah,1,26,27
 woman,7,20,27
 house,15,12,27
@@ -80,7 +75,6 @@ leave,10,6,16
 gasps,6,10,16
 called,13,3,16
 wall,14,1,15
-said,7,8,15
 night,6,9,15
 maybe,6,9,15
 find,9,6,15
@@ -96,7 +90,6 @@ mind,7,7,14
 lets,6,8,14
 course,8,6,14
 baby,4,10,14
-am,7,7,14
 walk,11,2,13
 sir,12,1,13
 shes,1,12,13
@@ -119,14 +112,12 @@ hell,5,7,12
 hall,11,1,12
 game,11,1,12
 three,10,1,11
-let,3,8,11
 hello,7,4,11
 hair,9,2,11
 doing,7,4,11
 believe,3,8,11
 try,6,4,10
 train,8,2,10
-say,5,5,10
 open,7,3,10
 nice,5,5,10
 mouth,3,7,10
@@ -150,7 +141,6 @@ morning,3,6,9
 meet,2,7,9
 happened,4,5,9
 follow,8,1,9
-does,5,4,9
 call,2,7,9
 button,1,8,9
 boys,8,1,9
@@ -194,7 +184,6 @@ fine,3,4,7
 father,5,2,7
 fat,6,1,7
 done,6,1,7
-dear,5,2,7
 continues,4,3,7
 club,5,2,7
 came,1,6,7
@@ -386,7 +375,6 @@ worth,1,1,2
 wonderful,1,1,2
 wheres,1,1,2
 weve,1,1,2
-wants,1,1,2
 use,1,1,2
 trapped,1,1,2
 tired,1,1,2
@@ -895,7 +883,6 @@ seat,2,0,2
 screen,2,0,2
 screeches,2,0,2
 scatter,2,0,2
-says,2,0,2
 save,2,0,2
 rushing,2,0,2
 rushes,2,0,2
@@ -2535,7 +2522,6 @@ seat,0,2,2
 screen,0,2,2
 screeches,0,2,2
 scatter,0,2,2
-says,0,2,2
 save,0,2,2
 rushing,0,2,2
 rushes,0,2,2

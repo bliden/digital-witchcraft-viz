@@ -1,15 +1,12 @@
 word,The Witches of Eastwick,Snow White and the Seven Dwarfs,total
-do,76,36,112
 dont,69,35,104
 ah,2,80,82
 ho,1,78,79
 know,50,17,67
 oh,19,47,66
-just,54,11,65
 im,40,25,65
 go,26,39,65
 yes,29,28,57
-get,25,24,49
 like,32,16,48
 come,29,18,47
 thats,36,10,46
@@ -20,7 +17,6 @@ uh,1,38,39
 good,21,18,39
 look,19,18,37
 youre,23,12,35
-let,16,19,35
 happy,3,32,35
 want,31,2,33
 make,21,12,33
@@ -43,13 +39,11 @@ time,16,3,19
 ill,5,13,18
 woman,15,2,17
 feel,14,3,17
-did,12,5,17
 theyre,12,4,16
 things,12,3,15
 heart,1,14,15
 yeah,10,4,14
 sure,8,6,14
-say,10,4,14
 house,8,6,14
 home,4,10,14
 end,1,13,14
@@ -64,7 +58,6 @@ sorry,10,2,12
 shh,3,9,12
 please,5,7,12
 isnt,10,2,12
-got,5,7,12
 call,10,2,12
 today,6,5,11
 talk,8,3,11
@@ -100,7 +93,6 @@ watch,1,7,8
 understand,7,1,8
 three,7,1,8
 thought,4,4,8
-says,7,1,8
 poor,5,3,8
 place,4,4,8
 kill,1,7,8
@@ -114,7 +106,6 @@ birds,4,4,8
 use,5,2,7
 try,5,2,7
 smile,2,5,7
-said,5,2,7
 open,6,1,7
 night,2,5,7
 mm,6,1,7
@@ -146,7 +137,6 @@ forever,2,4,6
 eat,5,1,6
 death,1,5,6
 believe,5,1,6
-am,4,2,6
 youve,4,1,5
 words,2,3,5
 week,4,1,5
@@ -305,7 +295,6 @@ sukie,13,0,13
 somebody,13,0,13
 doing,13,0,13
 god,12,0,12
-does,11,0,11
 thank,10,0,10
 man,10,0,10
 two,8,0,8
@@ -376,7 +365,6 @@ york,3,0,3
 wouldnt,3,0,3
 win,3,0,3
 wife,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 trust,3,0,3
@@ -1226,7 +1214,6 @@ sukie,0,13,13
 somebody,0,13,13
 doing,0,13,13
 god,0,12,12
-does,0,11,11
 thank,0,10,10
 man,0,10,10
 two,0,8,8
@@ -1297,7 +1284,6 @@ york,0,3,3
 wouldnt,0,3,3
 win,0,3,3
 wife,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 trust,0,3,3

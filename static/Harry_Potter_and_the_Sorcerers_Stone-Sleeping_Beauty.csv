@@ -3,18 +3,14 @@ harry,376,1,377
 oh,39,63,102
 come,29,28,57
 back,41,15,56
-do,31,20,51
 see,31,19,50
 know,22,27,49
 looks,43,4,47
-just,30,16,46
 go,36,10,46
 im,27,14,41
 door,23,15,38
 dont,21,17,38
-get,25,12,37
 head,30,6,36
-dear,5,31,36
 good,22,13,35
 yes,12,21,33
 wand,30,3,33
@@ -25,7 +21,6 @@ youre,19,11,30
 think,15,15,30
 like,18,12,30
 going,17,13,30
-got,26,3,29
 boy,23,6,29
 turns,13,15,28
 day,17,10,27
@@ -58,7 +53,6 @@ great,16,3,19
 goes,17,2,19
 girl,10,9,19
 gets,14,5,19
-did,7,12,19
 bit,18,1,19
 appears,12,7,19
 magic,7,11,18
@@ -129,8 +123,6 @@ sure,5,6,11
 stairs,8,3,11
 sorry,8,3,11
 shes,1,10,11
-say,5,6,11
-said,7,4,11
 run,10,1,11
 isnt,6,5,11
 ha,1,10,11
@@ -183,7 +175,6 @@ talking,5,3,8
 nice,5,3,8
 makes,1,7,8
 lets,6,2,8
-let,3,5,8
 left,6,2,8
 knew,6,2,8
 holds,3,5,8
@@ -195,7 +186,6 @@ book,1,7,8
 better,7,1,8
 best,6,2,8
 approach,4,4,8
-am,7,1,8
 yeah,1,6,7
 wait,5,2,7
 try,6,1,7
@@ -219,14 +209,12 @@ finally,4,3,7
 fat,6,1,7
 evil,2,5,7
 dragon,4,3,7
-does,5,2,7
 wands,2,4,6
 understand,4,2,6
 surprised,3,3,6
 standing,4,2,6
 sleeping,5,1,6
 shh,1,5,6
-says,2,4,6
 remember,5,1,6
 normal,5,1,6
 near,5,1,6
@@ -1182,7 +1170,6 @@ waving,1,0,1
 wave,1,0,1
 watching,1,0,1
 warning,1,0,1
-wants,1,0,1
 walnut,1,0,1
 wakes,1,0,1
 waistcoat,1,0,1
@@ -2748,7 +2735,6 @@ waving,0,1,1
 wave,0,1,1
 watching,0,1,1
 warning,0,1,1
-wants,0,1,1
 walnut,0,1,1
 wakes,0,1,1
 waistcoat,0,1,1

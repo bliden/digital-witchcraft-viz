@@ -1,13 +1,10 @@
 word,The Witches of Eastwick,Halloweentown,total
-do,76,56,132
 dont,69,54,123
-just,54,67,121
 know,50,66,116
 oh,19,83,102
 im,40,60,100
 like,32,64,96
 come,29,51,80
-get,25,53,78
 go,26,47,73
 thats,36,32,68
 see,29,39,68
@@ -23,15 +20,12 @@ good,21,23,44
 time,16,23,39
 lets,17,21,38
 going,18,19,37
-did,12,25,37
 thing,6,30,36
 make,21,13,34
 yeah,10,23,33
-let,16,17,33
 back,11,22,33
 mom,1,31,32
 mother,1,30,31
-got,5,26,31
 stop,14,15,29
 shes,12,17,29
 really,11,17,28
@@ -44,7 +38,6 @@ whats,15,8,23
 doesnt,7,16,23
 kids,5,17,22
 doing,13,9,22
-does,11,11,22
 didnt,5,17,22
 two,8,13,21
 man,10,11,21
@@ -53,12 +46,9 @@ big,6,15,21
 way,7,13,20
 things,12,8,20
 sorry,10,10,20
-say,10,10,20
 ill,5,15,20
 home,4,16,20
 thank,10,9,19
-said,5,14,19
-am,4,15,19
 youve,4,14,18
 theyre,12,6,18
 maybe,6,12,18
@@ -124,7 +114,6 @@ whoo,1,9,10
 use,5,5,10
 try,5,5,10
 three,7,3,10
-says,7,3,10
 people,6,4,10
 men,9,1,10
 made,5,5,10
@@ -184,7 +173,6 @@ cream,6,1,7
 bed,4,3,7
 arent,6,1,7
 appreciate,4,3,7
-wants,3,3,6
 trust,3,3,6
 times,3,3,6
 stay,1,5,6

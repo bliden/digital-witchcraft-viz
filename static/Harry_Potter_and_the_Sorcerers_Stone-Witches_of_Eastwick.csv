@@ -1,7 +1,5 @@
 word,Harry Potter and the Sorcerers Stone,Witches of Eastwick,total
-do,31,76,107
 dont,21,69,90
-just,30,54,84
 know,22,50,72
 im,27,40,67
 go,36,26,62
@@ -11,7 +9,6 @@ come,29,29,58
 thats,21,36,57
 back,41,11,52
 like,18,32,50
-get,25,25,50
 right,23,22,45
 looks,43,2,45
 think,15,28,43
@@ -25,7 +22,6 @@ look,17,19,36
 little,7,28,35
 going,17,18,35
 head,30,3,33
-got,26,5,31
 man,19,10,29
 take,12,15,27
 two,18,8,26
@@ -49,9 +45,7 @@ later,19,1,20
 doing,7,13,20
 really,8,11,19
 okay,3,16,19
-let,3,16,19
 family,13,6,19
-did,7,12,19
 theyre,6,12,18
 sorry,8,10,18
 please,13,5,18
@@ -69,8 +63,6 @@ looking,9,7,16
 isnt,6,10,16
 feel,2,14,16
 eyes,7,9,16
-does,5,11,16
-say,5,10,15
 gets,14,1,15
 didnt,10,5,15
 thank,4,10,14
@@ -90,7 +82,6 @@ course,8,5,13
 better,7,6,13
 walk,11,1,12
 talking,5,7,12
-said,7,5,12
 room,11,1,12
 put,9,3,12
 need,7,5,12
@@ -113,7 +104,6 @@ hello,7,4,11
 happen,1,10,11
 excuse,8,3,11
 doesnt,4,7,11
-am,7,4,11
 youve,6,4,10
 wait,5,5,10
 today,4,6,10
@@ -134,7 +124,6 @@ work,6,3,9
 trying,3,6,9
 told,4,5,9
 talk,1,8,9
-says,2,7,9
 left,6,3,9
 hmm,4,5,9
 fine,3,6,9
@@ -267,7 +256,6 @@ young,3,1,4
 youd,3,1,4
 wouldnt,1,3,4
 wonder,3,1,4
-wants,1,3,4
 waiting,2,2,4
 trouble,2,2,4
 teach,3,1,4
@@ -672,7 +660,6 @@ doorway,5,0,5
 doors,5,0,5
 dog,5,0,5
 diagon,5,0,5
-dear,5,0,5
 castle,5,0,5
 box,5,0,5
 blows,5,0,5
@@ -2281,7 +2268,6 @@ doorway,0,5,5
 doors,0,5,5
 dog,0,5,5
 diagon,0,5,5
-dear,0,5,5
 castle,0,5,5
 box,0,5,5
 blows,0,5,5

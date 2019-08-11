@@ -1,7 +1,5 @@
 word,The Craft,Halloweentown II,total
 oh,31,99,130
-just,44,73,117
-do,55,57,112
 im,56,49,105
 dont,63,42,105
 spell,5,94,99
@@ -15,14 +13,12 @@ think,30,31,61
 come,30,26,56
 back,17,37,54
 youre,31,22,53
-get,22,31,53
 want,34,15,49
 look,27,19,46
 cant,18,28,46
 really,26,17,43
 hes,17,25,42
 good,23,19,42
-did,22,19,41
 going,22,17,39
 mean,16,21,37
 whats,24,12,36
@@ -48,9 +44,6 @@ please,20,5,25
 magic,8,17,25
 need,14,10,24
 lets,9,15,24
-say,5,17,22
-got,8,14,22
-dear,3,19,22
 head,12,9,21
 take,9,11,20
 party,2,18,20
@@ -60,10 +53,8 @@ theyre,11,8,19
 house,3,16,19
 dad,6,13,19
 thing,7,11,18
-said,6,12,18
 theres,4,13,17
 tell,9,8,17
-let,8,9,17
 big,6,11,17
 put,6,10,16
 power,12,4,16
@@ -93,7 +84,6 @@ spells,3,9,12
 people,8,4,12
 ive,5,7,12
 hi,9,3,12
-does,4,8,12
 coming,4,8,12
 call,6,6,12
 better,6,6,12
@@ -188,7 +178,6 @@ undo,2,4,6
 touch,5,1,6
 teach,1,5,6
 somebody,3,3,6
-says,4,2,6
 run,4,2,6
 pretty,5,1,6
 phone,2,4,6
@@ -239,7 +228,6 @@ empty,1,4,5
 dreams,2,3,5
 couldnt,2,3,5
 anymore,1,4,5
-am,4,1,5
 youll,2,2,4
 wear,1,3,4
 usually,2,2,4

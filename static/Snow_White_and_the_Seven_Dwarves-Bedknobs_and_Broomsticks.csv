@@ -1,12 +1,10 @@
 word,Snow White and the Seven Dwarves,Bedknobs and Broomsticks,total
-do,36,82,118
 dont,35,66,101
 white,86,3,89
 ah,80,1,81
 go,39,30,69
 oh,47,18,65
 im,25,34,59
-get,24,35,59
 yes,28,22,50
 like,16,32,48
 come,18,29,47
@@ -17,26 +15,21 @@ thats,10,33,43
 right,10,28,38
 think,2,33,35
 happy,32,2,34
-let,19,14,33
 cant,11,22,33
 work,17,15,32
 please,7,24,31
-just,11,20,31
 take,11,19,30
 look,18,12,30
 spell,1,28,29
 singing,26,3,29
 old,12,17,29
 little,13,16,29
-dear,5,24,29
 youre,12,15,27
 time,3,23,26
 away,16,9,25
 song,21,3,24
 make,12,12,24
-got,7,17,24
 bed,1,23,24
-say,4,19,23
 ill,13,10,23
 back,2,21,23
 whats,5,17,22
@@ -78,8 +71,6 @@ stop,6,7,13
 need,1,12,13
 lets,5,8,13
 help,2,11,13
-did,5,8,13
-am,2,11,13
 wont,6,6,12
 matter,2,10,12
 hold,7,5,12
@@ -106,7 +97,6 @@ bad,6,3,9
 youd,1,7,8
 watch,7,1,8
 wait,7,1,8
-said,2,6,8
 majesty,4,4,8
 life,2,6,8
 hurt,3,5,8
@@ -135,7 +125,6 @@ theyre,4,2,6
 story,4,2,6
 sleep,4,2,6
 secret,2,4,6
-says,1,5,6
 quiet,2,4,6
 poor,3,3,6
 nice,2,4,6
@@ -564,7 +553,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1121,7 +1109,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

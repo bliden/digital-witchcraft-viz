@@ -1,5 +1,4 @@
 word,Harry Potter and the Sorcerers Stone,Season of the Witch,total
-do,31,26,57
 go,36,16,52
 know,22,23,45
 back,41,4,45
@@ -9,10 +8,8 @@ see,31,12,43
 come,29,13,42
 man,19,22,41
 im,27,14,41
-just,30,7,37
 youre,19,17,36
 dont,21,15,36
-get,25,9,34
 like,18,15,33
 head,30,2,32
 witch,6,25,31
@@ -30,7 +27,6 @@ comes,22,1,23
 take,12,10,22
 hands,16,6,22
 going,17,5,22
-did,7,15,22
 yes,12,9,21
 day,17,4,21
 look,17,3,20
@@ -42,17 +38,13 @@ make,15,1,16
 hes,13,3,16
 away,15,1,16
 three,10,5,15
-say,5,10,15
 people,11,4,15
 help,10,5,15
 done,6,9,15
-said,7,7,14
 put,9,5,14
 outside,13,1,14
-let,3,11,14
 didnt,10,4,14
 cant,10,4,14
-am,7,7,14
 woman,7,6,13
 walking,12,1,13
 wait,5,8,13
@@ -168,8 +160,6 @@ four,3,3,6
 food,3,3,6
 finally,4,2,6
 eye,5,1,6
-does,5,1,6
-dear,5,1,6
 youd,3,2,5
 wrong,4,1,5
 wasnt,3,2,5
@@ -178,7 +168,6 @@ took,3,2,5
 times,3,2,5
 taken,4,1,5
 son,1,4,5
-says,2,3,5
 reading,4,1,5
 pass,3,2,5
 mother,4,1,5
@@ -238,7 +227,6 @@ bring,2,2,4
 black,2,2,4
 worry,2,1,3
 working,2,1,3
-wants,1,2,3
 waiting,2,1,3
 trouble,2,1,3
 tired,1,2,3
@@ -381,7 +369,6 @@ wand,30,0,30
 gryffindor,29,0,29
 neville,28,0,28
 dumbledore,28,0,28
-got,26,0,26
 draco,26,0,26
 students,25,0,25
 troll,24,0,24
@@ -2115,7 +2102,6 @@ wand,0,30,30
 gryffindor,0,29,29
 neville,0,28,28
 dumbledore,0,28,28
-got,0,26,26
 draco,0,26,26
 students,0,25,25
 troll,0,24,24

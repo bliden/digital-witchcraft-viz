@@ -1,8 +1,6 @@
 word,Harry Potter and the Sorcerers Stone,Bewitched,total
 im,27,132,159
 oh,39,86,125
-do,31,83,114
-just,30,81,111
 dont,21,80,101
 know,22,65,87
 go,36,47,83
@@ -10,7 +8,6 @@ jack,1,75,76
 thats,21,54,75
 like,18,57,75
 youre,19,54,73
-get,25,47,72
 come,29,43,72
 right,23,43,66
 back,41,24,65
@@ -18,7 +15,6 @@ great,16,45,61
 good,22,34,56
 witch,6,47,53
 think,15,38,53
-got,26,26,52
 gonna,4,48,52
 okay,3,47,50
 look,17,33,50
@@ -34,14 +30,11 @@ boy,23,15,38
 thank,4,33,37
 love,1,36,37
 lets,6,31,37
-did,7,30,37
 please,13,20,33
 hes,13,20,33
 man,19,13,32
 head,30,2,32
-say,5,26,31
 really,8,23,31
-am,7,24,31
 two,18,12,30
 mean,7,23,30
 yeah,1,28,29
@@ -77,7 +70,6 @@ dog,5,14,19
 didnt,10,9,19
 bit,18,1,19
 whoa,13,5,18
-said,7,11,18
 people,11,7,18
 leave,10,8,18
 hello,7,11,18
@@ -108,7 +100,6 @@ welcome,10,4,14
 turns,13,1,14
 things,4,10,14
 remember,5,9,14
-let,3,11,14
 happy,4,10,14
 happened,4,10,14
 give,8,6,14
@@ -168,7 +159,6 @@ famous,5,5,10
 baby,4,6,10
 window,8,1,9
 wasnt,3,6,9
-wants,1,8,9
 talk,1,8,9
 scene,3,6,9
 runs,8,1,9
@@ -179,7 +169,6 @@ listen,2,7,9
 knew,6,3,9
 happening,2,7,9
 forward,8,1,9
-does,5,4,9
 attention,8,1,9
 arent,3,6,9
 understand,4,4,8
@@ -214,7 +203,6 @@ try,6,1,7
 true,3,4,7
 today,4,3,7
 slowly,4,3,7
-says,2,5,7
 quite,2,5,7
 probably,3,4,7
 past,6,1,7
@@ -230,7 +218,6 @@ found,3,4,7
 fire,6,1,7
 eye,5,2,7
 easy,2,5,7
-dear,5,2,7
 coming,2,5,7
 closet,6,1,7
 cheers,4,3,7

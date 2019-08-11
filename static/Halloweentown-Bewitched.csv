@@ -1,12 +1,9 @@
 word,Halloweentown,Bewitched,total
 im,60,132,192
 oh,83,86,169
-just,67,81,148
-do,56,83,139
 dont,54,80,134
 know,66,65,131
 like,64,57,121
-get,53,47,100
 go,47,47,94
 come,51,43,94
 youre,32,54,86
@@ -21,10 +18,8 @@ look,27,33,60
 hey,25,35,60
 think,19,38,57
 good,23,34,57
-did,25,30,55
 see,39,14,53
 lets,21,31,52
-got,26,26,52
 yeah,23,28,51
 thing,30,21,51
 great,6,45,51
@@ -34,11 +29,9 @@ back,22,24,46
 thank,9,33,42
 show,7,34,41
 really,17,23,40
-am,15,24,39
 time,23,14,37
 love,1,36,37
 shes,17,19,36
-say,10,26,36
 mother,30,6,36
 make,13,23,36
 little,17,18,35
@@ -50,19 +43,16 @@ help,21,9,30
 doing,9,21,30
 stop,15,13,28
 put,14,14,28
-let,17,11,28
 whats,8,19,27
 real,6,21,27
 need,10,17,27
 big,15,12,27
 didnt,17,9,26
-dear,24,2,26
 way,13,12,25
 wanna,1,24,25
 two,13,12,25
 theres,11,14,25
 tell,10,15,25
-said,14,11,25
 home,16,9,25
 doesnt,16,9,25
 world,20,4,24
@@ -107,7 +97,6 @@ night,6,9,15
 job,5,10,15
 id,5,10,15
 fine,6,9,15
-does,11,4,15
 believe,7,8,15
 thanks,13,1,14
 talk,6,8,14
@@ -133,7 +122,6 @@ gotta,9,3,12
 excuse,9,3,12
 youll,1,10,11
 weve,6,5,11
-wants,3,8,11
 trick,6,5,11
 people,4,7,11
 made,5,6,11
@@ -187,7 +175,6 @@ totally,5,3,8
 tonight,4,4,8
 three,3,5,8
 talking,5,3,8
-says,3,5,8
 open,7,1,8
 needs,2,6,8
 mayor,6,2,8
@@ -419,7 +406,6 @@ bit,2,1,3
 best,2,1,3
 bag,2,1,3
 audience,1,2,3
-able,1,2,3
 zero,1,1,2
 worried,1,1,2
 worked,1,1,2

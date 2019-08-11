@@ -1,9 +1,7 @@
 word,The Craft,Antichrist,total
 im,56,27,83
 dont,63,19,82
-do,55,27,82
 know,57,15,72
-just,44,26,70
 youre,31,26,57
 go,44,9,53
 yeah,42,8,50
@@ -12,13 +10,11 @@ want,34,10,44
 think,30,6,36
 thats,26,9,35
 good,23,10,33
-did,22,11,33
 come,30,3,33
 oh,31,1,32
 cant,18,14,32
 really,26,5,31
 okay,21,10,31
-get,22,9,31
 look,27,3,30
 didnt,19,11,30
 sorry,25,2,27
@@ -57,10 +53,8 @@ ive,5,6,11
 home,9,2,11
 hear,8,3,11
 harm,10,1,11
-got,8,3,11
 afraid,3,8,11
 nice,9,1,10
-let,8,2,10
 hold,6,4,10
 five,4,6,10
 fear,2,8,10
@@ -68,7 +62,6 @@ believe,6,4,10
 wanted,4,5,9
 sure,7,2,9
 saying,8,1,9
-said,6,3,9
 people,8,1,9
 keep,5,4,9
 hit,6,3,9
@@ -87,13 +80,10 @@ kind,2,6,8
 happened,7,1,8
 gotta,5,3,8
 arent,4,4,8
-am,4,4,8
 wrong,5,2,7
 walk,2,5,7
 thinking,4,3,7
 supposed,4,3,7
-says,4,3,7
-say,5,2,7
 real,5,2,7
 place,4,3,7
 matter,5,2,7
@@ -122,7 +112,6 @@ happen,5,1,6
 hair,5,1,6
 forget,4,2,6
 eyes,4,2,6
-does,4,2,6
 breathing,1,5,6
 water,4,1,5
 used,2,3,5
@@ -374,7 +363,6 @@ everybody,3,0,3
 east,3,0,3
 downs,3,0,3
 devil,3,0,3
-dear,3,0,3
 course,3,0,3
 corners,3,0,3
 completely,3,0,3
@@ -1099,7 +1087,6 @@ everybody,0,3,3
 east,0,3,3
 downs,0,3,3
 devil,0,3,3
-dear,0,3,3
 course,0,3,3
 corners,0,3,3
 completely,0,3,3

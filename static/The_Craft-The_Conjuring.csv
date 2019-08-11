@@ -1,12 +1,9 @@
 word,The Craft,The Conjuring,total
-do,55,55,110
 dont,63,36,99
 im,56,39,95
 go,44,47,91
 know,57,31,88
 yeah,42,38,80
-get,22,58,80
-just,44,33,77
 oh,31,41,72
 come,30,37,67
 okay,21,42,63
@@ -23,7 +20,6 @@ think,30,12,42
 whats,24,17,41
 shes,20,18,38
 really,26,12,38
-did,22,16,38
 good,23,12,35
 god,20,15,35
 stop,23,11,34
@@ -33,7 +29,6 @@ back,17,16,33
 take,9,23,32
 please,20,12,32
 guys,18,12,30
-got,8,22,30
 didnt,19,11,30
 sorry,25,4,29
 mean,16,13,29
@@ -48,13 +43,11 @@ lets,9,12,21
 help,5,16,21
 happened,7,14,21
 way,11,9,20
-said,6,14,20
 maybe,15,5,20
 little,14,6,20
 honey,8,11,19
 room,3,15,18
 nice,9,9,18
-let,8,10,18
 girls,9,9,18
 dad,6,12,18
 love,11,6,17
@@ -101,7 +94,6 @@ ive,5,6,11
 call,6,5,11
 believe,6,5,11
 away,8,3,11
-am,4,7,11
 witch,8,2,10
 talking,7,3,10
 spirit,3,7,10
@@ -116,7 +108,6 @@ touch,5,4,9
 shut,5,4,9
 second,5,4,9
 saying,8,1,9
-say,5,4,9
 saw,2,7,9
 place,4,5,9
 new,3,6,9
@@ -141,7 +132,6 @@ move,4,4,8
 mother,5,3,8
 looking,7,1,8
 isnt,2,6,8
-does,4,4,8
 big,6,2,8
 beautiful,6,2,8
 bad,6,2,8
@@ -408,7 +398,6 @@ sit,4,0,4
 sisters,4,0,4
 school,4,0,4
 scars,4,0,4
-says,4,0,4
 san,4,0,4
 red,4,0,4
 francisco,4,0,4
@@ -447,7 +436,6 @@ east,3,0,3
 downs,3,0,3
 devil,3,0,3
 deep,3,0,3
-dear,3,0,3
 cry,3,0,3
 corners,3,0,3
 butt,3,0,3
@@ -1011,7 +999,6 @@ sit,0,4,4
 sisters,0,4,4
 school,0,4,4
 scars,0,4,4
-says,0,4,4
 san,0,4,4
 red,0,4,4
 francisco,0,4,4
@@ -1050,7 +1037,6 @@ east,0,3,3
 downs,0,3,3
 devil,0,3,3
 deep,0,3,3
-dear,0,3,3
 cry,0,3,3
 corners,0,3,3
 butt,0,3,3

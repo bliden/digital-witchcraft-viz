@@ -1,11 +1,8 @@
 word,The Blair Witch Project,Kikis Delivery Service,total
 im,109,62,171
 like,66,47,113
-just,85,28,113
-do,52,53,105
 going,71,33,104
 dont,68,35,103
-get,78,23,101
 know,71,19,90
 go,45,42,87
 okay,77,8,85
@@ -35,10 +32,7 @@ see,20,14,34
 little,14,20,34
 cant,15,18,33
 sorry,15,16,31
-did,16,15,31
 day,17,14,31
-say,19,11,30
-got,26,4,30
 stop,17,12,29
 didnt,14,15,29
 thank,6,22,28
@@ -90,10 +84,8 @@ distance,15,1,16
 thought,3,12,15
 street,1,14,15
 big,4,11,15
-am,12,3,15
 whispers,13,1,14
 two,13,1,14
-said,8,6,14
 looks,7,7,14
 leave,7,7,14
 arent,1,13,14
@@ -109,7 +101,6 @@ south,10,2,12
 room,2,10,12
 lot,5,7,12
 log,11,1,12
-let,4,8,12
 cool,11,1,12
 captain,6,6,12
 came,3,9,12
@@ -130,7 +121,6 @@ fine,6,5,11
 wasnt,7,3,10
 theyre,2,8,10
 soon,2,8,10
-says,8,2,10
 open,5,5,10
 mind,3,7,10
 id,4,6,10
@@ -165,7 +155,6 @@ call,5,4,9
 cabin,2,7,9
 boy,1,8,9
 young,2,6,8
-wants,2,6,8
 understand,5,3,8
 um,4,4,8
 tv,1,7,8
@@ -229,7 +218,6 @@ games,5,1,6
 funny,3,3,6
 feet,5,1,6
 done,5,1,6
-does,4,2,6
 die,5,1,6
 cry,4,2,6
 crazy,5,1,6
@@ -851,7 +839,6 @@ asleep,2,0,2
 arms,2,0,2
 appears,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1877,7 +1864,6 @@ asleep,0,2,2
 arms,0,2,2
 appears,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

@@ -1,9 +1,7 @@
 word,The Witches of Eastwick,The Love Witch,total
-do,76,43,119
 love,15,87,102
 dont,69,31,100
 know,50,48,98
-just,54,40,94
 im,40,53,93
 like,32,54,86
 oh,19,43,62
@@ -11,7 +9,6 @@ burn,2,59,61
 thats,36,18,54
 yes,29,24,53
 youre,23,27,50
-get,25,21,46
 want,31,14,45
 think,28,17,45
 see,29,15,44
@@ -33,7 +30,6 @@ men,9,17,26
 look,19,7,26
 feel,14,12,26
 time,16,9,25
-let,16,9,25
 ive,5,20,25
 yeah,10,14,24
 life,8,16,24
@@ -42,7 +38,6 @@ okay,16,6,22
 lets,17,5,22
 hes,11,11,22
 things,12,9,21
-did,12,9,21
 back,11,10,21
 thank,10,10,20
 need,5,15,20
@@ -51,12 +46,10 @@ sorry,10,9,19
 thought,4,14,18
 maybe,6,12,18
 hi,6,12,18
-got,5,13,18
 day,9,9,18
 used,2,15,17
 sure,8,9,17
 stop,14,3,17
-say,10,7,17
 ill,5,12,17
 give,5,12,17
 didnt,5,12,17
@@ -72,7 +65,6 @@ made,5,10,15
 husband,6,9,15
 found,1,14,15
 doing,13,2,15
-does,11,4,15
 call,10,5,15
 town,8,6,14
 name,10,4,14
@@ -93,15 +85,12 @@ crazy,3,9,12
 baby,1,11,12
 understand,7,4,11
 today,6,5,11
-says,7,4,11
 new,5,6,11
 meet,5,6,11
 girls,5,6,11
-am,4,7,11
 witchcraft,1,9,10
 true,8,2,10
 sick,5,5,10
-said,5,5,10
 power,2,8,10
 nature,3,7,10
 eyes,9,1,10
@@ -196,7 +185,6 @@ anymore,3,3,6
 afraid,5,1,6
 wouldnt,3,2,5
 whores,4,1,5
-wants,3,2,5
 uh,1,4,5
 trust,3,2,5
 tomorrow,3,2,5

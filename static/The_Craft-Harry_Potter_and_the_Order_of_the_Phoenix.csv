@@ -1,9 +1,7 @@
 word,The Craft,Harry Potter and the Order of the Phoenix,total
 im,56,55,111
 dont,63,41,104
-do,55,46,101
 know,57,40,97
-just,44,50,94
 like,36,29,65
 go,44,20,64
 youre,31,32,63
@@ -11,7 +9,6 @@ come,30,30,60
 right,23,34,57
 yeah,42,12,54
 want,34,18,52
-get,22,30,52
 thats,26,25,51
 hes,17,32,49
 really,26,21,47
@@ -21,9 +18,7 @@ good,23,22,45
 think,30,14,44
 see,17,27,44
 whats,24,19,43
-did,22,20,42
 back,17,23,40
-got,8,30,38
 sorry,25,12,37
 look,27,10,37
 didnt,19,12,31
@@ -54,10 +49,7 @@ away,8,12,20
 youve,1,18,19
 way,11,8,19
 magic,8,11,19
-let,8,11,19
-say,5,13,18
 power,12,6,18
-said,6,11,17
 killed,6,11,17
 understand,8,8,16
 thank,3,13,16
@@ -92,7 +84,6 @@ fine,8,4,12
 doesnt,6,6,12
 big,6,6,12
 better,6,6,12
-am,4,8,12
 wanted,4,7,11
 told,5,6,11
 three,8,3,11
@@ -105,7 +96,6 @@ black,3,8,11
 youll,2,8,10
 weve,2,8,10
 times,7,3,10
-says,4,6,10
 saying,8,2,10
 saw,2,8,10
 remember,3,7,10
@@ -115,7 +105,6 @@ life,6,4,10
 hell,4,6,10
 girls,9,1,10
 find,3,7,10
-dear,3,7,10
 dead,5,5,10
 dad,6,4,10
 boy,1,9,10
@@ -136,7 +125,6 @@ listen,6,3,9
 inside,5,4,9
 hold,6,3,9
 happened,7,2,9
-does,4,5,9
 course,3,6,9
 coming,4,5,9
 afraid,3,6,9

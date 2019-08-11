@@ -1,9 +1,7 @@
 word,The Witches of Eastwick,Maleficent,total
-do,76,21,97
 dont,69,19,88
 im,40,29,69
 know,50,13,63
-just,54,9,63
 come,29,19,48
 thats,36,10,46
 go,26,19,45
@@ -14,7 +12,6 @@ want,31,6,37
 youre,23,12,35
 little,28,7,35
 cant,29,4,33
-get,25,7,32
 think,28,3,31
 look,19,12,31
 good,21,9,30
@@ -24,7 +21,6 @@ back,11,16,27
 going,18,7,25
 take,15,9,24
 love,15,8,23
-let,16,7,23
 stop,14,8,22
 make,21,1,22
 shes,12,9,21
@@ -32,20 +28,17 @@ oh,19,1,20
 whats,15,4,19
 doing,13,6,19
 women,17,1,18
-say,10,8,18
 feel,14,4,18
 away,8,10,18
 true,8,9,17
 theyre,12,5,17
 sorry,10,7,17
 need,5,12,17
-did,12,5,17
 day,9,8,17
 tell,4,12,16
 life,8,7,15
 name,10,4,14
 ill,5,9,14
-does,11,3,14
 things,12,1,13
 really,11,2,13
 men,9,4,13
@@ -60,7 +53,6 @@ yeah,10,1,11
 world,6,5,11
 way,7,4,11
 three,7,4,11
-said,5,6,11
 nice,9,2,11
 ive,5,6,11
 isnt,10,1,11
@@ -88,7 +80,6 @@ morning,5,3,8
 mean,5,3,8
 keep,6,2,8
 great,5,3,8
-got,5,3,8
 give,5,3,8
 fine,6,2,8
 faster,6,2,8
@@ -96,7 +87,6 @@ doesnt,7,1,8
 death,1,7,8
 care,5,3,8
 birthday,2,6,8
-am,4,4,8
 youve,4,3,7
 wish,2,5,7
 mind,6,1,7
@@ -291,7 +281,6 @@ house,8,0,8
 bought,8,0,8
 van,7,0,7
 talking,7,0,7
-says,7,0,7
 play,7,0,7
 easy,7,0,7
 walter,6,0,6
@@ -362,7 +351,6 @@ york,3,0,3
 win,3,0,3
 wife,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 times,3,0,3
@@ -1237,7 +1225,6 @@ house,0,8,8
 bought,0,8,8
 van,0,7,7
 talking,0,7,7
-says,0,7,7
 play,0,7,7
 easy,0,7,7
 walter,0,6,6
@@ -1308,7 +1295,6 @@ york,0,3,3
 win,0,3,3
 wife,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 times,0,3,3

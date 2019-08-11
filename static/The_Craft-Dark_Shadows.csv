@@ -1,10 +1,8 @@
 word,The Craft,Dark Shadows,total
-do,55,44,99
 im,56,37,93
 know,57,27,84
 dont,63,19,82
 like,36,28,64
-just,44,20,64
 go,44,16,60
 yeah,42,13,55
 youre,31,23,54
@@ -15,7 +13,6 @@ oh,31,8,39
 love,11,28,39
 please,20,18,38
 good,23,15,38
-get,22,16,38
 look,27,9,36
 going,22,14,36
 really,26,9,35
@@ -23,7 +20,6 @@ thats,26,8,34
 hes,17,16,33
 yes,8,24,32
 sorry,25,7,32
-did,22,10,32
 mean,16,13,29
 see,17,11,28
 right,23,5,28
@@ -43,14 +39,11 @@ man,6,15,21
 tell,9,11,20
 take,9,11,20
 time,5,14,19
-let,8,11,19
 feel,8,11,19
 thing,7,11,18
-got,8,10,18
 way,11,6,17
 wait,16,1,17
 maybe,15,2,17
-am,4,13,17
 keep,5,11,16
 gonna,15,1,16
 nice,9,6,15
@@ -68,7 +61,6 @@ witch,8,5,13
 theyre,11,2,13
 sure,7,6,13
 shall,2,11,13
-say,5,8,13
 new,3,10,13
 miss,1,12,13
 help,5,8,13
@@ -95,7 +87,6 @@ beautiful,6,5,11
 weird,6,4,10
 true,3,7,10
 saying,8,2,10
-said,6,4,10
 light,9,1,10
 house,3,7,10
 hello,4,6,10
@@ -119,7 +110,6 @@ having,3,6,9
 hate,6,3,9
 found,2,7,9
 father,2,7,9
-dear,3,6,9
 big,6,3,9
 working,7,1,8
 wanted,4,4,8
@@ -157,7 +147,6 @@ fire,4,3,7
 find,3,4,7
 everybody,3,4,7
 drink,4,3,7
-does,4,3,7
 dead,5,2,7
 dad,6,1,7
 course,3,4,7
@@ -176,7 +165,6 @@ speak,1,5,6
 shut,5,1,6
 seen,2,4,6
 second,5,1,6
-says,4,2,6
 red,4,2,6
 read,5,1,6
 part,1,5,6

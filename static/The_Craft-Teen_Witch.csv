@@ -1,10 +1,8 @@
 word,The Craft,Teen Witch,total
-do,55,90,145
 know,57,47,104
 im,56,40,96
 go,44,24,68
 like,36,31,67
-just,44,18,62
 want,34,26,60
 think,30,27,57
 youre,31,24,55
@@ -15,8 +13,6 @@ see,17,29,46
 look,27,18,45
 really,26,18,44
 okay,21,22,43
-get,22,17,39
-did,22,17,39
 right,23,15,38
 thats,26,9,35
 sorry,25,9,34
@@ -35,21 +31,17 @@ little,14,8,22
 guys,18,4,22
 shes,20,1,21
 power,12,9,21
-got,8,13,21
 believe,6,15,21
 ill,16,4,20
 back,17,3,20
 wait,16,3,19
 tell,9,10,19
 lets,9,10,19
-let,8,11,19
 great,5,14,19
 maybe,15,3,18
 gonna,15,3,18
 people,8,9,17
 thank,3,13,16
-say,5,11,16
-does,4,12,16
 time,5,10,15
 things,6,9,15
 take,9,6,15
@@ -76,7 +68,6 @@ home,9,2,11
 hear,8,3,11
 fine,8,3,11
 baby,2,9,11
-am,4,7,11
 witch,8,2,10
 wanted,4,6,10
 times,7,3,10
@@ -107,7 +98,6 @@ hello,4,5,9
 happened,7,2,9
 happen,5,4,9
 doing,8,1,9
-dear,3,6,9
 course,3,6,9
 better,6,3,9
 beautiful,6,3,9
@@ -115,7 +105,6 @@ bad,6,3,9
 away,8,1,9
 trying,6,2,8
 told,5,3,8
-said,6,2,8
 pay,7,1,8
 looking,7,1,8
 hit,6,2,8
@@ -146,7 +135,6 @@ touch,5,1,6
 shut,5,1,6
 show,3,3,6
 seen,2,4,6
-says,4,2,6
 place,4,2,6
 mr,2,4,6
 looks,3,3,6

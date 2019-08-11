@@ -1,11 +1,8 @@
 word,Halloweentown,Drag Me To Hell,total
 im,60,51,111
 oh,83,27,110
-just,67,43,110
 know,66,38,104
-do,56,41,97
 dont,54,33,87
-get,53,31,84
 like,64,13,77
 come,51,26,77
 go,47,22,69
@@ -19,7 +16,6 @@ hey,25,29,54
 yeah,23,26,49
 yes,23,23,46
 good,23,23,46
-did,25,21,46
 think,19,24,43
 mom,31,11,42
 thing,30,11,41
@@ -27,7 +23,6 @@ want,25,15,40
 look,27,13,40
 really,17,21,38
 help,21,16,37
-got,26,11,37
 thank,9,27,36
 ill,15,21,36
 please,12,23,35
@@ -43,8 +38,6 @@ take,11,16,27
 make,13,14,27
 little,17,9,26
 going,19,7,26
-dear,24,2,26
-let,17,8,25
 man,11,13,24
 give,13,11,24
 world,20,3,23
@@ -53,11 +46,9 @@ wait,8,15,23
 home,16,7,23
 woman,2,20,22
 welcome,1,21,22
-said,14,8,22
 house,10,12,22
 dead,2,20,22
 bus,20,2,22
-am,15,7,22
 theres,11,10,21
 tell,10,11,21
 sorry,10,11,21
@@ -84,12 +75,10 @@ gotta,9,7,16
 came,10,6,16
 understand,5,10,15
 uh,13,2,15
-say,10,5,15
 old,8,7,15
 night,6,9,15
 long,12,3,15
 great,6,9,15
-does,11,4,15
 believe,7,8,15
 screeching,3,11,14
 kind,7,7,14
@@ -237,7 +226,6 @@ absolutely,1,4,5
 young,3,1,4
 youll,1,3,4
 wish,2,2,4
-wants,3,1,4
 tired,3,1,4
 three,3,1,4
 sweet,2,2,4
@@ -283,7 +271,6 @@ boy,3,1,4
 bar,1,3,4
 appreciate,3,1,4
 admit,2,2,4
-able,1,3,4
 year,2,1,3
 wondering,1,2,3
 wonderful,2,1,3
@@ -548,7 +535,6 @@ soapy,3,0,3
 smart,3,0,3
 simple,3,0,3
 shadow,3,0,3
-says,3,0,3
 run,3,0,3
 roots,3,0,3
 reason,3,0,3
@@ -1466,7 +1452,6 @@ soapy,0,3,3
 smart,0,3,3
 simple,0,3,3
 shadow,0,3,3
-says,0,3,3
 run,0,3,3
 roots,0,3,3
 reason,0,3,3

@@ -1,12 +1,9 @@
 word,The Witches of Eastwick,Witchfinder General,total
-do,76,36,112
 dont,69,11,80
 know,50,24,74
-just,54,10,64
 im,40,19,59
 come,29,26,55
 yes,29,25,54
-get,25,25,50
 thats,36,9,45
 oh,19,26,45
 see,29,15,44
@@ -28,7 +25,6 @@ look,19,9,28
 two,8,16,24
 god,12,12,24
 time,16,7,23
-did,12,11,23
 back,11,12,23
 women,17,5,22
 stop,14,8,22
@@ -36,17 +32,14 @@ yeah,10,11,21
 find,1,20,21
 away,8,13,21
 thank,10,10,20
-let,16,4,20
 theyre,12,7,19
 men,9,10,19
 ill,5,14,19
 lets,17,1,18
-got,5,13,18
 whats,15,2,17
 way,7,10,17
 tell,4,13,17
 shes,12,5,17
-say,10,7,17
 love,15,2,17
 doing,13,4,17
 woman,15,1,16
@@ -65,7 +58,6 @@ sorry,10,3,13
 mean,5,8,13
 keep,6,7,13
 friend,1,12,13
-does,11,2,13
 understand,7,5,12
 three,7,5,12
 really,11,1,12
@@ -78,13 +70,10 @@ true,8,3,11
 looking,7,4,11
 didnt,5,6,11
 day,9,2,11
-am,4,7,11
 youve,4,6,10
 youll,2,8,10
 talk,8,2,10
 sure,8,2,10
-says,7,3,10
-said,5,5,10
 life,8,2,10
 hear,4,6,10
 days,3,7,10
@@ -396,7 +385,6 @@ children,4,0,4
 appreciate,4,0,4
 york,3,0,3
 win,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 times,3,0,3
@@ -1289,7 +1277,6 @@ children,0,4,4
 appreciate,0,4,4
 york,0,3,3
 win,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 times,0,3,3

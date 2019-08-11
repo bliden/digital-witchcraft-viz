@@ -3,10 +3,7 @@ im,109,45,154
 know,71,40,111
 okay,77,33,110
 dont,68,39,107
-just,85,19,104
 fucking,95,2,97
-do,52,42,94
-get,78,11,89
 going,71,10,81
 like,66,10,76
 come,33,38,71
@@ -29,11 +26,9 @@ really,27,13,40
 way,32,7,39
 help,15,23,38
 want,24,12,36
-did,16,17,33
 yes,11,21,32
 god,22,10,32
 cant,15,17,32
-got,26,2,28
 theres,18,9,27
 night,24,3,27
 car,21,6,27
@@ -46,7 +41,6 @@ shes,7,16,23
 woman,20,2,22
 witch,19,3,22
 tell,12,10,22
-say,19,3,22
 looking,18,4,22
 ive,15,7,22
 gonna,15,7,22
@@ -92,13 +86,11 @@ went,8,5,13
 point,12,1,13
 open,5,8,13
 morning,9,4,13
-am,12,1,13
 sure,7,5,12
 shh,3,9,12
 place,7,5,12
 mm,11,1,12
 long,9,3,12
-let,4,8,12
 hey,4,8,12
 head,8,4,12
 cemetery,10,2,12
@@ -108,7 +100,6 @@ understand,5,6,11
 uh,6,5,11
 told,2,9,11
 story,8,3,11
-said,8,3,11
 move,3,8,11
 mean,7,4,11
 house,10,1,11
@@ -173,7 +164,6 @@ gave,6,1,7
 five,6,1,7
 fire,6,1,7
 end,4,3,7
-does,4,3,7
 call,5,2,7
 black,1,6,7
 ago,2,5,7
@@ -265,7 +255,6 @@ witchcraft,2,1,3
 whos,2,1,3
 white,2,1,3
 welcome,2,1,3
-wants,2,1,3
 twenty,2,1,3
 truth,1,2,3
 trust,2,1,3
@@ -309,7 +298,6 @@ break,2,1,3
 bloody,2,1,3
 bad,2,1,3
 ancient,1,2,3
-able,2,1,3
 wrong,1,1,2
 worse,1,1,2
 usually,1,1,2
@@ -413,7 +401,6 @@ cause,9,0,9
 camp,9,0,9
 walking,8,0,8
 seriously,8,0,8
-says,8,0,8
 points,8,0,8
 mikes,8,0,8
 kinda,8,0,8
@@ -1523,7 +1510,6 @@ cause,0,9,9
 camp,0,9,9
 walking,0,8,8
 seriously,0,8,8
-says,0,8,8
 points,0,8,8
 mikes,0,8,8
 kinda,0,8,8

@@ -1,7 +1,5 @@
 word,The Craft,Return to Halloweentown,total
-just,44,81,125
 im,56,63,119
-do,55,55,110
 dont,63,40,103
 know,57,42,99
 like,36,34,70
@@ -12,13 +10,11 @@ youre,31,33,64
 want,34,28,62
 go,44,18,62
 thats,26,27,53
-get,22,31,53
 come,30,20,50
 think,30,19,49
 cant,18,28,46
 right,23,22,45
 really,26,19,45
-did,22,22,44
 sorry,25,17,42
 power,12,30,42
 good,23,19,42
@@ -56,12 +52,9 @@ fine,8,14,22
 three,8,13,21
 theyre,11,9,20
 tell,9,11,20
-say,5,15,20
 powers,10,10,20
 love,11,9,20
 way,11,8,19
-said,6,13,19
-got,8,11,19
 away,8,11,19
 thing,7,10,17
 talk,4,13,17
@@ -77,7 +70,6 @@ home,9,7,16
 call,6,10,16
 witches,2,13,15
 people,8,7,15
-let,8,7,15
 ive,5,10,15
 believe,6,9,15
 woman,1,13,14
@@ -113,7 +105,6 @@ kind,2,9,11
 isnt,2,9,11
 big,6,5,11
 bad,6,5,11
-am,4,7,11
 work,3,7,10
 wont,1,9,10
 tonight,2,8,10
@@ -122,8 +113,6 @@ ready,3,7,10
 light,9,1,10
 honey,8,2,10
 doesnt,6,4,10
-does,4,6,10
-dear,3,7,10
 dad,6,4,10
 boy,1,9,10
 try,4,5,9
@@ -168,7 +157,6 @@ soon,1,6,7
 somebody,3,4,7
 sit,4,3,7
 second,5,2,7
-says,4,3,7
 run,4,3,7
 pretty,5,2,7
 peace,2,5,7

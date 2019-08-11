@@ -1,17 +1,13 @@
 word,The Blair Witch Project,Little Mermaid,total
 im,109,30,139
-just,85,38,123
 dont,68,39,107
 know,71,35,106
-get,78,28,106
 oh,41,47,88
 like,66,17,83
 okay,77,4,81
 going,71,10,81
-do,52,29,81
 back,59,16,75
 man,64,5,69
-got,26,42,68
 go,45,22,67
 come,33,26,59
 look,23,27,50
@@ -28,7 +24,6 @@ please,33,7,40
 little,14,25,39
 away,18,18,36
 want,24,11,35
-say,19,16,35
 cut,18,17,35
 girl,7,27,34
 day,17,17,34
@@ -69,9 +64,7 @@ inside,15,5,20
 find,13,7,20
 whats,10,9,19
 give,12,7,19
-did,16,3,19
 lost,16,2,18
-am,12,6,18
 weve,15,2,17
 ship,1,16,17
 laughs,13,4,17
@@ -147,8 +140,6 @@ wait,7,2,9
 understand,5,4,9
 thank,6,3,9
 seen,3,6,9
-says,8,1,9
-said,8,1,9
 run,3,6,9
 possible,7,2,9
 playing,5,4,9
@@ -157,7 +148,6 @@ near,7,2,9
 miss,1,8,9
 holding,7,2,9
 fine,6,3,9
-does,4,5,9
 days,6,3,9
 believe,8,1,9
 aint,3,6,9
@@ -170,7 +160,6 @@ sitting,6,2,8
 room,2,6,8
 men,7,1,8
 maybe,5,3,8
-let,4,4,8
 knows,4,4,8
 kidding,7,1,8
 hey,4,4,8
@@ -209,7 +198,6 @@ bag,5,2,7
 wont,1,5,6
 wish,1,5,6
 waves,1,5,6
-wants,2,4,6
 wanted,4,2,6
 tries,3,3,6
 town,4,2,6
@@ -836,7 +824,6 @@ awe,2,0,2
 asked,2,0,2
 arms,2,0,2
 ago,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1866,7 +1853,6 @@ awe,0,2,2
 asked,0,2,2
 arms,0,2,2
 ago,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

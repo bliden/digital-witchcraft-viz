@@ -1,3 +1,7 @@
+/*
+  this file generates a manifest of clean csvs for 
+  the client to request from the static BASE_DIR
+*/
 const fs = require("fs");
 const { promisify } = require("util");
 

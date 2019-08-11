@@ -4,8 +4,6 @@ ron,111,9,120
 hagrid,103,5,108
 hermione,84,12,96
 im,27,55,82
-just,30,50,80
-do,31,46,77
 back,41,23,64
 know,22,40,62
 dont,21,41,62
@@ -14,10 +12,8 @@ see,31,27,58
 dumbledore,28,30,58
 right,23,34,57
 potter,34,23,57
-got,26,30,56
 go,36,20,56
 vernon,53,2,55
-get,25,30,55
 oh,39,14,53
 youre,19,32,51
 dudley,46,5,51
@@ -49,7 +45,6 @@ whats,9,19,28
 want,10,18,28
 time,9,19,28
 look,17,10,27
-did,7,20,27
 away,15,12,27
 door,23,3,26
 two,18,7,25
@@ -79,8 +74,6 @@ name,15,4,19
 house,15,4,19
 hands,16,3,19
 sure,5,13,18
-say,5,13,18
-said,7,11,18
 magic,7,11,18
 leave,10,8,18
 isnt,6,12,18
@@ -107,11 +100,9 @@ mind,7,8,15
 keep,7,8,15
 gone,6,9,15
 gets,14,1,15
-am,7,8,15
 youll,6,8,14
 welcome,10,4,14
 school,6,8,14
-let,3,11,14
 killed,3,11,14
 hey,10,4,14
 harrys,13,1,14
@@ -139,7 +130,6 @@ remember,5,7,12
 put,9,3,12
 mrs,10,2,12
 gonna,4,8,12
-dear,5,7,12
 air,10,2,12
 wait,5,6,11
 turn,8,3,11
@@ -172,7 +162,6 @@ full,4,6,10
 feel,2,8,10
 father,5,5,10
 doesnt,4,6,10
-does,5,5,10
 death,3,7,10
 boys,8,2,10
 black,2,8,10
@@ -198,7 +187,6 @@ wrong,4,4,8
 spells,2,6,8
 sort,4,4,8
 side,7,1,8
-says,2,6,8
 quite,2,6,8
 owl,6,2,8
 open,7,1,8
@@ -223,7 +211,6 @@ witch,6,1,7
 went,5,2,7
 watch,5,2,7
 wasnt,3,4,7
-wants,1,6,7
 today,4,3,7
 thought,3,4,7
 teacher,3,4,7

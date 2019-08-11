@@ -1,11 +1,8 @@
 word,The Blair Witch Project,Drag Me To Hell,total
 im,109,51,160
 okay,77,53,130
-just,85,43,128
 know,71,38,109
-get,78,31,109
 dont,68,33,101
-do,52,41,93
 like,66,13,79
 going,71,7,78
 man,64,13,77
@@ -30,8 +27,6 @@ woman,20,20,40
 good,17,23,40
 want,24,15,39
 youre,10,28,38
-got,26,11,37
-did,16,21,37
 look,23,13,36
 yes,11,23,34
 thank,6,27,33
@@ -45,7 +40,6 @@ sorry,15,11,26
 car,21,5,26
 didnt,14,11,25
 cant,15,10,25
-say,19,5,24
 dead,4,20,24
 welcome,2,21,23
 tell,12,11,23
@@ -75,7 +69,6 @@ mean,7,12,19
 laughing,13,6,19
 ive,15,4,19
 find,13,6,19
-am,12,7,19
 time,10,8,18
 today,14,3,17
 put,13,4,17
@@ -86,7 +79,6 @@ happened,12,5,17
 weve,15,1,16
 two,13,3,16
 sounds,12,4,16
-said,8,8,16
 inside,15,1,16
 believe,8,8,16
 understand,5,10,15
@@ -106,7 +98,6 @@ hell,6,7,13
 gasps,3,10,13
 wasnt,7,5,12
 long,9,3,12
-let,4,8,12
 getting,9,3,12
 coming,6,6,12
 call,5,7,12
@@ -166,7 +157,6 @@ minutes,6,2,8
 men,7,1,8
 gave,6,2,8
 doesnt,4,4,8
-does,4,4,8
 darkness,7,1,8
 dad,2,6,8
 close,7,1,8
@@ -249,7 +239,6 @@ couple,3,2,5
 control,1,4,5
 chance,1,4,5
 ago,2,3,5
-able,2,3,5
 youll,1,3,4
 worth,3,1,4
 wont,1,3,4
@@ -292,7 +281,6 @@ young,2,1,3
 wish,1,2,3
 whatd,2,1,3
 weird,1,2,3
-wants,2,1,3
 wall,2,1,3
 use,2,1,3
 taken,1,2,3
@@ -449,7 +437,6 @@ pack,9,0,9
 happy,9,0,9
 camp,9,0,9
 walking,8,0,8
-says,8,0,8
 points,8,0,8
 mikes,8,0,8
 kinda,8,0,8
@@ -1520,7 +1507,6 @@ pack,0,9,9
 happy,0,9,9
 camp,0,9,9
 walking,0,8,8
-says,0,8,8
 points,0,8,8
 mikes,0,8,8
 kinda,0,8,8

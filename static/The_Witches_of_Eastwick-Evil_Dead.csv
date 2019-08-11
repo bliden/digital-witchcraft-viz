@@ -1,12 +1,9 @@
 word,The Witches of Eastwick,Evil Dead,total
-do,76,10,86
-just,54,23,77
 know,50,19,69
 back,11,53,64
 like,32,27,59
 see,29,22,51
 ha,3,44,47
-get,25,21,46
 right,22,22,44
 im,40,1,41
 eyes,9,30,39
@@ -22,7 +19,6 @@ looks,2,30,32
 ll,1,31,32
 good,21,11,32
 yes,29,2,31
-let,16,13,29
 dead,5,24,29
 away,8,21,29
 going,18,10,28
@@ -36,7 +32,6 @@ open,6,16,22
 yeah,10,11,21
 heard,1,19,20
 head,3,17,20
-did,12,8,20
 lets,17,2,19
 body,1,18,19
 things,12,6,18
@@ -46,7 +41,6 @@ old,1,16,17
 love,15,2,17
 god,12,5,17
 force,1,16,17
-does,11,6,17
 die,3,14,17
 car,1,16,17
 seen,2,14,16
@@ -74,7 +68,6 @@ call,10,2,12
 wrong,7,4,11
 sorry,10,1,11
 sees,1,10,11
-say,10,1,11
 past,1,10,11
 name,10,1,11
 men,9,2,11
@@ -97,15 +90,12 @@ bedroom,1,9,10
 work,3,6,9
 trying,6,3,9
 three,7,2,9
-says,7,2,9
 play,7,2,9
 jesus,2,7,9
 hands,1,8,9
-got,5,4,9
 dark,2,7,9
 bad,3,6,9
 answer,4,5,9
-am,4,5,9
 wind,1,7,8
 understand,7,1,8
 try,5,3,8
@@ -128,7 +118,6 @@ thought,4,3,7
 tell,4,3,7
 strange,4,3,7
 shed,1,6,7
-said,5,2,7
 put,3,4,7
 mouth,1,6,7
 mountains,1,6,7
@@ -170,7 +159,6 @@ breaks,1,5,6
 bodies,1,5,6
 bed,4,2,6
 wife,3,2,5
-wants,3,2,5
 waiting,2,3,5
 um,4,1,5
 sit,3,2,5

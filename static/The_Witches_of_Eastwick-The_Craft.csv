@@ -1,8 +1,6 @@
 word,The Witches of Eastwick,The Craft,total
 dont,69,63,132
-do,76,55,131
 know,50,57,107
-just,54,44,98
 im,40,56,96
 go,26,44,70
 like,32,36,68
@@ -13,7 +11,6 @@ think,28,30,58
 youre,23,31,54
 yeah,10,42,52
 oh,19,31,50
-get,25,22,47
 cant,29,18,47
 see,29,17,46
 look,19,27,46
@@ -27,7 +24,6 @@ stop,14,23,37
 really,11,26,37
 okay,16,21,37
 sorry,10,25,35
-did,12,22,34
 shes,12,20,32
 god,12,20,32
 make,21,10,31
@@ -37,7 +33,6 @@ love,15,11,26
 lets,17,9,26
 please,5,20,25
 take,15,9,24
-let,16,8,24
 didnt,5,19,24
 theyre,12,11,23
 feel,14,8,22
@@ -62,11 +57,9 @@ away,8,8,16
 understand,7,8,15
 three,7,8,15
 sure,8,7,15
-say,10,5,15
 hi,6,9,15
 head,3,12,15
 happen,10,5,15
-does,11,4,15
 talking,7,7,14
 power,2,12,14
 people,6,8,14
@@ -79,7 +72,6 @@ thing,6,7,13
 thank,10,3,13
 tell,4,9,13
 home,4,9,13
-got,5,8,13
 eyes,9,4,13
 doesnt,7,6,13
 wrong,7,5,12
@@ -92,8 +84,6 @@ day,9,3,12
 big,6,6,12
 better,6,6,12
 true,8,3,11
-says,7,4,11
-said,5,6,11
 keep,6,5,11
 house,8,3,11
 give,5,6,11
@@ -138,7 +128,6 @@ earth,2,6,8
 course,5,3,8
 bitch,3,5,8
 beautiful,2,6,8
-am,4,4,8
 afraid,5,3,8
 world,6,1,7
 weird,1,6,7
@@ -452,7 +441,6 @@ appreciate,4,0,4
 york,3,0,3
 wife,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 spofford,3,0,3
@@ -1271,7 +1259,6 @@ appreciate,0,4,4
 york,0,3,3
 wife,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 spofford,0,3,3

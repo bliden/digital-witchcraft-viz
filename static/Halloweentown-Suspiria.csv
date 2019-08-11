@@ -1,23 +1,18 @@
 word,Halloweentown,Suspiria,total
 oh,83,26,109
 know,66,34,100
-just,67,21,88
 dont,54,34,88
 im,60,27,87
-do,56,28,84
 like,64,18,82
 come,51,20,71
-get,53,17,70
 go,47,19,66
 thats,32,22,54
 see,39,15,54
 yes,23,29,52
 right,33,16,49
 good,23,24,47
-got,26,20,46
 youre,32,12,44
 going,19,18,37
-did,25,12,37
 cant,23,13,36
 really,17,17,34
 didnt,17,17,34
@@ -25,7 +20,6 @@ want,25,8,33
 look,27,6,33
 help,21,12,33
 thing,30,2,32
-dear,24,8,32
 two,13,18,31
 back,22,9,31
 yeah,23,7,30
@@ -38,14 +32,12 @@ ill,15,13,28
 time,23,4,27
 hello,7,19,26
 witch,19,6,25
-let,17,8,25
 school,4,20,24
 little,17,7,24
 witches,15,8,23
 uh,13,10,23
 world,20,2,22
 tell,10,12,22
-said,14,8,22
 magic,16,6,22
 wait,8,13,21
 stop,15,6,21
@@ -75,7 +67,6 @@ sorry,10,6,16
 long,12,4,16
 huh,10,6,16
 better,8,8,16
-am,15,1,16
 way,13,2,15
 turn,12,3,15
 things,8,7,15
@@ -87,9 +78,7 @@ course,7,8,15
 bye,14,1,15
 whats,8,6,14
 thought,8,6,14
-say,10,4,14
 heard,1,13,14
-does,11,3,14
 theyre,6,7,13
 keep,10,3,13
 bad,11,2,13
@@ -235,7 +224,6 @@ th,2,2,4
 telling,2,2,4
 supposed,3,1,4
 shut,2,2,4
-says,3,1,4
 run,3,1,4
 rooms,1,3,4
 rest,1,3,4
@@ -505,7 +493,6 @@ whispering,3,0,3
 whered,3,0,3
 watch,3,0,3
 warlock,3,0,3
-wants,3,0,3
 train,3,0,3
 tired,3,0,3
 thinking,3,0,3
@@ -1359,7 +1346,6 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
@@ -1456,7 +1442,6 @@ whispering,0,3,3
 whered,0,3,3
 watch,0,3,3
 warlock,0,3,3
-wants,0,3,3
 train,0,3,3
 tired,0,3,3
 thinking,0,3,3
@@ -2310,4 +2295,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

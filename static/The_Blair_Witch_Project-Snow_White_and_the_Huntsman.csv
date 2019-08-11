@@ -1,12 +1,9 @@
 word,The Blair Witch Project,Snow White and the Huntsman,total
 im,109,24,133
-just,85,10,95
 know,71,18,89
-get,78,11,89
 dont,68,18,86
 going,71,8,79
 like,66,12,78
-do,52,26,78
 back,59,14,73
 man,64,5,69
 go,45,16,61
@@ -23,7 +20,6 @@ think,31,1,32
 see,20,10,30
 really,27,3,30
 look,23,5,28
-got,26,1,27
 theres,18,8,26
 night,24,1,25
 away,18,7,25
@@ -38,10 +34,8 @@ woods,19,2,21
 time,10,11,21
 ive,15,6,21
 stop,17,3,20
-say,19,1,20
 help,15,5,20
 find,13,7,20
-did,16,4,20
 take,7,12,19
 looking,18,1,19
 didnt,14,5,19
@@ -49,7 +43,6 @@ cant,15,4,19
 turn,16,2,18
 hes,14,4,18
 give,12,6,18
-am,12,6,18
 yes,11,6,17
 old,14,3,17
 little,14,3,17
@@ -71,7 +64,6 @@ leave,7,7,14
 girl,7,7,14
 dark,4,10,14
 sounds,12,1,13
-said,8,5,13
 log,11,2,13
 happened,12,1,13
 feel,5,8,13
@@ -81,7 +73,6 @@ found,10,2,12
 blood,2,10,12
 three,10,1,11
 name,2,9,11
-let,4,7,11
 home,10,1,11
 happy,9,2,11
 forest,1,10,11
@@ -97,7 +88,6 @@ hell,6,4,10
 getting,9,1,10
 fire,6,4,10
 far,4,6,10
-does,4,6,10
 darkness,7,3,10
 cause,9,1,10
 camp,9,1,10
@@ -106,7 +96,6 @@ white,2,7,9
 went,8,1,9
 stay,6,3,9
 son,1,8,9
-says,8,1,9
 ready,8,1,9
 life,3,6,9
 id,4,5,9
@@ -175,7 +164,6 @@ call,5,1,6
 bit,5,1,6
 years,3,2,5
 werent,4,1,5
-wants,2,3,5
 trying,4,1,5
 truth,1,4,5
 taken,1,4,5
@@ -795,7 +783,6 @@ appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1955,7 +1942,6 @@ appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

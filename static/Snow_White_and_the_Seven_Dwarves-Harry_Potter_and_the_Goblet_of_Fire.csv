@@ -1,18 +1,14 @@
 word,Snow White and the Seven Dwarves,Harry Potter and the Goblet of Fire,total
 dont,35,33,68
-do,36,31,67
 oh,47,13,60
 go,39,17,56
 yes,28,24,52
 know,17,31,48
-get,24,15,39
 im,25,11,36
 come,18,18,36
 happy,32,1,33
-just,11,21,32
 youre,12,18,30
 right,10,20,30
-let,19,10,29
 see,13,15,28
 look,18,9,27
 like,16,11,27
@@ -22,7 +18,6 @@ love,18,4,22
 laughing,21,1,22
 old,12,9,21
 yeah,4,16,20
-did,5,15,20
 work,17,2,19
 tell,6,13,19
 theres,9,9,18
@@ -61,13 +56,11 @@ theyre,4,6,10
 sleepy,9,1,10
 magic,6,4,10
 keep,2,8,10
-got,7,3,10
 world,2,7,9
 wont,6,3,9
 wish,7,2,9
 time,3,6,9
 thanks,4,5,9
-say,4,5,9
 room,5,4,9
 princess,8,1,9
 need,1,8,9
@@ -87,7 +80,6 @@ fire,1,6,7
 fine,5,2,7
 eye,2,5,7
 done,1,6,7
-dear,5,2,7
 dark,1,6,7
 bad,6,1,7
 youve,1,5,6
@@ -120,7 +112,6 @@ stay,3,2,5
 stand,1,4,5
 soon,4,1,5
 sleep,4,1,5
-said,2,3,5
 remember,2,3,5
 really,2,3,5
 matter,2,3,5
@@ -135,7 +126,6 @@ castle,4,1,5
 broom,3,2,5
 believe,1,4,5
 ask,1,4,5
-am,2,3,5
 age,1,4,5
 year,2,2,4
 words,3,1,4
@@ -146,7 +136,6 @@ theyve,3,1,4
 taste,3,1,4
 standing,1,3,4
 show,1,3,4
-says,1,3,4
 quite,3,1,4
 poor,3,1,4
 past,1,3,4
@@ -520,7 +509,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 touch,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1173,7 +1161,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 touch,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

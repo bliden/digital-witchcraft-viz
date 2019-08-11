@@ -1,15 +1,12 @@
 word,The Blair Witch Project,The Covenant,total
 im,109,33,142
-just,85,49,134
 know,71,37,108
 dont,68,38,106
 okay,77,23,100
 like,66,28,94
-get,78,16,94
 going,71,10,81
 go,45,36,81
 man,64,16,80
-do,52,26,78
 back,59,13,72
 yeah,33,31,64
 camera,62,1,63
@@ -26,15 +23,12 @@ night,24,15,39
 see,20,17,37
 good,17,20,37
 want,24,12,36
-say,19,16,35
 please,33,2,35
-got,26,9,35
 hes,14,20,34
 really,27,5,32
 ill,8,24,32
 hey,4,28,32
 look,23,8,31
-did,16,15,31
 car,21,9,30
 youre,10,19,29
 god,22,5,27
@@ -82,17 +76,14 @@ light,14,1,15
 cool,11,4,15
 baby,11,4,15
 two,13,1,14
-said,8,6,14
 put,13,1,14
 make,6,8,14
-let,4,10,14
 found,10,4,14
 ass,12,2,14
 shes,7,6,13
 point,12,1,13
 morning,9,4,13
 doing,7,6,13
-am,12,1,13
 wont,1,11,12
 wait,7,5,12
 three,10,2,12
@@ -124,7 +115,6 @@ youve,5,4,9
 went,8,1,9
 tomorrow,6,3,9
 stuff,7,2,9
-says,8,1,9
 saw,2,7,9
 pretty,7,2,9
 listen,2,7,9
@@ -155,7 +145,6 @@ hurt,3,5,8
 hello,6,2,8
 five,6,2,8
 feel,5,3,8
-does,4,4,8
 crazy,5,3,8
 wheres,5,2,7
 used,3,4,7
@@ -178,7 +167,6 @@ book,4,3,7
 bit,5,2,7
 birthday,1,6,7
 work,5,1,6
-wants,2,4,6
 wake,1,5,6
 view,5,1,6
 seen,3,3,6
@@ -813,7 +801,6 @@ ahh,2,0,2
 ago,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1899,7 +1886,6 @@ ahh,0,2,2
 ago,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

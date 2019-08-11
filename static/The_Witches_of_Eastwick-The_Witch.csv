@@ -1,13 +1,10 @@
 word,The Witches of Eastwick,The Witch,total
-do,76,12,88
 dont,69,5,74
 know,50,13,63
 thy,1,61,62
 thee,1,61,62
-just,54,1,55
 like,32,11,43
 im,40,1,41
-get,25,16,41
 come,29,11,40
 go,26,13,39
 thats,36,2,38
@@ -16,7 +13,6 @@ want,31,4,35
 think,28,7,35
 yes,29,4,33
 love,15,17,32
-let,16,16,32
 ill,5,26,31
 little,28,2,30
 black,1,28,29
@@ -29,14 +25,11 @@ look,19,7,26
 god,12,14,26
 take,15,10,25
 back,11,13,24
-did,12,11,23
 whats,15,7,22
 lets,17,2,19
-am,4,15,19
 time,16,2,18
 devil,4,14,18
 hear,4,13,17
-does,11,5,16
 day,9,7,16
 shes,12,3,15
 sam,1,14,15
@@ -44,7 +37,6 @@ name,10,5,15
 man,10,5,15
 feel,14,1,15
 doing,13,2,15
-say,10,4,14
 lord,2,12,14
 help,3,11,14
 family,6,8,14
@@ -81,7 +73,6 @@ gone,2,7,9
 wrong,7,1,8
 understand,7,1,8
 sleep,1,7,8
-says,7,1,8
 play,7,1,8
 left,3,5,8
 ive,5,3,8
@@ -95,7 +86,6 @@ world,6,1,7
 tomorrow,3,4,7
 sweet,5,2,7
 sick,5,2,7
-said,5,2,7
 open,6,1,7
 lie,1,6,7
 jesus,2,5,7
@@ -331,7 +321,6 @@ huh,5,0,5
 hmm,5,0,5
 having,5,0,5
 hard,5,0,5
-got,5,0,5
 girls,5,0,5
 fuck,5,0,5
 four,5,0,5
@@ -375,7 +364,6 @@ york,3,0,3
 wouldnt,3,0,3
 wont,3,0,3
 win,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 trust,3,0,3
@@ -1286,7 +1274,6 @@ huh,0,5,5
 hmm,0,5,5
 having,0,5,5
 hard,0,5,5
-got,0,5,5
 girls,0,5,5
 fuck,0,5,5
 four,0,5,5
@@ -1330,7 +1317,6 @@ york,0,3,3
 wouldnt,0,3,3
 wont,0,3,3
 win,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 trust,0,3,3

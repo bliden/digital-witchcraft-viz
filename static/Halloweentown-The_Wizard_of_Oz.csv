@@ -1,12 +1,9 @@
 word,Halloweentown,The Wizard of Oz,total
 im,60,64,124
-do,56,62,118
 oh,83,31,114
 come,51,63,114
-just,67,46,113
 witch,19,92,111
 dont,54,54,108
-get,53,51,104
 man,11,89,100
 like,64,33,97
 go,47,50,97
@@ -16,7 +13,6 @@ see,39,43,82
 back,22,55,77
 right,33,37,70
 youre,32,34,66
-got,26,37,63
 em,2,58,60
 home,16,36,52
 yes,23,28,51
@@ -26,7 +22,6 @@ cant,23,26,49
 want,25,23,48
 look,27,21,48
 help,21,26,47
-did,25,19,44
 little,17,25,42
 good,23,19,42
 think,19,22,41
@@ -40,10 +35,8 @@ place,8,28,36
 away,5,31,36
 take,11,24,35
 didnt,17,18,35
-let,17,17,34
 please,12,21,33
 give,13,20,33
-dear,24,9,33
 old,8,24,32
 gonna,30,2,32
 mean,23,8,31
@@ -56,22 +49,18 @@ id,5,22,27
 youve,14,11,25
 miss,2,23,25
 long,12,13,25
-am,15,10,25
 put,14,10,24
-does,11,13,24
 great,6,17,23
 follow,4,19,23
 world,20,2,22
 wonderful,2,20,22
 things,8,14,22
 stop,15,7,22
-said,14,8,22
 make,13,9,22
 doesnt,16,6,22
 dead,2,20,22
 bad,11,11,22
 whats,8,13,21
-say,10,11,21
 house,10,11,21
 two,13,7,20
 tell,10,10,20
@@ -105,7 +94,6 @@ coming,12,3,15
 better,8,7,15
 youll,1,13,14
 thanks,13,1,14
-says,3,11,14
 powerful,7,7,14
 maybe,12,2,14
 kind,7,7,14
@@ -407,7 +395,6 @@ broken,1,2,3
 arent,1,2,3
 apple,1,2,3
 absolutely,1,2,3
-able,1,2,3
 wrap,1,1,2
 wild,1,1,2
 weeks,1,1,2
@@ -587,7 +574,6 @@ awesome,4,0,4
 anoeth,4,0,4
 whispering,3,0,3
 warlock,3,0,3
-wants,3,0,3
 wanted,3,0,3
 trust,3,0,3
 tired,3,0,3
@@ -1447,7 +1433,6 @@ awesome,0,4,4
 anoeth,0,4,4
 whispering,0,3,3
 warlock,0,3,3
-wants,0,3,3
 wanted,0,3,3
 trust,0,3,3
 tired,0,3,3

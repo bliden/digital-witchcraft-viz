@@ -1,8 +1,6 @@
 word,The Witches of Eastwick,The Wicker Man,total
-do,76,44,120
 dont,69,20,89
 know,50,28,78
-just,54,14,68
 im,40,26,66
 thats,36,21,57
 like,32,18,50
@@ -14,7 +12,6 @@ oh,19,25,44
 yes,29,14,43
 want,31,8,39
 right,22,15,37
-get,25,12,37
 cant,29,8,37
 little,28,7,35
 go,26,7,33
@@ -24,18 +21,15 @@ take,15,15,30
 man,10,17,27
 shes,12,14,26
 please,5,21,26
-did,12,14,26
 time,16,9,25
 going,18,7,25
 back,11,13,24
-say,10,13,23
 whats,15,7,22
 day,9,13,22
 thank,10,11,21
 love,15,6,21
 god,12,9,21
 look,19,1,20
-let,16,4,20
 name,10,9,19
 ill,5,14,19
 hes,11,8,19
@@ -45,11 +39,9 @@ course,5,13,18
 things,12,5,17
 theyre,12,5,17
 isnt,10,7,17
-does,11,6,17
 sure,8,8,16
 stop,14,1,15
 dead,5,10,15
-am,4,11,15
 sorry,10,4,14
 really,11,3,14
 old,1,13,14
@@ -57,7 +49,6 @@ lord,2,12,14
 doing,13,1,14
 told,5,8,13
 theres,4,9,13
-says,7,6,13
 morning,5,8,13
 call,10,3,13
 understand,7,5,12
@@ -67,7 +58,6 @@ matter,5,7,12
 life,8,4,12
 house,8,4,12
 hmm,5,7,12
-got,5,7,12
 girls,5,7,12
 death,1,11,12
 burn,2,10,12
@@ -85,7 +75,6 @@ youll,2,8,10
 two,8,2,10
 true,8,2,10
 town,8,2,10
-said,5,5,10
 nice,9,1,10
 missing,1,9,10
 mean,5,5,10
@@ -447,7 +436,6 @@ appreciate,4,0,4
 york,3,0,3
 wife,3,0,3
 wash,3,0,3
-wants,3,0,3
 upset,3,0,3
 uhn,3,0,3
 stupid,3,0,3
@@ -1287,7 +1275,6 @@ appreciate,0,4,4
 york,0,3,3
 wife,0,3,3
 wash,0,3,3
-wants,0,3,3
 upset,0,3,3
 uhn,0,3,3
 stupid,0,3,3

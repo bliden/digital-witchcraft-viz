@@ -1,6 +1,4 @@
 word,Snow White and the Seven Dwarves,Return to Halloweentown,total
-just,11,81,92
-do,36,55,91
 im,25,63,88
 oh,47,37,84
 ah,80,2,82
@@ -8,7 +6,6 @@ dont,35,40,75
 magic,6,61,67
 know,17,42,59
 go,39,18,57
-get,24,31,55
 queen,39,15,54
 uh,38,12,50
 like,16,34,50
@@ -31,9 +28,7 @@ make,12,17,29
 shes,13,14,27
 love,18,9,27
 laughing,21,6,27
-did,5,22,27
 away,16,11,27
-let,19,7,26
 little,13,12,25
 ill,13,12,25
 work,17,7,24
@@ -50,7 +45,6 @@ really,2,19,21
 need,1,19,20
 sorry,2,17,19
 screaming,8,11,19
-say,4,15,19
 mean,6,13,19
 help,2,17,19
 fine,5,14,19
@@ -58,7 +52,6 @@ door,12,7,19
 theres,9,9,18
 take,11,7,18
 room,5,13,18
-got,7,11,18
 tell,6,11,17
 home,10,7,17
 talk,3,13,16
@@ -67,7 +60,6 @@ old,12,4,16
 wont,6,9,15
 woman,2,13,15
 wait,7,8,15
-said,2,13,15
 open,1,14,15
 maybe,5,10,15
 la,14,1,15
@@ -91,7 +83,6 @@ chuckling,9,4,13
 sure,6,6,12
 gasping,10,2,12
 echoing,11,1,12
-dear,5,7,12
 call,2,10,12
 back,2,10,12
 way,3,8,11
@@ -123,7 +114,6 @@ mother,2,7,9
 id,2,7,9
 hold,7,2,9
 castle,4,5,9
-am,2,7,9
 wrong,2,6,8
 thanks,4,4,8
 sighing,6,2,8
@@ -209,7 +199,6 @@ wheres,1,3,4
 week,1,3,4
 turn,1,3,4
 trouble,1,3,4
-tis,1,3,4
 thunderclap,2,2,4
 theyve,3,1,4
 theyll,2,2,4
@@ -217,7 +206,6 @@ squeaking,3,1,4
 sounded,1,3,4
 silly,3,1,4
 show,1,3,4
-says,1,3,4
 pick,3,1,4
 ooh,1,3,4
 names,2,2,4

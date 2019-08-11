@@ -1,9 +1,7 @@
 word,The Craft,The Good Witch,total
 dont,63,68,131
-do,55,68,123
 im,56,66,122
 know,57,47,104
-just,44,51,95
 oh,31,58,89
 go,44,34,78
 yeah,42,33,75
@@ -16,8 +14,6 @@ right,23,33,56
 thats,26,29,55
 good,23,32,55
 going,22,32,54
-did,22,32,54
-get,22,28,50
 okay,21,26,47
 ill,16,29,45
 really,26,15,41
@@ -32,7 +28,6 @@ mean,16,18,34
 sorry,25,7,32
 shes,20,12,32
 hes,17,14,31
-got,8,23,31
 whats,24,6,30
 nancy,21,7,28
 back,17,11,28
@@ -54,7 +49,6 @@ house,3,18,21
 way,11,9,20
 tell,9,11,20
 love,11,9,20
-let,8,12,20
 hi,9,11,20
 theyre,11,8,19
 miss,1,18,19
@@ -99,7 +93,6 @@ keep,5,7,12
 give,6,6,12
 book,4,8,12
 saying,8,3,11
-said,6,5,11
 powers,10,1,11
 money,5,6,11
 long,1,10,11
@@ -116,7 +109,6 @@ understand,8,2,10
 told,5,5,10
 today,3,7,10
 three,8,2,10
-say,5,5,10
 real,5,5,10
 lot,2,8,10
 looking,7,3,10
@@ -139,7 +131,6 @@ feel,8,1,9
 dinner,2,7,9
 day,3,6,9
 arent,4,5,9
-am,4,5,9
 watch,6,2,8
 try,4,4,8
 tonight,2,6,8
@@ -155,7 +146,6 @@ kids,1,7,8
 hold,6,2,8
 guess,3,5,8
 girl,6,2,8
-does,4,4,8
 dead,5,3,8
 beautiful,6,2,8
 wont,1,6,7
@@ -190,7 +180,6 @@ treat,1,5,6
 thinking,4,2,6
 somebody,3,3,6
 show,3,3,6
-says,4,2,6
 running,1,5,6
 run,4,2,6
 reason,3,3,6
@@ -486,7 +475,6 @@ east,3,0,3
 downs,3,0,3
 devil,3,0,3
 deep,3,0,3
-dear,3,0,3
 cry,3,0,3
 corners,3,0,3
 completely,3,0,3
@@ -1047,7 +1035,6 @@ east,0,3,3
 downs,0,3,3
 devil,0,3,3
 deep,0,3,3
-dear,0,3,3
 cry,0,3,3
 corners,0,3,3
 completely,0,3,3

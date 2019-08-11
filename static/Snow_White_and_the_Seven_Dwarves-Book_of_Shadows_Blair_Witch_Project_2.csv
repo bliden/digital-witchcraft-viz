@@ -1,13 +1,10 @@
 word,Snow White and the Seven Dwarves,Book of Shadows Blair Witch Project 2,total
 white,86,1,87
-do,36,50,86
 dont,35,50,85
 im,25,49,74
 know,17,51,68
 oh,47,18,65
-just,11,54,65
 yeah,4,59,63
-get,24,34,58
 like,16,39,55
 go,39,15,54
 witch,1,45,46
@@ -16,17 +13,14 @@ youre,12,31,43
 see,13,30,43
 little,13,28,41
 look,18,20,38
-got,7,30,37
 thats,10,26,36
 happy,32,1,33
-did,5,28,33
 shes,13,19,32
 right,10,21,31
 yes,28,2,30
 take,11,18,29
 want,2,26,28
 think,2,26,28
-let,19,9,28
 back,2,26,28
 good,18,9,27
 laughing,21,2,23
@@ -36,7 +30,6 @@ theres,9,13,22
 make,12,10,22
 going,3,19,22
 work,17,3,20
-say,4,16,20
 hell,3,17,20
 continues,14,6,20
 theyre,4,15,19
@@ -74,7 +67,6 @@ kill,7,6,13
 happened,1,12,13
 black,3,10,13
 big,3,10,13
-am,2,11,13
 way,3,9,12
 thought,4,8,12
 thing,3,9,12
@@ -160,7 +152,6 @@ brought,1,5,6
 walk,1,4,5
 voice,3,2,5
 three,1,4,5
-said,2,3,5
 rest,1,4,5
 remember,2,3,5
 quick,2,3,5
@@ -373,7 +364,6 @@ smile,5,0,5
 mighty,5,0,5
 hide,5,0,5
 fine,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 washed,4,0,4
 taint,4,0,4
@@ -565,7 +555,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tie,1,0,1
 thunderbolt,1,0,1
 thunder,1,0,1
@@ -639,7 +628,6 @@ screeching,1,0,1
 scream,1,0,1
 score,1,0,1
 scoop,1,0,1
-says,1,0,1
 sayin,1,0,1
 rustling,1,0,1
 rumbling,1,0,1
@@ -949,7 +937,6 @@ smile,0,5,5
 mighty,0,5,5
 hide,0,5,5
 fine,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 washed,0,4,4
 taint,0,4,4
@@ -1141,7 +1128,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tie,0,1,1
 thunderbolt,0,1,1
 thunder,0,1,1
@@ -1215,7 +1201,6 @@ screeching,0,1,1
 scream,0,1,1
 score,0,1,1
 scoop,0,1,1
-says,0,1,1
 sayin,0,1,1
 rustling,0,1,1
 rumbling,0,1,1

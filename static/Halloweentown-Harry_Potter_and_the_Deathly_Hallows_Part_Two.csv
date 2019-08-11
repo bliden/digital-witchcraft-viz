@@ -1,24 +1,19 @@
 word,Halloweentown,Harry Potter and the Deathly Hallows Part Two,total
 know,66,35,101
-do,56,43,99
 oh,83,7,90
 im,60,23,83
 like,64,17,81
-just,67,14,81
 dont,54,23,77
 come,51,25,76
-get,53,11,64
 go,47,13,60
 youre,32,20,52
 thats,32,18,50
 see,39,8,47
 right,33,11,44
-did,25,14,39
 gonna,30,7,37
 yes,23,12,35
 think,19,16,35
 look,27,8,35
-got,26,9,35
 time,23,11,34
 cant,23,11,34
 help,21,12,33
@@ -39,21 +34,16 @@ shes,17,8,25
 didnt,17,8,25
 find,5,19,24
 theres,11,12,23
-say,10,13,23
 going,19,4,23
 really,17,5,22
 youve,14,7,21
 world,20,1,21
 man,11,10,21
-let,17,4,21
 ive,12,9,21
 give,13,8,21
-am,15,6,21
 way,13,7,20
-said,14,6,20
 magic,16,4,20
 ill,15,5,20
-does,11,9,20
 boy,3,17,20
 put,14,5,19
 bet,18,1,19
@@ -182,7 +172,6 @@ forever,5,1,6
 follow,4,2,6
 family,5,1,6
 afraid,3,3,6
-able,1,5,6
 wasnt,4,1,5
 wanted,3,2,5
 trust,3,2,5
@@ -222,7 +211,6 @@ train,3,1,4
 three,3,1,4
 strange,1,3,4
 speak,1,3,4
-says,3,1,4
 rest,1,3,4
 ready,1,3,4
 probably,3,1,4
@@ -361,7 +349,6 @@ grandma,56,0,56
 marnie,36,0,36
 mom,31,0,31
 ooh,25,0,25
-dear,24,0,24
 sophie,20,0,20
 ok,20,0,20
 bus,20,0,20
@@ -468,7 +455,6 @@ whispering,3,0,3
 whered,3,0,3
 watch,3,0,3
 warlock,3,0,3
-wants,3,0,3
 tired,3,0,3
 times,3,0,3
 statues,3,0,3
@@ -1364,7 +1350,6 @@ grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
 ooh,0,25,25
-dear,0,24,24
 sophie,0,20,20
 ok,0,20,20
 bus,0,20,20
@@ -1471,7 +1456,6 @@ whispering,0,3,3
 whered,0,3,3
 watch,0,3,3
 warlock,0,3,3
-wants,0,3,3
 tired,0,3,3
 times,0,3,3
 statues,0,3,3

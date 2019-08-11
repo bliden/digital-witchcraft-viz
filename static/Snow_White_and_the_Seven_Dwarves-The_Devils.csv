@@ -1,6 +1,5 @@
 word,Snow White and the Seven Dwarves,The Devils,total
 white,86,1,87
-do,36,37,73
 oh,47,22,69
 dont,35,22,57
 yes,28,28,56
@@ -12,10 +11,8 @@ im,25,11,36
 know,17,18,35
 come,18,16,34
 happy,32,1,33
-get,24,6,30
 take,11,18,29
 like,16,12,28
-let,19,9,28
 look,18,9,27
 away,16,11,27
 thee,2,20,22
@@ -29,7 +26,6 @@ men,14,6,20
 make,12,8,20
 little,13,7,20
 day,13,7,20
-am,2,18,20
 thats,10,9,19
 heart,14,5,19
 end,13,6,19
@@ -46,8 +42,6 @@ ill,13,3,16
 give,2,14,16
 wish,7,8,15
 theres,9,6,15
-just,11,4,15
-did,5,10,15
 cant,11,4,15
 want,2,12,14
 thing,3,11,14
@@ -61,7 +55,6 @@ time,3,10,13
 spoken,10,3,13
 mean,6,7,13
 house,6,7,13
-dear,5,8,13
 women,2,10,12
 majesty,4,8,12
 home,10,2,12
@@ -75,7 +68,6 @@ night,5,6,11
 new,1,10,11
 hes,2,9,11
 amen,1,10,11
-say,4,6,10
 life,2,8,10
 ive,4,6,10
 hold,7,3,10
@@ -86,7 +78,6 @@ thought,4,5,9
 speak,1,8,9
 princess,8,1,9
 place,4,5,9
-got,7,2,9
 gone,3,6,9
 going,3,6,9
 found,1,8,9
@@ -209,8 +200,6 @@ sort,1,2,3
 shut,2,1,3
 shame,1,2,3
 scream,1,2,3
-says,1,2,3
-said,2,1,3
 promise,1,2,3
 pigs,2,1,3
 names,2,1,3
@@ -571,7 +560,6 @@ tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1144,7 +1132,6 @@ tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

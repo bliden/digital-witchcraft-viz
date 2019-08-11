@@ -3,10 +3,8 @@ white,86,8,94
 oh,47,20,67
 go,39,24,63
 dont,35,28,63
-do,36,24,60
 im,25,34,59
 witch,1,49,50
-get,24,21,45
 know,17,23,40
 yes,28,10,38
 good,18,20,38
@@ -18,15 +16,12 @@ right,10,20,30
 youre,12,17,29
 little,13,14,27
 see,13,13,26
-let,19,7,26
 take,11,14,25
 look,18,7,25
-just,11,14,25
 please,7,17,24
 work,17,6,23
 thats,10,13,23
 hey,8,14,22
-did,5,17,22
 love,18,3,21
 children,4,17,21
 shes,13,7,20
@@ -37,7 +32,6 @@ help,2,17,19
 heart,14,5,19
 find,10,9,19
 away,16,3,19
-got,7,11,18
 end,13,5,18
 make,12,5,17
 back,2,15,17
@@ -63,7 +57,6 @@ blood,2,9,11
 youll,8,2,10
 wont,6,4,10
 tell,6,4,10
-say,4,6,10
 mean,6,4,10
 gonna,1,9,10
 woman,2,7,9
@@ -127,7 +120,6 @@ theyre,4,1,5
 thanks,4,1,5
 strange,1,4,5
 sleep,4,1,5
-said,2,3,5
 open,1,4,5
 life,2,3,5
 hurt,3,2,5
@@ -176,7 +168,6 @@ cold,3,1,4
 change,1,3,4
 broom,3,1,4
 believe,1,3,4
-am,2,2,4
 youve,1,2,3
 witchcraft,1,2,3
 whos,2,1,3
@@ -230,7 +221,6 @@ sign,1,1,2
 sick,1,1,2
 show,1,1,2
 set,1,1,2
-says,1,1,2
 rip,1,1,2
 rest,1,1,2
 ready,1,1,2
@@ -342,7 +332,6 @@ sniffing,5,0,5
 smile,5,0,5
 mighty,5,0,5
 em,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -539,7 +528,6 @@ turn,1,0,1
 tumbling,1,0,1
 tricked,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -964,7 +952,6 @@ sniffing,0,5,5
 smile,0,5,5
 mighty,0,5,5
 em,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1161,7 +1148,6 @@ turn,0,1,1
 tumbling,0,1,1
 tricked,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

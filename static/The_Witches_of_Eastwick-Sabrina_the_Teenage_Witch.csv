@@ -1,11 +1,8 @@
 word,The Witches of Eastwick,Sabrina the Teenage Witch,total
-do,76,38,114
 know,50,55,105
-just,54,40,94
 oh,19,51,70
 like,32,28,60
 come,29,31,60
-get,25,34,59
 yeah,10,48,58
 okay,16,41,57
 go,26,29,55
@@ -24,13 +21,10 @@ look,19,14,33
 ll,1,32,33
 great,5,28,33
 really,11,20,31
-did,12,19,31
 sure,8,21,29
 mean,5,24,29
 back,11,18,29
-let,16,12,28
 take,15,11,26
-got,5,20,25
 maybe,6,16,22
 hi,6,15,21
 feel,14,6,20
@@ -50,7 +44,6 @@ sorry,10,6,16
 man,10,6,16
 wait,5,10,15
 thought,4,11,15
-say,10,5,15
 birthday,2,13,15
 wrong,7,7,14
 witches,2,12,14
@@ -90,7 +83,6 @@ having,5,5,10
 eyes,9,1,10
 easy,7,3,10
 world,6,3,9
-wants,3,6,9
 um,4,5,9
 town,8,1,9
 three,7,2,9
@@ -103,14 +95,11 @@ hmm,5,4,9
 friends,4,5,9
 different,2,7,9
 car,1,8,9
-am,4,5,9
 understand,7,1,8
 trying,6,2,8
 terrible,7,1,8
 strange,4,4,8
 school,1,7,8
-says,7,1,8
-said,5,3,8
 put,3,5,8
 problem,3,5,8
 people,6,2,8
@@ -391,7 +380,6 @@ sukie,13,0,13
 theyre,12,0,12
 shes,12,0,12
 hes,11,0,11
-does,11,0,11
 thank,10,0,10
 name,10,0,10
 isnt,10,0,10
@@ -1233,7 +1221,6 @@ sukie,0,13,13
 theyre,0,12,12
 shes,0,12,12
 hes,0,11,11
-does,0,11,11
 thank,0,10,10
 name,0,10,10
 isnt,0,10,10

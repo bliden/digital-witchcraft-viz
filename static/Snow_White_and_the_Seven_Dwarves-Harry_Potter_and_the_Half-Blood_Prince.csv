@@ -1,15 +1,12 @@
 word,Snow White and the Seven Dwarves,Harry Potter and the Half-Blood Prince,total
 dont,35,62,97
 know,17,76,93
-do,36,53,89
 snow,87,1,88
 ah,80,7,87
 im,25,61,86
 oh,47,35,82
 go,39,30,69
 yes,28,33,61
-just,11,50,61
-get,24,30,54
 like,16,37,53
 think,2,43,45
 uh,38,3,41
@@ -19,15 +16,11 @@ good,18,19,37
 come,18,19,37
 happy,32,4,36
 hes,2,33,35
-did,5,29,34
 look,18,15,33
 make,12,20,32
-got,7,25,32
 cant,11,21,32
 love,18,13,31
-let,19,11,30
 thats,10,19,29
-say,4,24,28
 ill,13,14,27
 right,10,15,25
 shes,13,11,24
@@ -89,7 +82,6 @@ made,2,9,11
 lets,5,6,11
 home,10,1,11
 give,2,9,11
-dear,5,6,11
 best,1,10,11
 today,5,5,10
 seven,7,3,10
@@ -100,7 +92,6 @@ help,2,8,10
 death,5,5,10
 bad,6,4,10
 youve,1,8,9
-said,2,7,9
 room,5,4,9
 nice,2,7,9
 mother,2,7,9
@@ -108,7 +99,6 @@ house,6,3,9
 happened,1,8,9
 hands,4,5,9
 feel,3,6,9
-am,2,7,9
 watch,7,1,8
 tonight,1,7,8
 soul,1,7,8
@@ -162,7 +152,6 @@ wrong,2,3,5
 upstairs,3,2,5
 theyve,3,2,5
 shoes,4,1,5
-says,1,4,5
 ring,3,2,5
 quite,3,2,5
 lovely,1,4,5
@@ -566,7 +555,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1131,7 +1119,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

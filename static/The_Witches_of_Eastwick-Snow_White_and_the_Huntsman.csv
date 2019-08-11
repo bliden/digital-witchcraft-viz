@@ -1,8 +1,6 @@
 word,The Witches of Eastwick,Snow White and the Huntsman,total
-do,76,26,102
 dont,69,18,87
 know,50,18,68
-just,54,10,64
 im,40,24,64
 thats,36,8,44
 like,32,12,44
@@ -11,7 +9,6 @@ come,29,13,42
 want,31,8,39
 see,29,10,39
 youre,23,13,36
-get,25,11,36
 yes,29,6,35
 cant,29,4,33
 little,28,3,31
@@ -23,7 +20,6 @@ good,21,6,27
 going,18,8,26
 back,11,14,25
 look,19,5,24
-let,16,7,23
 make,21,1,22
 feel,14,8,22
 shes,12,8,20
@@ -38,9 +34,7 @@ woman,15,2,17
 whats,15,2,17
 theyre,12,5,17
 stop,14,3,17
-does,11,6,17
 dead,5,12,17
-did,12,4,16
 man,10,5,15
 hes,11,4,15
 away,8,7,15
@@ -61,7 +55,6 @@ yeah,10,1,11
 world,6,5,11
 wife,3,8,11
 sure,8,3,11
-say,10,1,11
 people,6,5,11
 need,5,6,11
 ive,5,6,11
@@ -71,11 +64,9 @@ blood,1,10,11
 two,8,2,10
 talking,7,3,10
 son,2,8,10
-said,5,5,10
 done,4,6,10
 didnt,5,5,10
 bring,1,9,10
-am,4,6,10
 understand,7,2,9
 true,8,1,9
 play,7,2,9
@@ -90,7 +81,6 @@ wait,5,3,8
 trust,3,5,8
 three,7,1,8
 shut,3,5,8
-says,7,1,8
 remember,3,5,8
 mean,5,3,8
 looking,7,1,8
@@ -118,7 +108,6 @@ die,3,4,7
 care,5,2,7
 arent,6,1,7
 youve,4,2,6
-wants,3,3,6
 truth,2,4,6
 seen,2,4,6
 please,5,1,6
@@ -131,7 +120,6 @@ killed,1,5,6
 hello,4,2,6
 having,5,1,6
 great,5,1,6
-got,5,1,6
 died,1,5,6
 death,1,5,6
 cut,1,5,6

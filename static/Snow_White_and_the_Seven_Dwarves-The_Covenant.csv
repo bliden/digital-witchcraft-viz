@@ -1,13 +1,10 @@
 word,Snow White and the Seven Dwarves,The Covenant,total
 go,39,36,75
 dont,35,38,73
-do,36,26,62
-just,11,49,60
 im,25,33,58
 oh,47,9,56
 know,17,37,54
 like,16,28,44
-get,24,16,40
 good,18,20,38
 ill,13,24,37
 hey,8,28,36
@@ -16,7 +13,6 @@ happy,32,1,33
 yes,28,4,32
 youre,12,19,31
 see,13,17,30
-let,19,10,29
 come,18,11,29
 thats,10,18,28
 right,10,18,28
@@ -25,11 +21,9 @@ lets,5,18,23
 hes,2,20,22
 take,11,10,21
 sure,6,14,20
-say,4,16,20
 night,5,15,20
 make,12,8,20
 little,13,7,20
-did,5,15,20
 cant,11,9,20
 away,16,4,20
 shes,13,6,19
@@ -39,7 +33,6 @@ work,17,1,18
 call,2,16,18
 wont,6,11,17
 whats,5,12,17
-got,7,9,16
 end,13,3,16
 day,13,3,16
 think,2,13,15
@@ -79,7 +72,6 @@ use,2,6,8
 things,3,5,8
 thing,3,5,8
 stay,3,5,8
-said,2,6,8
 run,7,1,8
 need,1,7,8
 mother,2,6,8
@@ -115,7 +107,6 @@ jealous,1,5,6
 fun,2,4,6
 feel,3,3,6
 easy,1,5,6
-dear,5,1,6
 couldnt,1,5,6
 close,2,4,6
 youve,1,4,5
@@ -211,7 +202,6 @@ care,2,1,3
 bunch,2,1,3
 bring,1,2,3
 better,1,2,3
-am,2,1,3
 wonder,1,1,2
 witchcraft,1,1,2
 tried,1,1,2
@@ -224,7 +214,6 @@ stays,1,1,2
 special,1,1,2
 sign,1,1,2
 scoop,1,1,2
-says,1,1,2
 put,1,1,2
 pull,1,1,2
 possibly,1,1,2
@@ -536,7 +525,6 @@ tumbling,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tie,1,0,1
 ticking,1,0,1
 thunderbolt,1,0,1
@@ -1174,7 +1162,6 @@ tumbling,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tie,0,1,1
 ticking,0,1,1
 thunderbolt,0,1,1

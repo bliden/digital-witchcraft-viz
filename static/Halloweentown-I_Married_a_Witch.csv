@@ -2,10 +2,7 @@ word,Halloweentown,I Married a Witch,total
 oh,83,51,134
 like,64,45,109
 im,60,48,108
-do,56,49,105
-just,67,34,101
 know,66,33,99
-get,53,46,99
 dont,54,44,98
 see,39,44,83
 go,47,30,77
@@ -18,19 +15,15 @@ thats,32,31,63
 yes,23,37,60
 right,33,26,59
 going,19,31,50
-did,25,24,49
 look,27,20,47
 father,4,39,43
 cant,23,20,43
-got,26,16,42
-dear,24,18,42
 witch,19,20,39
 ive,12,27,39
 think,19,19,38
 back,22,16,38
 love,1,36,37
 time,23,13,36
-am,15,21,36
 thing,30,5,35
 mother,30,5,35
 make,13,22,35
@@ -40,7 +33,6 @@ gonna,30,3,33
 didnt,17,16,33
 way,13,18,31
 lets,21,10,31
-let,17,14,31
 hey,25,5,30
 help,21,8,29
 yeah,23,5,28
@@ -57,13 +49,11 @@ better,8,18,26
 two,13,11,24
 thought,8,16,24
 world,20,3,23
-say,10,13,23
 really,17,6,23
 night,6,17,23
 give,13,10,23
 doesnt,16,7,23
 uh,13,9,22
-said,14,8,22
 please,12,10,22
 hes,10,12,22
 bye,14,8,22
@@ -87,7 +77,6 @@ long,12,5,17
 chuckles,1,16,17
 id,5,11,16
 door,4,12,16
-does,11,5,16
 darling,1,15,16
 course,7,9,16
 bad,11,5,16
@@ -246,7 +235,6 @@ dressed,2,4,6
 dark,5,1,6
 changed,2,4,6
 careful,5,1,6
-wants,3,2,5
 times,3,2,5
 terrible,1,4,5
 suffer,1,4,5
@@ -516,7 +504,6 @@ aware,1,1,2
 aw,1,1,2
 ancient,1,1,2
 amazing,1,1,2
-able,1,1,2
 grandma,56,0,56
 marnie,36,0,36
 mom,31,0,31
@@ -603,7 +590,6 @@ soph,3,0,3
 soapy,3,0,3
 smart,3,0,3
 shadow,3,0,3
-says,3,0,3
 ringing,3,0,3
 reason,3,0,3
 probably,3,0,3
@@ -1446,7 +1432,6 @@ soph,0,3,3
 soapy,0,3,3
 smart,0,3,3
 shadow,0,3,3
-says,0,3,3
 ringing,0,3,3
 reason,0,3,3
 probably,0,3,3

@@ -1,10 +1,7 @@
 word,The Blair Witch Project,Into the Woods,total
 im,109,67,176
-just,85,64,149
-get,78,61,139
 dont,68,55,123
 know,71,50,121
-do,52,67,119
 woods,19,91,110
 go,45,58,103
 going,71,29,100
@@ -20,7 +17,6 @@ come,33,28,61
 way,32,28,60
 see,20,38,58
 look,23,29,52
-did,16,36,52
 want,24,27,51
 wish,1,48,49
 yeah,33,15,48
@@ -29,7 +25,6 @@ good,17,30,47
 thats,35,11,46
 please,33,13,46
 lets,40,5,45
-got,26,18,44
 ahead,41,3,44
 little,14,29,43
 away,18,24,42
@@ -46,11 +41,8 @@ time,10,21,31
 night,24,7,31
 cant,15,16,31
 weve,15,15,30
-say,19,11,30
 give,12,18,30
 sorry,15,14,29
-said,8,21,29
-let,4,25,29
 ive,15,14,29
 home,10,19,29
 hes,14,15,29
@@ -59,7 +51,6 @@ didnt,14,15,29
 witch,19,9,28
 tell,12,15,27
 day,17,10,27
-am,12,15,27
 woman,20,6,26
 whats,10,16,26
 make,6,20,26
@@ -170,13 +161,11 @@ learn,2,8,10
 guess,7,3,10
 gave,6,4,10
 exactly,8,2,10
-does,4,6,10
 came,3,7,10
 um,4,5,9
 trying,4,5,9
 tomorrow,6,3,9
 stairs,7,2,9
-says,8,1,9
 safe,1,8,9
 miss,1,8,9
 lot,5,4,9
@@ -222,7 +211,6 @@ coming,6,2,8
 bit,5,3,8
 best,2,6,8
 wheres,5,2,7
-wants,2,5,7
 try,6,1,7
 straight,2,5,7
 set,5,2,7
@@ -875,7 +863,6 @@ arrives,2,0,2
 appears,2,0,2
 ago,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yeehaww,1,0,1
@@ -1864,7 +1851,6 @@ arrives,0,2,2
 appears,0,2,2
 ago,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yeehaww,0,1,1

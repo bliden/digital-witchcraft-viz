@@ -1,5 +1,4 @@
 word,The Witches of Eastwick,The Crucible,total
-do,76,71,147
 know,50,42,92
 dont,69,13,82
 come,29,53,82
@@ -9,25 +8,19 @@ see,29,32,61
 im,40,20,60
 god,12,47,59
 oh,19,37,56
-just,54,1,55
 devil,4,50,54
 think,28,24,52
 man,10,41,51
 like,32,16,48
 thats,36,11,47
 want,31,15,46
-did,12,34,46
-let,16,29,45
 look,19,22,41
 cant,29,12,41
 tell,4,36,40
-say,10,30,40
 name,10,29,39
 yes,29,4,33
 time,16,17,33
 make,21,12,33
-get,25,8,33
-am,4,29,33
 take,15,17,32
 youre,23,8,31
 love,15,16,31
@@ -61,12 +54,10 @@ sure,8,9,17
 hear,4,13,17
 believe,5,12,17
 away,8,9,17
-said,5,11,16
 made,5,11,16
 girls,5,11,16
 feel,14,2,16
 eyes,9,7,16
-does,11,5,16
 witchcraft,1,14,15
 thank,10,5,15
 keep,6,9,15
@@ -86,7 +77,6 @@ hell,5,9,14
 fear,1,13,14
 day,9,5,14
 town,8,5,13
-says,7,6,13
 please,5,8,13
 mean,5,8,13
 knew,2,11,13
@@ -117,7 +107,6 @@ honor,1,9,10
 home,4,6,10
 heart,1,9,10
 hard,5,5,10
-got,5,5,10
 friends,4,6,10
 answer,4,6,10
 word,2,7,9
@@ -201,7 +190,6 @@ anymore,3,3,6
 afraid,5,1,6
 wind,1,4,5
 whores,4,1,5
-wants,3,2,5
 times,3,2,5
 taken,1,4,5
 society,1,4,5

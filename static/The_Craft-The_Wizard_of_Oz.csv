@@ -1,15 +1,12 @@
 word,The Craft,The Wizard of Oz,total
 im,56,64,120
 dont,63,54,117
-do,55,62,117
 witch,8,92,100
 man,6,89,95
 go,44,50,94
 come,30,63,93
-just,44,46,90
 thats,26,54,80
 know,57,23,80
-get,22,51,73
 back,17,55,72
 like,36,33,69
 youre,31,34,65
@@ -22,12 +19,10 @@ ill,16,36,52
 yeah,42,6,48
 look,27,21,48
 home,9,36,45
-got,8,37,45
 cant,18,26,44
 good,23,19,42
 please,20,21,41
 going,22,19,41
-did,22,19,41
 shes,20,19,39
 really,26,13,39
 little,14,25,39
@@ -46,7 +41,6 @@ hes,17,10,27
 sorry,25,1,26
 old,2,24,26
 give,6,20,26
-let,8,17,25
 dead,5,20,25
 miss,1,23,24
 mean,16,8,24
@@ -69,11 +63,9 @@ run,4,14,18
 believe,6,12,18
 maybe,15,2,17
 gonna,15,2,17
-does,4,13,17
 bad,6,11,17
 afraid,3,14,17
 theyre,11,5,16
-say,5,11,16
 put,6,10,16
 power,12,4,16
 love,11,5,16
@@ -82,15 +74,12 @@ youll,2,13,15
 weve,2,13,15
 try,4,11,15
 thing,7,8,15
-says,4,11,15
 need,14,1,15
 doing,8,7,15
 day,3,12,15
-said,6,8,14
 long,1,13,14
 house,3,11,14
 havent,2,12,14
-am,4,10,14
 wont,1,12,13
 sure,7,6,13
 stay,6,7,13
@@ -110,7 +99,6 @@ fly,2,10,12
 fine,8,4,12
 eyes,4,8,12
 doesnt,6,6,12
-dear,3,9,12
 thank,3,8,11
 pretty,5,6,11
 magic,8,3,11

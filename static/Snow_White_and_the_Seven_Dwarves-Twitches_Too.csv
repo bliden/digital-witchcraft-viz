@@ -1,6 +1,5 @@
 word,Snow White and the Seven Dwarves,Twitches Too,total
 oh,47,93,140
-do,36,89,125
 dont,35,76,111
 know,17,84,101
 im,25,63,88
@@ -8,11 +7,9 @@ white,86,1,87
 uh,38,49,87
 go,39,47,86
 ah,80,6,86
-just,11,73,84
 right,10,63,73
 yeah,4,56,60
 youre,12,42,54
-get,24,30,54
 yes,28,24,52
 look,18,31,49
 like,16,33,49
@@ -24,8 +21,6 @@ queen,39,1,40
 really,2,36,38
 sorry,2,35,37
 happy,32,4,36
-let,19,16,35
-did,5,30,35
 little,13,21,34
 hes,2,32,34
 cant,11,22,33
@@ -35,13 +30,11 @@ gonna,1,30,31
 sure,6,24,30
 spell,1,29,30
 sighing,6,24,30
-say,4,26,30
 ill,13,16,29
 wait,7,21,28
 time,3,25,28
 shes,13,14,27
 laughing,21,6,27
-got,7,20,27
 gasping,10,17,27
 whispering,1,25,26
 screaming,8,18,26
@@ -89,7 +82,6 @@ chuckling,9,5,14
 alive,2,12,14
 theyre,4,9,13
 thanks,4,9,13
-said,2,11,13
 prince,7,6,13
 gotta,6,7,13
 fine,5,8,13
@@ -102,7 +94,6 @@ gosh,7,5,12
 echoing,11,1,12
 doesnt,2,10,12
 darkness,1,11,12
-am,2,10,12
 wanna,1,10,11
 stay,3,8,11
 run,7,4,11
@@ -209,7 +200,6 @@ strange,1,3,4
 sound,1,3,4
 show,1,3,4
 secret,2,2,4
-says,1,3,4
 romantic,1,3,4
 quite,3,1,4
 pieces,1,3,4
@@ -375,7 +365,6 @@ mine,5,0,5
 mighty,5,0,5
 em,5,0,5
 death,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -559,7 +548,6 @@ tumbling,1,0,1
 tricked,1,0,1
 transform,1,0,1
 tonight,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -946,7 +934,6 @@ mine,0,5,5
 mighty,0,5,5
 em,0,5,5
 death,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1130,7 +1117,6 @@ tumbling,0,1,1
 tricked,0,1,1
 transform,0,1,1
 tonight,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

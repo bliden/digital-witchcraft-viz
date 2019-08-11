@@ -1,17 +1,13 @@
 word,The Craft,Harry Potter and the Deathly Hallows Part One,total
-do,55,52,107
 dont,63,37,100
 know,57,39,96
 im,56,15,71
-just,44,21,65
 go,44,21,65
 think,30,28,58
 like,36,15,51
 come,30,20,50
 yeah,42,5,47
 want,34,9,43
-get,22,18,40
-did,22,18,40
 right,23,16,39
 youre,31,7,38
 oh,31,7,38
@@ -44,14 +40,11 @@ wait,16,3,19
 three,8,11,19
 little,14,5,19
 need,14,4,18
-got,8,10,18
 maybe,15,2,17
 head,12,5,17
 thought,9,7,16
 make,10,6,16
-let,8,8,16
 sure,7,8,15
-say,5,10,15
 lets,9,6,15
 find,3,12,15
 away,8,7,15
@@ -61,9 +54,7 @@ magic,8,6,14
 kill,6,8,14
 hear,8,6,14
 happened,7,7,14
-am,4,10,14
 understand,8,5,13
-said,6,7,13
 mad,1,12,13
 leave,5,8,13
 fine,8,5,13
@@ -81,7 +72,6 @@ looking,7,4,11
 keep,5,6,11
 help,5,6,11
 harm,10,1,11
-does,4,7,11
 boy,1,10,11
 two,1,9,10
 trying,6,4,10
@@ -178,7 +168,6 @@ today,3,2,5
 supposed,4,1,5
 sit,4,1,5
 school,4,1,5
-says,4,1,5
 reason,3,2,5
 ready,3,2,5
 open,2,3,5
@@ -456,7 +445,6 @@ funny,3,0,3
 flying,3,0,3
 east,3,0,3
 downs,3,0,3
-dear,3,0,3
 cry,3,0,3
 corners,3,0,3
 car,3,0,3
@@ -1071,7 +1059,6 @@ funny,0,3,3
 flying,0,3,3
 east,0,3,3
 downs,0,3,3
-dear,0,3,3
 cry,0,3,3
 corners,0,3,3
 car,0,3,3

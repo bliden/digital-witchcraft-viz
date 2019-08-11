@@ -1,17 +1,13 @@
 word,Harry Potter and the Sorcerers Stone,Pumpkinhead,total
 come,29,51,80
-get,25,49,74
-do,31,35,66
 go,36,28,64
 oh,39,23,62
-just,30,26,56
 back,41,11,52
 know,22,28,50
 im,27,22,49
 man,19,26,45
 help,10,32,42
 right,23,18,41
-got,26,15,41
 dont,21,20,41
 boy,23,16,39
 gonna,4,32,36
@@ -50,7 +46,6 @@ want,10,7,17
 sir,12,5,17
 name,15,2,17
 give,8,9,17
-did,7,10,17
 whoa,13,3,16
 thing,5,11,16
 make,15,1,16
@@ -59,7 +54,6 @@ family,13,3,16
 called,13,3,16
 wall,14,1,15
 tom,3,12,15
-said,7,8,15
 outside,13,2,15
 open,7,8,15
 old,6,9,15
@@ -79,7 +73,6 @@ mean,7,6,13
 keep,7,6,13
 bad,7,6,13
 time,9,3,12
-say,5,7,12
 really,8,4,12
 leave,10,2,12
 girl,10,2,12
@@ -106,7 +99,6 @@ real,4,5,9
 need,7,2,9
 mind,7,2,9
 lets,6,3,9
-let,3,6,9
 left,6,3,9
 ive,8,1,9
 gone,6,3,9
@@ -125,7 +117,6 @@ hello,7,1,8
 hell,5,3,8
 fine,3,5,8
 better,7,1,8
-am,7,1,8
 afternoon,6,2,8
 youve,6,1,7
 young,3,4,7
@@ -153,7 +144,6 @@ father,5,1,6
 em,3,3,6
 doors,5,1,6
 doesnt,4,2,6
-does,5,1,6
 call,2,4,6
 bring,2,4,6
 today,4,1,5
@@ -246,7 +236,6 @@ windows,1,1,2
 wheres,1,1,2
 weve,1,1,2
 wear,1,1,2
-wants,1,1,2
 unless,1,1,2
 um,1,1,2
 tired,1,1,2
@@ -507,7 +496,6 @@ extended,5,0,5
 dursleys,5,0,5
 doorway,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -827,7 +815,6 @@ seat,2,0,2
 screen,2,0,2
 screeches,2,0,2
 scatter,2,0,2
-says,2,0,2
 save,2,0,2
 rushing,2,0,2
 rushes,2,0,2
@@ -2305,7 +2292,6 @@ extended,0,5,5
 dursleys,0,5,5
 doorway,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5
@@ -2625,7 +2611,6 @@ seat,0,2,2
 screen,0,2,2
 screeches,0,2,2
 scatter,0,2,2
-says,0,2,2
 save,0,2,2
 rushing,0,2,2
 rushes,0,2,2

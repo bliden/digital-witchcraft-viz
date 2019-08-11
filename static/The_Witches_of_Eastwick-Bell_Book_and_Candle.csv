@@ -1,7 +1,5 @@
 word,The Witches of Eastwick,Bell Book and Candle,total
-do,76,86,162
 dont,69,92,161
-just,54,77,131
 im,40,91,131
 oh,19,111,130
 know,50,74,124
@@ -10,7 +8,6 @@ yes,29,57,86
 thats,36,44,80
 want,31,41,72
 think,28,40,68
-get,25,40,65
 right,22,40,62
 good,21,41,62
 youre,23,38,61
@@ -19,7 +16,6 @@ go,26,33,59
 cant,29,27,56
 come,29,26,55
 little,28,25,53
-did,12,39,51
 going,18,28,46
 ive,5,40,45
 uh,1,38,39
@@ -30,7 +26,6 @@ ill,5,30,35
 love,15,19,34
 look,19,15,34
 hes,11,23,34
-say,10,23,33
 take,15,17,32
 mean,5,27,32
 really,11,20,31
@@ -39,7 +34,6 @@ time,16,12,28
 shes,12,16,28
 sorry,10,17,27
 thank,10,16,26
-let,16,10,26
 id,3,23,26
 didnt,5,21,26
 whats,15,10,25
@@ -50,7 +44,6 @@ sure,8,16,24
 lets,17,7,24
 isnt,10,14,24
 huh,5,18,23
-got,5,18,23
 back,11,12,23
 stop,14,8,22
 wouldnt,3,18,21
@@ -62,7 +55,6 @@ doing,13,7,20
 people,6,13,19
 night,2,17,19
 feel,14,5,19
-does,11,8,19
 thought,4,14,18
 okay,16,2,18
 maybe,6,12,18
@@ -99,7 +91,6 @@ morning,5,9,14
 drink,2,12,14
 afraid,5,9,14
 used,2,11,13
-said,5,8,13
 remember,3,10,13
 house,8,5,13
 better,6,7,13
@@ -115,14 +106,12 @@ youve,4,7,11
 youd,1,10,11
 wrong,7,4,11
 talking,7,4,11
-says,7,4,11
 mrs,3,8,11
 listen,2,9,11
 give,5,6,11
 fine,6,5,11
 different,2,9,11
 anybody,6,5,11
-am,4,7,11
 wonderful,1,9,10
 use,5,5,10
 two,8,2,10
@@ -224,7 +213,6 @@ building,2,4,6
 bit,3,3,6
 best,2,4,6
 werent,1,4,5
-wants,3,2,5
 trouble,2,3,5
 started,2,3,5
 small,4,1,5

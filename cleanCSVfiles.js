@@ -1,3 +1,8 @@
+/*
+  generate a manifest of files to work on
+  and rename the center columns of those CSVs.
+  also strips stop words from the files.
+*/
 const fs = require("fs");
 const { promisify } = require("util");
 const flattenDeep = require("lodash/flattenDeep");
@@ -10,12 +15,11 @@ const readDir = promisify(fs.readdir);
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 
-let dirtyManifest;
+let dirtyManifest, stops;
 
 (async () => {
   await generateManifestToBeCleaned();
-  debugger;
-  // await renameHeaders(manifest);
+  await getStops();
   await each(dirtyManifest, filepath => renameHeaders(filepath));
 })();
 
@@ -37,6 +41,11 @@ async function generateManifestToBeCleaned() {
   dirtyManifest = dirs;
 }
 
+async function getStops() {
+  const stringStops = await readFile("./stopWordList.json");
+  stops = JSON.parse(stringStops);
+}
+
 async function renameHeaders(path) {
   const [primary, secondary] = parseFilename(path);
   const [primaryFileName, secondaryFileName] = [
@@ -48,7 +57,9 @@ async function renameHeaders(path) {
     `./static/${primaryFileName}-${secondaryFileName}.csv`
   );
   fs.createReadStream(path)
-    .pipe(fastCSV.parse({ headers, renameHeaders: true }))
+    .pipe(
+      fastCSV.parse({ headers, renameHeaders: true }).validate(stripStopWords)
+    )
     .pipe(fastCSV.format({ headers: true }))
     .pipe(writeStream);
 }
@@ -68,4 +79,15 @@ function parseFilename(dir) {
   const secondary = filename.join(" ");
   primary = primary.replace(/_/gi, " ");
   return [primary, secondary];
+}
+
+function stripStopWords(row, cb) {
+  const isValid = stops.indexOf(row.word) === -1;
+  // const index = stops.indexOf(row.word);
+  // debugger;
+  if (!isValid) {
+    console.log(row.word);
+    return cb(null, false, "key found in stop word list");
+  }
+  return cb(null, true);
 }

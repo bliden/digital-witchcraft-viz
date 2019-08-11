@@ -1,10 +1,7 @@
 word,The Blair Witch Project,Harry Potter and the Order of the Phoenix,total
 im,109,55,164
-just,85,50,135
 know,71,40,111
 dont,68,41,109
-get,78,30,108
-do,52,46,98
 like,66,29,95
 going,71,24,95
 back,59,23,82
@@ -15,7 +12,6 @@ go,45,20,65
 right,30,34,64
 come,33,30,63
 thats,35,25,60
-got,26,30,56
 oh,41,14,55
 really,27,21,48
 see,20,27,47
@@ -30,10 +26,8 @@ ahead,41,1,42
 way,32,8,40
 good,17,22,39
 ive,15,23,38
-did,16,20,36
 look,23,10,33
 tell,12,20,32
-say,19,13,32
 away,18,12,30
 whats,10,19,29
 time,10,19,29
@@ -64,11 +58,9 @@ keep,12,8,20
 give,12,8,20
 find,13,7,20
 doing,7,13,20
-am,12,8,20
 wanna,16,3,19
 turn,16,3,19
 thank,6,13,19
-said,8,11,19
 people,11,8,19
 old,14,5,19
 lost,16,3,19
@@ -84,10 +76,8 @@ point,12,4,16
 mean,7,9,16
 sounds,12,3,15
 light,14,1,15
-let,4,11,15
 leave,7,8,15
 believe,8,7,15
-says,8,6,14
 morning,9,5,14
 isnt,2,12,14
 house,10,4,14
@@ -157,7 +147,6 @@ head,8,1,9
 hard,5,4,9
 guess,7,2,9
 five,6,3,9
-does,4,5,9
 death,2,7,9
 dead,4,5,9
 days,6,3,9
@@ -168,7 +157,6 @@ anyway,1,8,9
 year,1,7,8
 work,5,3,8
 wont,1,7,8
-wants,2,6,8
 walk,7,1,8
 tree,7,1,8
 tomorrow,6,2,8
@@ -209,7 +197,6 @@ couldnt,1,6,7
 care,3,4,7
 call,5,2,7
 actually,3,4,7
-able,2,5,7
 wouldnt,2,4,6
 worse,1,5,6
 wet,5,1,6

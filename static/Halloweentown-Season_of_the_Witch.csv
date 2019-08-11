@@ -1,18 +1,14 @@
 word,Halloweentown,Season of the Witch,total
 know,66,23,89
 oh,83,5,88
-do,56,26,82
 like,64,15,79
-just,67,7,74
 im,60,14,74
 dont,54,15,69
 come,51,13,64
 go,47,16,63
-get,53,9,62
 see,39,12,51
 youre,32,17,49
 witch,19,25,44
-did,25,15,40
 thats,32,5,37
 right,33,2,35
 man,11,22,33
@@ -22,7 +18,6 @@ gonna,30,2,32
 thing,30,1,31
 mother,30,1,31
 look,27,3,30
-let,17,11,28
 way,13,14,27
 please,12,15,27
 cant,23,4,27
@@ -30,19 +25,15 @@ time,23,3,26
 help,21,5,26
 back,22,4,26
 mean,23,2,25
-dear,24,1,25
 shes,17,7,24
 good,23,1,24
 going,19,5,24
 think,19,4,23
 tell,10,13,23
 lets,21,2,23
-am,15,7,22
 world,20,1,21
 take,11,10,21
-said,14,7,21
 didnt,17,4,21
-say,10,10,20
 little,17,3,20
 ill,15,5,20
 two,13,6,19
@@ -79,7 +70,6 @@ name,1,11,12
 huh,10,2,12
 done,3,9,12
 doing,9,3,12
-does,11,1,12
 human,10,1,11
 evil,9,2,11
 men,1,9,10
@@ -149,7 +139,6 @@ town,4,2,6
 talking,5,1,6
 speak,1,5,6
 shell,5,1,6
-says,3,3,6
 return,4,2,6
 part,5,1,6
 isnt,5,1,6
@@ -170,7 +159,6 @@ anyway,5,1,6
 youd,3,2,5
 word,1,4,5
 watch,3,2,5
-wants,3,2,5
 tonight,4,1,5
 today,2,3,5
 tired,3,2,5
@@ -328,7 +316,6 @@ ages,1,1,2
 grandma,56,0,56
 marnie,36,0,36
 mom,31,0,31
-got,26,0,26
 ooh,25,0,25
 hey,25,0,25
 yeah,23,0,23
@@ -1359,11 +1346,9 @@ acid,1,0,1
 absolutely,1,0,1
 abracadabra,1,0,1
 abominable,1,0,1
-able,1,0,1
 grandma,0,56,56
 marnie,0,36,36
 mom,0,31,31
-got,0,26,26
 ooh,0,25,25
 hey,0,25,25
 yeah,0,23,23
@@ -2394,4 +2379,3 @@ acid,0,1,1
 absolutely,0,1,1
 abracadabra,0,1,1
 abominable,0,1,1
-able,0,1,1

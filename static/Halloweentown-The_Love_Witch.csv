@@ -3,12 +3,9 @@ oh,83,43,126
 like,64,54,118
 know,66,48,114
 im,60,53,113
-just,67,40,107
-do,56,43,99
 witch,19,71,90
 love,1,87,88
 dont,54,31,85
-get,53,21,74
 come,51,12,63
 go,47,14,61
 youre,32,27,59
@@ -18,7 +15,6 @@ thats,32,18,50
 yes,23,24,47
 really,17,28,45
 want,25,14,39
-got,26,13,39
 yeah,23,14,37
 thing,30,7,37
 think,19,17,36
@@ -27,7 +23,6 @@ way,13,21,34
 mother,30,4,34
 man,11,23,34
 look,27,7,34
-did,25,9,34
 good,23,10,33
 cant,23,10,33
 time,23,9,32
@@ -45,16 +40,13 @@ make,13,13,26
 magic,16,10,26
 life,10,16,26
 lets,21,5,26
-let,17,9,26
 help,21,5,26
-dear,24,2,26
 need,10,15,25
 give,13,12,25
 maybe,12,12,24
 world,20,3,23
 doesnt,16,7,23
 thought,8,14,22
-am,15,7,22
 two,13,8,21
 hes,10,11,21
 used,5,15,20
@@ -64,7 +56,6 @@ halloween,19,1,20
 youve,14,5,19
 thank,9,10,19
 sorry,10,9,19
-said,14,5,19
 home,16,3,19
 bet,18,1,19
 stop,15,3,18
@@ -74,7 +65,6 @@ hi,6,12,18
 uh,13,4,17
 things,8,9,17
 stuff,14,3,17
-say,10,7,17
 found,3,14,17
 bye,14,3,17
 thanks,13,3,16
@@ -90,7 +80,6 @@ made,5,10,15
 id,5,10,15
 house,10,5,15
 feel,3,12,15
-does,11,4,15
 course,7,8,15
 coming,12,3,15
 bad,11,4,15
@@ -181,7 +170,6 @@ thinking,3,4,7
 talk,6,1,7
 stay,5,2,7
 sick,2,5,7
-says,3,4,7
 remember,5,2,7
 perfect,2,5,7
 mm,6,1,7
@@ -221,7 +209,6 @@ anyway,5,1,6
 youll,1,4,5
 whoa,4,1,5
 watch,3,2,5
-wants,3,2,5
 trust,3,2,5
 told,2,3,5
 times,3,2,5
@@ -310,7 +297,6 @@ begin,1,3,4
 ancient,1,3,4
 ago,3,1,4
 afraid,3,1,4
-able,1,3,4
 wonderful,2,1,3
 wish,2,1,3
 went,1,2,3

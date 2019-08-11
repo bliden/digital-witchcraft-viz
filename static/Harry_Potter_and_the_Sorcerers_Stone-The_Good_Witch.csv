@@ -1,9 +1,7 @@
 word,Harry Potter and the Sorcerers Stone,The Good Witch,total
-do,31,68,99
 oh,39,58,97
 im,27,66,93
 dont,21,68,89
-just,30,51,81
 go,36,34,70
 know,22,47,69
 come,29,36,65
@@ -13,14 +11,11 @@ think,15,40,55
 see,31,23,54
 good,22,32,54
 youre,19,34,53
-get,25,28,53
 back,41,11,52
 thats,21,29,50
-got,26,23,49
 going,17,32,49
 looks,43,5,48
 want,10,35,45
-did,7,32,39
 yeah,1,33,34
 head,30,4,34
 little,7,26,33
@@ -90,7 +85,6 @@ whats,9,6,15
 sorry,8,7,15
 maybe,6,9,15
 long,5,10,15
-let,3,12,15
 ball,14,1,15
 whoa,13,1,14
 walking,12,2,14
@@ -115,7 +109,6 @@ ah,10,3,13
 three,10,2,12
 thing,5,7,12
 sign,3,9,12
-said,7,5,12
 running,7,5,12
 run,10,2,12
 mind,7,5,12
@@ -125,7 +118,6 @@ done,6,6,12
 course,8,4,12
 call,2,10,12
 bad,7,5,12
-am,7,5,12
 wont,5,6,11
 woman,7,4,11
 welcome,10,1,11
@@ -147,7 +139,6 @@ window,8,2,10
 try,6,4,10
 table,9,1,10
 sits,9,1,10
-say,5,5,10
 love,1,9,10
 lot,2,8,10
 lets,6,4,10
@@ -170,7 +161,6 @@ morning,3,6,9
 left,6,3,9
 hear,1,8,9
 full,4,5,9
-does,5,4,9
 book,1,8,9
 bell,1,8,9
 went,5,3,8
@@ -326,7 +316,6 @@ streets,2,2,4
 somebody,1,3,4
 sit,1,3,4
 serious,1,3,4
-says,2,2,4
 roof,3,1,4
 reason,1,3,4
 rd,2,2,4
@@ -381,7 +370,6 @@ win,2,1,3
 wheres,1,2,3
 weve,1,2,3
 wearing,2,1,3
-wants,1,2,3
 wanting,2,1,3
 waiting,2,1,3
 uniform,2,1,3
@@ -688,7 +676,6 @@ extended,5,0,5
 dursleys,5,0,5
 doorway,5,0,5
 diagon,5,0,5
-dear,5,0,5
 cup,5,0,5
 club,5,0,5
 castle,5,0,5
@@ -2259,7 +2246,6 @@ extended,0,5,5
 dursleys,0,5,5
 doorway,0,5,5
 diagon,0,5,5
-dear,0,5,5
 cup,0,5,5
 club,0,5,5
 castle,0,5,5

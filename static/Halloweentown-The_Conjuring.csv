@@ -1,8 +1,5 @@
 word,Halloweentown,The Conjuring,total
 oh,83,41,124
-get,53,58,111
-do,56,55,111
-just,67,33,100
 im,60,39,99
 know,66,31,97
 go,47,47,94
@@ -15,13 +12,11 @@ thats,32,28,60
 right,33,27,60
 youre,32,22,54
 look,27,25,52
-got,26,22,48
 gonna,30,18,48
 hey,25,22,47
 going,19,25,44
 want,25,16,41
 mom,31,10,41
-did,25,16,41
 back,22,16,38
 help,21,16,37
 yes,23,13,36
@@ -39,9 +34,7 @@ cant,23,8,31
 house,10,20,30
 really,17,12,29
 uh,13,15,28
-said,14,14,28
 didnt,17,11,28
-let,17,10,27
 stop,15,11,26
 ooh,25,1,26
 whats,8,17,25
@@ -54,7 +47,6 @@ world,20,2,22
 way,13,9,22
 put,14,8,22
 home,16,6,22
-am,15,7,22
 witch,19,2,21
 thank,9,12,21
 guys,8,12,20
@@ -87,11 +79,9 @@ happened,1,14,15
 family,5,10,15
 door,4,11,15
 doing,9,6,15
-does,11,4,15
 dad,3,12,15
 bye,14,1,15
 sorry,10,4,14
-say,10,4,14
 sadie,1,13,14
 gotta,9,5,14
 father,4,10,14
@@ -165,7 +155,6 @@ away,5,3,8
 ya,6,1,7
 work,5,2,7
 wheres,2,5,7
-wants,3,4,7
 wanted,3,4,7
 vampires,6,1,7
 three,3,4,7
@@ -432,10 +421,8 @@ box,1,1,2
 boo,1,1,2
 body,1,1,2
 arent,1,1,2
-able,1,1,2
 grandma,56,0,56
 marnie,36,0,36
-dear,24,0,24
 sophie,20,0,20
 bus,20,0,20
 halloween,19,0,19
@@ -534,7 +521,6 @@ simple,3,0,3
 shadow,3,0,3
 screeching,3,0,3
 screams,3,0,3
-says,3,0,3
 roots,3,0,3
 ringing,3,0,3
 plus,3,0,3
@@ -1362,7 +1348,6 @@ abracadabra,1,0,1
 abominable,1,0,1
 grandma,0,56,56
 marnie,0,36,36
-dear,0,24,24
 sophie,0,20,20
 bus,0,20,20
 halloween,0,19,19
@@ -1461,7 +1446,6 @@ simple,0,3,3
 shadow,0,3,3
 screeching,0,3,3
 screams,0,3,3
-says,0,3,3
 roots,0,3,3
 ringing,0,3,3
 plus,0,3,3

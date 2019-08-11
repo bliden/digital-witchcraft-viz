@@ -1,10 +1,7 @@
 word,The Blair Witch Project,The Crucible,total
 im,109,20,129
-do,52,71,123
 know,71,42,113
 man,64,41,105
-just,85,1,86
-get,78,8,86
 come,33,53,86
 go,45,39,84
 like,66,16,82
@@ -18,8 +15,6 @@ good,17,47,64
 think,31,24,55
 see,20,32,52
 devil,1,50,51
-did,16,34,50
-say,19,30,49
 tell,12,36,48
 thats,35,11,46
 look,23,22,45
@@ -28,7 +23,6 @@ ahead,41,1,42
 please,33,8,41
 mary,10,31,41
 lets,40,1,41
-am,12,29,41
 want,24,15,39
 way,32,5,37
 give,12,25,37
@@ -36,10 +30,8 @@ woman,20,15,35
 witch,19,14,33
 stop,17,16,33
 right,30,3,33
-let,4,29,33
 ill,8,24,32
 name,2,29,31
-got,26,5,31
 help,15,15,30
 hear,16,13,29
 saw,2,26,28
@@ -64,7 +56,6 @@ life,3,17,20
 find,13,7,20
 believe,8,12,20
 two,13,6,19
-said,8,11,19
 love,3,16,19
 lost,16,3,19
 looking,18,1,19
@@ -102,7 +93,6 @@ work,5,9,14
 whats,10,4,14
 wake,1,13,14
 three,10,4,14
-says,8,6,14
 made,3,11,14
 jesus,11,3,14
 hope,5,9,14
@@ -152,7 +142,6 @@ hand,4,5,9
 gone,2,7,9
 end,4,5,9
 doing,7,2,9
-does,4,5,9
 close,7,2,9
 black,1,8,9
 year,1,7,8
@@ -259,7 +248,6 @@ worth,3,1,4
 white,2,2,4
 whispering,1,3,4
 welcome,2,2,4
-wants,2,2,4
 walked,3,1,4
 times,2,2,4
 thee,1,3,4
@@ -853,7 +841,6 @@ arms,2,0,2
 appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1901,7 +1888,6 @@ arms,0,2,2
 appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

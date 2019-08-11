@@ -2,12 +2,9 @@ word,Snow White and the Seven Dwarves,Blair Witch Project,total
 im,25,109,134
 cuts,1,113,114
 dont,35,68,103
-get,24,78,102
-just,11,85,96
 white,86,2,88
 oh,47,41,88
 know,17,71,88
-do,36,52,88
 ah,80,5,85
 go,39,45,84
 like,16,66,82
@@ -29,7 +26,6 @@ laughing,21,13,34
 away,16,18,34
 think,2,31,33
 see,13,20,33
-got,7,26,33
 day,13,17,30
 really,2,27,29
 night,5,24,29
@@ -39,8 +35,6 @@ want,2,24,26
 old,12,14,26
 cant,11,15,26
 stop,6,17,23
-say,4,19,23
-let,19,4,23
 find,10,13,23
 youre,12,10,22
 work,17,5,22
@@ -50,7 +44,6 @@ woods,2,19,21
 men,14,7,21
 love,18,3,21
 ill,13,8,21
-did,5,16,21
 cackling,19,2,21
 witch,1,19,20
 shes,13,7,20
@@ -84,7 +77,6 @@ true,12,2,14
 put,1,13,14
 keep,2,12,14
 give,2,12,14
-am,2,12,14
 time,3,10,13
 sure,6,7,13
 mean,6,7,13
@@ -109,7 +101,6 @@ water,6,4,10
 various,8,2,10
 tree,3,7,10
 seven,7,3,10
-said,2,8,10
 run,7,3,10
 maybe,5,5,10
 long,1,9,10
@@ -120,7 +111,6 @@ youll,8,1,9
 stay,3,6,9
 sing,7,2,9
 screaming,8,1,9
-says,1,8,9
 ready,1,8,9
 mirror,7,2,9
 knew,1,8,9
@@ -383,7 +373,6 @@ mine,5,0,5
 mighty,5,0,5
 hide,5,0,5
 em,5,0,5
-dear,5,0,5
 comfortable,5,0,5
 buzzing,5,0,5
 washed,4,0,4
@@ -562,7 +551,6 @@ tried,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -949,7 +937,6 @@ mine,0,5,5
 mighty,0,5,5
 hide,0,5,5
 em,0,5,5
-dear,0,5,5
 comfortable,0,5,5
 buzzing,0,5,5
 washed,0,4,4
@@ -1128,7 +1115,6 @@ tried,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

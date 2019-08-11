@@ -2,18 +2,14 @@ word,Harry Potter and the Sorcerers Stone,Hocus Pocus,total
 oh,39,73,112
 come,29,83,112
 go,36,47,83
-get,25,49,74
 im,27,44,71
 dont,21,50,71
-just,30,40,70
-do,31,26,57
 back,41,13,54
 right,23,29,52
 see,31,20,51
 know,22,25,47
 hey,10,37,47
 good,22,24,46
-got,26,19,45
 youre,19,25,44
 yes,12,30,42
 little,7,34,41
@@ -35,7 +31,6 @@ dead,3,27,30
 broom,22,6,28
 whoa,13,14,27
 think,15,12,27
-say,5,22,27
 okay,3,24,27
 lets,6,21,27
 ah,10,17,27
@@ -51,7 +46,6 @@ ive,8,16,24
 hes,13,11,24
 door,23,1,24
 comes,22,2,24
-let,3,20,23
 cant,10,13,23
 away,15,8,23
 please,13,9,22
@@ -97,7 +91,6 @@ hmm,4,11,15
 halloween,1,14,15
 girl,10,5,15
 gets,14,1,15
-did,7,8,15
 class,14,1,15
 black,2,13,15
 people,11,3,14
@@ -112,7 +105,6 @@ wake,5,8,13
 thing,5,8,13
 sir,12,1,13
 shall,1,12,13
-said,7,6,13
 ooh,2,11,13
 move,6,7,13
 magic,7,6,13
@@ -120,7 +112,6 @@ listen,2,11,13
 leave,10,3,13
 ground,9,4,13
 didnt,10,3,13
-am,7,6,13
 welcome,10,2,12
 thank,4,8,12
 room,11,1,12
@@ -220,7 +211,6 @@ full,4,3,7
 end,4,3,7
 doesnt,4,3,7
 ding,2,5,7
-dear,5,2,7
 damn,1,6,7
 cauldron,4,3,7
 bunch,2,5,7
@@ -253,7 +243,6 @@ found,3,3,6
 feel,2,4,6
 far,3,3,6
 eye,5,1,6
-does,5,1,6
 darling,1,5,6
 coming,2,4,6
 cause,1,5,6
@@ -325,7 +314,6 @@ spells,2,2,4
 speak,2,2,4
 smile,3,1,4
 smash,1,3,4
-says,2,2,4
 read,3,1,4
 rat,2,2,4
 quiet,3,1,4
@@ -1172,7 +1160,6 @@ weak,1,0,1
 waving,1,0,1
 wave,1,0,1
 watching,1,0,1
-wants,1,0,1
 walnut,1,0,1
 wakes,1,0,1
 waistcoat,1,0,1
@@ -2756,7 +2743,6 @@ weak,0,1,1
 waving,0,1,1
 wave,0,1,1
 watching,0,1,1
-wants,0,1,1
 walnut,0,1,1
 wakes,0,1,1
 waistcoat,0,1,1

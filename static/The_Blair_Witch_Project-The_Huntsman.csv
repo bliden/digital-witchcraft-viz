@@ -1,11 +1,8 @@
 word,The Blair Witch Project,The Huntsman,total
 im,109,39,148
 cuts,113,1,114
-just,85,18,103
-do,52,51,103
 know,71,31,102
 dont,68,30,98
-get,78,14,92
 like,66,24,90
 okay,77,1,78
 man,64,14,78
@@ -21,15 +18,12 @@ think,31,14,45
 see,20,24,44
 youre,10,33,43
 lets,40,1,41
-did,16,24,40
-got,26,12,38
 way,32,5,37
 look,23,14,37
 please,33,2,35
 mirror,2,33,35
 love,3,29,32
 want,24,7,31
-say,19,12,31
 find,13,16,29
 really,27,1,28
 day,17,10,27
@@ -70,7 +64,6 @@ cut,18,1,19
 weve,15,3,18
 laughs,13,5,18
 face,9,9,18
-am,12,6,18
 wanna,16,1,17
 three,10,7,17
 long,9,8,17
@@ -92,12 +85,10 @@ bit,5,10,15
 wait,7,7,14
 scared,13,1,14
 rock,13,1,14
-let,4,10,14
 dead,4,10,14
 children,1,13,14
 sounds,12,1,13
 side,4,9,13
-said,8,5,13
 point,12,1,13
 move,3,10,13
 heard,12,1,13
@@ -170,7 +161,6 @@ hair,7,1,8
 guess,7,1,8
 gave,6,2,8
 done,5,3,8
-does,4,4,8
 deer,6,2,8
 days,6,2,8
 darkness,7,1,8
@@ -462,7 +452,6 @@ pack,9,0,9
 happy,9,0,9
 cause,9,0,9
 seriously,8,0,8
-says,8,0,8
 points,8,0,8
 mikes,8,0,8
 kinda,8,0,8
@@ -645,7 +634,6 @@ witches,2,0,2
 witchcraft,2,0,2
 whisper,2,0,2
 whatd,2,0,2
-wants,2,0,2
 wandered,2,0,2
 various,2,0,2
 using,2,0,2
@@ -821,7 +809,6 @@ appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
 absolutely,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1514,7 +1501,6 @@ pack,0,9,9
 happy,0,9,9
 cause,0,9,9
 seriously,0,8,8
-says,0,8,8
 points,0,8,8
 mikes,0,8,8
 kinda,0,8,8
@@ -1697,7 +1683,6 @@ witches,0,2,2
 witchcraft,0,2,2
 whisper,0,2,2
 whatd,0,2,2
-wants,0,2,2
 wandered,0,2,2
 various,0,2,2
 using,0,2,2
@@ -1873,7 +1858,6 @@ appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
 absolutely,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

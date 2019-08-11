@@ -1,16 +1,13 @@
 word,Snow White and the Seven Dwarves,The Craft,total
 dont,35,63,98
-do,36,55,91
 white,86,3,89
 go,39,44,83
 im,25,56,81
 oh,47,31,78
 know,17,57,74
-just,11,44,55
 like,16,36,52
 come,18,30,48
 yeah,4,42,46
-get,24,22,46
 look,18,27,45
 youre,12,31,43
 good,18,23,41
@@ -32,8 +29,6 @@ really,2,26,28
 sorry,2,25,27
 please,7,20,27
 little,13,14,27
-let,19,8,27
-did,5,22,27
 going,3,22,25
 away,16,8,24
 wait,7,16,23
@@ -56,7 +51,6 @@ theyre,4,11,15
 tell,6,9,15
 need,1,14,15
 la,14,1,15
-got,7,8,15
 way,3,11,14
 old,12,2,14
 magic,6,8,14
@@ -89,7 +83,6 @@ understand,1,8,9
 three,1,8,9
 things,3,6,9
 stay,3,6,9
-say,4,5,9
 ive,4,5,9
 house,6,3,9
 hey,8,1,9
@@ -99,7 +92,6 @@ wish,7,1,8
 today,5,3,8
 time,3,5,8
 shell,7,1,8
-said,2,6,8
 room,5,3,8
 place,4,4,8
 pay,1,7,8
@@ -109,7 +101,6 @@ life,2,6,8
 happened,1,7,8
 give,2,6,8
 doesnt,2,6,8
-dear,5,3,8
 dead,3,5,8
 call,2,6,8
 aint,6,2,8
@@ -152,12 +143,10 @@ gone,3,3,6
 drink,2,4,6
 cause,1,5,6
 black,3,3,6
-am,2,4,6
 use,2,3,5
 stuff,1,4,5
 story,4,1,5
 soon,4,1,5
-says,1,4,5
 remember,2,3,5
 perfect,1,4,5
 makes,1,4,5
@@ -554,7 +543,6 @@ trouble,1,0,1
 tricked,1,0,1
 trapped,1,0,1
 transform,1,0,1
-tis,1,0,1
 tight,1,0,1
 tie,1,0,1
 ticking,1,0,1
@@ -1148,7 +1136,6 @@ trouble,0,1,1
 tricked,0,1,1
 trapped,0,1,1
 transform,0,1,1
-tis,0,1,1
 tight,0,1,1
 tie,0,1,1
 ticking,0,1,1

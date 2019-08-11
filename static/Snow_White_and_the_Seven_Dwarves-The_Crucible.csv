@@ -1,5 +1,4 @@
 word,Snow White and the Seven Dwarves,The Crucible,total
-do,36,71,107
 white,86,2,88
 ah,80,5,85
 oh,47,37,84
@@ -7,7 +6,6 @@ go,39,39,78
 come,18,53,71
 good,18,47,65
 know,17,42,59
-let,19,29,48
 dont,35,13,48
 see,13,32,45
 im,25,20,45
@@ -15,15 +13,11 @@ tell,6,36,42
 look,18,22,40
 uh,38,1,39
 dig,38,1,39
-did,5,34,39
 ill,13,24,37
-say,4,30,34
 love,18,16,34
 happy,32,1,33
 yes,28,4,32
 like,16,16,32
-get,24,8,32
-am,2,29,31
 name,1,29,30
 take,11,17,28
 singing,26,1,27
@@ -73,9 +67,7 @@ mean,6,8,14
 ive,4,10,14
 fear,1,13,14
 door,12,2,14
-dear,5,9,14
 shh,9,4,13
-said,2,11,13
 right,10,3,13
 made,2,11,13
 kill,7,6,13
@@ -86,10 +78,8 @@ run,7,5,12
 put,1,11,12
 mama,2,10,12
 knew,1,11,12
-just,11,1,12
 hell,3,9,12
 hands,4,8,12
-got,7,5,12
 girls,1,11,12
 wait,7,4,11
 keep,2,9,11
@@ -137,7 +127,6 @@ bite,7,1,8
 water,6,1,7
 theyve,3,4,7
 send,1,6,7
-says,1,6,7
 room,5,2,7
 mine,5,2,7
 land,3,4,7
@@ -198,7 +187,6 @@ women,2,2,4
 wicked,3,1,4
 whispering,1,3,4
 touch,1,3,4
-tis,1,3,4
 throat,1,3,4
 sweet,1,3,4
 stay,3,1,4

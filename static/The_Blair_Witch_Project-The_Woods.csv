@@ -1,14 +1,11 @@
 word,The Blair Witch Project,The Woods,total
 heather,525,54,579
 im,109,23,132
-just,85,26,111
-get,78,22,100
 fucking,95,1,96
 dont,68,25,93
 know,71,15,86
 like,66,18,84
 okay,77,5,82
-do,52,30,82
 going,71,10,81
 back,59,15,74
 go,45,24,69
@@ -25,13 +22,11 @@ please,33,5,38
 yeah,33,3,36
 good,17,19,36
 miss,1,34,35
-got,26,8,34
 really,27,6,33
 youre,10,22,32
 woods,19,10,29
 want,24,5,29
 see,20,8,28
-say,19,9,28
 stop,17,10,27
 look,23,4,27
 cant,15,12,27
@@ -41,7 +36,6 @@ car,21,3,24
 god,22,1,23
 help,15,7,22
 hear,16,6,22
-did,16,6,22
 away,18,4,22
 woman,20,1,21
 witch,19,2,21
@@ -56,7 +50,6 @@ didnt,14,7,21
 day,17,4,21
 tell,12,8,20
 weve,15,4,19
-am,12,7,19
 mom,6,12,18
 happened,12,6,18
 find,13,5,18
@@ -80,7 +73,6 @@ home,10,5,15
 gotta,14,1,15
 went,8,6,14
 need,10,4,14
-let,4,10,14
 take,7,6,13
 point,12,1,13
 keep,12,1,13
@@ -106,7 +98,6 @@ told,2,8,10
 things,3,7,10
 sure,7,3,10
 stuff,7,3,10
-said,8,2,10
 place,7,3,10
 mean,7,3,10
 cause,9,1,10
@@ -114,7 +105,6 @@ walking,8,1,9
 walk,7,2,9
 understand,5,4,9
 seriously,8,1,9
-says,8,1,9
 leave,7,2,9
 later,5,4,9
 knew,8,1,9
@@ -157,7 +147,6 @@ leaving,5,2,7
 hope,5,2,7
 gave,6,1,7
 free,1,6,7
-does,4,3,7
 crazy,5,2,7
 blood,2,5,7
 anymore,5,2,7
@@ -607,7 +596,6 @@ white,2,0,2
 whisper,2,0,2
 whatd,2,0,2
 west,2,0,2
-wants,2,0,2
 wandered,2,0,2
 walls,2,0,2
 wall,2,0,2
@@ -797,7 +785,6 @@ arms,2,0,2
 appears,2,0,2
 ahh,2,0,2
 admit,2,0,2
-able,2,0,2
 zoom,1,0,1
 yup,1,0,1
 yep,1,0,1
@@ -1732,7 +1719,6 @@ white,0,2,2
 whisper,0,2,2
 whatd,0,2,2
 west,0,2,2
-wants,0,2,2
 wandered,0,2,2
 walls,0,2,2
 wall,0,2,2
@@ -1922,7 +1908,6 @@ arms,0,2,2
 appears,0,2,2
 ahh,0,2,2
 admit,0,2,2
-able,0,2,2
 zoom,0,1,1
 yup,0,1,1
 yep,0,1,1

@@ -1,5 +1,4 @@
 word,Harry Potter and the Sorcerers Stone,The Devils,total
-do,31,37,68
 father,5,62,67
 oh,39,22,61
 see,31,25,56
@@ -14,9 +13,7 @@ yes,12,28,40
 know,22,18,40
 im,27,11,38
 love,1,35,36
-just,30,4,34
 head,30,2,32
-get,25,6,31
 thats,21,9,30
 take,12,18,30
 like,18,12,30
@@ -25,13 +22,11 @@ think,15,14,29
 right,23,6,29
 tell,12,16,28
 name,15,13,28
-got,26,2,28
 youre,19,8,27
 mr,21,6,27
 look,17,9,26
 away,15,11,26
 comes,22,3,25
-am,7,18,25
 two,18,6,24
 sister,1,23,24
 day,17,7,24
@@ -59,7 +54,6 @@ course,8,10,18
 hands,16,1,17
 hand,15,2,17
 done,6,11,17
-did,7,10,17
 thing,5,11,16
 put,9,7,16
 new,6,10,16
@@ -82,7 +76,6 @@ appears,12,2,14
 woman,7,6,13
 takes,12,1,13
 room,11,2,13
-dear,5,8,13
 youve,6,6,12
 years,9,3,12
 walk,11,1,12
@@ -91,7 +84,6 @@ three,10,2,12
 pain,2,10,12
 night,6,6,12
 morning,3,9,12
-let,3,9,12
 holy,1,11,12
 gone,6,6,12
 eyes,7,5,12
@@ -103,7 +95,6 @@ youll,6,5,11
 wish,3,8,11
 whats,9,2,11
 welcome,10,1,11
-say,5,6,11
 mind,7,4,11
 life,3,8,11
 left,6,5,11
@@ -145,7 +136,6 @@ immediately,8,1,9
 front,7,2,9
 follow,8,1,9
 excuse,8,1,9
-does,5,4,9
 dark,8,1,9
 attention,8,1,9
 ask,2,7,9
@@ -155,7 +145,6 @@ thought,3,5,8
 stone,5,3,8
 start,6,2,8
 soul,1,7,8
-said,7,1,8
 reveal,7,1,8
 old,6,2,8
 nose,7,1,8
@@ -277,7 +266,6 @@ shoulder,3,1,4
 short,3,1,4
 set,1,3,4
 seeing,3,1,4
-says,2,2,4
 roof,3,1,4
 read,3,1,4
 quite,2,2,4
@@ -413,7 +401,6 @@ wishes,1,1,2
 wheres,1,1,2
 wed,1,1,2
 watching,1,1,2
-wants,1,1,2
 upstairs,1,1,2
 travelling,1,1,2
 trap,1,1,2

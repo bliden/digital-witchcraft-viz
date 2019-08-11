@@ -1,19 +1,15 @@
 word,Harry Potter and the Sorcerers Stone,Witchfinder General,total
 sir,12,56,68
-do,31,36,67
 oh,39,26,65
 come,29,26,55
 back,41,12,53
 go,36,16,52
-get,25,25,50
 man,19,30,49
 see,31,15,46
 know,22,24,46
 im,27,19,46
 good,22,22,44
 right,23,17,40
-just,30,10,40
-got,26,13,39
 yes,12,25,37
 youre,19,17,36
 hes,13,22,35
@@ -45,7 +41,6 @@ great,16,3,19
 day,17,2,19
 work,6,12,18
 hand,15,3,18
-did,7,11,18
 shall,1,16,17
 please,13,4,17
 old,6,11,17
@@ -69,7 +64,6 @@ need,7,7,14
 keep,7,7,14
 girl,10,4,14
 captain,1,13,14
-am,7,7,14
 theyre,6,7,13
 theres,9,4,13
 room,11,2,13
@@ -82,8 +76,6 @@ youve,6,6,12
 yeah,1,11,12
 welcome,10,2,12
 walk,11,1,12
-say,5,7,12
-said,7,5,12
 run,10,2,12
 people,11,1,12
 hey,10,2,12
@@ -132,7 +124,6 @@ isnt,6,2,8
 hello,7,1,8
 food,3,5,8
 fire,6,2,8
-dear,5,3,8
 crowd,7,1,8
 business,4,4,8
 best,6,2,8
@@ -149,10 +140,8 @@ new,6,1,7
 maybe,6,1,7
 mark,2,5,7
 lets,6,1,7
-let,3,4,7
 kings,1,6,7
 hear,1,6,7
-does,5,2,7
 castle,5,2,7
 call,2,5,7
 ask,2,5,7
@@ -194,7 +183,6 @@ stay,3,2,5
 stand,3,2,5
 small,4,1,5
 slowly,4,1,5
-says,2,3,5
 saying,3,2,5
 saw,1,4,5
 reckon,1,4,5
@@ -1121,7 +1109,6 @@ waving,1,0,1
 wave,1,0,1
 watching,1,0,1
 warning,1,0,1
-wants,1,0,1
 walnut,1,0,1
 wakes,1,0,1
 waistcoat,1,0,1
@@ -2842,7 +2829,6 @@ waving,0,1,1
 wave,0,1,1
 watching,0,1,1
 warning,0,1,1
-wants,0,1,1
 walnut,0,1,1
 wakes,0,1,1
 waistcoat,0,1,1
