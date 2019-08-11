@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  /* overflow: hidden; */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.tick text {
+  font-size: 1.5em;
+  fill: #635f5d;
+}
+
+.tick line {
+  stroke: #c0c0bb;
+}
+
+.axis-label {
+  font-size: 2.5em;
+  fill: #8e8883;
+}
+
+.title {
+  font-size: 1rem;
+  fill: #635f5d;
+}
