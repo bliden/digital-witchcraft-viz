@@ -17,11 +17,11 @@ const writeFile = promisify(fs.writeFile);
 
 let dirtyManifest, stops;
 
-(async () => {
+async function main() {
   await generateManifestToBeCleaned();
   await getStops();
   await each(dirtyManifest, filepath => renameHeaders(filepath));
-})();
+}
 
 async function generateManifestToBeCleaned() {
   const rootDirs = await readDir(BASE_DIR);
@@ -91,3 +91,5 @@ function stripStopWords(row, cb) {
   }
   return cb(null, true);
 }
+
+main();
